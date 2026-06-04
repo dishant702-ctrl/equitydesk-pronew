@@ -1031,9 +1031,6 @@ function tick(){
   document.getElementById('clock').textContent=ts;
   document.getElementById('footer-ts').textContent='Updated '+ts;
 }
-var n50s=['24,611.20','24,624.85','24,618.40','24,631.00','24,609.55'];
-var ni=0;
-setInterval(function(){ni=(ni+1)%n50s.length;document.getElementById('n50v').textContent=n50s[ni];},2600);
 setInterval(tick,1000);
 
 // ──── INIT ────────────────────────────────────────────────────────────────────
