@@ -291,12 +291,12 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   </div>
   <div class="indices">
     <div class="idx"><div><span class="idx-label">Nifty 50</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n50v">24,611.20</span><span class="idx-chg c-up">▲ +0.54%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Nifty 500</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">14,823.45</span><span class="idx-chg c-up">▲ +0.72%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Bank Nifty</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">53,286.10</span><span class="idx-chg c-up">▲ +0.38%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">India VIX</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">12.84</span><span class="idx-chg c-dn">▼ −0.63%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">USD/INR</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">83.47</span><span class="idx-chg c-dn">▼ −0.12</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">10Y G-Sec</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">7.08%</span><span class="idx-chg c-dn">▼ −2bp</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Brent</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val">$81.24</span><span class="idx-chg c-up">▲ +0.84%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Nifty 500</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n500v">14,823.45</span><span class="idx-chg c-up">▲ +0.72%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Bank Nifty</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="bnkv">53,286.10</span><span class="idx-chg c-up">▲ +0.38%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">India VIX</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="vixv">12.84</span><span class="idx-chg c-dn">▼ −0.63%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">USD/INR</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="usdinrv">83.47</span><span class="idx-chg c-dn">▼ −0.12</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">10Y G-Sec</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="gsecv">7.08%</span><span class="idx-chg c-dn">▼ −2bp</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Brent</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="brentv">$81.24</span><span class="idx-chg c-up">▲ +0.84%</span></div></div></div>
   </div>
   <div class="mh-right">
     <div class="live-badge"><div class="live-dot"></div>Live</div>
@@ -1031,7 +1031,7 @@ function tick(){
   document.getElementById('clock').textContent=ts;
   document.getElementById('footer-ts').textContent='Updated '+ts;
 }
-// Ticker removed — live data from prices.json
+// Static ticker removed
 setInterval(tick,1000);
 
 // ──── INIT ────────────────────────────────────────────────────────────────────
@@ -1044,21 +1044,46 @@ renderPortfolio(); tick();
 // ──── LIVE DATA LOADER ────────────────────────────────────────────────────────
 async function loadLiveData() {
   try {
+    var ts = '?t=' + Date.now();
     var [pRes, iRes] = await Promise.all([
-      fetch('data/prices.json?t=' + Date.now()),
-      fetch('data/indices.json?t=' + Date.now())
+      fetch('data/prices.json' + ts),
+      fetch('data/indices.json' + ts)
     ]);
-    if (!pRes.ok || !iRes.ok) { console.log('Data files not ready yet'); return; }
+    if (!pRes.ok || !iRes.ok) { console.log('Data files not ready'); return; }
     var pData = await pRes.json();
     var iData = await iRes.json();
 
-    // Update masthead index prices
+    // ── Update all masthead indices ──
     var idx = iData.indices || {};
-    if (idx.NIFTY50 && idx.NIFTY50.price) {
-      document.getElementById('n50v').textContent = idx.NIFTY50.price.toLocaleString('en-IN');
+
+    function updateIdx(id, data, prefix, suffix, invert) {
+      if (!data || !data.price) return;
+      var el = document.getElementById(id);
+      if (!el) return;
+      el.textContent = prefix + data.price.toLocaleString('en-IN') + suffix;
     }
 
-    // Update live prices and re-render tables
+    function updateChg(id, data, invert) {
+      if (!data || data.change_pct === undefined) return;
+      var c = data.change_pct;
+      var up = invert ? c < 0 : c >= 0;
+      var sign = c >= 0 ? '+' : '';
+      var arrow = up ? '▲' : '▼';
+      var el = document.getElementById(id);
+      if (!el) return;
+      el.textContent = arrow + ' ' + sign + c.toFixed(2) + '%';
+      el.className = 'idx-chg ' + (up ? 'c-up' : 'c-dn');
+    }
+
+    if (idx.NIFTY50)   { updateIdx('n50v',    idx.NIFTY50,   '', '',  false); updateChg('n50c',    idx.NIFTY50,   false); }
+    if (idx.NIFTY500)  { updateIdx('n500v',   idx.NIFTY500,  '', '',  false); }
+    if (idx.BANKNIFTY) { updateIdx('bnkv',    idx.BANKNIFTY, '', '',  false); }
+    if (idx.INDIAVIX)  { updateIdx('vixv',    idx.INDIAVIX,  '', '',  true);  }
+    if (idx.USDINR)    { updateIdx('usdinrv', idx.USDINR,    '', '',  false); }
+    if (idx.GSEC10Y)   { updateIdx('gsecv',   idx.GSEC10Y,   '', '%', false); }
+    if (idx.BRENT)     { updateIdx('brentv',  idx.BRENT,     '$', '', false); }
+
+    // ── Update live stock prices ──
     var px = pData.prices || {};
     var changed = false;
     Object.keys(px).forEach(function(sym) {
@@ -1069,16 +1094,22 @@ async function loadLiveData() {
         changed = true;
       }
     });
+
     if (changed) {
       renderEarnings();
       renderPortfolio();
     }
+
+    // Update footer timestamp
+    var footer = document.getElementById('footer-ts');
+    if (footer) footer.textContent = 'Live data: ' + (pData.updated_ist || 'Updated');
+
     console.log('✅ Live data loaded:', pData.updated_ist || 'OK');
   } catch(e) {
-    console.warn('Live data not available — using demo data:', e.message);
+    console.warn('Live data fetch failed — using demo data:', e.message);
   }
 }
-// Load on start, refresh every 5 minutes
+// Load immediately on page open, then refresh every 5 minutes
 loadLiveData();
 setInterval(loadLiveData, 5 * 60 * 1000);
 </script>
