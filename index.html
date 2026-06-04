@@ -269,6 +269,14 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 ::-webkit-scrollbar-track{background:transparent}
 ::-webkit-scrollbar-thumb{background:var(--s4);border-radius:4px}
 ::-webkit-scrollbar-thumb:hover{background:var(--navy-400)}
+.news-item{padding:14px 18px;border-bottom:1px solid var(--b1);transition:background 0.15s;cursor:pointer}
+.news-item:hover{background:var(--s2)}
+.news-item:last-child{border-bottom:none}
+.news-title{font-size:13px;font-weight:600;color:var(--t1);line-height:1.4;margin-bottom:5px}
+.news-meta{display:flex;align-items:center;gap:10px;font-size:11px;color:var(--t4)}
+.news-source{font-weight:600;color:var(--navy-200)}
+.news-desc{font-size:12px;color:var(--t3);margin-top:5px;line-height:1.5}
+.news-tag{font-size:9px;font-weight:700;padding:2px 7px;border-radius:3px;background:var(--up-bg);color:var(--up);border:1px solid rgba(34,200,120,0.2)}
 
 /* FOOTER */
 .footer{background:var(--navy-900);border-top:1px solid var(--b2);padding:8px 28px;display:flex;align-items:center;gap:16px;font-size:10px;color:var(--t4);font-weight:500;letter-spacing:0.3px;margin-top:28px;position:relative;z-index:1}
@@ -330,6 +338,10 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
   <div class="nav-item" onclick="goTab('portfolio',this)">
     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>
     My Portfolio <span class="nav-badge alert">3</span>
+  </div>
+  <div class="nav-item" onclick="goTab('news',this)">
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 0-2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8M15 18h-5M10 6h8v4h-8V6z"/></svg>
+    Live News <span class="nav-badge earn" id="news-count">0</span>
   </div>
 </nav>
 
@@ -496,6 +508,24 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
         <div class="card-head"><div class="card-title">Sector Exposure</div><div class="card-meta">by market value</div></div>
         <div style="padding:16px 18px" id="pf-sectors"></div>
       </div>
+    </div>
+  </div>
+</section>
+
+<!-- NEWS TAB -->
+<section class="panel" id="tab-news">
+  <div class="sect-head">
+    <div><div class="sect-title">Live Market News</div><div class="gold-line"></div><div class="sect-sub">Economic Times · Moneycontrol · Business Standard · Mint · Auto-refreshed every 15 min</div></div>
+    <div style="font-family:var(--mono);font-size:11px;color:var(--t4)" id="news-updated">Loading...</div>
+  </div>
+  <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px">
+    <div class="card">
+      <div class="card-head"><div class="card-title">📌 Portfolio Stock News</div><div class="card-meta">Your holdings only</div></div>
+      <div id="news-portfolio" style="max-height:600px;overflow-y:auto"></div>
+    </div>
+    <div class="card">
+      <div class="card-head"><div class="card-title">📰 All Market News</div><div class="card-meta">Nifty 500 universe</div></div>
+      <div id="news-all" style="max-height:600px;overflow-y:auto"></div>
     </div>
   </div>
 </section>
@@ -1317,6 +1347,16 @@ startRealTimeEngine();
 // Runs on load + every 15 minutes
 // ══════════════════════════════════════════════════════════════════
 
+function renderNewsItem(n) {
+  return '<div class="news-item" onclick="window.open('' + n.link + '','_blank')">' +
+    '<div class="news-title">' + n.title + '</div>' +
+    '<div class="news-meta"><span class="news-source">' + n.source + '</span><span>' + (n.date || '') + '</span>' +
+    (n.tags && n.tags.length > 0 ? n.tags.map(function(t){return '<span class="news-tag">'+t+'</span>';}).join('') : '') +
+    '</div>' +
+    (n.desc ? '<div class="news-desc">' + n.desc + '</div>' : '') +
+    '</div>';
+}
+
 async function loadAllRealData() {
   try {
     var base = '';  // Same origin — GitHub Pages
@@ -1559,6 +1599,51 @@ async function loadAllRealData() {
         updateKpi(cells[6], 'Portfolio Alerts',   k.portfolio_alerts  || '—',  'Require attention',   'c-dn');
       }
     }
+
+    // ── 7. NEWS ────────────────────────────────────────────────────
+    try {
+      var newsRes = await fetch('data/news.json?t=' + Date.now());
+      if (newsRes.ok) {
+        var newsData = await newsRes.json();
+        var allNews  = newsData.news || [];
+        var pfNews   = allNews.filter(function(n){ return n.is_portfolio; });
+
+        // Update news count badge
+        var nc = document.getElementById('news-count');
+        if (nc) nc.textContent = pfNews.length;
+
+        // Update timestamp
+        var nu = document.getElementById('news-updated');
+        if (nu) nu.textContent = 'Updated: ' + (newsData.updated_ist || '');
+
+        // Render portfolio news
+        var pfEl = document.getElementById('news-portfolio');
+        if (pfEl) pfEl.innerHTML = pfNews.length > 0 ? pfNews.map(renderNewsItem).join('') : '<div style="padding:20px 18px;color:var(--t4);font-size:13px">No portfolio-specific news found</div>';
+
+        // Render all news
+        var allEl = document.getElementById('news-all');
+        if (allEl) allEl.innerHTML = allNews.map(renderNewsItem).join('');
+      }
+    } catch(e) { console.warn('News fetch failed:', e.message); }
+
+    // ── 8. CALENDAR EVENTS ─────────────────────────────────────────
+    try {
+      var calRes = await fetch('data/calendar_events.json?t=' + Date.now());
+      if (calRes.ok) {
+        var calData = await calRes.json();
+        if (calData.events) {
+          // Merge real events into CAL_EV
+          Object.keys(calData.events).forEach(function(date) {
+            if (!CAL_EV[date]) CAL_EV[date] = [];
+            calData.events[date].forEach(function(ev) {
+              var exists = CAL_EV[date].some(function(e){ return e.l === ev.l; });
+              if (!exists) CAL_EV[date].push(ev);
+            });
+          });
+          buildCalendar();
+        }
+      }
+    } catch(e) { console.warn('Calendar fetch failed:', e.message); }
 
     console.log('✅ All real data loaded from GitHub');
 
