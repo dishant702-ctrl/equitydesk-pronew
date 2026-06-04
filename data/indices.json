@@ -1,10 +1,10 @@
 {
-  "updated_ist": "04 Jun 2026 17:26 IST",
+  "updated_ist": "05 Jun 2026 00:00 IST",
   "indices": {
     "BRENT": {
-      "price": 94.96,
-      "change": -1.89,
-      "change_pct": -1.95
+      "price": 94.31,
+      "change": -2.54,
+      "change_pct": -2.62
     },
     "GSEC10Y": {
       "price": 7.08,
