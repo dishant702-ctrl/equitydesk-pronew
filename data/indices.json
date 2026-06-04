@@ -1,5 +1,5 @@
 {
-  "updated_ist": "04 Jun 2026 16:48 IST",
+  "updated_ist": "04 Jun 2026 17:18 IST",
   "indices": {
     "NIFTY50": {
       "price": 23416.55,
@@ -22,14 +22,14 @@
       "change_pct": -2.64
     },
     "USDINR": {
-      "price": 95.78,
-      "change": 0.08,
-      "change_pct": 0.08
+      "price": 95.8,
+      "change": 0.11,
+      "change_pct": 0.11
     },
     "BRENT": {
-      "price": 96.22,
-      "change": -0.63,
-      "change_pct": -0.65
+      "price": 95.35,
+      "change": -1.5,
+      "change_pct": -1.55
     },
     "GSEC10Y": {
       "price": 7.08,

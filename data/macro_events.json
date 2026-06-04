@@ -1,16 +1,16 @@
 {
-  "updated_ist": "04 Jun 2026 16:50 IST",
+  "updated_ist": "04 Jun 2026 17:20 IST",
   "india": [
     {
-      "date": "2026-07-04",
+      "date": "Jul 04",
       "name": "RBI MPC Policy Decision",
-      "sub": "Repo Rate Decision",
+      "sub": "Monetary Policy Committee \u2014 Repo Rate",
       "impact": "H",
       "prev": "6.00%",
       "fore": "TBD"
     },
     {
-      "date": "2026-07-11",
+      "date": "Jul 11",
       "name": "CPI Inflation \u2014 June 2026",
       "sub": "Consumer Price Index (MoSPI)",
       "impact": "H",
@@ -18,7 +18,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-12",
+      "date": "Jul 12",
       "name": "IIP Data \u2014 May 2026",
       "sub": "Index of Industrial Production",
       "impact": "M",
@@ -26,7 +26,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-15",
+      "date": "Jul 15",
       "name": "WPI Inflation \u2014 June 2026",
       "sub": "Wholesale Price Index",
       "impact": "M",
@@ -34,15 +34,15 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-18",
+      "date": "Jul 18",
       "name": "GST Collections \u2014 June 2026",
-      "sub": "GST Revenue (Finance Ministry)",
+      "sub": "Goods & Services Tax Revenue",
       "impact": "M",
       "prev": "\u20b91.78L Cr",
       "fore": "TBD"
     },
     {
-      "date": "2026-07-22",
+      "date": "Jul 22",
       "name": "Trade Deficit \u2014 June 2026",
       "sub": "Exports & Imports",
       "impact": "H",
@@ -50,7 +50,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-31",
+      "date": "Jul 31",
       "name": "Fiscal Deficit Update",
       "sub": "GoI Monthly Accounts",
       "impact": "M",
@@ -60,7 +60,7 @@
   ],
   "global": [
     {
-      "date": "2026-07-04",
+      "date": "Jul 04",
       "name": "US Jobs Report \u2014 June",
       "sub": "Non-Farm Payrolls (BLS)",
       "impact": "H",
@@ -68,7 +68,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-10",
+      "date": "Jul 10",
       "name": "US CPI \u2014 June",
       "sub": "Consumer Price Index",
       "impact": "H",
@@ -76,7 +76,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-15",
+      "date": "Jul 15",
       "name": "China Q2 2026 GDP",
       "sub": "National Bureau of Statistics",
       "impact": "H",
@@ -84,7 +84,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-24",
+      "date": "Jul 24",
       "name": "ECB Rate Decision",
       "sub": "European Central Bank",
       "impact": "H",
@@ -92,7 +92,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-25",
+      "date": "Jul 25",
       "name": "US FOMC Rate Decision",
       "sub": "Federal Reserve Q3 2026",
       "impact": "H",
@@ -100,7 +100,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-28",
+      "date": "Jul 28",
       "name": "US PCE Inflation \u2014 June",
       "sub": "Personal Consumption Expenditure",
       "impact": "H",
@@ -108,7 +108,7 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-31",
+      "date": "Jul 31",
       "name": "BOJ Policy Decision",
       "sub": "Bank of Japan",
       "impact": "M",
