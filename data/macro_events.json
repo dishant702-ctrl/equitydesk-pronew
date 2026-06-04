@@ -1,0 +1,119 @@
+{
+  "updated_at": "2026-06-04T10:00:18.072624",
+  "india": [
+    {
+      "date": "2026-07-04",
+      "name": "RBI MPC Policy Decision",
+      "sub": "Monetary Policy Committee Repo Rate",
+      "impact": "H",
+      "prev": "6.00%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-11",
+      "name": "CPI Inflation \u2014 June 2026",
+      "sub": "Consumer Price Index (MoSPI)",
+      "impact": "H",
+      "prev": "3.40%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-12",
+      "name": "IIP Data \u2014 May 2026",
+      "sub": "Index of Industrial Production",
+      "impact": "M",
+      "prev": "3.8%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "WPI Inflation \u2014 June 2026",
+      "sub": "Wholesale Price Index",
+      "impact": "M",
+      "prev": "0.1%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-18",
+      "name": "GST Collections \u2014 June 2026",
+      "sub": "Goods & Services Tax Revenue",
+      "impact": "M",
+      "prev": "\u20b91.78L Cr",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-22",
+      "name": "Trade Deficit \u2014 June 2026",
+      "sub": "Exports & Imports",
+      "impact": "H",
+      "prev": "$15.2B",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "Fiscal Deficit Update",
+      "sub": "GoI Monthly Accounts",
+      "impact": "M",
+      "prev": "~68%",
+      "fore": "TBD"
+    }
+  ],
+  "global": [
+    {
+      "date": "2026-07-04",
+      "name": "US Jobs Report \u2014 June",
+      "sub": "Non-Farm Payrolls",
+      "impact": "H",
+      "prev": "185K",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-10",
+      "name": "US CPI \u2014 June",
+      "sub": "Consumer Price Index",
+      "impact": "H",
+      "prev": "3.3%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-11",
+      "name": "US PPI \u2014 June",
+      "sub": "Producer Price Index",
+      "impact": "M",
+      "prev": "2.4%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-25",
+      "name": "US FOMC Rate Decision",
+      "sub": "Federal Reserve Q3 2026",
+      "impact": "H",
+      "prev": "5.00\u20135.25%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-24",
+      "name": "ECB Rate Decision",
+      "sub": "European Central Bank",
+      "impact": "H",
+      "prev": "4.25%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-15",
+      "name": "China Q2 2026 GDP",
+      "sub": "National Bureau of Statistics",
+      "impact": "H",
+      "prev": "5.3%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-31",
+      "name": "BOJ Policy Decision",
+      "sub": "Bank of Japan",
+      "impact": "M",
+      "prev": "0.1%",
+      "fore": "TBD"
+    }
+  ]
+}

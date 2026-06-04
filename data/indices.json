@@ -1,0 +1,40 @@
+{
+  "updated_at": "2026-06-04T10:00:06.672366",
+  "indices": {
+    "NIFTY50": {
+      "price": 23437.8,
+      "change": 40.85,
+      "change_pct": 0.17
+    },
+    "NIFTY500": {
+      "price": 22513.1,
+      "change": 67.8,
+      "change_pct": 0.3
+    },
+    "BANKNIFTY": {
+      "price": 54331.75,
+      "change": 84.7,
+      "change_pct": 0.16
+    },
+    "INDIAVIX": {
+      "price": 15.77,
+      "change": -0.54,
+      "change_pct": -3.33
+    },
+    "USDINR": {
+      "price": 95.77,
+      "change": 0.08,
+      "change_pct": 0.08
+    },
+    "BRENT": {
+      "price": 95.73,
+      "change": -1.12,
+      "change_pct": -1.16
+    },
+    "GSEC10Y": {
+      "price": 7.08,
+      "change": -0.02,
+      "change_pct": -0.28
+    }
+  }
+}
