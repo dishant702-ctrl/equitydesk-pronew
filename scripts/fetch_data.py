@@ -69,32 +69,147 @@ def fmt_date(d):
         return f"{mn[d.month-1]} {d.day:02d}"
     except: return str(d)[:10]
 
-# ── 1. PRICES + INDICES ───────────────────────────────────────────────────────
+# ── 1. PRICES + INDICES — NSE India official API ────────────────────────────
 def fetch_prices_indices():
-    print("\n📈 Prices + Indices...")
-    idx_map={"NIFTY50":"^NSEI","NIFTY500":"^CRSLDX","BANKNIFTY":"^NSEBANK","INDIAVIX":"^INDIAVIX","USDINR":"USDINR=X","BRENT":"BZ=F"}
-    indices,prices={},{}
-    for name,sym in idx_map.items():
+    print("\n📈 Prices + Indices from NSE India...")
+    
+    NSE_HEADERS = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0',
+        'Accept': '*/*',
+        'Accept-Language': 'en-IN,en;q=0.9',
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Referer': 'https://www.nseindia.com/',
+        'Connection': 'keep-alive',
+    }
+    
+    session = requests.Session()
+    # Must hit NSE homepage first to get cookies
+    try:
+        session.get("https://www.nseindia.com", headers=NSE_HEADERS, timeout=10)
+        time.sleep(1)
+    except: pass
+
+    indices, prices = {}, {}
+
+    # ── INDEX DATA FROM NSE ──
+    nse_index_names = {
+        "NIFTY50":   "NIFTY 50",
+        "NIFTY500":  "NIFTY 500",
+        "BANKNIFTY": "NIFTY BANK",
+        "INDIAVIX":  "India VIX",
+    }
+    try:
+        r = session.get(
+            "https://www.nseindia.com/api/allIndices",
+            headers={**NSE_HEADERS, 'Referer':'https://www.nseindia.com/market-data/live-market-statistics'},
+            timeout=15
+        )
+        if r.status_code == 200:
+            data = r.json()
+            for item in data.get("data", []):
+                name = item.get("indexSymbol","") or item.get("index","")
+                for key, nse_name in nse_index_names.items():
+                    if nse_name.upper() in name.upper():
+                        price = float(item.get("last", 0) or item.get("indexValue", 0))
+                        prev  = float(item.get("previousClose", 0) or price)
+                        chg   = round(price - prev, 2)
+                        pct   = round(chg / prev * 100, 2) if prev else 0
+                        indices[key] = {"price": round(price,2), "change": chg, "change_pct": pct}
+                        print(f"  ✅ {key}: {price:,.2f} ({pct:+.2f}%)")
+            print(f"  NSE indices: {len(indices)} fetched")
+    except Exception as e:
+        print(f"  ⚠️ NSE indices: {e}")
+
+    # ── USD/INR FROM NSE ──
+    try:
+        r2 = session.get(
+            "https://www.nseindia.com/api/exchangeRate",
+            headers={**NSE_HEADERS, 'Referer':'https://www.nseindia.com/'},
+            timeout=10
+        )
+        if r2.status_code == 200:
+            fx = r2.json()
+            for item in fx if isinstance(fx, list) else fx.get("data", []):
+                if "USD" in str(item.get("currency","")).upper():
+                    rate = float(item.get("rate", 0) or item.get("buyRate", 0))
+                    if rate:
+                        indices["USDINR"] = {"price": round(rate,2), "change": 0, "change_pct": 0}
+                        print(f"  ✅ USD/INR: {rate}")
+                        break
+    except Exception as e:
+        print(f"  ⚠️ USD/INR: {e}")
+        # Fallback to yfinance for USD/INR
         try:
-            info=yf.Ticker(sym).fast_info
-            p,prev=float(info.last_price),float(info.previous_close)
-            indices[name]={"price":round(p,2),"change":round(p-prev,2),"change_pct":round((p-prev)/prev*100,2)}
-            print(f"  ✅ {name}: {p:,.2f}")
-        except Exception as e: print(f"  ⚠️ {name}: {e}"); indices[name]={"price":None}
-        time.sleep(0.1)
-    indices["GSEC10Y"]={"price":7.08,"change":-0.02,"change_pct":-0.28}
-    for sym,cfg in WATCHLIST.items():
-        try:
-            info=yf.Ticker(cfg["yf"]).fast_info
-            p,prev=float(info.last_price),float(info.previous_close)
-            prices[sym]={"price":round(p,2),"prev_close":round(prev,2),"change":round(p-prev,2),"change_pct":round((p-prev)/prev*100,2),"day_high":round(float(info.day_high),2),"day_low":round(float(info.day_low),2),"52w_high":round(float(info.fifty_two_week_high),2),"52w_low":round(float(info.fifty_two_week_low),2)}
-            print(f"  ✅ {sym}: ₹{p:,.2f} ({prices[sym]['change_pct']:+.2f}%)")
-        except Exception as e: print(f"  ⚠️ {sym}: {e}"); prices[sym]={"price":None}
-        time.sleep(0.1)
-    ts=now_ist().strftime("%d %b %Y %H:%M IST")
-    save("indices.json",{"updated_ist":ts,"indices":indices})
-    save("prices.json",{"updated_ist":ts,"prices":prices})
-    return prices,indices
+            import yfinance as yf
+            info = yf.Ticker("USDINR=X").fast_info
+            p,prev = float(info.last_price), float(info.previous_close)
+            indices["USDINR"] = {"price":round(p,2),"change":round(p-prev,2),"change_pct":round((p-prev)/prev*100,2)}
+            print(f"  ✅ USD/INR (yf fallback): {p}")
+        except: pass
+
+    # Brent from yfinance (NSE doesn't have commodity)
+    try:
+        import yfinance as yf
+        info = yf.Ticker("BZ=F").fast_info
+        p,prev = float(info.last_price),float(info.previous_close)
+        indices["BRENT"] = {"price":round(p,2),"change":round(p-prev,2),"change_pct":round((p-prev)/prev*100,2)}
+        print(f"  ✅ Brent: ${p:,.2f}")
+    except Exception as e:
+        print(f"  ⚠️ Brent: {e}")
+
+    indices["GSEC10Y"] = {"price": 7.08, "change": -0.02, "change_pct": -0.28}
+
+    # ── STOCK PRICES FROM NSE ──
+    nse_symbols = list(WATCHLIST.keys())
+    for i in range(0, len(nse_symbols), 10):
+        batch = nse_symbols[i:i+10]
+        for sym in batch:
+            try:
+                r = session.get(
+                    f"https://www.nseindia.com/api/quote-equity?symbol={sym}",
+                    headers={**NSE_HEADERS,'Referer':'https://www.nseindia.com/get-quotes/equity?symbol='+sym},
+                    timeout=10
+                )
+                if r.status_code == 200:
+                    d = r.json()
+                    pd2 = d.get("priceInfo", {}) or d.get("data", {})
+                    price = float(pd2.get("lastPrice",0) or pd2.get("last",0))
+                    prev  = float(pd2.get("previousClose",0) or pd2.get("close",0) or price)
+                    if price:
+                        chg = round(price-prev,2)
+                        pct = round(chg/prev*100,2) if prev else 0
+                        prices[sym] = {
+                            "price":round(price,2),"prev_close":round(prev,2),
+                            "change":chg,"change_pct":pct,
+                            "day_high":float(pd2.get("intraDayHighLow",{}).get("max",price) or price),
+                            "day_low": float(pd2.get("intraDayHighLow",{}).get("min",price) or price),
+                            "52w_high":float(pd2.get("weekHighLow",{}).get("max",price) or price),
+                            "52w_low": float(pd2.get("weekHighLow",{}).get("min",price) or price),
+                        }
+                        print(f"  ✅ {sym}: ₹{price:,.2f} ({pct:+.2f}%)")
+                    else:
+                        raise ValueError("price=0")
+                else:
+                    raise ValueError(f"HTTP {r.status_code}")
+            except Exception as e:
+                print(f"  ⚠️ {sym}: {e} — trying yfinance fallback")
+                try:
+                    import yfinance as yf
+                    info = yf.Ticker(WATCHLIST[sym]["yf"]).fast_info
+                    p,prev = float(info.last_price),float(info.previous_close)
+                    prices[sym] = {"price":round(p,2),"prev_close":round(prev,2),"change":round(p-prev,2),"change_pct":round((p-prev)/prev*100,2),"day_high":round(float(info.day_high),2),"day_low":round(float(info.day_low),2),"52w_high":round(float(info.fifty_two_week_high),2),"52w_low":round(float(info.fifty_two_week_low),2)}
+                    print(f"    ✅ {sym} (yf): ₹{p:,.2f}")
+                except Exception as e2:
+                    print(f"    ❌ {sym}: {e2}")
+                    prices[sym] = {"price":None}
+            time.sleep(0.3)
+        time.sleep(1)
+
+    ts = now_ist().strftime("%d %b %Y %H:%M IST")
+    save("indices.json", {"updated_ist":ts,"indices":indices})
+    save("prices.json",  {"updated_ist":ts,"prices":prices})
+    print(f"  📊 {len(indices)} indices, {len(prices)} stocks saved")
+    return prices, indices
 
 # ── 2. FINANCIALS FROM SCREENER.IN ───────────────────────────────────────────
 def scrape_screener(symbol):
