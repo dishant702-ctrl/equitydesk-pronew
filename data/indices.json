@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-04T10:10:19.033602",
+  "updated_at": "2026-06-04T10:21:43.669726",
   "indices": {
     "NIFTY50": {
       "price": 23416.55,
@@ -27,9 +27,9 @@
       "change_pct": 0.08
     },
     "BRENT": {
-      "price": 96.1,
-      "change": -0.75,
-      "change_pct": -0.77
+      "price": 96.63,
+      "change": -0.22,
+      "change_pct": -0.23
     },
     "GSEC10Y": {
       "price": 7.08,
