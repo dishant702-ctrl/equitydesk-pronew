@@ -290,13 +290,13 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
     </div>
   </div>
   <div class="indices">
-    <div class="idx"><div><span class="idx-label">Nifty 50</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n50v">24,611.20</span><span class="idx-chg c-up">▲ +0.54%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Nifty 500</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n500v">14,823.45</span><span class="idx-chg c-up">▲ +0.72%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Bank Nifty</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="bnkv">53,286.10</span><span class="idx-chg c-up">▲ +0.38%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">India VIX</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="vixv">12.84</span><span class="idx-chg c-dn">▼ −0.63%</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">USD/INR</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="usdinrv">83.47</span><span class="idx-chg c-dn">▼ −0.12</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Nifty 50</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n50v">24,611.20</span><span class="idx-chg c-up" id="n50c">▲ +0.54%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Nifty 500</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="n500v">14,823.45</span><span class="idx-chg c-up" id="n500c">▲ +0.72%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Bank Nifty</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="bnkv">53,286.10</span><span class="idx-chg c-up" id="bnkc">▲ +0.38%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">India VIX</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="vixv">12.84</span><span class="idx-chg c-dn" id="vixc">▼ −0.63%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">USD/INR</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="usdinrv">83.47</span><span class="idx-chg c-dn" id="usdinrc">▼ −0.12</span></div></div></div>
     <div class="idx"><div><span class="idx-label">10Y G-Sec</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="gsecv">7.08%</span><span class="idx-chg c-dn">▼ −2bp</span></div></div></div>
-    <div class="idx"><div><span class="idx-label">Brent</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="brentv">$81.24</span><span class="idx-chg c-up">▲ +0.84%</span></div></div></div>
+    <div class="idx"><div><span class="idx-label">Brent</span><div style="display:flex;align-items:baseline;gap:8px"><span class="idx-val" id="brentv">$81.24</span><span class="idx-chg c-up" id="brentc">▲ +0.84%</span></div></div></div>
   </div>
   <div class="mh-right">
     <div class="live-badge"><div class="live-dot"></div>Live</div>
@@ -1031,7 +1031,7 @@ function tick(){
   document.getElementById('clock').textContent=ts;
   document.getElementById('footer-ts').textContent='Updated '+ts;
 }
-// Static ticker removed
+
 setInterval(tick,1000);
 
 // ──── INIT ────────────────────────────────────────────────────────────────────
@@ -1041,77 +1041,274 @@ renderCA('ca-bonus',CA.bonus,'c-gold'); renderCA('ca-buyback',CA.buyback,'c-gold
 renderMacro('macro-india',INDIA_EV); renderMacro('macro-global',GLOBAL_EV);
 renderPortfolio(); tick();
 
-// ──── LIVE DATA LOADER ────────────────────────────────────────────────────────
-async function loadLiveData() {
+
+
+// ══════════════════════════════════════════════════════════════════
+// REAL-TIME PRICE ENGINE
+// Fetches live prices every 5 seconds via Yahoo Finance proxy
+// No GitHub Actions needed — runs directly in browser
+// ══════════════════════════════════════════════════════════════════
+
+var SYMBOLS_YF = {
+  // Indices
+  'NIFTY50':   '^NSEI',
+  'NIFTY500':  '^CRSLDX',
+  'BANKNIFTY': '^NSEBANK',
+  'INDIAVIX':  '^INDIAVIX',
+  'USDINR':    'USDINR=X',
+  'BRENT':     'BZ=F',
+  // Stocks
+  'RELIANCE':   'RELIANCE.NS',
+  'TCS':        'TCS.NS',
+  'HDFCBANK':   'HDFCBANK.NS',
+  'INFY':       'INFY.NS',
+  'ICICIBANK':  'ICICIBANK.NS',
+  'BAJFINANCE': 'BAJFINANCE.NS',
+  'WIPRO':      'WIPRO.NS',
+  'SBIN':       'SBIN.NS',
+  'KOTAKBANK':  'KOTAKBANK.NS',
+  'MARUTI':     'MARUTI.NS',
+  'SUNPHARMA':  'SUNPHARMA.NS',
+  'TATAMOTORS': 'TATAMOTORS.NS',
+  'ULTRACEMCO': 'ULTRACEMCO.NS',
+  'NESTLEIND':  'NESTLEIND.NS',
+  'HCLTECH':    'HCLTECH.NS',
+  'AXISBANK':   'AXISBANK.NS',
+  'ITC':        'ITC.NS',
+  'TITAN':      'TITAN.NS',
+};
+
+// Yahoo Finance query2 API — works directly from browser, no key needed
+var YF_BASE = 'https://query2.finance.yahoo.com/v8/finance/chart/';
+
+// Cache to avoid flickering
+var priceCache = {};
+
+// Fetch a single symbol
+async function fetchYFPrice(symbol, yf_sym) {
   try {
-    var ts = '?t=' + Date.now();
-    var [pRes, iRes] = await Promise.all([
-      fetch('data/prices.json' + ts),
-      fetch('data/indices.json' + ts)
-    ]);
-    if (!pRes.ok || !iRes.ok) { console.log('Data files not ready'); return; }
-    var pData = await pRes.json();
-    var iData = await iRes.json();
-
-    // ── Update all masthead indices ──
-    var idx = iData.indices || {};
-
-    function updateIdx(id, data, prefix, suffix, invert) {
-      if (!data || !data.price) return;
-      var el = document.getElementById(id);
-      if (!el) return;
-      el.textContent = prefix + data.price.toLocaleString('en-IN') + suffix;
-    }
-
-    function updateChg(id, data, invert) {
-      if (!data || data.change_pct === undefined) return;
-      var c = data.change_pct;
-      var up = invert ? c < 0 : c >= 0;
-      var sign = c >= 0 ? '+' : '';
-      var arrow = up ? '▲' : '▼';
-      var el = document.getElementById(id);
-      if (!el) return;
-      el.textContent = arrow + ' ' + sign + c.toFixed(2) + '%';
-      el.className = 'idx-chg ' + (up ? 'c-up' : 'c-dn');
-    }
-
-    if (idx.NIFTY50)   { updateIdx('n50v',    idx.NIFTY50,   '', '',  false); updateChg('n50c',    idx.NIFTY50,   false); }
-    if (idx.NIFTY500)  { updateIdx('n500v',   idx.NIFTY500,  '', '',  false); }
-    if (idx.BANKNIFTY) { updateIdx('bnkv',    idx.BANKNIFTY, '', '',  false); }
-    if (idx.INDIAVIX)  { updateIdx('vixv',    idx.INDIAVIX,  '', '',  true);  }
-    if (idx.USDINR)    { updateIdx('usdinrv', idx.USDINR,    '', '',  false); }
-    if (idx.GSEC10Y)   { updateIdx('gsecv',   idx.GSEC10Y,   '', '%', false); }
-    if (idx.BRENT)     { updateIdx('brentv',  idx.BRENT,     '$', '', false); }
-
-    // ── Update live stock prices ──
-    var px = pData.prices || {};
-    var changed = false;
-    Object.keys(px).forEach(function(sym) {
-      var p = px[sym];
-      if (p && p.price) {
-        LIVE_PRICES[sym]  = p.price;
-        PRICE_CHANGE[sym] = p.change_pct || 0;
-        changed = true;
-      }
+    var url = YF_BASE + encodeURIComponent(yf_sym) + '?interval=1m&range=1d&corsDomain=finance.yahoo.com';
+    var r = await fetch(url, {
+      headers: {'User-Agent': 'Mozilla/5.0'}
     });
-
-    if (changed) {
-      renderEarnings();
-      renderPortfolio();
-    }
-
-    // Update footer timestamp
-    var footer = document.getElementById('footer-ts');
-    if (footer) footer.textContent = 'Live data: ' + (pData.updated_ist || 'Updated');
-
-    console.log('✅ Live data loaded:', pData.updated_ist || 'OK');
+    if (!r.ok) return null;
+    var d = await r.json();
+    var meta = d?.chart?.result?.[0]?.meta;
+    if (!meta) return null;
+    var price    = meta.regularMarketPrice || meta.previousClose;
+    var prevClose= meta.chartPreviousClose || meta.previousClose;
+    var change   = price - prevClose;
+    var changePct= (change / prevClose) * 100;
+    return {
+      price:      Math.round(price * 100) / 100,
+      prev_close: Math.round(prevClose * 100) / 100,
+      change:     Math.round(change * 100) / 100,
+      change_pct: Math.round(changePct * 100) / 100,
+      market_state: meta.marketState || 'CLOSED'
+    };
   } catch(e) {
-    console.warn('Live data fetch failed — using demo data:', e.message);
+    return null;
   }
 }
-// Load immediately on page open, then refresh every 5 minutes
-loadLiveData();
-setInterval(loadLiveData, 5 * 60 * 1000);
+
+// Update a masthead index element
+function updateIdxEl(valId, chgId, data, prefix, suffix, invertColor) {
+  if (!data || !data.price) return;
+  var valEl = document.getElementById(valId);
+  var chgEl = document.getElementById(chgId);
+  if (valEl) {
+    valEl.textContent = prefix + data.price.toLocaleString('en-IN') + suffix;
+  }
+  if (chgEl) {
+    var up = invertColor ? data.change_pct < 0 : data.change_pct >= 0;
+    var sign = data.change_pct >= 0 ? '+' : '';
+    chgEl.textContent = (up ? '▲' : '▼') + ' ' + sign + data.change_pct.toFixed(2) + '%';
+    chgEl.className = 'idx-chg ' + (up ? 'c-up' : 'c-dn');
+  }
+}
+
+// Market status check
+function isMarketOpen() {
+  var now = new Date();
+  var ist = new Date(now.toLocaleString('en-US', {timeZone: 'Asia/Kolkata'}));
+  var day = ist.getDay(); // 0=Sun, 6=Sat
+  var h   = ist.getHours();
+  var m   = ist.getMinutes();
+  var mins= h * 60 + m;
+  // NSE: Mon-Fri 9:15 AM - 3:30 PM IST
+  return day >= 1 && day <= 5 && mins >= 555 && mins <= 930;
+}
+
+// Update market status badge
+function updateMarketStatus() {
+  var el = document.querySelector('.mkt-tag');
+  if (!el) return;
+  if (isMarketOpen()) {
+    el.textContent = 'Market Open';
+    el.style.background = 'var(--up-bg)';
+    el.style.color = 'var(--up)';
+    el.style.borderColor = 'rgba(34,200,120,0.2)';
+  } else {
+    el.textContent = 'Market Closed';
+    el.style.background = 'rgba(255,92,106,0.1)';
+    el.style.color = 'var(--dn)';
+    el.style.borderColor = 'rgba(255,92,106,0.2)';
+  }
+}
+
+// ── PHASE 1: Fetch indices (runs every 5 seconds) ──
+async function refreshIndices() {
+  var indexList = [
+    {key:'NIFTY50',   yf:'^NSEI',       valId:'n50v',    chgId:'n50c',    pre:'',  suf:'',  inv:false},
+    {key:'NIFTY500',  yf:'^CRSLDX',     valId:'n500v',   chgId:'n500c',   pre:'',  suf:'',  inv:false},
+    {key:'BANKNIFTY', yf:'^NSEBANK',    valId:'bnkv',    chgId:'bnkc',    pre:'',  suf:'',  inv:false},
+    {key:'INDIAVIX',  yf:'^INDIAVIX',   valId:'vixv',    chgId:'vixc',    pre:'',  suf:'',  inv:true},
+    {key:'USDINR',    yf:'USDINR=X',    valId:'usdinrv', chgId:'usdinrc', pre:'',  suf:'',  inv:false},
+    {key:'BRENT',     yf:'BZ=F',        valId:'brentv',  chgId:'brentc',  pre:'$', suf:'',  inv:false},
+  ];
+
+  // Fetch all indices in parallel
+  var results = await Promise.all(
+    indexList.map(function(idx) {
+      return fetchYFPrice(idx.key, idx.yf).then(function(d) {
+        return {idx: idx, data: d};
+      });
+    })
+  );
+
+  results.forEach(function(r) {
+    if (r.data) {
+      priceCache[r.idx.key] = r.data;
+      updateIdxEl(r.idx.valId, r.idx.chgId, r.data, r.idx.pre, r.idx.suf, r.idx.inv);
+    }
+  });
+}
+
+// ── PHASE 2: Fetch stock prices (runs every 10 seconds) ──
+async function refreshStocks() {
+  var stockSyms = Object.keys(SYMBOLS_YF).filter(function(k) {
+    return ['NIFTY50','NIFTY500','BANKNIFTY','INDIAVIX','USDINR','BRENT'].indexOf(k) === -1;
+  });
+
+  // Fetch in batches of 5 to avoid rate limiting
+  var batchSize = 5;
+  for (var i = 0; i < stockSyms.length; i += batchSize) {
+    var batch = stockSyms.slice(i, i + batchSize);
+    var results = await Promise.all(
+      batch.map(function(sym) {
+        return fetchYFPrice(sym, SYMBOLS_YF[sym]).then(function(d) {
+          return {sym: sym, data: d};
+        });
+      })
+    );
+    results.forEach(function(r) {
+      if (r.data) {
+        priceCache[r.sym] = r.data;
+        LIVE_PRICES[r.sym]  = r.data.price;
+        PRICE_CHANGE[r.sym] = r.data.change_pct;
+      }
+    });
+    await new Promise(function(res) { setTimeout(res, 200); }); // 200ms between batches
+  }
+
+  // Re-render tables with new prices
+  renderEarnings();
+  renderPortfolio();
+}
+
+// ── PHASE 3: Load static data from GitHub JSON (runs every 15 min) ──
+async function refreshFromGitHub() {
+  try {
+    var [earnRes, corpRes, macroRes, pfRes] = await Promise.all([
+      fetch('data/earnings.json?t='     + Date.now()),
+      fetch('data/corp_actions.json?t=' + Date.now()),
+      fetch('data/macro_events.json?t=' + Date.now()),
+      fetch('data/portfolio.json?t='    + Date.now()),
+    ]);
+
+    // Update earnings data if available
+    if (earnRes.ok) {
+      var earnData = await earnRes.json();
+      if (earnData.earnings && earnData.earnings.length > 0) {
+        console.log('✅ Earnings data loaded:', earnData.earnings.length, 'records');
+      }
+    }
+
+    // Update portfolio summary from real calculations
+    if (pfRes.ok) {
+      var pfData = await pfRes.json();
+      if (pfData.summary) {
+        var s = pfData.summary;
+        // Update portfolio strip
+        var cells = document.querySelectorAll('.pf-val');
+        if (cells.length >= 4) {
+          cells[0].textContent = '₹' + Math.round(s.total_invested).toLocaleString('en-IN');
+          cells[1].textContent = '₹' + Math.round(s.total_current).toLocaleString('en-IN');
+          cells[1].className   = 'pf-val ' + (s.total_pl >= 0 ? 'c-up' : 'c-dn');
+          cells[2].textContent = (s.total_pl >= 0 ? '+' : '') + '₹' + Math.round(s.total_pl).toLocaleString('en-IN');
+          cells[2].className   = 'pf-val ' + (s.total_pl >= 0 ? 'c-up' : 'c-dn');
+          cells[3].textContent = (s.day_pl >= 0 ? '+' : '') + '₹' + Math.round(s.day_pl).toLocaleString('en-IN');
+          cells[3].className   = 'pf-val ' + (s.day_pl >= 0 ? 'c-up' : 'c-dn');
+        }
+        // Update portfolio holdings with real data
+        if (pfData.holdings) {
+          pfData.holdings.forEach(function(h) {
+            PF.forEach(function(p) {
+              if (p.sym === h.symbol) {
+                p.cmp = h.cmp;
+                p.avg = h.avg_cost;
+              }
+            });
+          });
+          renderPortfolio();
+        }
+        console.log('✅ Portfolio loaded — Value: ₹' + Math.round(s.total_current).toLocaleString('en-IN'));
+      }
+    }
+
+    // Update footer
+    var footer = document.getElementById('footer-ts');
+    if (footer) {
+      var now = new Date();
+      var ist = new Date(now.toLocaleString('en-US', {timeZone:'Asia/Kolkata'}));
+      footer.textContent = 'Live · ' + ist.toLocaleTimeString('en-IN', {hour:'2-digit', minute:'2-digit'}) + ' IST';
+    }
+
+  } catch(e) {
+    console.warn('GitHub data fetch failed:', e.message);
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════
+// START ALL REFRESH CYCLES
+// ══════════════════════════════════════════════════════════════════
+async function startRealTimeEngine() {
+  console.log('🚀 EquityDesk Real-Time Engine starting...');
+  updateMarketStatus();
+
+  // Initial load — fetch everything at once
+  await refreshIndices();
+  await refreshStocks();
+  await refreshFromGitHub();
+
+  console.log('✅ Initial data loaded');
+
+  // Indices: refresh every 5 seconds
+  setInterval(refreshIndices, 5000);
+
+  // Stock prices: refresh every 10 seconds
+  setInterval(refreshStocks, 10000);
+
+  // GitHub JSON data: refresh every 15 minutes
+  setInterval(refreshFromGitHub, 15 * 60 * 1000);
+
+  // Market status: check every minute
+  setInterval(updateMarketStatus, 60000);
+}
+
+// Launch the engine
+startRealTimeEngine();
+
 </script>
 </body>
 </html>
