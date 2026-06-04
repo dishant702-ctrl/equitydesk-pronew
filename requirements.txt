@@ -5,3 +5,5 @@ fpdf2
 requests
 pandas
 python-telegram-bot
+beautifulsoup4
+lxml
