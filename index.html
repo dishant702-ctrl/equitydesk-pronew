@@ -1348,10 +1348,12 @@ startRealTimeEngine();
 // ══════════════════════════════════════════════════════════════════
 
 function renderNewsItem(n) {
-  return '<div class="news-item" onclick="window.open('' + n.link + '','_blank')">' +
-    '<div class="news-title">' + n.title + '</div>' +
-    '<div class="news-meta"><span class="news-source">' + n.source + '</span><span>' + (n.date || '') + '</span>' +
-    (n.tags && n.tags.length > 0 ? n.tags.map(function(t){return '<span class="news-tag">'+t+'</span>';}).join('') : '') +
+  var link = (n.link || '#').replace(/'/g, '%27');
+  return '<div class="news-item" onclick="window.open(\'' + link + '\')">' +
+    '<div class="news-title">' + (n.title || '') + '</div>' +
+    '<div class="news-meta"><span class="news-source">' + (n.source || '') + '</span>' +
+    '<span style="margin-left:8px">' + (n.date || '') + '</span>' +
+    ((n.tags && n.tags.length > 0) ? n.tags.map(function(t){return ' <span class="news-tag">'+t+'</span>';}).join('') : '') +
     '</div>' +
     (n.desc ? '<div class="news-desc">' + n.desc + '</div>' : '') +
     '</div>';
