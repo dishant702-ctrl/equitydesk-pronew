@@ -527,7 +527,40 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
     </div>
   </div>
 </div>
+  
+// Load live data from GitHub Actions JSON files
+async function loadLiveData() {
+  try {
+    const [p, i] = await Promise.all([
+      fetch('data/prices.json').then(r => r.json()),
+      fetch('data/indices.json').then(r => r.json())
+    ]);
 
+    // Update masthead indices
+    const idx = i.indices || {};
+    if (idx.NIFTY50?.price)
+      document.getElementById('n50v').textContent =
+        idx.NIFTY50.price.toLocaleString('en-IN');
+
+    // Update live prices in earnings table
+    const px = p.prices || {};
+    Object.keys(px).forEach(sym => {
+      if (!px[sym].price) return;
+      LIVE_PRICES[sym] = px[sym].price;
+      PRICE_CHANGE[sym] = px[sym].change_pct;
+    });
+
+    // Re-render table with live prices
+    renderEarnings();
+    console.log('✅ Live data loaded:', p.updated_ist);
+  } catch(e) {
+    console.log('Using demo data');
+  }
+}
+
+// Load now and refresh every 5 minutes
+loadLiveData();
+setInterval(loadLiveData, 5 * 60 * 1000);
 <script>
 // ──── DATA ────────────────────────────────────────────────────────────────────
 var E=[
