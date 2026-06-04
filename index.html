@@ -527,40 +527,7 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
     </div>
   </div>
 </div>
-  
-// Load live data from GitHub Actions JSON files
-async function loadLiveData() {
-  try {
-    const [p, i] = await Promise.all([
-      fetch('data/prices.json').then(r => r.json()),
-      fetch('data/indices.json').then(r => r.json())
-    ]);
 
-    // Update masthead indices
-    const idx = i.indices || {};
-    if (idx.NIFTY50?.price)
-      document.getElementById('n50v').textContent =
-        idx.NIFTY50.price.toLocaleString('en-IN');
-
-    // Update live prices in earnings table
-    const px = p.prices || {};
-    Object.keys(px).forEach(sym => {
-      if (!px[sym].price) return;
-      LIVE_PRICES[sym] = px[sym].price;
-      PRICE_CHANGE[sym] = px[sym].change_pct;
-    });
-
-    // Re-render table with live prices
-    renderEarnings();
-    console.log('✅ Live data loaded:', p.updated_ist);
-  } catch(e) {
-    console.log('Using demo data');
-  }
-}
-
-// Load now and refresh every 5 minutes
-loadLiveData();
-setInterval(loadLiveData, 5 * 60 * 1000);
 <script>
 // ──── DATA ────────────────────────────────────────────────────────────────────
 var E=[
@@ -1075,6 +1042,47 @@ renderCA('ca-div',CA.div,'c-up'); renderCA('ca-split',CA.split,'c-gold');
 renderCA('ca-bonus',CA.bonus,'c-gold'); renderCA('ca-buyback',CA.buyback,'c-gold');
 renderMacro('macro-india',INDIA_EV); renderMacro('macro-global',GLOBAL_EV);
 renderPortfolio(); tick();
+
+// ──── LIVE DATA LOADER ────────────────────────────────────────────────────────
+async function loadLiveData() {
+  try {
+    var [pRes, iRes] = await Promise.all([
+      fetch('data/prices.json?t=' + Date.now()),
+      fetch('data/indices.json?t=' + Date.now())
+    ]);
+    if (!pRes.ok || !iRes.ok) { console.log('Data files not ready yet'); return; }
+    var pData = await pRes.json();
+    var iData = await iRes.json();
+
+    // Update masthead index prices
+    var idx = iData.indices || {};
+    if (idx.NIFTY50 && idx.NIFTY50.price) {
+      document.getElementById('n50v').textContent = idx.NIFTY50.price.toLocaleString('en-IN');
+    }
+
+    // Update live prices and re-render tables
+    var px = pData.prices || {};
+    var changed = false;
+    Object.keys(px).forEach(function(sym) {
+      var p = px[sym];
+      if (p && p.price) {
+        LIVE_PRICES[sym]  = p.price;
+        PRICE_CHANGE[sym] = p.change_pct || 0;
+        changed = true;
+      }
+    });
+    if (changed) {
+      renderEarnings();
+      renderPortfolio();
+    }
+    console.log('✅ Live data loaded:', pData.updated_ist || 'OK');
+  } catch(e) {
+    console.warn('Live data not available — using demo data:', e.message);
+  }
+}
+// Load on start, refresh every 5 minutes
+loadLiveData();
+setInterval(loadLiveData, 5 * 60 * 1000);
 </script>
 </body>
 </html>
