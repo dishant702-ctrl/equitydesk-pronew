@@ -1309,6 +1309,254 @@ async function startRealTimeEngine() {
 // Launch the engine
 startRealTimeEngine();
 
+
+
+// ══════════════════════════════════════════════════════════════════
+// COMPLETE REAL DATA ENGINE
+// Fetches ALL data from GitHub Actions JSON files
+// Runs on load + every 15 minutes
+// ══════════════════════════════════════════════════════════════════
+
+async function loadAllRealData() {
+  try {
+    var base = '';  // Same origin — GitHub Pages
+    var t    = '?t=' + Date.now();
+
+    var responses = await Promise.allSettled([
+      fetch(base + 'data/prices.json'      + t),
+      fetch(base + 'data/indices.json'     + t),
+      fetch(base + 'data/portfolio.json'   + t),
+      fetch(base + 'data/earnings.json'    + t),
+      fetch(base + 'data/corp_actions.json'+ t),
+      fetch(base + 'data/macro_events.json'+ t),
+      fetch(base + 'data/kpis.json'        + t),
+    ]);
+
+    var [pricesR, indicesR, portfolioR, earningsR, corpR, macroR, kpisR] = responses;
+
+    // ── 1. PRICES ──────────────────────────────────────────────────
+    if (pricesR.status === 'fulfilled' && pricesR.value.ok) {
+      var pData = await pricesR.value.json();
+      var px    = pData.prices || {};
+      Object.keys(px).forEach(function(sym) {
+        if (px[sym] && px[sym].price) {
+          LIVE_PRICES[sym]  = px[sym].price;
+          PRICE_CHANGE[sym] = px[sym].change_pct || 0;
+        }
+      });
+      renderEarnings();
+    }
+
+    // ── 2. PORTFOLIO ───────────────────────────────────────────────
+    if (portfolioR.status === 'fulfilled' && portfolioR.value.ok) {
+      var pfData = await portfolioR.value.json();
+
+      // Update portfolio summary strip
+      if (pfData.summary) {
+        var s = pfData.summary;
+        var strip = document.querySelectorAll('.pf-cell');
+
+        function setCell(cell, label, val, sub, colorClass) {
+          if (!cell) return;
+          var lEl = cell.querySelector('.pf-label');
+          var vEl = cell.querySelector('.pf-val');
+          var sEl = cell.querySelector('.pf-sub');
+          if (lEl) lEl.textContent = label;
+          if (vEl) {
+            vEl.textContent = val;
+            vEl.className   = 'pf-val ' + (colorClass || '');
+          }
+          if (sEl && sub) {
+            sEl.textContent = sub;
+            sEl.className   = 'pf-sub ' + (colorClass || '');
+          }
+        }
+
+        var inv = s.total_invested;
+        var cur = s.total_current;
+        var pl  = s.total_pl;
+        var dpl = s.day_pl;
+        var plPct  = s.total_pl_pct;
+        var dplPct = s.day_pl_pct;
+
+        var sign   = pl  >= 0 ? '+' : '';
+        var dsign  = dpl >= 0 ? '+' : '';
+        var plColor  = pl  >= 0 ? 'c-up' : 'c-dn';
+        var dplColor = dpl >= 0 ? 'c-up' : 'c-dn';
+
+        if (strip[0]) setCell(strip[0], 'Invested',       '₹' + Math.round(inv).toLocaleString('en-IN'), '', '');
+        if (strip[1]) setCell(strip[1], 'Current Value',  '₹' + Math.round(cur).toLocaleString('en-IN'), '', plColor);
+        if (strip[2]) setCell(strip[2], 'Unrealised P&L', sign + '₹' + Math.round(pl).toLocaleString('en-IN'), sign + plPct + '%', plColor);
+        if (strip[3]) setCell(strip[3], "Today's P&L",    dsign + '₹' + Math.round(dpl).toLocaleString('en-IN'), dsign + dplPct + '%', dplColor);
+      }
+
+      // Update individual holdings CMP
+      if (pfData.holdings) {
+        pfData.holdings.forEach(function(h) {
+          PF.forEach(function(p) {
+            if (p.sym === h.symbol) {
+              p.cmp = h.cmp;
+              p.avg = h.avg_cost;
+            }
+          });
+        });
+        renderPortfolio();
+      }
+    }
+
+    // ── 3. EARNINGS DATES ──────────────────────────────────────────
+    if (earningsR.status === 'fulfilled' && earningsR.value.ok) {
+      var earnData = await earningsR.value.json();
+      if (earnData.earnings && earnData.earnings.length > 0) {
+        // Map BSE announcement dates back to our earnings array
+        earnData.earnings.forEach(function(bseEarn) {
+          var sym   = bseEarn.symbol;
+          var found = E.find(function(e) { return e.sym === sym; });
+          if (found && bseEarn.date) {
+            // Convert date format from BSE (YYYY-MM-DD) to display format (Mon DD)
+            try {
+              var d     = new Date(bseEarn.date);
+              var months= ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+              found.date     = months[d.getMonth()] + ' ' + String(d.getDate()).padStart(2,'0');
+              found.dateSort = d.getDate();
+              found.status   = 'reported';
+            } catch(e) {}
+          }
+        });
+        renderEarnings();
+        buildCalSidebar();
+      }
+    }
+
+    // ── 4. CORPORATE ACTIONS ───────────────────────────────────────
+    if (corpR.status === 'fulfilled' && corpR.value.ok) {
+      var corpData = await corpR.value.json();
+      if (corpData.actions) {
+        var a = corpData.actions;
+
+        function mapCorpRows(arr) {
+          return (arr || []).map(function(item) {
+            return {
+              sym:    item.symbol || '',
+              name:   item.symbol || '',
+              detail: item.purpose || '',
+              amt:    item.amount  || item.details || '—',
+              exDate: item.ex_date ? formatBseDate(item.ex_date) : '—',
+            };
+          });
+        }
+
+        function formatBseDate(d) {
+          if (!d) return '—';
+          try {
+            var dt = new Date(d);
+            var m  = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+            return m[dt.getMonth()] + ' ' + dt.getDate();
+          } catch(e) { return d; }
+        }
+
+        var divRows    = mapCorpRows(a.dividends);
+        var splitRows  = mapCorpRows(a.splits);
+        var bonusRows  = mapCorpRows(a.bonus);
+        var buybackRows= mapCorpRows(a.buyback);
+
+        // Only update if we got real data
+        if (divRows.length > 0) {
+          renderCA('ca-div',     divRows,     'c-up');
+          renderCA('ca-split',   splitRows,   'c-gold');
+          renderCA('ca-bonus',   bonusRows,   'c-gold');
+          renderCA('ca-buyback', buybackRows, 'c-gold');
+        }
+
+        // Update corp sidebar
+        buildCalSidebar();
+      }
+    }
+
+    // ── 5. MACRO EVENTS ────────────────────────────────────────────
+    if (macroR.status === 'fulfilled' && macroR.value.ok) {
+      var macroData = await macroR.value.json();
+
+      function formatMacroDate(d) {
+        if (!d) return '—';
+        try {
+          var dt = new Date(d);
+          var m  = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+          return m[dt.getMonth()] + ' ' + dt.getDate();
+        } catch(e) { return d; }
+      }
+
+      if (macroData.india && macroData.india.length > 0) {
+        var india = macroData.india.map(function(e) {
+          return {
+            date:   formatMacroDate(e.date),
+            name:   e.name,
+            sub:    e.sub,
+            impact: e.impact,
+            prev:   e.prev,
+            fore:   e.fore,
+          };
+        });
+        renderMacro('macro-india', india);
+        INDIA_EV = india;
+      }
+
+      if (macroData.global && macroData.global.length > 0) {
+        var global = macroData.global.map(function(e) {
+          return {
+            date:   formatMacroDate(e.date),
+            name:   e.name,
+            sub:    e.sub,
+            impact: e.impact,
+            prev:   e.prev,
+            fore:   e.fore,
+          };
+        });
+        renderMacro('macro-global', global);
+        GLOBAL_EV = global;
+      }
+
+      buildCalSidebar();
+    }
+
+    // ── 6. KPI STRIP ───────────────────────────────────────────────
+    if (kpisR.status === 'fulfilled' && kpisR.value.ok) {
+      var kpiData = await kpisR.value.json();
+      if (kpiData.kpis) {
+        var k     = kpiData.kpis;
+        var cells = document.querySelectorAll('.kpi-cell');
+
+        function updateKpi(cell, label, val, sub, colorClass) {
+          if (!cell) return;
+          var lEl = cell.querySelector('.kpi-label');
+          var vEl = cell.querySelector('.kpi-val');
+          var sEl = cell.querySelector('.kpi-sub');
+          if (lEl) lEl.textContent = label;
+          if (vEl) { vEl.textContent = val; vEl.className = 'kpi-val ' + (colorClass||''); }
+          if (sEl) sEl.textContent = sub;
+        }
+
+        updateKpi(cells[0], 'Results This Week',  k.results_this_week || '—',  'Nifty 500 companies', 'c-up');
+        updateKpi(cells[1], 'Beat Rate Q4 FY25',  (k.beat_rate || '—') + '%',  'vs. street estimate', 'c-up');
+        updateKpi(cells[2], 'Median Rev Growth',  '+' + (k.median_rev_growth||'—') + '%', 'YoY Nifty 500', 'c-up');
+        updateKpi(cells[3], 'Median PAT Growth',  '+' + (k.median_pat_growth||'—') + '%', 'YoY Nifty 500', 'c-up');
+        updateKpi(cells[4], 'Corporate Actions',  k.corporate_actions || '—',  'Ex-dates this month', 'c-blue');
+        updateKpi(cells[5], 'Advance / Decline',  k.advance_decline   || '—',  'Up / Down today',     'c-gold');
+        updateKpi(cells[6], 'Portfolio Alerts',   k.portfolio_alerts  || '—',  'Require attention',   'c-dn');
+      }
+    }
+
+    console.log('✅ All real data loaded from GitHub');
+
+  } catch(e) {
+    console.warn('Real data load error:', e.message);
+  }
+}
+
+// Run immediately + every 15 minutes
+loadAllRealData();
+setInterval(loadAllRealData, 15 * 60 * 1000);
+
 </script>
 </body>
 </html>
