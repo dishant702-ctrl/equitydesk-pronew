@@ -1404,27 +1404,41 @@ async function loadAllRealData() {
       }
     }
 
-    // ── 3. EARNINGS DATES ──────────────────────────────────────────
+    // ── 3. EARNINGS TABLE (real Revenue, PAT, EPS, Beat/Miss) ──────
     if (earningsR.status === 'fulfilled' && earningsR.value.ok) {
       var earnData = await earningsR.value.json();
+      // earnings_table.json has fully computed earnings from Screener.in
       if (earnData.earnings && earnData.earnings.length > 0) {
-        // Map BSE announcement dates back to our earnings array
-        earnData.earnings.forEach(function(bseEarn) {
-          var sym   = bseEarn.symbol;
-          var found = E.find(function(e) { return e.sym === sym; });
-          if (found && bseEarn.date) {
-            // Convert date format from BSE (YYYY-MM-DD) to display format (Mon DD)
-            try {
-              var d     = new Date(bseEarn.date);
-              var months= ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-              found.date     = months[d.getMonth()] + ' ' + String(d.getDate()).padStart(2,'0');
-              found.dateSort = d.getDate();
-              found.status   = 'reported';
-            } catch(e) {}
-          }
+        // Replace entire E array with real data
+        E = earnData.earnings.map(function(e) {
+          return {
+            sym:      e.sym,
+            name:     e.name,
+            sector:   e.sector,
+            sKey:     e.sKey,
+            date:     e.date,
+            dateSort: e.dateSort,
+            rev:      e.rev,
+            pat:      e.pat,
+            eps:      e.eps,
+            yoyRev:   e.yoyRev,
+            yoyPat:   e.yoyPat,
+            vsEst:    e.vsEst,
+            status:   e.status,
+            trend:    e.trend || [60,65,68,72,75,78],
+          };
         });
         renderEarnings();
         buildCalSidebar();
+
+        // Update KPI badges
+        if (earnData.summary) {
+          var s = earnData.summary;
+          var badges = document.querySelectorAll('.sect-badges .badge');
+          if (badges[0]) badges[0].textContent = '▲ ' + (s.total_reported - (earnData.earnings.filter(function(e){return e.vsEst==='miss'||e.vsEst==='in-line';}).length)) + ' Beat';
+          if (badges[3]) badges[3].textContent = '⏳ ' + s.total_upcoming + ' Upcoming';
+        }
+        console.log('✅ Real earnings data loaded:', earnData.earnings.length, 'stocks');
       }
     }
 
