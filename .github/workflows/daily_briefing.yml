@@ -1,0 +1,65 @@
+# .github/workflows/daily_briefing.yml
+# ─────────────────────────────────────────────────────────────────────────────
+# Runs every weekday at 4:00 PM IST (10:30 AM UTC) — after market close
+# Generates PDF briefing and sends to Telegram group
+# ─────────────────────────────────────────────────────────────────────────────
+ 
+name: Daily Briefing — PDF + Telegram
+ 
+on:
+  schedule:
+    # 4:00 PM IST = 10:30 AM UTC, Mon–Fri
+    - cron: '30 10 * * 1-5'
+  workflow_dispatch:   # Manual trigger anytime
+ 
+permissions:
+  contents: read
+ 
+jobs:
+  daily-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+ 
+    steps:
+      # 1. Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v4
+ 
+      # 2. Python setup
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+ 
+      # 3. Install dependencies
+      - name: Install Python packages
+        run: pip install -r requirements.txt --break-system-packages
+ 
+      # 4. Create folders
+      - name: Create directories
+        run: mkdir -p data output bse_data
+ 
+      # 5. Fetch latest data (fresh pull before PDF)
+      - name: Fetch latest market data
+        run: python scripts/fetch_data.py
+ 
+      # 6. Generate the PDF briefing
+      - name: Generate PDF briefing
+        run: python scripts/generate_pdf.py
+ 
+      # 7. Send to Telegram group
+      - name: Send to Telegram group
+        run: python scripts/send_telegram.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+ 
+      # 8. Upload PDF as GitHub artifact (optional — keeps a 30-day archive)
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing-${{ github.run_number }}
+          path: output/EquityDesk-Briefing-*.pdf
+          retention-days: 30
+ 
