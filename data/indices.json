@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-06-04T10:00:06.672366",
+  "updated_at": "2026-06-04T10:01:30.656963",
   "indices": {
     "NIFTY50": {
-      "price": 23437.8,
-      "change": 40.85,
-      "change_pct": 0.17
+      "price": 23416.55,
+      "change": 19.6,
+      "change_pct": 0.08
     },
     "NIFTY500": {
-      "price": 22513.1,
-      "change": 67.8,
-      "change_pct": 0.3
+      "price": 22497.7,
+      "change": 52.4,
+      "change_pct": 0.23
     },
     "BANKNIFTY": {
-      "price": 54331.75,
-      "change": 84.7,
-      "change_pct": 0.16
+      "price": 54307.85,
+      "change": 60.8,
+      "change_pct": 0.11
     },
     "INDIAVIX": {
       "price": 15.77,
@@ -22,14 +22,14 @@
       "change_pct": -3.33
     },
     "USDINR": {
-      "price": 95.77,
-      "change": 0.08,
-      "change_pct": 0.08
+      "price": 95.79,
+      "change": 0.09,
+      "change_pct": 0.09
     },
     "BRENT": {
-      "price": 95.73,
-      "change": -1.12,
-      "change_pct": -1.16
+      "price": 95.65,
+      "change": -1.2,
+      "change_pct": -1.24
     },
     "GSEC10Y": {
       "price": 7.08,
