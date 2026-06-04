@@ -1,7 +1,0 @@
-yfinance
-bse
-google-generativeai
-fpdf2
-requests
-pandas
-python-telegram-bot
