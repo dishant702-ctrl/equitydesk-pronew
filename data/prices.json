@@ -1,106 +1,65 @@
 {
-  "updated_at": "2026-06-04T10:26:56.204346",
-  "updated_ist": "04 Jun 2026 15:56 IST",
+  "updated_ist": "04 Jun 2026 16:48 IST",
   "prices": {
     "RELIANCE": {
-      "symbol": "RELIANCE",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "TCS": {
-      "symbol": "TCS",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "HDFCBANK": {
-      "symbol": "HDFCBANK",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "INFY": {
-      "symbol": "INFY",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "ICICIBANK": {
-      "symbol": "ICICIBANK",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "BAJFINANCE": {
-      "symbol": "BAJFINANCE",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "WIPRO": {
-      "symbol": "WIPRO",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "SBIN": {
-      "symbol": "SBIN",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "KOTAKBANK": {
-      "symbol": "KOTAKBANK",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "MARUTI": {
-      "symbol": "MARUTI",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "SUNPHARMA": {
-      "symbol": "SUNPHARMA",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "TATAMOTORS": {
-      "symbol": "TATAMOTORS",
-      "price": null,
-      "error": "'exchangeTimezoneName'"
+      "price": null
     },
     "ULTRACEMCO": {
-      "symbol": "ULTRACEMCO",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "NESTLEIND": {
-      "symbol": "NESTLEIND",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "HCLTECH": {
-      "symbol": "HCLTECH",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
     "AXISBANK": {
-      "symbol": "AXISBANK",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     },
-    "LT": {
-      "symbol": "LT",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+    "ITC": {
+      "price": null
     },
     "TITAN": {
-      "symbol": "TITAN",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
+    },
+    "LT": {
+      "price": null
     },
     "ASIANPAINT": {
-      "symbol": "ASIANPAINT",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
-    },
-    "POWERGRID": {
-      "symbol": "POWERGRID",
-      "price": null,
-      "error": "'FastInfo' object has no attribute 'fifty_two_week_high'"
+      "price": null
     }
   }
 }

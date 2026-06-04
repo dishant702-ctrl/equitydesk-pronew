@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-04T10:26:56.205163",
+  "updated_ist": "04 Jun 2026 16:50 IST",
   "india": [
     {
       "date": "2026-07-04",
       "name": "RBI MPC Policy Decision",
-      "sub": "Monetary Policy Committee Repo Rate",
+      "sub": "Repo Rate Decision",
       "impact": "H",
       "prev": "6.00%",
       "fore": "TBD"
@@ -36,7 +36,7 @@
     {
       "date": "2026-07-18",
       "name": "GST Collections \u2014 June 2026",
-      "sub": "Goods & Services Tax Revenue",
+      "sub": "GST Revenue (Finance Ministry)",
       "impact": "M",
       "prev": "\u20b91.78L Cr",
       "fore": "TBD"
@@ -62,7 +62,7 @@
     {
       "date": "2026-07-04",
       "name": "US Jobs Report \u2014 June",
-      "sub": "Non-Farm Payrolls",
+      "sub": "Non-Farm Payrolls (BLS)",
       "impact": "H",
       "prev": "185K",
       "fore": "TBD"
@@ -76,19 +76,11 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-11",
-      "name": "US PPI \u2014 June",
-      "sub": "Producer Price Index",
-      "impact": "M",
-      "prev": "2.4%",
-      "fore": "TBD"
-    },
-    {
-      "date": "2026-07-25",
-      "name": "US FOMC Rate Decision",
-      "sub": "Federal Reserve Q3 2026",
+      "date": "2026-07-15",
+      "name": "China Q2 2026 GDP",
+      "sub": "National Bureau of Statistics",
       "impact": "H",
-      "prev": "5.00\u20135.25%",
+      "prev": "5.3%",
       "fore": "TBD"
     },
     {
@@ -100,11 +92,19 @@
       "fore": "TBD"
     },
     {
-      "date": "2026-07-15",
-      "name": "China Q2 2026 GDP",
-      "sub": "National Bureau of Statistics",
+      "date": "2026-07-25",
+      "name": "US FOMC Rate Decision",
+      "sub": "Federal Reserve Q3 2026",
       "impact": "H",
-      "prev": "5.3%",
+      "prev": "5.00\u20135.25%",
+      "fore": "TBD"
+    },
+    {
+      "date": "2026-07-28",
+      "name": "US PCE Inflation \u2014 June",
+      "sub": "Personal Consumption Expenditure",
+      "impact": "H",
+      "prev": "2.6%",
       "fore": "TBD"
     },
     {
