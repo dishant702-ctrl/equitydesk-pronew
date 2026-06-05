@@ -468,29 +468,9 @@ body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellips
 // DATA — starts as empty/fallback, gets replaced by live JSON files
 // ═══════════════════════════════════════════════════════════════════
 
-var E = [
-  // Real Q4 FY25 data — confirmed NSE result dates + Screener.in financials
-  {sym:'INFY',      name:'Infosys',             sector:'IT',      sKey:'it',      date:'Apr 17',dateSort:17, rev:40925, pat:7033,  eps:16.9,  yoyRev:7.9,  yoyPat:11.8, vsEst:'beat',    status:'reported', trend:[72,74,76,78,80,84]},
-  {sym:'WIPRO',     name:'Wipro',               sector:'IT',      sKey:'it',      date:'Apr 19',dateSort:19, rev:22504, pat:3570,  eps:6.8,   yoyRev:1.2,  yoyPat:26.0, vsEst:'beat',    status:'reported', trend:[70,68,66,68,70,74]},
-  {sym:'BAJFINANCE',name:'Bajaj Finance',       sector:'NBFC',    sKey:'nbfc',    date:'Apr 19',dateSort:19, rev:18295, pat:4546,  eps:73.5,  yoyRev:24.9, yoyPat:19.8, vsEst:'beat',    status:'reported', trend:[55,62,70,78,86,90]},
-  {sym:'HDFCBANK',  name:'HDFC Bank',           sector:'Banking', sKey:'banking', date:'Apr 22',dateSort:22, rev:91065, pat:17616, eps:23.0,  yoyRev:16.4, yoyPat:6.7,  vsEst:'in-line', status:'reported', trend:[74,76,78,80,82,84]},
-  {sym:'KOTAKBANK', name:'Kotak Mahindra Bank', sector:'Banking', sKey:'banking', date:'Apr 22',dateSort:22, rev:31055, pat:7260,  eps:36.5,  yoyRev:13.8, yoyPat:5.3,  vsEst:'in-line', status:'reported', trend:[70,72,74,76,78,80]},
-  {sym:'ASIANPAINT',name:'Asian Paints',        sector:'Paints',  sKey:'paints',  date:'Apr 23',dateSort:23, rev:8460,  pat:694,   eps:7.2,   yoyRev:-3.4, yoyPat:-47.8,vsEst:'miss',    status:'reported', trend:[90,85,78,70,62,55]},
-  {sym:'ULTRACEMCO',name:'UltraTech Cement',    sector:'Cement',  sKey:'cement',  date:'Apr 24',dateSort:24, rev:22540, pat:3073,  eps:106.4, yoyRev:7.3,  yoyPat:14.7, vsEst:'beat',    status:'reported', trend:[65,68,72,76,80,84]},
-  {sym:'AXISBANK',  name:'Axis Bank',           sector:'Banking', sKey:'banking', date:'Apr 24',dateSort:24, rev:31450, pat:7130,  eps:23.0,  yoyRev:14.0, yoyPat:3.7,  vsEst:'in-line', status:'reported', trend:[68,70,72,74,76,78]},
-  {sym:'MARUTI',    name:'Maruti Suzuki',        sector:'Auto',    sKey:'auto',    date:'Apr 25',dateSort:25, rev:41000, pat:3860,  eps:127.6, yoyRev:6.7,  yoyPat:5.5,  vsEst:'beat',    status:'reported', trend:[64,68,72,76,80,84]},
-  {sym:'NESTLEIND', name:'Nestle India',         sector:'FMCG',    sKey:'fmcg',    date:'Apr 25',dateSort:25, rev:5300,  pat:785,   eps:81.4,  yoyRev:4.5,  yoyPat:8.7,  vsEst:'beat',    status:'reported', trend:[78,80,82,84,86,88]},
-  {sym:'ICICIBANK', name:'ICICI Bank',           sector:'Banking', sKey:'banking', date:'Apr 28',dateSort:28, rev:49534, pat:12629, eps:17.9,  yoyRev:17.6, yoyPat:15.4, vsEst:'beat',    status:'reported', trend:[62,68,74,80,86,92]},
-  {sym:'TATAMOTORS',name:'Tata Motors',          sector:'Auto',    sKey:'auto',    date:'Apr 28',dateSort:28, rev:119986,pat:8682,  eps:23.5,  yoyRev:2.1,  yoyPat:22.2, vsEst:'beat',    status:'reported', trend:[52,58,65,72,78,84]},
-  {sym:'LT',        name:'Larsen & Toubro',      sector:'Infra',   sKey:'infra',   date:'Apr 29',dateSort:29, rev:68617, pat:5497,  eps:78.2,  yoyRev:17.3, yoyPat:14.0, vsEst:'beat',    status:'reported', trend:[66,70,74,78,82,86]},
-  {sym:'SBIN',      name:'State Bank of India',  sector:'Banking', sKey:'banking', date:'Apr 30',dateSort:30, rev:135000,pat:22069, eps:24.7,  yoyRev:9.6,  yoyPat:10.3, vsEst:'beat',    status:'reported', trend:[50,56,63,70,77,84]},
-  {sym:'SUNPHARMA', name:'Sun Pharmaceutical',   sector:'Pharma',  sKey:'pharma',  date:'Apr 30',dateSort:30, rev:15480, pat:3244,  eps:13.5,  yoyRev:13.0, yoyPat:27.6, vsEst:'beat',    status:'reported', trend:[68,72,76,80,84,88]},
-  {sym:'RELIANCE',  name:'Reliance Industries',  sector:'Energy',  sKey:'energy',  date:'May 02',dateSort:2,  rev:243711,pat:19407, eps:28.7,  yoyRev:8.4,  yoyPat:6.4,  vsEst:'in-line', status:'reported', trend:[72,74,76,78,80,82]},
-  {sym:'TCS',       name:'Tata Consultancy',     sector:'IT',      sKey:'it',      date:'May 08',dateSort:8,  rev:63437, pat:12224, eps:33.5,  yoyRev:5.3,  yoyPat:5.5,  vsEst:'in-line', status:'reported', trend:[80,82,84,85,86,87]},
-  {sym:'HCLTECH',   name:'HCL Technologies',     sector:'IT',      sKey:'it',      date:'May 12',dateSort:12, rev:30006, pat:4307,  eps:15.8,  yoyRev:8.6,  yoyPat:10.2, vsEst:'beat',    status:'reported', trend:[72,75,78,80,82,85]},
-  {sym:'ITC',       name:'ITC',                  sector:'FMCG',    sKey:'fmcg',    date:'May 15',dateSort:15, rev:20064, pat:5476,  eps:4.4,   yoyRev:6.5,  yoyPat:11.5, vsEst:'beat',    status:'reported', trend:[74,76,78,80,82,84]},
-  {sym:'TITAN',     name:'Titan Company',        sector:'Consumer',sKey:'consumer',date:'May 19',dateSort:19, rev:13155, pat:770,   eps:8.7,   yoyRev:18.6, yoyPat:5.1,  vsEst:'in-line', status:'reported', trend:[68,72,76,78,80,82]},
-];
+var E = [];
+// E is populated from data/earnings_table.json by loadGitHubData()
+// When empty, the table shows "Awaiting next earnings season" message
 var CA = {div:[],split:[],bonus:[],buyback:[]};
 var INDIA_EV = [];
 var GLOBAL_EV = [];
@@ -613,7 +593,7 @@ function changeMonth(d){curDate.setMonth(curDate.getMonth()+d);buildCalendar();}
 function buildSidebar(){
   document.getElementById('cal-earn').innerHTML = E.filter(function(x){return x.status!=='reported';}).slice(0,6).map(function(e){
     return '<div class="ev-row"><div class="ev-db"><div class="ev-d">'+(e.date?e.date.split(' ')[1]||'?':'?')+'</div><div class="ev-m">'+(e.date?e.date.split(' ')[0]||'?':'?')+'</div></div><div class="ev-body"><div class="ev-name">'+e.sym+' — '+e.sector+'</div><div class="ev-sub">Q4 FY25 Results</div></div><span class="ev-tag '+(e.status==='confirmed'?'tag-con':'tag-ten')+'">'+e.status+'</span></div>';
-  }).join('') || '<div style="padding:14px 16px;color:var(--t4);font-size:12px">Loading earnings dates...</div>';
+  }).join('') || '<div style="padding:16px;color:var(--t4);font-size:12px;line-height:1.6">📅 <strong style="color:var(--t2)">Q1 FY26 Season</strong><br>Result dates not yet announced.<br>BSE typically announces 7-14 days prior.<br><span style="color:var(--t4);font-size:11px">Expected: Mid-July 2026</span></div>';
 
   document.getElementById('cal-corp').innerHTML = CA.div.slice(0,3).concat(CA.split.slice(0,2)).map(function(c){
     return '<div class="ev-row"><div class="ev-db"><div class="ev-d">'+(c.ex_date||c.exDate||'?').slice(-2)+'</div><div class="ev-m">Jun</div></div><div class="ev-body"><div class="ev-name">'+c.symbol+' — '+(c.purpose||c.detail||'')+'</div><div class="ev-sub">'+(c.amount||c.amt||'')+'</div></div></div>';
@@ -651,7 +631,7 @@ function renderEarnings(){
     var px=LIVE_PRICES[e.sym], chg=PRICE_CHANGE[e.sym]||0;
     var priceHtml=px?'<span class="price-live '+(chg>=0?'c-up':'c-dn')+'">₹'+px.toLocaleString('en-IN')+'</span><span class="'+(chg>=0?'c-up':'c-dn')+'" style="font-size:10px;font-family:var(--mono)"> '+(chg>=0?'+':'')+chg+'%</span>':'<span style="color:var(--t4);font-family:var(--mono);font-size:11px">—</span>';
     return '<tr><td><span class="sym">'+e.sym+'</span></td><td><span class="co">'+e.name+'</span></td><td><span class="sec-pill">'+e.sector+'</span></td><td class="num">'+e.date+'</td><td class="num" style="text-align:right">'+(e.rev?e.rev.toLocaleString('en-IN'):'—')+'</td><td class="num" style="text-align:right">'+(e.pat?e.pat.toLocaleString('en-IN'):'—')+'</td><td class="num" style="text-align:right">'+(e.eps||'—')+'</td><td class="num '+rc+'" style="text-align:right">'+(e.yoyRev?(e.yoyRev>=0?'+':'')+e.yoyRev+'%':'—')+'</td><td class="num '+pc+'" style="text-align:right">'+(e.yoyPat?(e.yoyPat>=0?'+':'')+e.yoyPat+'%':'—')+'</td><td>'+vs+'</td><td>'+priceHtml+'</td><td>'+spark+'</td><td><span class="st-pill st-'+e.status+'">'+e.status+'</span></td><td><button class="ai-btn" onclick="openAI(\''+e.sym+'\',\'earnings\')">✦</button></td></tr>';
-  }).join('') || '<tr><td colspan="14" style="text-align:center;padding:24px;color:var(--t4)">Loading earnings data from Screener.in...</td></tr>';
+  }).join('') || '<tr><td colspan="14" style="text-align:center;padding:32px;color:var(--t4)"><div style="font-size:14px;margin-bottom:8px">📅 Awaiting Q1 FY26 Result Announcements</div><div style="font-size:12px">Companies announce board meeting dates 7-14 days before results.<br>Calendar will auto-populate when BSE announces dates — typically from mid-July 2026.</div></td></tr>';
 
   document.getElementById('earn-count').textContent = data.length;
 }
