@@ -1,6 +1,17 @@
 {
-  "updated_ist": "05 Jun 2026 16:50 IST",
+  "updated_ist": "05 Jun 2026 17:02 IST",
   "news": [
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Rupee posts biggest daily gain in 2 months, closes at 94.94 vs USD as RBI ramps up currency defence",
       "source": "Economic Times",
@@ -70,6 +81,33 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-fall-3-after-fire-breaks-out-at-uks-port-talbot-plant/articleshow/131526036.cms",
       "date": "Fri, 05 Jun 2026",
       "desc": "Tata Steel shares dropped nearly 3% after a fire at its Port Talbot plant in the UK forced a temporary halt to operations. While emergency services extinguished the blaze, the extent of operational im",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
