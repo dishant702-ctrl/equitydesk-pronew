@@ -1,109 +1,61 @@
 {
-  "updated_ist": "05 Jun 2026 00:02 IST",
-  "summary": {
-    "total_invested": 871100,
-    "total_current": 871100,
-    "total_pl": 0,
-    "total_pl_pct": 0.0,
-    "day_pl": 0.0,
-    "day_pl_pct": 0.0
-  },
+  "updated_ist": "05 Jun 2026 16:50 IST",
   "holdings": [
     {
       "symbol": "RELIANCE",
       "qty": 50,
       "avg_cost": 2640,
-      "cmp": 2640,
-      "change_pct": 0,
-      "invested": 132000,
-      "current_val": 132000,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "HDFCBANK",
       "qty": 80,
       "avg_cost": 1580,
-      "cmp": 1580,
-      "change_pct": 0,
-      "invested": 126400,
-      "current_val": 126400,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "INFY",
       "qty": 70,
       "avg_cost": 1680,
-      "cmp": 1680,
-      "change_pct": 0,
-      "invested": 117600,
-      "current_val": 117600,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "TCS",
       "qty": 30,
       "avg_cost": 3820,
-      "cmp": 3820,
-      "change_pct": 0,
-      "invested": 114600,
-      "current_val": 114600,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "ITC",
       "qty": 200,
       "avg_cost": 420,
-      "cmp": 420,
-      "change_pct": 0,
-      "invested": 84000,
-      "current_val": 84000,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "BAJFINANCE",
       "qty": 15,
       "avg_cost": 7200,
-      "cmp": 7200,
-      "change_pct": 0,
-      "invested": 108000,
-      "current_val": 108000,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "ICICIBANK",
       "qty": 100,
       "avg_cost": 940,
-      "cmp": 940,
-      "change_pct": 0,
-      "invested": 94000,
-      "current_val": 94000,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     },
     {
       "symbol": "AXISBANK",
       "qty": 90,
       "avg_cost": 1050,
-      "cmp": 1050,
-      "change_pct": 0,
-      "invested": 94500,
-      "current_val": 94500,
-      "unreal_pl": 0,
-      "unreal_pct": 0.0,
-      "day_pl": 0.0
+      "cmp": 0
     }
-  ]
+  ],
+  "summary": {
+    "total_invested": 0,
+    "total_current": 0,
+    "total_pl": 0,
+    "total_pl_pct": 0,
+    "day_pl": 0,
+    "day_pl_pct": 0
+  }
 }
