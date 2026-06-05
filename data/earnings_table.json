@@ -1,5 +1,5 @@
 {
-  "updated_ist": "05 Jun 2026 17:33 IST",
+  "updated_ist": "05 Jun 2026 17:56 IST",
   "earnings": [
     {
       "sym": "RELIANCE",
@@ -23,7 +23,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "TCS",
@@ -47,7 +49,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "HDFCBANK",
@@ -71,7 +75,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "INFY",
@@ -95,7 +101,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "ICICIBANK",
@@ -119,7 +127,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "BAJFINANCE",
@@ -143,7 +153,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "WIPRO",
@@ -167,7 +179,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "SBIN",
@@ -191,7 +205,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "KOTAKBANK",
@@ -215,7 +231,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "MARUTI",
@@ -239,7 +257,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "SUNPHARMA",
@@ -263,7 +283,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "TATAMOTORS",
@@ -287,7 +309,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "ULTRACEMCO",
@@ -311,7 +335,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "NESTLEIND",
@@ -335,7 +361,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "HCLTECH",
@@ -359,7 +387,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "AXISBANK",
@@ -383,7 +413,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "ITC",
@@ -407,7 +439,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "TITAN",
@@ -431,7 +465,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "LT",
@@ -455,7 +491,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     },
     {
       "sym": "ASIANPAINT",
@@ -479,7 +517,9 @@
         75,
         78
       ],
-      "quarter": "Q1 FY26"
+      "quarter": "Q1 FY26",
+      "cmp": 0,
+      "chg_pct": 0
     }
   ],
   "summary": {

@@ -1,5 +1,5 @@
 {
-  "updated_ist": "05 Jun 2026 17:33 IST",
+  "updated_ist": "05 Jun 2026 17:56 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,24 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Stable rates, steady demand: Why real estate players see RBI's pause as a confidence booster",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/stable-rates-steady-demand-why-real-estate-players-see-rbis-pause-as-a-confidence-booster/articleshow/131531604.cms",
+      "date": "Fri, 05 Jun 2026",
+      "desc": "With retail inflation easing to 3.48% in April and remaining below the RBI's 4% target, industry stakeholders see little immediate pressure on interest rates, creating a favourable backdrop for the ho",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq, S&amp;P futures decline as semiconductors slip; payrolls in focus",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-amd-broadcom-intel-stock-price-news-5th-june-2026/liveblog/131531600.cms",
+      "date": "Fri, 05 Jun 2026",
+      "desc": " ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Rupee posts biggest daily gain in 2 months, closes at 94.94 vs USD as RBI ramps up currency defence",
@@ -67,24 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "R Gandhi calls RBI policy 'on expected lines', sees no immediate rate hike risks",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/r-gandhi-calls-rbi-policy-on-expected-lines-sees-no-immediate-rate-hike-risks/articleshow/131526672.cms",
-      "date": "Fri, 05 Jun 2026",
-      "desc": "The Reserve Bank of India has maintained its neutral policy stance and kept interest rates steady. The central bank has adjusted its forecasts for economic growth and inflation. New measures are in pl",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tata Steel shares fall 3% after fire breaks out at UK\u2019s Port Talbot plant",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-shares-fall-3-after-fire-breaks-out-at-uks-port-talbot-plant/articleshow/131526036.cms",
-      "date": "Fri, 05 Jun 2026",
-      "desc": "Tata Steel shares dropped nearly 3% after a fire at its Port Talbot plant in the UK forced a temporary halt to operations. While emergency services extinguished the blaze, the extent of operational im",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -108,6 +108,15 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US stock market today: Nasdaq, S&amp;P 500 futures drop up to 1% as investors rotate out of chip stocks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-drop-up-to-1-as-investors-rotate-out-of-chip-stocks-11780659075369.html",
+      "date": "Fri, 05 Jun 2026",
+      "desc": "Chip stocks rally stalls, leading to shift in investor focus. US-Iran peace talks and ceasefire in focus. Labor Department to report job gains amid economic uncertainty and high energy prices.",
       "tags": [],
       "is_portfolio": false
     },
@@ -171,15 +180,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/meesho-share-price-jumps-after-falling-for-eight-straight-sessions-choice-sees-more-upside-11780644560727.html",
       "date": "Fri, 05 Jun 2026",
       "desc": "Meesho stock opened at  \u20b9166.46 apiece today, as compared to the previous closing price of  \u20b9165.34 on Thursday. Here's what's driving the stock, along with share price trend.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Polymer currency notes proposal under consideration, says RBI Governor Sanjay Malhotra",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/polymer-currency-notes-proposal-under-consideration-says-rbi-governor-sanjay-malhotra-11780647512433.html",
-      "date": "Fri, 05 Jun 2026",
-      "desc": "Speaking at the post-policy press conference on Friday, Malhotra said the consideration was still at a preliminary stage and the central bank was examining its pros and cons.",
       "tags": [],
       "is_portfolio": false
     }
