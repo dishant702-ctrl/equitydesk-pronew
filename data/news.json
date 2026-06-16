@@ -1,149 +1,147 @@
 {
-  "updated_ist": "16 Jun 2026 00:27 IST",
+  "updated_ist": "17 Jun 2026 00:17 IST",
   "news": [
     {
-      "title": "India's $200 billion IT industry will be gone! Vinod Khosla warns AI agents can replace TCS, Infosys and Wipro's work",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/indias-200-billion-it-industry-will-be-gone-vinod-khosla-warns-ai-agents-can-replace-tcs-infosys-and-wipros-work-11781543877556.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Vinod Khosla warns that India's IT and BPO sectors may face disruption from AI, urging quick adaptation. While risks exist, he sees opportunities for AI deployment in various industries, emphasising t",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "US stocks: Nvidia\u2019s jumbo bond sale draws $85 billion of investor demand",
+      "title": "SpaceX options trading debut draws record volume as investors chase rocket stock",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-jumbo-bond-sale-draws-85-billion-of-investor-demand/articleshow/131751921.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Nvidia has secured approximately $85 billion in orders for its substantial debt offering, seeking to raise at least $20 billion. This immense investor demand highlights the strong appetite for exposur",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US stocks: SpaceX IPO haul rises to $85.7 billion after underwriters exercise greenshoe",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-ipo-haul-rises-to-85-7-billion-after-underwriters-exercise-greenshoe/articleshow/131749730.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "SpaceX's initial public offering has raised a record $85.7 billion. Underwriters exercised an option to buy more shares after strong demand. The company's stock saw significant gains following its mar",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131749233.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Indian equities rallied sharply as an interim US-Iran peace framework eased geopolitical concerns and pushed oil prices lower. Improved inflation and interest-rate expectations lifted sentiment, helpi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Govt to sell up to 5% stake in insurer GIC via OFS",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-5-stake-in-insurer-gic-via-ofs/articleshow/131749173.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "The Indian government is set to divest up to a 5% stake in General Insurance Corporation. This offer for sale begins for non-retail investors on June 16 and for retail investors on June 17. The floor ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market trading guide: NDR Auto among 2 stock recommendations for Tuesday",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Improved investor sentiment following the interim US-Iran peace agreement has supported equities as crude fell below $85, easing inflation concerns and improving the FY27 outlook. Analysts favour grow",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Angel One settles Sebi proceedings over lapses in monitoring authorised persons, pays Rs 4.28 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-settles-sebi-proceedings-over-lapses-in-monitoring-authorised-persons-pays-rs-4-28-crore/articleshow/131748199.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Angel One has settled Sebi's adjudication and enquiry proceedings by paying Rs 4.28 crore. The regulator had alleged supervisory and monitoring lapses involving two authorised persons, including failu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Waaree Energies gets shareholders' nod to raise up to Rs 10,000 cr via QIP",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-gets-shareholders-nod-to-raise-up-to-rs-10000-cr-via-qip/articleshow/131747779.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Waaree Energies shareholders have approved a significant capital raise. The company can now raise up to Rs 10,000 crore through a Qualified Institutions Placement. This move will bolster the company's",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US stocks: Dow hits record high on Iran deal optimism, lower oil prices",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-gains-as-investors-welcome-iran-deal/articleshow/131746807.cms",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Major Wall Street indexes surged at the open on Monday following a preliminary agreement between Washington and Tehran to resolve the Middle East conflict and reopen the Strait of Hormuz. This develop",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SpaceX IPO Stress Tests Crypto\u2019s Bid to Reinvent Stocks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/spacex-ipo-stress-tests-crypto-s-bid-to-reinvent-stocks-11781548943844.html",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-options-trading-debut-draws-record-volume-as-investors-chase-rocket-stock/articleshow/131777130.cms",
       "date": "Tue, 16 Jun 2026",
-      "desc": "For years, crypto firms have argued that blockchain technology could create markets for private companies long before they reach Wall Street. SpaceX provided the industry\u2019s biggest test yet. The resul",
+      "desc": "SpaceX options trading saw massive investor interest on Tuesday. Over half a million contracts traded in the first hour. This made SpaceX the most heavily traded company ever on its debut options day.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gold, silver rates today: Comex gold and silver extend gains as US-Iran peace deal eases rate hike fears",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-gains-as-us-iran-peace-deal-eases-rate-hike-fears-11781538171833.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Precious metals surged on 15 June after a US-Iran deal to reopen the Strait of Hormuz eased interest-rate hike fears. Gold rose $123 per ounce, and silver jumped $3.4, driven by safe-haven demand amid",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131776215.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "Indian equities extended gains for a third straight session, with Sensex and Nifty rising on optimism over the Iran-US peace framework and lower oil prices. Broad-based buying in IT, realty, FMCG and ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SpaceX shares jump over 9% as record IPO gains extend into second day",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/spacex-shares-jump-over-9-as-record-ipo-gains-extend-into-second-day-11781534046758.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "SpaceX shares surged 9.2% to $176 on 15 June, following a historic Nasdaq debut. Valued at over $2 trillion, SpaceX has become the sixth-largest US public company, surpassing Tesla. The debut attracte",
+      "title": "Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "Indian equities extended their recovery as easing US-Iran tensions and softer crude prices supported sentiment. Analysts highlighted Titagarh Rail, Rane Holdings, Bandhan Bank, CMPDI and Netweb Techno",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi revamps ETF trading framework, introduces dynamic price bands",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/sebi-revamps-etf-trading-framework-introduces-dynamic-price-bands-mfs-11781529737086.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Currently, equity, debt and commodity ETFs are subject to a fixed 20% price limit, while overnight ETFs operate with a 5% band. These bands are applied on a base price derived from the ETF's net asset",
+      "title": "US stocks: SpaceX nears $3 trillion valuation, overtakes Amazon and Microsoft in market value",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-vaults-past-microsoft-and-amazons-market-value-as-post-ipo-momentum-builds/articleshow/131774741.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "SpaceX shares surged over 14% Tuesday, briefly surpassing Amazon and challenging Microsoft with a nearly $2.9 trillion valuation. The rally, fueled by options trading and anticipation of index inclusi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Options market sees big flip before West Asia peace deal",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/options-market-f-o-traders-west-asia-peace-deal-stock-markets-india-11781520350498.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Bears ran for cover, while bulls drove up the Nifty 3% in over two days. Challenge for bulls now lies at surpassing 24000 as the durability of the deal comes into focus&amp;nbsp;",
+      "title": "RIL AGM 2026: Date, Time &amp; 4 Big Things to Watch (Jio IPO, Retail, Energy)",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-date-time-4-big-things-to-watch-jio-ipo-retail-energy/videoshow/131774257.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Roku shares fall as Fox strikes $22 billion deal to acquire streaming platform",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/roku-shares-fall-as-fox-strikes-22-billion-deal-to-acquire-streaming-platform-11781531465107.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "In a $22 billion deal, Fox Corp will acquire Roku, which will impact the US streaming landscape. The transaction aims to strengthen competitive positioning against major players while enhancing their ",
+      "title": "Sebi drops proceedings against Prime Focus in misleading financials case",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-proceedings-against-prime-focus-in-misleading-financials-case/articleshow/131773651.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "Sebi has closed adjudication proceedings against Prime Focus and its directors, ruling that the company correctly accounted for business transfers to indirect subsidiaries. The regulator found no evid",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Markets surge as US-Iran truce calms geopolitical jitters, revives global risk-on mood",
+      "title": "US stocks: Dow hits record high as oil slides; SpaceX shares soar",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-touches-record-high-as-oil-prices-slide-retreats-below-80/articleshow/131773643.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "The Dow Jones Industrial Average reached a new record high on Tuesday, driven by falling oil prices amid optimism for a U.S.-Iran peace deal. Meanwhile, SpaceX's market value surged past Amazon's, pos",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Brent oil price drops under $80 on US-Iran deal",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-oil-price-drops-under-80-on-us-iran-deal/articleshow/131773568.cms",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "Oil prices fell to a three-month low Tuesday on optimism over the expected reopening of the Strait of Hormuz after a peace deal between the United States and Iran. \"Traders are pricing in the reopenin",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Crude tumbles from $113 to $83, but relief for India will have to wait",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/equity-markets-us-iran-deal-geopolitical-risk-on-nifty-sensex-11781524554741.html",
-      "date": "Mon, 15 Jun 2026",
-      "desc": "Reports of a US-Iran peace agreement have spurred optimism in global markets, boosting investor confidence in India\u2019s equity indices. Analysts expect benefits across multiple sectors, including aviati",
+      "link": "https://www.livemint.com/market/crude-tumbles-from-113-to-83-but-relief-for-india-will-have-to-wait-11781604988533.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "The latest oil shock is fading much faster than the Russia\u2013Ukraine episode, reflecting greater confidence that global energy supplies will remain intact. For India, however, lower crude prices may not",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Dawn of peace in West Asia: What can be the implications for investors?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/us-iran-peace-deal-in-middle-east-what-can-be-the-implications-for-investors-after-crude-oil-prices-fall-rupee-rises-11781611041735.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "With the potential end of conflict in West Asia leading to falling crude prices and a stabilising rupee, Indian markets may see a shift. Banking stocks could thrive, while capital goods and power sect",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US stock market today: Dow Jones, Nasdaq futures flat as focus shifts to US Fed meet; SpaceX zooms 10%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-nasdaq-futures-flat-as-us-fed-meet-hogs-limelight-spacex-zooms-10-11781609897819.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "The futures of Dow Jones Industrial Average, which rose to a record high in previous trade, traded 0.11% higher. Meanwhile, Nasdaq 100 futures gained 0.28% and S&amp;amp;P 500 futures were unchanged, ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Can Cera Sanitaryware\u2019s growth recovery continue?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/cera-sanitaryware-share-price-brass-prices-faucetware-senator-polipluz-11781600991351.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "If Cera succeeds in holding on to its market share, while scaling faucetware, it could emerge stronger in FY27. Cera stock has gained over 11% in the past month.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex extends bull run to third day on US-Iran peace deal, jumps 540 points: 10 key highlights from Indian stock market",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-extends-bull-run-to-third-day-on-us-iran-peace-deal-jumps-540-points-10-key-highlights-from-indian-stock-market-11781604220081.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "Investors cheered the US-Iran peace deal and a subsequent decline in crude oil prices, easing inflation and growth concerns.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NSE launches 11 new sectoral indices; Nifty Power, Retail, Hospitals among additions",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-launches-11-new-sectoral-indices-nifty-power-retail-hospitals-among-additions-11781603756175.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "NSE Indices Limited has launched 11 new sectoral indices, increasing its total to 34 and enhancing market representation. The new indices span key sectors like power and healthcare, providing investor",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US-Iran ceasefire deal: What does the reopening of Strait of Hormuz mean for the Indian stock market?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/us-iran-ceasefire-deal-what-does-the-reopening-of-strait-of-hormuz-mean-for-the-indian-stock-market-11781601523839.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "US-Iran Peace Deal: Oil marketing companies such as Indian Oil Corporation, BPCL, and HPCL could see an improvement in marketing margins as crude prices ease. The aviation sector is also likely to ben",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "USD vs INR: Rupee extends gain on US-Iran peace deal. Where's it headed next?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/usd-vs-inr-rupee-extends-gain-on-us-iran-peace-deal-wheres-it-headed-next-11781596916452.html",
+      "date": "Tue, 16 Jun 2026",
+      "desc": "USD vs INR: The rupee strengthened by 5 paise to 94.53 against the US dollar in early trading on Tuesday, 16 June. Here's what's driving the Indian currency, along with near-term outlook.",
       "tags": [],
       "is_portfolio": false
     }
