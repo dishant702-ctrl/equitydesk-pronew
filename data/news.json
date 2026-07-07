@@ -1,6 +1,17 @@
 {
-  "updated_ist": "07 Jul 2026 12:21 IST",
+  "updated_ist": "07 Jul 2026 15:59 IST",
   "news": [
+    {
+      "title": "TCS, Infosys and other Indian IT stocks rise up to 4% after AI worries trigger Kospi selloff",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-and-other-indian-it-stocks-rise-up-to-4-after-ai-worries-trigger-kospi-selloff/articleshow/132235253.cms",
+      "date": "Tue, 07 Jul 2026",
+      "desc": "Indian IT stocks climbed despite a sharp sell-off in Asian chipmakers, as investors positioned for Q1 earnings.  Indian IT stocks have had a rough ride in recent months because investors worry that AI",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "Did this Ashish Kacholia-backed multibagger stock really crash 81% in one day? Here\u2019s how the bonus math works",
+      "title": "Swiggy shares jump 7% as foreign ownership falls below 50%. What this means quick commerce giant?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-this-ashish-kacholia-backed-multibagger-stock-really-crash-81-in-one-day-heres-how-the-bonus-math-works/articleshow/132232416.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-7-as-foreign-ownership-falls-below-50-what-this-means-quick-commerce-giant/articleshow/132236330.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": " V Marc India shares adjusted for a 5:1 bonus issue on Tuesday. The stock appeared to drop significantly due to this adjustment. In reality, the share price saw a notable increase after accounting for",
+      "desc": "Swiggy shares rallied sharply on Tuesday after foreign ownership fell below 50%, taking the company closer to qualifying as an Indian-owned and controlled company. While no immediate operational chang",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Explained: Why did Samsung shares crash 10% even after tech giant forecast 19x jump in profit",
+      "title": "Global Market: Britain's bond market poses early fiscal test for Andy Burnham",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-did-samsung-shares-crash-10-even-after-tech-giant-forecast-19x-jump-in-profit/articleshow/132232328.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-britains-bond-market-poses-early-fiscal-test-for-andy-burnham/articleshow/132235449.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Samsung Electronics shares plunged 10% despite forecasting a 19-fold jump in second-quarter profit, as investors worried the AI-driven memory chip boom may be peaking. Analysts said strong earnings we",
+      "desc": "Britain's government bond market is expected to be a key test for Andy Burnham's economic credibility as investors scrutinise his commitment to fiscal discipline amid mounting spending pressures. Whil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan reassures markets over BOJ independence, fiscal reforms",
+      "title": "MF Picks: 13 stocks surge up to 230% in just 3 months; 3 turn multibaggers",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-reassures-markets-over-boj-independence-fiscal-reforms/articleshow/132232232.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mf-picks-13-stocks-surge-up-to-230-in-just-3-months-3-turn-multibaggers/slideshow/132235012.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Japan sought to reassure financial markets that it remains committed to fiscal discipline after concerns over its latest economic policy blueprint pushed government bond yields to multi-decade highs. ",
+      "desc": "Thirteen BSE 500 stocks surged 60%\u2013230% in just over three months after mutual funds increased their holdings in the March 2026 quarter, with HFCL, Cemindia Projects and Aditya Infotech emerging as mu",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Euro zone inflation risks persist despite oil price retreat, ECB's Schnabel warns",
+      "title": "Info Edge shares surge 11% after Q1FY27 billings rise 14% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-inflation-risks-persist-despite-oil-price-retreat-ecbs-schnabel-warns/articleshow/132231999.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-surge-11-after-q1fy27-billings-rise-14-yoy/articleshow/132234550.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "ECB Executive Board member Isabel Schnabel said the euro zone economy has not returned to pre-war conditions despite lower oil prices, citing persistent core inflation, energy market risks and supply ",
+      "desc": "Info Edge shares rose sharply after the company reported a 14.4% year-on-year rise in Q1FY27 standalone billings, led by strong growth in its recruitment and real estate businesses. Investor sentiment",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Cult.fit IPO: Fitness company files draft IPO papers to raise Rs 950 crore via fresh issue",
+      "title": "Global Market: Asian refiners turn to cheaper Gulf oil despite Saudi price cuts",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-ipo-fitness-company-files-draft-ipo-papers-to-raise-rs-950-crore-via-fresh-issue/articleshow/132231549.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-refiners-turn-to-cheaper-gulf-oil-despite-saudi-price-cuts/articleshow/132234383.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Cult.fit has filed draft papers for an IPO to raise up to Rs 950 crore through a fresh share issue, while existing investors will sell up to 17.86 crore shares via an OFS. The fitness and wellness com",
+      "desc": "Saudi Arabia significantly reduced crude oil prices for Asian buyers this month. Rival Gulf producers are offering better value and deeper discounts to attract customers. Higher transportation costs f",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IIFL initiates coverage on Adani Power with target price at Rs 240, estimates EBITDA to quadruple by FY33-35E",
+      "title": "Paras Defence, ideaForge, other defence stocks slide up to 5%. What\u2019s triggering the selloff?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/iifl-initiates-coverage-on-adani-power-with-target-price-at-rs-240-estimates-ebitda-to-quadruple-by-fy33-35e/articleshow/132231460.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/paras-defence-ideaforge-other-defence-stocks-slide-up-to-5-whats-triggering-the-selloff/articleshow/132234048.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "IIFL initiated coverage on Adani Power with a 'Buy' rating and Rs 240 target price. The brokerage forecasts EBITDA to quadruple by FY33-35E due to growth pipeline. Adani Power is building significant ",
+      "desc": "Defence stocks declined up to 5% as investors booked profits after a sharp rally triggered by the Defence Acquisition Council\u2019s approval of Rs 52,000 crore worth of acquisition proposals. Despite the ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "\u200bMicrosoft stocks in focus: What the latest layoffs mean for investors\u200b",
+      "title": "Global oil market weathers Iran war shock, but reserve depletion raises future price risks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-stocks-in-focus-what-the-latest-layoffs-mean-for-investors/slideshow/132231418.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-oil-market-weathers-iran-war-shock-but-reserve-depletion-raises-future-price-risks/articleshow/132233831.cms",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Microsoft is cutting nearly 4,800 jobs as its new fiscal year begins. These layoffs primarily impact the commercial sales and Xbox gaming divisions. The company states this restructuring reflects indu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India bond rally pauses ahead of state debt sale",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-rally-pauses-ahead-of-state-debt-sale/articleshow/132231287.cms",
-      "date": "Tue, 07 Jul 2026",
-      "desc": "Indian government bonds traded range-bound early Tuesday, pausing a three-session rally. Traders awaited a large state-debt auction, which will sell bonds worth 213.50 billion rupees. Oil and U.S. Tre",
+      "desc": "The global oil market absorbed record supply disruptions during the Iran conflict without triggering a prolonged price shock. But analysts warn that depleted strategic reserves, damaged energy infrast",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +114,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Defence stock Zen Technologies jumps as subsidiary Vector Technics becomes India's largest drone propulsion manufacturer",
+      "title": "Top Gainers &amp; Losers on 7 July: Trent, Kalyan Jewellers, Cochin Shipyard, Tejas Networks, BSE among top losers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/defence-stock-zen-technologies-jumps-as-subsidiary-vector-technics-becomes-indias-largest-drone-propulsion-manufacturer-11783405631635.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-july-trent-kalyan-jewellers-cochin-shipyard-tejas-networks-bse-among-top-losers-11783417545083.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Zen Tech, in an exchange filing after market hours on 6 July, said that its subsidiary, Vector Technics' Shamshabad facility, has reached capacity to manufacture 3,00,000 propulsion units a year.",
+      "desc": "The Indian stock market's bull run ended on July 7 as benchmark indices fell due to profit booking, particularly in auto and metal sectors, despite gains in IT stocks. The Nifty 50 settled 0.25% lower",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ola Electric share price dips amid fresh insolvency row. Do you own?",
+      "title": "Stock market today: Sensex, Nifty 50 snap four-day winning streak as oil prices rise",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ola-electric-share-price-dips-amid-fresh-insolvency-row-do-you-own-11783403165941.html",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-snap-four-day-winning-streak-as-fresh-us-iran-strikes-drive-oil-prices-higher-11783417610161.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Ola Electric share price opened at  \u20b942.41 apiece today, as compared to previous close of  \u20b942.39 on Monday.",
+      "desc": "The Sensex dropped 104 points, or 0.13%, to end at 78,180.72, while the Nifty 50 shed 32 points, or 0.13%, to finish at 24,398.70. Nifty Midcap 100 and Smallcap 100 indices dropped 0.30% and 0.55%, re",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Last day to tender! Bajaj Auto buyback worth  \u20b95,633 crore closes today: Key details and should you participate?",
+      "title": "Is Trent\u2019s moderated growth pace the new normal?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/last-day-to-tender-bajaj-auto-buyback-worth-rs-5-633-crore-closes-today-key-details-and-should-you-participate-11783404169115.html",
+      "link": "https://www.livemint.com/market/mark-to-market/trent-westside-zudio-revenue-sales-growth-fashion-consumption-competition-demand-11783412249382.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Bajaj Auto's  \u20b95,633 crore share buyback ends today, offering shareholders  \u20b912,000 per share, 20% above the last closing. The buyback includes 46.94 lakh shares and targets 1.68% of capital. Eligible",
+      "desc": "The retailer\u2019s shares tanked 12% after its Q1 sales growth missed high Street expectations, leaving its expensive valuation vulnerable to a cooling consumption market.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex at 1 lakh in one year? Morgan Stanley sees 25% chance; here\u2019s what could trigger the next stock market rally",
+      "title": "India VIX hits 5-month low. Could market stability attract smart money?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-at-1-lakh-in-one-year-morgan-stanley-sees-25-chance-here-s-what-could-trigger-the-next-stock-market-rally-11783402325283.html",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-india-vix-hits-5-month-low-could-market-stability-attract-smart-money-11783413869750.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Morgan Stanley's India equity strategist Ridham Desai outlined three possible outcomes for the market over the coming year, assigning a 25% probability to its bull case, a 50% probability to its base ",
+      "desc": "As India VIX drops to a five-month low, market experts suggest that declining volatility signals increased confidence in stability. However, looming factors like the earnings season and geopolitical t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IIFL initiates coverage on Adani Power shares. Should you buy?",
+      "title": "NSE IPO: From derivatives dominance to dividends, Jefferies flags five key positives",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/iifl-initiates-coverage-on-adani-power-shares-should-you-buy-11783401287032.html",
+      "link": "https://www.livemint.com/market/ipo/nse-ipo-from-derivatives-dominance-to-dividends-jefferies-flags-five-key-positives-11783415146761.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "On Tuesday, Adani Power share price fell over 1.30% to  \u20b9217 apiece on NSE.",
+      "desc": "With its IPO filing, NSE is noted for its robust business model by Jefferies. The exchange commands 70% of India's revenues and focuses on equity derivatives amidst growing competition, despite regula",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Trent shares crash 12% after Q1FY27 business update. Here's what spooked investors",
+      "title": "Multibagger TARC shares jump 12% as Q1 pre-sales triple, collections surge 80%",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/trent-shares-crash-over-11-after-q1fy27-business-update-heres-what-spooked-investors-11783402234708.html",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-tarc-shares-jump-12-as-q1-pre-sales-triple-collections-surge-80-11783415338976.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Trent share price looked set to snap its six-day winning streak, as the retail stock crashed 12% in intraday trade on the BSE on Tuesday, 7 July.",
+      "desc": "TARC shares rose 12.3% to  \u20b9142.40 after strong June quarter results, with pre-sales increasing to  \u20b9602 crore and collections surging 80% YoY. The company reports ongoing construction progress and pl",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Recently listed Waterways Leisure Tourism shares rise nearly 6% after announcement of stock split move",
+      "title": "Knack Packaging IPO listing in focus. Here's what GMP signals ahead of debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/recently-listed-waterways-leisure-tourism-shares-rise-nearly-6-after-announcement-of-stock-split-move-11783401749192.html",
+      "link": "https://www.livemint.com/market/ipo/knack-packaging-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11783392457168.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Waterways Leisure Tourism's share price rose nearly 6% on July 7 following the announcement of a board meeting on July 10 to discuss a stock split of its  \u20b910 shares, aiming to enhance liquidity while",
+      "desc": "Knack Packaging share price will be listed on Wednesday, 8 July, on both exchanges - BSE and NSE. The shares are commanding a strong premium in the grey market.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Apollo Hospitals share price turns negative after hitting record high of  \u20b98,948.10 apiece on BSE. Do you own?",
+      "title": "Swiggy share price jumps 6% after this foreign investment update. Do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/apollo-hospitals-share-price-turns-negative-after-hitting-record-high-of-rs-8-948-10-apiece-on-bse-do-you-own-11783400650339.html",
+      "link": "https://www.livemint.com/market/stock-market-news/swiggy-share-price-jumps-6-after-this-foreign-investment-update-do-you-own-11783412312159.html",
       "date": "Tue, 07 Jul 2026",
-      "desc": "Apollo Hospitals stock hits record high following gains in DalalStreet. It has added 2% in the last 1 week, 6.5% in 1 month, 21% in 3 months, and 19% in 6 months. Meanwhile, it has given multibagger r",
+      "desc": "In a recent filing, Swiggy disclosed that foreign investment is at 49.76%, with domestic ownership exceeding 50%. This clarification confirms no changes in management, voting rights, or ownership stat",
       "tags": [],
       "is_portfolio": false
     }
