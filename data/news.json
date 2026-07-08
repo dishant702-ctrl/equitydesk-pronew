@@ -1,6 +1,28 @@
 {
-  "updated_ist": "08 Jul 2026 14:11 IST",
+  "updated_ist": "08 Jul 2026 16:20 IST",
   "news": [
+    {
+      "title": "Women investors account for over 13% of crypto futures traders; XRP and Bitcoin top their portfolios",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/women-investors-account-for-over-13-of-crypto-futures-traders-xrp-and-bitcoin-top-their-portfolios/articleshow/132260578.cms",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "Crypto futures trading in India saw significant growth from smaller cities. Women traders showed lower leverage and preferred specific digital assets. Bitcoin and Ethereum comprised a smaller portion ",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July",
       "source": "Mint",
@@ -13,15 +35,31 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS Q1 Results on July 9: AI Strategy, Dividend, Margins \u2014 Key things to watch from IT major's earnings",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tcs-q1-results-on-july-9-ai-strategy-dividend-margins-key-things-to-watch-from-it-majors-earnings-11783494698992.html",
+      "title": "US futures tumble as Trump says Iran deal is 'over'; oil climbs",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-futures-tumble-as-trump-says-iran-deal-is-over-oil-climbs/articleshow/132260813.cms",
       "date": "Wed, 08 Jul 2026",
-      "desc": "As TCS kicks off FY27 earnings on July 9, attention will focus on its quarterly numbers and outlook amid a changing IT landscape. Investors will assess AI strategies, deal wins, and the impact of exte",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
+      "desc": "On Wednesday morning, U.S. stock futures took a significant hit as President Donald Trump declared the memorandum of understanding with Iran null and void. This announcement sparked a notable rise in ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: European shares decline as Middle East tensions weigh; airlines, autos lead losses",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-decline-as-middle-east-tensions-weigh-airlines-autos-lead-losses/articleshow/132258888.cms",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "European shares declined on Wednesday as renewed Middle East tensions and higher oil prices weighed on investor sentiment, while technology stocks traded mixed amid concerns over the sustainability of",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex sinks 1,680 points; Nifty closes below 23,900. 5 key factors behind today\u2019s market mayhem",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-crashes-1300-points-nifty-slips-below-24k-key-factors-behind-this-meltdown/articleshow/132258210.cms",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "Sensex Nifty Crash: Indian stock markets experienced a significant downturn on Wednesday afternoon. Rising crude oil prices and geopolitical tensions battered investor sentiment across exchanges. US P",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: Euro zone bond yields hit near one-month high as oil surge fuels ECB rate hike bets",
@@ -60,38 +98,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Momenta Global debuts nearly flat in Hong Kong after $751 million IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-momenta-global-debuts-nearly-flat-in-hong-kong-after-751-million-ipo/articleshow/132256685.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Momenta Global shares debuted on the Hong Kong Stock Exchange with a muted reception.  The autonomous-driving software developer raised HK$5.89 billion in its initial public offering.  Investor sentim",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Big Short fame Michael Burry is betting against Nvidia, AMD, Micron and other chipmakers. Is a massive AI crash coming?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/big-short-fame-michael-burry-is-betting-against-nvidia-amd-micron-and-other-chipmakers-is-a-massive-ai-crash-coming/articleshow/132256730.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Michael Burry, famed for predicting the 2008 financial crisis, has increased his bearish bets against AI-linked chipmakers through the iShares Semiconductor ETF. His move has reignited concerns over s",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "10 microcap stocks rally up to 430% in CY26; 5 turn multibaggers: Here\u2019s FII and MF exposure",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-rally-up-to-430-in-cy26-5-turn-multibaggers-heres-fii-and-mf-exposure/slideshow/132256662.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Microcap stocks delivered stellar CY26 gains, with several companies rallying over 50%. Sterlite Technologies, MTAR Technologies and others emerged as multibaggers, attracting significant FII and mutu",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese bond yields climb to multi-decade highs amid inflation and fiscal concerns",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-to-multi-decade-highs-amid-inflation-and-fiscal-concerns/articleshow/132256277.cms",
+      "title": "Oberoi Realty\u2019s NCR debut spurs growth visibility with solid bookings",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/oberoi-realty-s-ncr-debut-spurs-growth-visibility-with-solid-bookings-11783498534621.html",
       "date": "Wed, 08 Jul 2026",
-      "desc": "Japanese government bond yields surged to multi-decade highs as investors grew concerned over persistent inflation, rising government spending and uncertainty over the future path of Bank of Japan mon",
+      "desc": "Oberoi Realty's debut NCR launch, Three Sixty North, booked  \u20b98,109 crore\u2014more than the company's entire FY26 sales. Brokerages have raised price targets and growth estimates, though a heavy MMR-focus",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BPCL, HPCL to IOC: OMC stocks fall up to 5.5% on sharp rebound in crude oil prices",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-ioc-omc-stocks-fall-up-to-5-5-on-sharp-rebound-in-crude-oil-prices-11783501548775.html",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "State-owned oil marketing companies HPCL, BPCL, and IOC saw their shares drop as crude oil prices surged due to Middle East tensions. Investors booked profits after price declines, with HPCL down 5.4%",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oil prices jump to more than $78 a barrel as Trump says ceasefire with Iran is 'over'",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/commodities/oil-prices-jump-to-more-than-78-a-barrel-as-trump-says-ceasefire-with-iran-is-over-11783501314990.html",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "Oil prices rose nearly 6% after US President Trump declared the interim agreement with Iran is over. Details here.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-sector-q1-results-preview-muted-earnings-likely-on-execution-delays-bel-bharat-dynamics-grse-among-top-picks-11783500690463.html",
+      "date": "Wed, 08 Jul 2026",
+      "desc": "Defence sector Q1 results preview: While reported earnings of defence sector may remain subdued, underlying execution momentum is gradually building, with clearer visibility on recovery expected as co",
       "tags": [],
       "is_portfolio": false
     },
@@ -119,33 +184,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/rs-939-crore-order-impact-inox-india-share-price-jumps-over-5-despite-muted-trends-in-the-indian-stock-market-11783496868366.html",
       "date": "Wed, 08 Jul 2026",
       "desc": "INOX India saw a 5% rise in its share price on July 8 after announcing orders totaling  \u20b9939 crore since May. The orders covered Industrial Gas, LNG, and Cryo-scientific Solutions, further establishin",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Can Nifty 50 touch 25,000 this month? Analysts see bank, auto, IT stocks driving the next leg up",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/can-nifty-50-touch-25-000-this-month-analysts-see-bank-auto-it-stocks-driving-the-next-leg-up-11783495380333.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Nifty 50 has gained nearly 2% so far in July and had climbed above the 24,500 mark in the previous session \u2014 its highest level since April. With the index approaching key resistance levels, investors ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Auto sector Q1 results preview: Margin pressure looms despite strong demand; Hyundai, Tata Motors PV among top picks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/auto-sector-q1-results-preview-margin-pressure-looms-despite-strong-demand-hyundai-tata-motors-pv-among-top-picks-11783491745871.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "The automobile sector is projected to see strong revenue growth in Q1FY27, fueled by high demand across various vehicle categories. However, profitability may be constrained by rising commodity costs ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Knack Packaging share price extends gains after strong listing; should you buy, sell or hold?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/knack-packaging-share-price-extends-gains-after-strong-listing-should-you-buy-sell-or-hold-11783492299227.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Knack Packaging shares were listed at  \u20b9188 apiece on NSE, a premium of 10.58% to the issue price of  \u20b9170 per share. On BSE, Knack Packaging shares were listed with a 9.41% premium at  \u20b9186 apiece.",
       "tags": [],
       "is_portfolio": false
     }
