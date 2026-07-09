@@ -1,17 +1,6 @@
 {
-  "updated_ist": "08 Jul 2026 16:20 IST",
+  "updated_ist": "09 Jul 2026 12:20 IST",
   "news": [
-    {
-      "title": "Women investors account for over 13% of crypto futures traders; XRP and Bitcoin top their portfolios",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/women-investors-account-for-over-13-of-crypto-futures-traders-xrp-and-bitcoin-top-their-portfolios/articleshow/132260578.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Crypto futures trading in India saw significant growth from smaller cities. Women traders showed lower leverage and preferred specific digital assets. Bitcoin and Ethereum comprised a smaller portion ",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,76 +13,85 @@
       "is_portfolio": true
     },
     {
-      "title": "Stocks to buy for short term: Reliance, Bharti Airtel, BEL among 5 shares Bajaj Broking's expert recommends for July",
+      "title": "TCS Q1 Results 2026 LIVE: IT stock falls ahead of earnings; margins, demand outlook, AI strategy, dividend in focus",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-reliance-bharti-airtel-bel-among-5-shares-bajaj-brokings-expert-recommends-for-july-11783491139690.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Pabitro Mukherjee, Deputy Vice President - Technical, Bajaj Broking, recommends five stocks poised for potential short-term gains amid a bullish Nifty 50 outlook. Discover why Reliance, Bharti Airtel,",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-q1-results-2026-live-tcs-share-price-tcs-dividend-tcs-revenue-tcs-profit-ai-it-sector-earnings-9-july-2026-11783577214574.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "TCS Q1 Results 2026 LIVE: TCS is expected to report subdued earnings during the first quarter of FY27 as macroeconomic uncertainty, AI-led disruption and geopolitical tensions continue to weigh on cli",
       "tags": [
-        "RELIANCE"
+        "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "US futures tumble as Trump says Iran deal is 'over'; oil climbs",
+      "title": "Swiggy, Eternal surge up to 7%. Should investors chase the rally?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-futures-tumble-as-trump-says-iran-deal-is-over-oil-climbs/articleshow/132260813.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "On Wednesday morning, U.S. stock futures took a significant hit as President Donald Trump declared the memorandum of understanding with Iran null and void. This announcement sparked a notable rise in ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-eternal-surge-up-to-7-should-investors-chase-the-rally/articleshow/132279218.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Swiggy and Eternal shares rallied sharply on Thursday as investor sentiment improved on Swiggy's foreign ownership falling below 50% and optimism around quick commerce. Analysts remain positive on Ete",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares decline as Middle East tensions weigh; airlines, autos lead losses",
+      "title": "US Stock Market: SEC clears path for UBS crisis resolution plan with key bail-in guidance",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-decline-as-middle-east-tensions-weigh-airlines-autos-lead-losses/articleshow/132258888.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "European shares declined on Wednesday as renewed Middle East tensions and higher oil prices weighed on investor sentiment, while technology stocks traded mixed amid concerns over the sustainability of",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-sec-clears-path-for-ubs-crisis-resolution-plan-with-key-bail-in-guidance/articleshow/132279042.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "The US Securities and Exchange Commission will not object to certain UBS securities transactions. This regulatory relief aids Switzerland's bank resolution framework during financial crises. The move ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex sinks 1,680 points; Nifty closes below 23,900. 5 key factors behind today\u2019s market mayhem",
+      "title": "140% rally in 4 months! This smallcap aerospace stock soars 18% in 3 days to fresh lifetime high. Should you buy?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-crashes-1300-points-nifty-slips-below-24k-key-factors-behind-this-meltdown/articleshow/132258210.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Sensex Nifty Crash: Indian stock markets experienced a significant downturn on Wednesday afternoon. Rising crude oil prices and geopolitical tensions battered investor sentiment across exchanges. US P",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/140-rally-in-4-months-this-smallcap-aerospace-stock-soars-18-in-3-days-to-fresh-lifetime-high-should-you-buy/articleshow/132278811.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Aequs shares extended gains for a third straight session, surging over 18% during the rally to hit a record high after bullish initiations by IIFL Capital and Nuvama. The brokerages cited the company'",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Euro zone bond yields hit near one-month high as oil surge fuels ECB rate hike bets",
+      "title": "INDIA BONDS-India bonds pause after slump as oil, Treasury risks linger",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-hit-near-one-month-high-as-oil-surge-fuels-ecb-rate-hike-bets/articleshow/132257743.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Euro zone government bond yields reached their highest levels in nearly a month. This rise followed a sharp jump in oil prices and heightened inflation concerns. Geopolitical tensions escalated after ",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-pause-after-slump-as-oil-treasury-risks-linger/articleshow/132278835.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Indian government bonds traded narrowly on Thursday after a sharp selloff. Surging oil prices and higher U.S. Treasury yields pressured local debt markets. The U.S. military launched fresh strikes on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India's mutual fund industry just beat FIIs in a historic first. Here's what changed",
+      "title": "This sector is set to dominate Q1 earnings for all the wrong reasons",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-mutual-fund-industry-just-beat-fiis-in-a-historic-first-heres-what-changed/articleshow/132258084.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "India's mutual fund industry has overtaken foreign institutional investors in total assets under custody for the first time, marking a historic shift in market ownership. Strong SIP inflows and sustai",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/this-sector-is-set-to-dominate-q1-earnings-for-all-the-wrong-reasons/articleshow/132278765.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Oil marketing companies are set to dominate Q1 earnings but for the wrong reasons, with HPCL, BPCL and IOCL expected to post massive losses as elevated crude prices crushed fuel marketing margins. The",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kospi enters bear market! What South Korea\u2019s finance minister said after 20% crash",
+      "title": "Cupid rebounds 6% after sharp fall as upgraded FY27 guidance boosts sentiment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-enters-bear-market-what-south-koreas-finance-minister-said-after-20-crash/articleshow/132257615.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "South Korea\u2019s Kospi entered bear market territory after falling over 20% from its June peak, dragged down by a sharp selloff in semiconductor giants Samsung Electronics and SK Hynix. Finance Minister ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-rebounds-6-after-sharp-fall-as-upgraded-fy27-guidance-boosts-sentiment/articleshow/132278692.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Cupid shares rebounded nearly 6% after a sharp correction in the previous session, as investors turned positive following the company\u2019s upgraded FY27 revenue guidance of Rs 660 crore. Strong Q1 moment",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese fund managers bet big on yen bonds as BOJ policy shift lifts yields",
+      "title": "Motilal Oswal initiates coverage on this auto component maker with a 25% upside. 4 reasons why",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-fund-managers-bet-big-on-yen-bonds-as-boj-policy-shift-lifts-yields/articleshow/132256982.cms",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Japanese asset managers are launching new bond funds as interest rates rise. This trend revives investor appetite for yen-denominated debt after decades. Firms like Mizuho and Nomura are expanding off",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-initiates-coverage-on-this-auto-component-maker-with-a-25-upside-4-reasons-why/articleshow/132278703.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Uno Minda shares rose after Motilal Oswal initiated coverage with a Buy call. The company benefits from industry trends like premiumization and the EV transition. Its diversified product portfolio and",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "SBI\u2019s 15-paise bet: How India's largest bank is turning a tiny cost into mindboggling 382,567% profit",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbis-15-paise-bet-how-indias-largest-bank-is-turning-a-tiny-cost-into-mindboggling-382567-profit/articleshow/132278635.cms",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "SBI and Amundi India Holding are set to earn combined profits of about Rs 11,658 crore from the Rs 11,693 crore IPO of SBI Funds Management, India's biggest IPO of 2026 so far. The issue, priced at Rs",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,65 +123,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Oberoi Realty\u2019s NCR debut spurs growth visibility with solid bookings",
+      "title": "Stocks to buy: Nagaraj Shetti recommends Avantel, Jtekt India shares to buy in the short-term",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/oberoi-realty-s-ncr-debut-spurs-growth-visibility-with-solid-bookings-11783498534621.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Oberoi Realty's debut NCR launch, Three Sixty North, booked  \u20b98,109 crore\u2014more than the company's entire FY26 sales. Brokerages have raised price targets and growth estimates, though a heavy MMR-focus",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-avantel-jtekt-india-shares-to-buy-in-the-shortterm-11783577121332.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "The Indian stock market had a positive turn on July 9, with Sensex and Nifty 50 both up 0.7%. Broad-based buying occurred, with realty and healthcare leading the gains. Despite geopolitical tensions a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BPCL, HPCL to IOC: OMC stocks fall up to 5.5% on sharp rebound in crude oil prices",
+      "title": "FII selling eases after $60 billion exodus. Is the tide finally turning for Indian stock markets?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bpcl-hpcl-to-ioc-omc-stocks-fall-up-to-5-5-on-sharp-rebound-in-crude-oil-prices-11783501548775.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "State-owned oil marketing companies HPCL, BPCL, and IOC saw their shares drop as crude oil prices surged due to Middle East tensions. Investors booked profits after price declines, with HPCL down 5.4%",
+      "link": "https://www.livemint.com/market/stock-market-news/fii-selling-eases-after-60-billion-exodus-is-the-tide-finally-turning-for-indian-stock-markets-11783577533094.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "After $60 billion in FII outflows since September 2024, signs of easing selling emerge as outflows slowed post-US-Iran ceasefire. Indian equities have been volatile, but improving macros and attractiv",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil prices jump to more than $78 a barrel as Trump says ceasefire with Iran is 'over'",
+      "title": "Godrej Consmer Produucts shares climb 2% as ICICI Securities upgrades the stock to a buy, raises target price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/oil-prices-jump-to-more-than-78-a-barrel-as-trump-says-ceasefire-with-iran-is-over-11783501314990.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Oil prices rose nearly 6% after US President Trump declared the interim agreement with Iran is over. Details here.",
+      "link": "https://www.livemint.com/market/stock-market-news/godrej-consmer-produucts-shares-climb-2-as-icici-securities-upgrades-the-stock-to-a-buy-raise-target-price-11783576715341.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "ICICI Securities upgraded Godrej Consumer Products to 'buy', raising the target price to  \u20b91,300. With expectations for double-digit growth and a recovery in key markets, investor interest surges.&amp",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Defence sector Q1 results preview: Muted earnings likely on execution delays; BEL, Bharat Dynamics, GRSE among top picks",
+      "title": "Small-cap stock under  \u20b950 Elitecon International retraces after jumping 9% following stock market rebound. Do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/defence-sector-q1-results-preview-muted-earnings-likely-on-execution-delays-bel-bharat-dynamics-grse-among-top-picks-11783500690463.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Defence sector Q1 results preview: While reported earnings of defence sector may remain subdued, underlying execution momentum is gradually building, with clearer visibility on recovery expected as co",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-elitecon-international-retraces-after-jumping-9-following-stock-market-rebound-do-you-own-11783574770726.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Elitecon International share price trend has remained under pressure amid weak market sentiments. The small-cap stock has slipped 10.24% in a week and 11.16% in a month.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Paint makers poised for a mixed Q1; won\u2019t rush on price cuts",
+      "title": "PC Jeweller share price jumps over 13% after it repays outstanding debt to 2 lenders. Do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/paint-companies-price-cuts-crude-oil-asian-paints-berger-fy27-11783495689007.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Price hikes augur well for the June-quarter revenue growth.",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-pc-jeweller-share-price-jumps-over-13-after-it-repays-outstanding-debt-to-2-lenders-do-you-own-11783575160462.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "PC Jeweller has repaid all its debt owed to two lenders from its consortium of 14 banks, taking another step towards its target of becoming debt-free during the current quarter.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibagger stock Diamond Power hits record high despite stock market crash. InCred sees 28% more upside",
+      "title": "US-Iran war: BPCL, GAIL to HPCL \u2014 oil and gas stocks rise despite soaring crude oil prices",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-diamond-power-hits-record-high-despite-stock-market-crash-incred-sees-28-more-upside-11783498323507.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "Diamond Power's financial position has notably improved, with working capital now funded by promoters. The stock surged 6.5% to  \u20b9240 despite market declines, supported by an optimistic earnings outlo",
+      "link": "https://www.livemint.com/market/stock-market-news/usiran-war-bpcl-gail-to-hpcl-oil-and-gas-stocks-rise-despite-soaring-crude-oil-prices-11783575583919.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "With the US-Iran war disrupting global energy supplies and keeping crude oil prices elevated and volatile, oil and gas companies are expected to report a mixed performance for the first quarter of FY2",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "\u20b9939 crore order impact? INOX India share price jumps over 5% despite muted trends in the Indian stock market",
+      "title": "Oyo IPO: Zostel seeks SEBI review of updated DRHP over litigation disclosures, says report",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rs-939-crore-order-impact-inox-india-share-price-jumps-over-5-despite-muted-trends-in-the-indian-stock-market-11783496868366.html",
-      "date": "Wed, 08 Jul 2026",
-      "desc": "INOX India saw a 5% rise in its share price on July 8 after announcing orders totaling  \u20b9939 crore since May. The orders covered Industrial Gas, LNG, and Cryo-scientific Solutions, further establishin",
+      "link": "https://www.livemint.com/market/ipo/oyo-ipo-zostel-seeks-sebi-review-of-updated-drhp-over-litigation-disclosures-says-report-11783572676730.html",
+      "date": "Thu, 09 Jul 2026",
+      "desc": "Zostel has urged SEBI to review Oravel Stays' IPO disclosures, alleging they misrepresent an ongoing legal dispute and impact equity claims. The firm argues comprehensive disclosures are necessary due",
       "tags": [],
       "is_portfolio": false
     }
