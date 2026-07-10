@@ -1,6 +1,17 @@
 {
-  "updated_ist": "10 Jul 2026 12:20 IST",
+  "updated_ist": "10 Jul 2026 15:57 IST",
   "news": [
+    {
+      "title": "Why TCS employee addition just hit 4-year high amid AI job loss fears",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-tcs-employee-addition-just-hit-4-year-high-amid-ai-job-loss-fears/articleshow/132306730.cms",
+      "date": "Fri, 10 Jul 2026",
+      "desc": "TCS added 9,279 employees in Q1FY27, marking its strongest quarterly hiring in four years amid growing concerns over AI-led job cuts. The IT major said AI will reshape roles rather than eliminate jobs",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS\u2019 sparse Q1 positives won't unlock re-rating triggers",
+      "title": "Top Gainers &amp; Losers on 10 July: Godrej Industries, Indian Bank, Kalyan Jewellers, Paytm, CDSL among top gainers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/tcs-share-price-tcs-q1-earnings-it-industry-india-tcs-deal-wins-ai-projects-11783661137678.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-july-godrej-industries-indian-bank-kalyan-jewellers-paytm-cdsl-among-top-gainers-11783676501893.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "From its 52-week high of  \u20b93,425 seen on 9 July last year, the TCS stock is down 40% as meaningful growth triggers remain elusive.",
+      "desc": "Domestic equity markets saw gains on July 10, supported by financial stocks and IT giant TCS, despite closing the week with slight losses. Major indices rose over 1%, led by Nifty Realty's 3.40% surge",
       "tags": [
         "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "HFCL shares rally 4% after Rs 495-crore order win. Should you buy after 200% surge in 2026?",
+      "title": "Nuvama initiates Buy call on Vedanta Aluminium shares, expects profitability to exceed historical average. Here's why",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-shares-rally-4-after-rs-495-crore-order-win-should-you-buy-after-200-surge-in-2026/articleshow/132304675.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-initiates-buy-call-on-vedanta-aluminium-shares-expects-profitability-to-exceed-historical-average-heres-why/articleshow/132309020.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "HFCL shares witnessed an uptick on Friday after the company secured a Rs 496 crore overseas order for data centre connectivity solutions, extending their 220% rally in 2026. With a record order book, ",
+      "desc": "Nuvama Institutional Equities and Motilal Oswal Financial Services have initiated coverage on Vedanta Aluminium with 'Buy' ratings and target prices of Rs 540, citing strong earnings growth, cost redu",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Blue Jet Healthcare shares rally 9% after Rs 800 crore QIP allotment",
+      "title": "Christopher Wood warns of AI fatigue. Why Jefferies is turning to India and China",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blue-jet-healthcare-shares-rally-9-after-rs-800-crore-qip-allotment/articleshow/132304507.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Blue Jet Healthcare shares rose sharply on Friday after the company completed its Rs 800 crore QIP, attracting marquee institutional investors, including multiple ICICI Prudential Mutual Fund schemes.",
+      "desc": "Christopher Wood of Jefferies warns that the AI trade is showing signs of fatigue as investors seek cheaper value opportunities. With India and China positioned to benefit from a rotation away from cr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Stock Market: Fed's Williams sees energy prices easing despite Middle East tensions, keeps options open on July rate decision",
+      "title": "Global Market: European shares edge higher as miners, airlines offset tech weakness; benchmark set for weekly loss",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-feds-williams-sees-energy-prices-easing-despite-middle-east-tensions-keeps-options-open-on-july-rate-decision/articleshow/132304392.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-miners-airlines-offset-tech-weakness-benchmark-set-for-weekly-loss/articleshow/132307730.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "New York Fed President John Williams said oil prices are likely to ease over the coming months despite renewed Middle East tensions, while stressing it is too early to signal the Federal Reserve's nex",
+      "desc": "European shares saw minimal change as mining and travel stocks gained. Technology shares declined, weighing on the broader market's performance. Investors remained cautious due to renewed Middle East ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Micron's mega US expansion: Is the stock poised for more upside?",
+      "title": "Global Market: IEA sees global oil demand recovering as Strait of Hormuz flows resume",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microns-mega-us-expansion-is-the-stock-poised-for-more-upside/slideshow/132304373.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-iea-sees-global-oil-demand-recovering-as-strait-of-hormuz-flows-resume/articleshow/132307007.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Micron has raised its planned US investment to more than $250 billion through 2035 to expand semiconductor manufacturing and meet surging AI-driven demand for advanced memory chips. The move strengthe",
+      "desc": "Global oil demand is showing signs of recovery as shipments through the Strait of Hormuz resume and crude prices ease, the International Energy Agency (IEA) said. While the agency raised its demand ou",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani flagship is the next big India pick for Singapore\u2019s Helios",
+      "title": "IPO GMP buzz: Kusumgar leads with 39% GMP; SBI Funds Management, Laser Power also attract strong interest",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-flagship-is-the-next-big-india-pick-for-singapores-helios/articleshow/132304170.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-gmp-buzz-kusumgar-leads-with-39-gmp-sbi-funds-management-laser-power-also-attract-strong-interest/articleshow/132307344.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Helios Capital Management is investing in Adani Enterprises, seeing potential in India's overlooked market. The asset manager bought shares, citing Adani's improving legal standing and business ventur",
+      "desc": "The IPO market shows strong investor interest with high grey market premiums. Kusumgar IPO leads with a nearly 39% estimated listing gain. SBI Funds Management IPO also attracts significant attention ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee little changed as traders tread gingerly with eye on oil, dollar",
+      "title": "Global Market: Geopolitical risks return to centre stage for ECB as inflation fears resurface",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-little-changed-as-traders-tread-gingerly-with-eye-on-oil-dollar/articleshow/132304107.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-geopolitical-risks-return-to-centre-stage-for-ecb-as-inflation-fears-resurface/articleshow/132306863.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "The Indian rupee traded narrowly on Friday, supported by a softer dollar and stable oil prices. Asian currencies and regional stocks saw gains as Fed rate hike expectations eased. Renewed Middle East ",
+      "desc": " Fresh US-Iran hostilities have pushed the European Central Bank back to its inflation fight. Rising energy prices now threaten to reignite price pressures across the euro zone. This renewed conflict ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India bonds rise as softer oil; Treasury gains offset debt sale caution",
+      "title": "Newgen Software shares surge 15% as broad-based IT stocks rally",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-softer-oil-treasury-gains-offset-debt-sale-caution/articleshow/132304050.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/newgen-software-shares-surge-15-as-broad-based-it-stocks-rally/articleshow/132306697.cms",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Indian government bonds saw early gains on Friday, influenced by U.S. Treasury movements and reduced oil prices. Foreign investors continued their strong bond purchases, reaching nearly four billion d",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dixon Tech shares jump 4% on govt nod to form JV with Vivo. What are experts saying?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dixon-tech-shares-jump-4-on-govt-nod-to-form-jv-with-vivo-what-are-experts-saying/articleshow/132303973.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Dixon Technologies' shares rose significantly after Vivo Mobile India secured government approval for a joint venture. This partnership will focus on manufacturing smartphones for Vivo within India. E",
+      "desc": "Newgen Software shares experienced a significant surge, mirroring a broader IT sector advance. The company announced key leadership changes, appointing Tarun Nandwani as CEO. Investors await the Q1 FY",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,65 +125,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Alpine Texworld IPO: Price band set at  \u20b9100-105 per share; check GMP, key dates, issue details",
+      "title": "AMFI June data: Equity mutual fund inflows jump 26%, mid-cap, small-cap funds steal the show",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/alpine-texworld-ipo-gmp-price-band-set-at-rs-100-105-per-share-check-gmp-key-dates-issue-details-11783663396956.html",
+      "link": "https://www.livemint.com/market/stock-market-news/amfi-june-data-equity-mutual-fund-inflows-jump-26-mid-cap-small-cap-funds-steal-the-show-11783677573028.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Alpine Texworld IPO price band is  \u20b9100-105, with subscriptions from July 14-16. The firm aims to raise funds for expansion, including investments in a weaving unit and debt repayment, boosting its fi",
+      "desc": "Investors demonstrated strong interest in equity mutual funds in June, with net inflows reaching  \u20b928,973 crore, up 26% from May. Mid-cap and small-cap funds led inflows, illustrating sustained confid",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Funds Management IPO: What is the reservation for SBI shareholders? Who is eligible to apply?",
+      "title": "Sensex jumps 800 points, Nifty 50 reclaims 24,200; investors earn  \u20b96 lakh crore in a day: What drove the stock market?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-what-is-the-reservation-for-sbi-shareholders-who-is-eligible-to-apply-11783664290103.html",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-800-points-nifty-50-reclaims-24-200-investors-earn-6-lakh-crore-in-a-day-what-drove-the-stock-market-11783677455587.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "SBI Funds Management IPO: Eligible SBI shareholders must have a valid Permanent Account Number (PAN) that is updated in SBI\u2019s shareholder records. They must also hold a valid demat account, as IPO sha",
+      "desc": "The Sensex jumped 828 points, or 1.08%, to end at 77,569.39, while the Nifty 50 settled at 24,206.90, up 244 points, or 1.02%.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vedanta Iron and Steel to Vedanta Oil and Gas, Vedanta Power: How Anil Agarwal's demerged stocks are performing",
+      "title": "Muthoot Microfin shares jump 16.5% in biggest one-day gain in over a year after Q1 business update",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vedanta-iron-and-steel-to-vedanta-oil-and-gas-vedanta-power-how-anil-agarwals-demerged-stocks-are-performing-11783661226065.html",
+      "link": "https://www.livemint.com/market/stock-market-news/muthoot-microfin-shares-jump-16-5-in-biggest-one-day-gain-in-over-a-year-after-q1-business-update-11783674817470.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Vedanta Group's demerger aimed to unlock value across its separate entities, yielding significant operational performance in power sales, despite a 17% drop in oil and gas volumes. Various sectors sho",
+      "desc": "Muthoot Microfin shares rose 16.5% on July 10, reaching  \u20b9245 due to strong June quarter results, highlighting a 49% increase in disbursements. The firm reported improved asset quality and diversified",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IC Electricals share price hits 5% upper circuit after blockbuster debut",
+      "title": "Indian Bank share price zooms 10% after announcement of Q1 results 2026",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ic-electricals-share-price-hits-5-upper-circuit-after-blockbuster-debut-11783661376686.html",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-bank-share-price-zooms-10-after-announcement-of-q1-results-2026-11783672640554.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "IC Electricals surged 5% on their debut at  \u20b9166, significantly above the issue price of  \u20b999. The IPO was heavily oversubscribed, with a 295.08 times demand. The company focuses on railway electrific",
+      "desc": "Indian Bank's share price rose 10% to  \u20b9872.45 after reporting a net profit of  \u20b93,273 crore for Q1FY27, a 10% YoY increase. NII grew by 17% to  \u20b97,435 crore, while asset quality improved, with GNPA d",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Funds Management IPO: GMP signals 15% listing gains; 10 key things to know from RHP ahead of issue launch on Tuesday",
+      "title": "Gillette India reschedules board meeting date to declare dividend. Record date, other details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-gmp-signals-15-listing-gains-10-key-things-to-know-from-rhp-ahead-of-issue-launch-on-tuesday-11783657304691.html",
+      "link": "https://www.livemint.com/market/stock-market-news/gillette-india-reschedules-board-meeting-date-to-declare-dividend-record-date-other-details-11783672827908.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "SBI Funds Management is gearing up for its IPO, with a projected 15% listing gain. Here are 10 essential insights from the Red Herring Prospectus (RHP) that every investor should be aware of.",
+      "desc": "Gillette India has moved its AGM to 24 August 2026, with dividends payable by 30 September 2026 if approved. The company reported a 21.3% rise in net profit to  \u20b9192.51 crore for Q1 FY26, alongside a ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nithin Kamath explains why Zerodha will continue to offer direct mutual funds for free",
+      "title": "Small-cap industrial stock Interarch Building Products extends gains after this business update; details here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nithin-kamath-explains-why-zerodha-will-continue-to-offer-direct-mutual-funds-for-free-11783659750989.html",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-industrial-stock-interarch-building-products-extends-gains-after-this-business-update-details-here-11783669937821.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Nithin Kamath emphasizes Zerodha's dedication to providing free direct mutual funds, built on the principle of consistent trade execution effort. Despite competition, Coin has grown to manage  \u20b91.6 la",
+      "desc": "In an exchange filing during market hours on 9 July, Interarch Building Solutions said it inaugurated its new manufacturing facility at Kheda, Gujarat, strengthening its footprint across India.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian Bank share price rises ahead of the Q1 results 2026",
+      "title": "Natural gas companies are set to lose steam in Q1",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/indian-bank-share-price-rises-ahead-of-the-q1-results-2026-11783657803961.html",
+      "link": "https://www.livemint.com/market/mark-to-market/gail-petronet-lng-indraprastha-gas-mahanagar-gas-gujarat-energy-lng-imports-qatar-lng-natural-gas-city-gas-distributors-11783666058041.html",
       "date": "Fri, 10 Jul 2026",
-      "desc": "Indian Bank is expected to report a strong growth in its Q1 net profit, led by upbeat net interest income (NII) and decent loan growth. However, analysts expect the lender\u2019s NIM to contract marginally",
+      "desc": "Lower LNG imports, higher gas procurement costs and supply disruptions triggered by the West Asia war are expected to weigh on Q1FY27 earnings of GAIL, Petronet LNG and city gas distributors.",
       "tags": [],
       "is_portfolio": false
     }
