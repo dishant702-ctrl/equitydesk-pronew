@@ -1,12 +1,23 @@
 {
-  "updated_ist": "13 Jul 2026 11:55 IST",
+  "updated_ist": "13 Jul 2026 15:25 IST",
   "news": [
     {
-      "title": "TCS shares jump 3%, extend gains to day two after Q1 earnings. Should you buy, sell or hold?",
+      "title": "TCS shares rally 8% in 2 days. Time to buy after sharp 32% crash in 2026? Here\u2019s what technical charts indicate",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-rally-8-in-2-days-time-to-buy-after-sharp-32-crash-in-2026-heres-what-technical-charts-indicate/articleshow/132360768.cms",
       "date": "Mon, 13 Jul 2026",
-      "desc": "TCS shares rose for a second straight session on Monday after the IT major reported a 5% YoY rise in Q1 FY27 net profit and announced an interim dividend of Rs 12 per share. Brokerages remain divided,",
+      "desc": "TCS shares have surged 8% over the past two sessions after the IT major reported strong Q1 earnings and announced a multi-million-dollar AI-led network transformation deal with ABB. While technical in",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "TCS, HCL Tech, Infosys, other IT stocks rally up to 6%, Nifty IT surges 4%. Here's why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-hcl-tech-infosys-other-it-stocks-rally-up-to-6-nifty-it-surges-4-heres-why/articleshow/132360400.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "IT stocks led by TCS, HCL Technologies and Infosys rallied sharply on Monday, lifting the Nifty IT index nearly 4% despite weakness in the broader market. The sectoral index climbed to a more-than one",
       "tags": [
         "TCS"
       ],
@@ -24,65 +35,56 @@
       "is_portfolio": true
     },
     {
-      "title": "47% rally in 4 days! Kalyan Jewellers shares rise another 10%. Should you book profit?",
+      "title": "Global Market: European stocks edge lower as Middle East escalation dampens investor sentiment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/47-rally-in-4-days-kalyan-jewellers-shares-rise-another-10-should-you-book-profit/articleshow/132357947.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-middle-east-escalation-dampens-investor-sentiment/articleshow/132361444.cms",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Kalyan Jewellers shares rose sharply on Monday, extending their four-day rally to 47% after a strong Q1FY27 business update. While technical indicators remain bullish, analysts see up to 58% further u",
+      "desc": "The pan-European STOXX 600 index slipped 0.3% to 639.29 in early trade, extending losses after posting its biggest weekly decline since late April in the previous session. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top developments that could move global markets this week",
+      "title": "SBI Funds reduces IPO size to Rs 9,812 crore after pre-offer placement. Will it impact listing gains?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/slideshow/132358147.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-funds-reduces-ipo-size-to-rs-9812-crore-after-pre-offer-placement-will-it-impact-listing-gains/articleshow/132361142.cms",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Global markets face a pivotal week with TSMC and major U.S. bank earnings, U.S. inflation data, China's GDP numbers, and Middle East tensions shaping investor sentiment, oil prices and rate expectatio",
+      "desc": " SBI Funds Management has cut its IPO size to Rs 9,812 crore from Rs 11,693 crore after raising Rs 1,655 crore through a pre-IPO placement with 30 anchor investors. The IPO, entirely an offer-for-sale",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top developments that could move global markets this week",
+      "title": "FIIs cut stakes, but these 10 stocks rallied up to 220% in just over 3 months",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/slideshow/132357776.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-but-these-10-stocks-rallied-up-to-220-in-just-over-3-months/slideshow/132361433.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Despite FII stake reductions in the March quarter, several BSE 500 stocks rallied sharply, with top performers delivering returns of up to 220%, highlighting that foreign selling doesn't always dictat",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Swiggy shares slide over 2% after FSSAI issues 9 notices over consumer complaints",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-slide-over-2-after-fssai-issues-9-notices-over-consumer-complaints/articleshow/132360998.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Swiggy shares fell over 2% on Monday, extending losses for a second session after the Food Safety and Standards Authority of India (FSSAI) issued nine notices to Swiggy Instamart over consumer complai",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Radhika Gupta on Where to Invest Now | Stocks, Gold, International Funds &amp; More",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhika-gupta-on-where-to-invest-now-stocks-gold-international-funds-more/videoshow/132360809.cms",
       "date": "Mon, 13 Jul 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market:  SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars",
+      "title": "US Stock Market: Fed Chair Kevin Warsh unveils expert panels to overhaul US Central Bank policy framework",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-warns-of-historic-memory-chip-shortage-by-2027-as-ai-demand-soars/articleshow/132357699.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-chair-kevin-warsh-unveils-expert-panels-to-overhaul-us-central-bank-policy-framework/articleshow/132360626.cms",
       "date": "Mon, 13 Jul 2026",
-      "desc": "SK Hynix anticipates a severe global memory chip shortage extending beyond 2030. Accelerating artificial intelligence infrastructure demand fuels this projected supply constraint. The company is explo",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Goldman Sachs pegs Nifty target at 26,500 by June 2027; lists 15 stocks from key themes",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Goldman Sachs has turned more constructive on Indian equities, forecasting the Nifty 50 to rebound to 26,500 by June 2027. The brokerage cited an improving macro backdrop, easing foreign selling, resi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "EM equities see $46 billion exodus in June as South Korea, Taiwan tech selloff rattles investors",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/em-equities-see-46-billion-exodus-in-june-as-south-korea-taiwan-tech-selloff-rattles-investors/articleshow/132356917.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Emerging markets saw substantial equity outflows totalling $46.1 billion in June.  South Korea and Taiwan experienced the largest investor withdrawals from their stock markets.  However, emerging mark",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India bonds fall as oil spike, Treasury rout weigh",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-oil-spike-treasury-rout-weigh/articleshow/132357241.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Indian government bonds experienced a decline early Monday, mirroring U.S. Treasury selloffs. Escalating U.S.-Iran tensions boosted oil prices, raising inflation concerns for India. Hopes for inclusio",
+      "desc": "Federal Reserve Chairman Kevin Warsh announced a comprehensive review of monetary policy. Five taskforces comprising prominent economists will lead this extensive review. These panels include experts ",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +116,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Kalyan Jewellers shares surge almost 10%, jump 47% in just 4 sessions; is there more steam left?",
+      "title": "SBI Funds IPO: Can its private-markets bet close the profitability gap?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/kalyan-jewellers-shares-surge-almost-10-jump-47-in-just-4-sessions-is-there-more-steam-left-11783922565597.html",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-valuation-discount-private-credit-aif-analysis-11783926747358.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Kalyan Jewellers shares hit their 52-week low of  \u20b9327.15 on 11 June this year. At the current juncture, they are up nearly 60% from their 52-week lows. Meanwhile, it is still over 15% down from its 5",
+      "desc": "SBI Funds Management's IPO highlights a key question for investors: why India's biggest fund house earns less from its massive scale\u2014and whether private credit can change that.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades.",
+      "title": "Fino Payments Bank shares hit 20% upper circuit after June business update",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/foreign-investors-pull-961-million-from-indian-metal-stocks-as-earnings-risks-grow-11783872540868.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fino-payments-bank-shares-hit-20-upper-circuit-after-june-business-update-11783934174727.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "June's biggest foreign investor outflow from the sector since August 2023 appears largely tactical, but analysts warn earnings downgrades are likely to continue as cost pressures persist and commodity",
+      "desc": "Fino Payments Bank's shares hit a four-month high, gaining 20% after positive June business updates. The bank reported an 11% rise in deposits and increased loan referrals, signaling growth amid some ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IPO GMPs: Kusumgar IPO vs Laser Power IPO vs SBI Funds Management IPO vs Alpine Texworld IPO - here's what GMP hints",
+      "title": "Bajaj Consumer Care Q1 Results: Net profit jumps 84% YoY to  \u20b970.75 crore",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/ipo-gmps-kusumgar-ipo-gmp-vs-laser-power-ipo-gmp-vs-sbi-funds-management-ipo-gmp-vs-alpine-texworld-ipo-gmp-11783920036566.html",
+      "link": "https://www.livemint.com/market/stock-market-news/bajaj-consumer-care-q1-results-net-profit-jumps-84-yoy-to-rs-70-75-crore-11783934272318.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Four IPOs\u2014SBI Funds Management, Alpine Texworld, Kusumgar, and Laser Power\u2014will dominate this week\u2019s market, with investors tracking subscription data and allotment statuses ahead of listing dates on ",
+      "desc": "Bajaj Consumer Care saw an 84% YoY net profit surge to  \u20b970.75 crore for Q1 FY27, driven by a 25% revenue rise to  \u20b9341.57 crore. The company reported growth in its Almond Drops brand and strong recov",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kusumgar IPO allotment to be finalised today. Here's GMP, how to check status",
+      "title": "Textile stock Aastha Spintex hits 5% upper circuit after this order book update",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/kusumgar-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11783918930618.html",
+      "link": "https://www.livemint.com/market/stock-market-news/textile-stock-aastha-spintex-hits-5-upper-circuit-after-this-order-book-update-11783933209514.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Kusumgar IPO bidding opened for subscription on July 8 and closed on July 10.",
+      "desc": "Textile stock Aastha Spintex hit 5% upper circuit at  \u20b9129.02 apiece in Monday's trading session. The textile stock has fallen over 5.47% since its stock market debut on 6 July 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HCL Tech Q1 Results 2026 LIVE: Expect muted revenue, profit growth; dividend, AI strategy, deal wins, guidance in focus",
+      "title": "LME copper prices fall as escalating US-Iran war renews inflation risks, interest rate hike fears",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-2026-live-hcl-technologies-q1-dividend-earnings-hcl-tech-share-price-ai-revenue-profit-13-july-2026-11783921135530.html",
+      "link": "https://www.livemint.com/market/commodities/lme-copper-prices-fall-as-escalating-us-iran-war-renews-inflation-risks-interest-rate-hike-fears-11783933023277.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "HCL Tech Q1 Results 2026 LIVE: HCL Technologies is expected to report muted earnings growth in the quarter ended June 2026, with revenue and margin seen improving slightly on a sequential basis. Analy",
+      "desc": "Copper prices dropped due to escalating US-Iran war, with LME three-month copper down 0.64%. The geopolitical tensions increased energy prices and inflation fears, while a stronger dollar led to lower",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "LTM needs faster revenue growth to meet FY27 goal",
+      "title": "SBI Funds Management IPO opens tomorrow: GMP, issue details, 10 key things to know",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/ltm-share-price-ltm-q1-earnings-it-sector-india-fy27-outlook-nifty-it-11783916473103.html",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-gmp-sbi-funds-ipo-review-sbi-funds-ipo-date-sbi-funds-management-ipo-listing-sbi-funds-ipo-11783930121513.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Analysts caution that weak Q1FY27 results have raised the ask-rate for LTM to meet its guidance of higher growth in FY27&amp;nbsp;",
+      "desc": "SBI Funds Management IPO opens for subscription on 14 July, closing on 16 July. The IPO, entirely an Offer for Sale, aims to raise  \u20b911,102 crore, with existing promoters offloading stakes. It has att",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "CarTrade Tech share price gains after UBS assigns \u2018Buy\u2019 call, sees over 42% upside potential",
+      "title": "DMart Q1: Speedbump or structural slowdown?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/cartrade-tech-share-price-gains-after-ubs-assigns-buy-call-sees-over-42-upside-potential-11783917488921.html",
+      "link": "https://www.livemint.com/market/mark-to-market/dmart-q1-speedbump-structural-slowdown-avenue-supermarts-quick-commerce-store-count-store-additions-dmart-ready-11783925031663.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "CarTrade Tech share price has risen 19% in one month, and has gained 56% in three months. The stock has rallied 48% in one year, and has delivered multibagger returns of 237% in two years and 443% ove",
+      "desc": "Avenue Supermarts, operating DMart, reports a Q1FY27 revenue rise of 15.1%, but competition from quick commerce firms affects growth. Mature store productivity declines while non-metro locations show ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Shriram Finance, Brigade Enterprise on 13 July",
+      "title": "L&amp;T Finance share price rises 4% after Q1 results 2026. Should you buy, sell or hold?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-shriram-finance-brigade-enterprise-on-13-july-11783915650685.html",
+      "link": "https://www.livemint.com/market/stock-market-news/lt-finance-share-price-rises-4-after-q1-results-2026-should-you-buy-sell-or-hold-11783926091679.html",
       "date": "Mon, 13 Jul 2026",
-      "desc": "Indian benchmark indices fell on Monday as tensions in the Middle East and Iran's claim of closing the Strait of Hormuz dampened sentiment. Nifty 50 declined 0.69%, and BSE Sensex dropped 0.78%, with ",
+      "desc": "L&amp;amp;T shares opened at  \u20b9321.25 today on NSE, same as the previous close on Friday. The stock touched an intraday high of  \u20b9333.50 per share on 13 July.",
       "tags": [],
       "is_portfolio": false
     }
