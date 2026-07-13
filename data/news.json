@@ -1,6 +1,17 @@
 {
-  "updated_ist": "10 Jul 2026 18:11 IST",
+  "updated_ist": "13 Jul 2026 11:55 IST",
   "news": [
+    {
+      "title": "TCS shares jump 3%, extend gains to day two after Q1 earnings. Should you buy, sell or hold?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-jump-3-extend-gains-to-day-two-after-q1-earnings-should-you-buy-sell-or-hold/articleshow/132357763.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "TCS shares rose for a second straight session on Monday after the IT major reported a 5% YoY rise in Q1 FY27 net profit and announced an interim dividend of Rs 12 per share. Brokerages remain divided,",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "Top Gainers &amp; Losers on 10 July: Godrej Industries, Indian Bank, Kalyan Jewellers, Paytm, CDSL among top gainers",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-july-godrej-industries-indian-bank-kalyan-jewellers-paytm-cdsl-among-top-gainers-11783676501893.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Domestic equity markets saw gains on July 10, supported by financial stocks and IT giant TCS, despite closing the week with slight losses. Major indices rose over 1%, led by Nifty Realty's 3.40% surge",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
+      "title": "47% rally in 4 days! Kalyan Jewellers shares rise another 10%. Should you book profit?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/47-rally-in-4-days-kalyan-jewellers-shares-rise-another-10-should-you-book-profit/articleshow/132357947.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Kalyan Jewellers shares rose sharply on Monday, extending their four-day rally to 47% after a strong Q1FY27 business update. While technical indicators remain bullish, analysts see up to 58% further u",
+      "tags": [],
+      "is_portfolio": false
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live: US stock futures mixed ahead of SK Hynix listing; Middle East in focus",
+      "title": "Top developments that could move global markets this week",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-strikes-hormuz-deal-brent-crude-oil-sk-hynix-intel-micron-delta-airlines-ai-chip-crypto-bitcoin-stock-price-news-10-july-2026/liveblog/132311653.cms",
-      "date": "Fri, 10 Jul 2026",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/slideshow/132358147.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Global markets face a pivotal week with TSMC and major U.S. bank earnings, U.S. inflation data, China's GDP numbers, and Middle East tensions shaping investor sentiment, oil prices and rate expectatio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top developments that could move global markets this week",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/top-developments-that-could-move-global-markets-this-week/slideshow/132357776.cms",
+      "date": "Mon, 13 Jul 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nykaa among 6 midcap stocks that hit 52-week highs, rally up to 30% in a month",
+      "title": "Global Market:  SK Hynix warns of historic memory chip shortage by 2027 as AI demand soars",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nykaa-among-6-midcap-stocks-that-hit-52-week-highs-rally-up-to-30-in-a-month/slideshow/132311162.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Nykaa, Godrej Industries and four other BSE MidCap stocks hit fresh 52-week highs, rallying up to 30% over the past month amid strong market momentum. ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-warns-of-historic-memory-chip-shortage-by-2027-as-ai-demand-soars/articleshow/132357699.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "SK Hynix anticipates a severe global memory chip shortage extending beyond 2030. Accelerating artificial intelligence infrastructure demand fuels this projected supply constraint. The company is explo",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Milky Mist said to launch $213 million IPO this month",
+      "title": "Goldman Sachs pegs Nifty target at 26,500 by June 2027; lists 15 stocks from key themes",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-said-to-launch-213-million-india-ipo-this-month/articleshow/132276227.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Milky Mist Dairy Food Ltd. is preparing for its large initial public offering.  The company aims to launch the share sale as early as July or August.  This offering is expected to be India's largest d",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-pegs-nifty-target-at-26500-by-june-2027-lists-15-stocks-from-key-themes/articleshow/132357525.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Goldman Sachs has turned more constructive on Indian equities, forecasting the Nifty 50 to rebound to 26,500 by June 2027. The brokerage cited an improving macro backdrop, easing foreign selling, resi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibaggers: 13 stocks surged up to 225% in just 3 months",
+      "title": "EM equities see $46 billion exodus in June as South Korea, Taiwan tech selloff rattles investors",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-13-stocks-surged-up-to-225-in-just-3-months/slideshow/132309891.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Even as the Sensex stayed nearly flat with just a 0.14% gain over three months, 13 stocks with a market cap above Rs 5,000 crore bucked the trend, surging up to 225% and more than doubling investor we",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/em-equities-see-46-billion-exodus-in-june-as-south-korea-taiwan-tech-selloff-rattles-investors/articleshow/132356917.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Emerging markets saw substantial equity outflows totalling $46.1 billion in June.  South Korea and Taiwan experienced the largest investor withdrawals from their stock markets.  However, emerging mark",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee slips on week as Iran flare-up spurs caution, merchant hedging",
+      "title": "India bonds fall as oil spike, Treasury rout weigh",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-on-week-as-iran-flare-up-spurs-caution-merchant-hedging/articleshow/132309601.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "The Indian rupee ended nearly unchanged on Friday, but the week closed on a weaker note. Investor caution grew amid renewed hostilities in the Middle East, impacting oil-affiliated currencies. Meanwhi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Smallcap company announces 1:10 stock split 7 days after listing on market",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcap-company-announces-110-stock-split-7-days-after-listing-on-market/articleshow/132309190.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Waterways Leisure Tourism approved a 1:10 stock split, subject to shareholder approval, days after its market debut. The move aims to improve stock liquidity, affordability and retail participation wi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nuvama initiates Buy call on Vedanta Aluminium shares, expects profitability to exceed historical average. Here's why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-initiates-buy-call-on-vedanta-aluminium-shares-expects-profitability-to-exceed-historical-average-heres-why/articleshow/132309020.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Nuvama Institutional Equities and Motilal Oswal Financial Services have initiated coverage on Vedanta Aluminium with 'Buy' ratings and target prices of Rs 540, citing strong earnings growth, cost redu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Lord's Mark Industries Limited listed on the Bombay Stock Exchange",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lords-mark-industries-limited-listed-on-the-bombay-stock-exchange/articleshow/132308849.cms",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Lord's Mark Industries Limited successfully listed on the Bombay Stock Exchange on Friday, July 10. This significant milestone marks a new phase in the company's corporate journey. The diversified bus",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-fall-as-oil-spike-treasury-rout-weigh/articleshow/132357241.cms",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Indian government bonds experienced a decline early Monday, mirroring U.S. Treasury selloffs. Escalating U.S.-Iran tensions boosted oil prices, raising inflation concerns for India. Hopes for inclusio",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,65 +114,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Expert view: Recent correction has provided ample opportunities in large caps, says DSP MF's market strategist",
+      "title": "Kalyan Jewellers shares surge almost 10%, jump 47% in just 4 sessions; is there more steam left?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-recent-correction-has-provided-ample-opportunities-in-large-caps-says-dsp-mfs-market-strategist-11783681435152.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "In a recent interview, Sahil Kapoor of DSP Mutual Fund shares insights on leveraging current market corrections to invest in large-cap equities. Kapoor highlights sectoral opportunities like private b",
+      "link": "https://www.livemint.com/market/stock-market-news/kalyan-jewellers-shares-surge-almost-10-jump-47-in-just-4-sessions-is-there-more-steam-left-11783922565597.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Kalyan Jewellers shares hit their 52-week low of  \u20b9327.15 on 11 June this year. At the current juncture, they are up nearly 60% from their 52-week lows. Meanwhile, it is still over 15% down from its 5",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Expert view: Indian stock market may remain range-bound this year",
+      "title": "The real worry for Indian metal stocks isn't FPI selling. It's more earnings downgrades.",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-indian-stock-market-may-remain-range-bound-this-year-11783683180856.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "As foreign portfolio investors sell, domestic institutional investors rally, keeping the Indian stock market stable. Nikhil Chawla, managing partner and co-founder of xMultiplied Capital Advisors, how",
+      "link": "https://www.livemint.com/market/stock-market-news/foreign-investors-pull-961-million-from-indian-metal-stocks-as-earnings-risks-grow-11783872540868.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "June's biggest foreign investor outflow from the sector since August 2023 appears largely tactical, but analysts warn earnings downgrades are likely to continue as cost pressures persist and commodity",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bank of Maharashtra Q1 results: Net profit jumps 27% YoY to  \u20b92,020 crore",
+      "title": "IPO GMPs: Kusumgar IPO vs Laser Power IPO vs SBI Funds Management IPO vs Alpine Texworld IPO - here's what GMP hints",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bank-of-maharashtra-q1-results-net-profit-jumps-27-yoy-to-rs-2-020-crore-11783678232480.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Bank of Maharashtra's net profit rose 27% to  \u20b92,020 crore in Q1 FY27, driven by growth in interest income and improved asset quality. Total income increased to  \u20b99,063 crore, and the bank's GNPA rati",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-kusumgar-ipo-gmp-vs-laser-power-ipo-gmp-vs-sbi-funds-management-ipo-gmp-vs-alpine-texworld-ipo-gmp-11783920036566.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Four IPOs\u2014SBI Funds Management, Alpine Texworld, Kusumgar, and Laser Power\u2014will dominate this week\u2019s market, with investors tracking subscription data and allotment statuses ahead of listing dates on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "AMFI June data: Equity mutual fund inflows jump 26%, mid-cap, small-cap funds steal the show",
+      "title": "Kusumgar IPO allotment to be finalised today. Here's GMP, how to check status",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/amfi-june-data-equity-mutual-fund-inflows-jump-26-mid-cap-small-cap-funds-steal-the-show-11783677573028.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Investors demonstrated strong interest in equity mutual funds in June, with net inflows reaching  \u20b928,973 crore, up 26% from May. Mid-cap and small-cap funds led inflows, illustrating sustained confid",
+      "link": "https://www.livemint.com/market/ipo/kusumgar-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-11783918930618.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Kusumgar IPO bidding opened for subscription on July 8 and closed on July 10.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex jumps 800 points, Nifty 50 reclaims 24,200; investors earn  \u20b96 lakh crore in a day: What drove the stock market?",
+      "title": "HCL Tech Q1 Results 2026 LIVE: Expect muted revenue, profit growth; dividend, AI strategy, deal wins, guidance in focus",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-800-points-nifty-50-reclaims-24-200-investors-earn-6-lakh-crore-in-a-day-what-drove-the-stock-market-11783677455587.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "The Sensex jumped 828 points, or 1.08%, to end at 77,569.39, while the Nifty 50 settled at 24,206.90, up 244 points, or 1.02%. Investors earned nearly  \u20b96 lakh crore in a single session.",
+      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-2026-live-hcl-technologies-q1-dividend-earnings-hcl-tech-share-price-ai-revenue-profit-13-july-2026-11783921135530.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "HCL Tech Q1 Results 2026 LIVE: HCL Technologies is expected to report muted earnings growth in the quarter ended June 2026, with revenue and margin seen improving slightly on a sequential basis. Analy",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Muthoot Microfin shares jump 16.5% in biggest one-day gain in over a year after Q1 business update",
+      "title": "LTM needs faster revenue growth to meet FY27 goal",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/muthoot-microfin-shares-jump-16-5-in-biggest-one-day-gain-in-over-a-year-after-q1-business-update-11783674817470.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Muthoot Microfin shares rose 16.5% on July 10, reaching  \u20b9245 due to strong June quarter results, highlighting a 49% increase in disbursements. The firm reported improved asset quality and diversified",
+      "link": "https://www.livemint.com/market/mark-to-market/ltm-share-price-ltm-q1-earnings-it-sector-india-fy27-outlook-nifty-it-11783916473103.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Analysts caution that weak Q1FY27 results have raised the ask-rate for LTM to meet its guidance of higher growth in FY27&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian Bank share price zooms 10% after announcement of Q1 results 2026",
+      "title": "CarTrade Tech share price gains after UBS assigns \u2018Buy\u2019 call, sees over 42% upside potential",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/indian-bank-share-price-zooms-10-after-announcement-of-q1-results-2026-11783672640554.html",
-      "date": "Fri, 10 Jul 2026",
-      "desc": "Indian Bank's share price rose 10% to  \u20b9872.45 after reporting a net profit of  \u20b93,273 crore for Q1FY27, a 10% YoY increase. NII grew by 17% to  \u20b97,435 crore, while asset quality improved, with GNPA d",
+      "link": "https://www.livemint.com/market/stock-market-news/cartrade-tech-share-price-gains-after-ubs-assigns-buy-call-sees-over-42-upside-potential-11783917488921.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "CarTrade Tech share price has risen 19% in one month, and has gained 56% in three months. The stock has rallied 48% in one year, and has delivered multibagger returns of 237% in two years and 443% ove",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Shriram Finance, Brigade Enterprise on 13 July",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-shriram-finance-brigade-enterprise-on-13-july-11783915650685.html",
+      "date": "Mon, 13 Jul 2026",
+      "desc": "Indian benchmark indices fell on Monday as tensions in the Middle East and Iran's claim of closing the Strait of Hormuz dampened sentiment. Nifty 50 declined 0.69%, and BSE Sensex dropped 0.78%, with ",
       "tags": [],
       "is_portfolio": false
     }
