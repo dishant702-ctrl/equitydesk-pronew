@@ -1,147 +1,189 @@
 {
-  "updated_ist": "14 Jul 2026 12:59 IST",
+  "updated_ist": "14 Jul 2026 14:58 IST",
   "news": [
     {
-      "title": "HCL Tech\u2019s Rs 3,500 crore AI data centre foray: A new growth engine or capital-intensive diversion?",
+      "title": "Bitcoin consolidates near $62K as US-Iran tensions and inflation fears keep investors cautious",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hcl-techs-rs-3500-crore-ai-data-centre-foray-a-new-growth-engine-or-capital-intensive-diversion/articleshow/132383949.cms",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-consolidates-near-62k-as-us-iran-tensions-and-inflation-fears-keep-investors-cautious/articleshow/132385801.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "HCL Technologies is investing up to Rs 3,500 crore in AI data centres to build a full-stack AI ecosystem spanning infrastructure, compute and managed services. While the phased investment could create",
-      "tags": [],
-      "is_portfolio": false
+      "desc": "Bitcoin hovered near $62,500 as escalating US-Iran tensions, rising oil prices and inflation concerns kept investors on edge ahead of key US CPI data and Fed Chair Kevin Warsh's testimony. Despite sho",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
     },
     {
-      "title": "Ashish Kacholia exits, Madhusudan Kela trims stake in smallcap NBFC stock that's up over 50% in 2026",
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "HCL Tech: Despite strong deal wins, risk-reward remains unfavourable",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "So far in 2026, HCL shares are down 27%. It trades at FY28 PE multiple of 15 \u2013 a premium to larger peers TCS and Infosys, shows Bloomberg data. HCL\u2019s narrowing growth differential, coupled with data-c",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: CXMT set for July 27 Shanghai debut in Asia's biggest IPO of 2026",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-exits-madhusudan-kela-trims-stake-in-smallcap-nbfc-stock-thats-up-over-50-in-2026/articleshow/132383509.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-cxmt-set-for-july-27-shanghai-debut-in-asias-biggest-ipo-of-2026/articleshow/132386288.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Prominent investors Ashish Kacholia and Madhusudan Kela have reduced their stakes in SG Finserve. This move follows a substantial 52% share price increase since the year began. Kacholia's holding drop",
+      "desc": "China's leading memory chipmaker, CXMT, is set to debut on the Shanghai Stock Exchange on July 27 after launching a 29.5 billion yuan IPO, expected to be Asia's largest this year. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oracle shares under pressure: What's driving the recent selloff?",
+      "title": "Rekha Jhunjhunwala sells 1 crore Canara Bank shares in Q1. What's behind the move?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-under-pressure-whats-driving-the-recent-selloff/slideshow/132383693.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-sells-1-crore-canara-bank-shares-in-q1-whats-behind-the-move/articleshow/132386125.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": " ",
+      "desc": "Veteran investor Rekha Jhunjhunwala sold over 1.07 crore Canara Bank shares during the April\u2013June quarter, reducing her stake from 1.54% to 1.42%, according to the lender's latest shareholding data. T",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: UK bond yields hit one-month high as Middle East tensions boost rate-hike expectations",
+      "title": "Japan's Nikkei rallies on bargain-hunting, Kospi recovery",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uk-bond-yields-hit-one-month-high-as-middle-east-tensions-boost-rate-hike-expectations/articleshow/132383109.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rallies-on-bargain-hunting-kospi-recovery/articleshow/132385601.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Middle East tensions are driving oil prices higher and impacting global energy supplies. This surge in oil prices is fueling inflation concerns and influencing monetary policy expectations. Investors ",
+      "desc": "Japan's Nikkei share average rallied on Tuesday, reversing an earlier slide. Bargain-buying and a recovery in South Korea's Kospi supported the market's upward movement. Higher oil prices and central ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: UK's Rachel Reeves defends fiscal record ahead of leadership change; investors eye policy continuity",
+      "title": "SBI raises $200 million through bond tap in",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-uks-rachel-reeves-defends-fiscal-record-ahead-of-leadership-change-investors-eye-policy-continuity/articleshow/132383005.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/sbi-raises-200-million-through-bond-tap-in/articleshow/132385450.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Britain's Finance Minister Rachel Reeves defended her economic record ahead of an expected Labour leadership transition, while investors assessed whether the incoming government would retain fiscal di",
+      "desc": "State Bank of India has raised an additional $200 million. This funding comes from an existing bond issue maturing in July 2029. The bonds will be issued through SBI's London branch on July 17.  ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vijay Kedia\u2019s new smallcap bet revealed; FIIs raise stake, stock up 15% in one month",
+      "title": "German yields hit 2-year high as Middle East conflict stokes inflation fears",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedias-new-smallcap-bet-revealed-fiis-raise-stake-stock-up-15-in-one-month/articleshow/132382896.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/german-yields-hit-2-year-high-as-middle-east-conflict-stokes-inflation-fears/articleshow/132385088.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Kedia Securities, backed by ace investor Vijay Kedia, acquired a fresh 1.45% stake in smallcap engineering firm Eimco Elecon during the June 2026 quarter. The stock has gained nearly 15% in the past m",
+      "desc": "German two-year bond yields reached their highest point since July 2024.  This rise occurred as Middle East conflict fears boosted inflation and interest rate expectations.  Money markets now anticipa",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why SanDisk stock plunged despite Wall Street's bullish outlook",
+      "title": "Global Market: European shares fall as US-Iran tensions rattle markets; BP gains, Ericsson slumps",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-sandisk-stock-plunged-despite-wall-streets-bullish-outlook/slideshow/132383373.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-us-iran-tensions-rattle-markets-bp-gains-ericsson-slumps/articleshow/132384985.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "SanDisk shares tumbled over 12% amid profit-booking and weakness in semiconductor stocks. Despite the decline, analysts remain bullish, citing strong AI-driven storage demand, favorable NAND market tr",
+      "desc": "European shares fell at the open as escalating US-Iran tensions dented risk appetite, while investors assessed earnings from BP, Ericsson and Evotec amid rising oil prices. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Stock Market: Trump increased holdings in stocks and bonds despite crypto push",
+      "title": "Rekha Jhunjhunwala likely exits this smallcap metal stock after 90% rally in 1 year. Do you own?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-trump-increased-holdings-in-stocks-and-bonds-despite-crypto-push/articleshow/132382720.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-likely-exits-this-smallcap-metal-stock-after-90-rally-in-1-year-do-you-own/articleshow/132384881.cms",
       "date": "Tue, 14 Jul 2026",
-      "desc": "President Trump significantly boosted traditional asset holdings in 2025.  His family aggressively promoted cryptocurrency ventures, which generated substantial revenue.  Analysis shows his stock and ",
+      "desc": "Ace investor Rekha Jhunjhunwala has likely exited her investment in Raghav Productivity Enhancers after steadily reducing her stake over recent quarters. The smallcap metal stock has gained about 90% ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Laser Power &amp; Infra IPO allotment in focus today; latest GMP, 6 steps to check status",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/laser-power-ipo-gmp-laser-power-ipo-allotment-date-laser-power-infra-ipo-allotment-date-laser-power-infra-11784010765466.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "The Laser Power &amp;amp; Infra IPO share allotment will be finalized today. Investors can check their allotment status on MUFG Intime's portal. Refunds for those not allotted will begin on 15 July, w",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty 50 Trading Strategy: Analysts recommend Bull Call Spread options strategy for 21 July expiry",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-trading-strategy-analysts-recommend-bull-call-spread-options-strategy-for-21-july-expiry-11784011569302.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Nifty 50 Trading Strategy: Axis Securities has recommended a Bull Call Spread strategy for Nifty options contracts expiring on 21 July 2026, expecting a moderately bullish view.",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PC Jeweller share price in focus after the multibagger stock announces board meeting to consider QIP; check date",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-in-focus-after-the-multibagger-stock-announces-board-meeting-to-consider-qip-check-date-11784010090380.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "PC Jeweller's Board will meet on July 16, 2026, to discuss a QIP proposal aimed at funding business growth and strategic initiatives, while completing debt repayments. The meeting will also cover the ",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stocks to buy for short term: Sumitomo Chemical, Coforge among 5 shares experts recommend for next 1-2 weeks",
+      "title": "Landmark Cars shares jump 17.5% to six-month high after record June-quarter sales",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-sumitomo-chemical-coforge-among-5-shares-experts-recommend-for-next-1-2-weeks-11784008935743.html",
+      "link": "https://www.livemint.com/market/stock-market-news/landmark-cars-shares-jump-17-5-to-six-month-high-after-record-june-quarter-sales-11784020587240.html",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Analysts identify five stocks poised for short-term growth. From Coforge to Sumitomo Chemical, these companies demonstrate strong bullish trends, appealing to traders seeking opportunities in the next",
+      "desc": "Landmark Cars shares jumped 17.5% to  \u20b9496.70, hitting a six-month high after reporting record first-quarter sales of  \u20b91,733 crore, a 22.47% year-on-year increase. The company anticipates sustained s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Caliber Mining &amp; Logistics IPO: Price band set at  \u20b9402-424 per share; check key dates, issue details",
+      "title": "Defence stocks to buy or sell: Kotak expects defence upcycle to continue, prefers HAL over peers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-price-band-set-at-rs-402-424-per-share-check-key-dates-issue-details-11784007365285.html",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-or-sell-kotak-expects-defence-upcycle-to-continue-prefers-hal-over-peers-11784019770556.html",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Caliber Mining &amp;amp; Logistics IPO is set with a price band of  \u20b9402 to  \u20b9424 per share. The subscription opens on July 17 and closes on July 21, with a lot size of 35 shares and allocations reser",
+      "desc": "India's defence sector is predicted to experience an 11% CAGR in capital expenditure through FY2030, driven by increases in domestic procurement and AoN approvals. Kotak Institutional Equities forecas",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stocks to buy: Choice Broking sees 20% upside in this healthcare stock. Should you buy?",
+      "title": "Higher oil prices to rising bond yields: 5 key risks that could keep the Indian stock market under pressure in 2026",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-choice-broking-sees-20-upside-in-the-healthcare-stock-park-medi-world-share-price-should-you-buy-11784008104650.html",
+      "link": "https://www.livemint.com/market/stock-market-news/higher-oil-prices-to-rising-bond-yields-5-key-risks-that-could-keep-the-indian-stock-market-under-pressure-in-2026-11784014632183.html",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Choice's forecast indicates significant earnings growth for Park Medi World, expecting revenue to rise from  \u20b916.8 billion in FY26 to  \u20b939.4 billion by FY29, with stable EBITDA margins of 26.5%. The b",
+      "desc": "As geopolitical tensions and economic indicators cloud the path to recovery, the Indian stock market faces major headwinds. Investors should brace for short-term volatility amidst rising oil prices, b",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IDBI Bank share price rises 4% after reports of govt receiving bids for stake sale. Do you own?",
+      "title": "SBI Funds IPO to test investor appetite for  \u20b94.81-trillion IPO pipeline",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/idbi-bank-share-price-rises-4-after-reports-of-govt-receiving-bids-for-stake-sale-do-you-own-11784006770912.html",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-ipo-to-test-investor-appetite-for-4-81-trillion-ipo-pipeline-fundraise-sebi-11784014089895.html",
       "date": "Tue, 14 Jul 2026",
-      "desc": "IDBI Bank stock opened at  \u20b985 apiece today, as compared to previous close of  \u20b984.07 on Monday.",
+      "desc": "The country's largest asset manager is entering the market at a relatively moderate valuation, and its subscription and listing performance could influence how dozens of companies price and time their",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Millworks Technologies IPO day 1: Issue fully subscribed; GMP hints at over 90% listing pop; key details of BSE SME IPO",
+      "title": "World's best-performing market Kospi index enters bear market: Can South Korea's selloff hit Indian stock markets?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/millworks-technologies-ipo-day-1-issue-fully-subscribed-gmp-hints-at-over-90-listing-pop-key-details-of-bse-sme-ipo-11784006552732.html",
+      "link": "https://www.livemint.com/market/stock-market-news/worlds-best-performing-market-kospi-index-enters-bear-market-can-south-koreas-selloff-hit-indian-stock-markets-11784015390898.html",
       "date": "Tue, 14 Jul 2026",
-      "desc": "Millworks Technologies IPO day 1: Millworks Technologies IPO opened for public subscription on Tuesday, 14 July, and will conclude on Thursday, 16 July. The BSE SME IPO is entirely a fresh issue of 48",
+      "desc": "The KOSPI's decline poses a sentiment risk for India, primarily due to FII selling amid global cautiousness. However, rising oil prices present a greater threat by increasing import costs and inflatio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "SBI Funds Management IPO vs Alpine Texworld IPO: Which issue should you subscribe? Check what latest GMP signals",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-vs-alpine-texworld-ipo-which-issue-should-you-subscribe-check-what-latest-ipo-gmp-signals-11784014546840.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Two IPOs, SBI Funds Management and Alpine Texworld, opened for subscription on July 14. SBI Funds Management aims to raise  \u20b911,692.91 crore, with a potential listing gain of 17.42%. Alpine Texworld s",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Kusumgar IPO listing date tomorrow. Here\u2019s what GMP signals about share debut on Dalal Street",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/kusumgar-ipo-listing-date-tomorrow-here-s-what-gmp-signals-about-share-debut-on-dalal-street-11784012697686.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Kusumgar IPO listing date is tomorrow, 15 July 2026. Ahead of the share debut, Kusumgar IPO GMP today signals a strong listing of shares in the Indian stock market.",
       "tags": [],
       "is_portfolio": false
     }
