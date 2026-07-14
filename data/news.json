@@ -1,17 +1,6 @@
 {
-  "updated_ist": "13 Jul 2026 18:05 IST",
+  "updated_ist": "14 Jul 2026 11:06 IST",
   "news": [
-    {
-      "title": "Market wrap: TCS, HCL Tech among top gainers and losers on Nifty and Sensex today",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-hcl-tech-among-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132366249.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Sensex and Nifty recovered sharply from nearly 1% intraday losses to close marginally higher, led by IT stocks. Analysts cited strong FII inflows and technical support at 24,000, while warning that ri",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,76 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Top Gainers &amp; Losers on 13 July: Newgen Software, Kalyan Jewellers, TCS, Voltas, Paytm, Bajaj Auto among top gainers",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-13-july-newgen-software-kalyan-jewellers-tcs-voltas-paytm-bajaj-auto-among-top-gainers-11783936105519.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Indian benchmark indices closed largely unchanged on July 13, supported by strong buying in IT and auto stocks. The Nifty 50 settled at 24,211, while the Sensex ended at 77,564. The Nifty IT index was",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "JSW Infrastructure among 7 stocks that hit 52-week highs and rallied up to 30% in a month",
+      "title": "US Stock Market: Dollar rally gains support as global pension funds unwind FX hedges, easing pressure on greenback",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jsw-infrastructure-among-7-stocks-that-hit-52-week-highs-and-rallied-up-to-30-in-a-month/slideshow/132366807.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Seven BSE 200 stocks, including Paytm, Nykaa, Oracle Financial Services and JSW Infrastructure, hit fresh 52-week highs despite a subdued market. The milestone reflects strong investor confidence, sus",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-dollar-rally-gains-support-as-global-pension-funds-unwind-fx-hedges-easing-pressure-on-greenback/articleshow/132381741.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Major pension funds are reducing currency hedges, which supports the U.S. dollar's rally. This shift occurs as hedging costs rise due to widening U.S. interest rate differentials. The dollar has also ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HCL Technologies Q1 Results: Profit rises 20% YoY to Rs 4,624 crore; co declares Rs 12 dividend",
+      "title": "Caliber Mining &amp; Logistics announces Rs 450-crore IPO, opens July 17",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-technologies-q1-results-profit-rises-20-yoy-to-rs-4624-crore-co-declares-rs-12-dividend/articleshow/132365162.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "HCL Technologies Q1 results: IT services company HCL Tech reported a 20% year-on-year (YoY) growth in its consolidated net profit at Rs 4,624 crore in the first quarter of FY27. The same stood at Rs 3",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/caliber-mining-logistics-announces-rs-450-crore-ipo-opens-july-17/articleshow/132381641.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": " Caliber Mining &amp; Logistics announced its Rs 450-crore IPO price band of Rs 402 to Rs 424. The public issue will open for subscription on July 17 and close on July 21. The company plans to use IPO",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today | Live: US stock futures decline as US-Iran escalation rattles sentiment",
+      "title": "Biocon shares jump 6% as Mylan likely exits drugmaker after Rs 3,481 crore stake sale",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-micron-sk-hynix-deckers-outdoor-stock-price-news-13-july-2026/liveblog/132366645.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": " ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-jump-6-as-mylan-likely-exits-drugmaker-after-rs-3481-crore-stake-sale/articleshow/132381476.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": " Biocon shares experienced a significant jump of over 6% on Tuesday. Viatris-owned Mylan intends to sell a substantial stake, exiting the Indian drugmaker. This stake sale represents 5.64% of Biocon's",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ICICI Prudential AMC Q1 Results: Net profit rises 23% YoY to Rs 965 crore; revenue up 18%",
+      "title": "Global Market:  AI boom turns turbulent as South Korea stocks slide into bear market",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q1-results-net-profit-rises-23-yoy-to-rs-965-crore-revenue-up-18/articleshow/132365298.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "ICICI Prudential AMC Q1 Results: Revenue from operations, meanwhile, increased 18% YoY to Rs 1,564 crore. ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-boom-turns-turbulent-as-south-korea-stocks-slide-into-bear-market/articleshow/132381440.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "South Korea's KOSPI has entered bear market territory after falling about 25% from its late-June record high, following a spectacular AI-driven rally. Reuters said the correction highlights risks from",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Can SBI Funds\u2019 Rs 9,813 crore mega IPO revive a dry stock market? CEO makes bold prediction",
+      "title": "Global Market: South Korea targets AI-led growth, raises 2026 GDP forecast to five-year high; chip stocks in focus",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sbi-funds-rs-9813-crore-mega-ipo-revive-a-dry-stock-market-ceo-makes-bold-prediction/articleshow/132364883.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "SBI Funds Management expects its Rs 9,813 crore IPO to revive investor confidence and boost India's primary market. CEO Debasish Mishra said attractive pricing, strong governance and industry growth p",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-targets-ai-led-growth-raises-2026-gdp-forecast-to-five-year-high-chip-stocks-in-focus/articleshow/132381407.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "South Korea has raised its 2026 GDP growth forecast to 3%, the fastest pace in five years, backed by an AI and semiconductor-led investment push. The government's plans to boost chip manufacturing, AI",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil pangs resurface for rupee, options market gauge signals bearish bias",
+      "title": "Nuvoco Vistas shares rocket 14% after Q1 net profit jumps 20%; firm reports strongest EBITDA ever",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias/articleshow/132364812.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "On Monday, the Indian rupee fell to its lowest level in over a month, driven down by rising oil prices amid escalating tensions between the US and Iran. Despite the currency's decline, traders observe",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvoco-vistas-shares-rocket-14-after-q1-net-profit-jumps-20-firm-reports-strongest-ebitda-ever/articleshow/132381134.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Nuvoco Vistas shares rose sharply on Monday after the company reported a 20% YoY rise in Q1 FY27 net profit to Rs 160 crore and its highest-ever first-quarter EBITDA. The cement maker also highlighted",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex rises 47 points, Nifty closes above 24,200 as market recovers all morning losses. What\u2019s ahead?",
+      "title": "South Korea's Kospi crashes 5% again, plunges 31% in one month. Is the AI frenzy over?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-47-points-nifty-closes-above-24200-as-market-recovers-all-morning-losses-whats-ahead/articleshow/132363441.cms",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Indian benchmark indices erased steep intraday losses to end marginally higher on Monday, supported by a strong rally in IT stocks and continued foreign fund inflows despite escalating tensions betwee",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-crashes-5-again-plunges-31-in-one-month-is-the-ai-frenzy-over/articleshow/132381048.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": " South Korea's Kospi plunged 5% on Tuesday, extending its two-day decline to nearly 14% and taking the index into bear market territory. The benchmark has fallen over 31% from its June peak after a te",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: China's upbeat trade data lifts hopes for export-linked stocks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-upbeat-trade-data-lifts-hopes-for-export-linked-stocks/articleshow/132380856.cms",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "China's exports saw a strong 27% year-on-year increase in June. Imports also climbed a significant 36%, accelerating from May's figures. This performance indicates resilient global demand and strength",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,65 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "HCL Tech Q1 Results: Board declares interim dividend of  \u20b912 per share. Details here",
+      "title": "Happy Steels IPO share allotment in focus today: GMP, steps to check status online",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-board-declares-interim-dividend-of-rs-12-per-share-details-here-11783945313994.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "HCL Technologies announced an interim dividend of  \u20b912 per share, marking the 94th consecutive quarter of payouts. The record date for shareholders is July 17, with the payout scheduled for July 27.",
+      "link": "https://www.livemint.com/market/ipo/happy-steels-ipo-share-allotment-in-focus-today-gmp-steps-to-check-status-online-11784004329808.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Happy Steels IPO share allotment is expected to be finalised on Tuesday, 14 July. Happy Steels IPO was entirely a fresh issue of 37,88,000 shares. With a price band of  \u20b962 to  \u20b966 per share, the comp",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HCL Tech Q1 results: Profit jumps 20% YoY to  \u20b94,626 crore; dividend declared; key takeaways from June quarter earnings",
+      "title": "Supreme Court upholds SEBI's  \u20b92.1 crore penalty on Kotak AMC, Nilesh Shah and others against Essel Group",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-profit-jumps-20-yoy-to-4-626-crore-dividend-declared-key-takeaways-from-june-quarter-earnings-11783929752654.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "HCL Tech Q1 results: Profit jumps 20% YoY to  \u20b94,626 crore; dividend declared; key takeaways from June quarter earnings",
+      "link": "https://www.livemint.com/market/stock-market-news/supreme-court-upholds-sebis-rs-2-1-crore-penalty-on-kotak-amc-nilesh-shah-and-others-against-essel-group-11784003888190.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "The Supreme Court upheld SEBI's penalties against Kotak Mahindra AMC and six executives for mutual fund regulation violations. The court emphasized compliance over profits and upheld a total penalty o",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SK Hynix shares plunge 15% to one-month low after blockbuster Nasdaq debut",
+      "title": "Stocks to buy: Sagar Doshi suggests Anant Raj, Sobha, PNB Housing Finance shares to buy",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sk-hynix-shares-plunge-15-to-one-month-low-after-blockbuster-nasdaq-debut-11783941755706.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "SK Hynix shares fell 15% on 13 July, marking a record decline. The drop, driven by profit-taking after Nasdaq debut, weighed on South Korea's Kospi, which fell 9%. Market volatility raises questions o",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sagar-doshi-suggests-anant-raj-sobha-pnb-housing-finance-shares-to-buy-11784002408057.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Indian benchmark indices fell on Tuesday due to rising crude oil prices amid Middle East tensions. The Nifty 50 dropped 0.54% while the BSE Sensex declined 0.62%. Heavyweight stocks led the downturn a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ICICI Pru AMC Q1 results: Profit jumps 23% YoY to  \u20b9964.63 crore, revenue rises 17.5%",
+      "title": "Sensex drops over 500 points, Nifty 50 comes back to 24,050- 5 key factors behind the stock market decline explained",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/icici-pru-amc-q1-results-profit-jumps-23-yoy-to-964-63-crore-11783927529619.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "ICICI Pru AMC Q1 results: ICICI Prudential Asset Management Company reported a 23% year-on-year rise in its profit to  \u20b9964.63 crore for Q1FY27. Revenue from operations rose by 17.55% YoY to  \u20b91,564.2",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-drops-over-500-points-nifty-50-comes-back-to-24-050-5-key-factors-behind-the-stock-market-decline-explained-11783997605147.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Equity benchmark Sensex dropped more than 500 points to an intraday low of 77,063, while the Nifty 50 touched 24,050 on the downside. Geopolitical tensions and rising crude oil prices are weighing on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market today: Sensex, Nifty 50 end flat; IT stocks shine",
+      "title": "SBI share price falls ahead of SBI Funds Management IPO opening today. Do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-it-banking-stocks-shine-11783934855542.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "The Sensex ended 47 points, or 0.06%, higher at 77,616.40. The NSE counterpart Nifty 50 closed the day with a minor gain of 4 points, or 0.02%, at 24,211.",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-share-price-falls-ahead-of-sbi-funds-management-ipo-opening-today-do-you-own-11784001499734.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "State Bank of India (SBI) share price fell nearly a percent on NSE in Tuesday's trading session as SBI Funds Management IPO opened for subscription today, 14 July.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Funds IPO: Can its private-markets bet close the profitability gap?",
+      "title": "HCL Tech share price falls 3% despite strong Q1 results 2026: Should you buy, sell or hold the IT stock?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-valuation-discount-private-credit-aif-analysis-11783926747358.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "SBI Funds Management's IPO highlights a key question for investors: why India's biggest fund house earns less from its massive scale\u2014and whether private credit can change that.",
+      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-share-price-falls-3-despite-strong-q1-results-2026-should-you-buy-sell-or-hold-the-it-stock-11784000898610.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "HCL Technologies saw a 3% decline in share price despite a strong Q1 performance, with a 20.34% rise in net profit to  \u20b94,626 crore. Revenue grew 14% YoY to  \u20b934,579 crore, and the company retained it",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Fino Payments Bank shares hit 20% upper circuit after June business update",
+      "title": "Gold, Silver Rates Today: MCX gold price rises near  \u20b91.41 lakh per 10 grams, silver gains",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fino-payments-bank-shares-hit-20-upper-circuit-after-june-business-update-11783934174727.html",
-      "date": "Mon, 13 Jul 2026",
-      "desc": "Fino Payments Bank's shares hit a four-month high, gaining 20% after positive June business updates. The bank reported an 11% rise in deposits and increased loan referrals, signaling growth amid some ",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-mcx-gold-price-rises-near-rs-1-41-lakh-per-10-grams-silver-gains-11784000416110.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "Gold prices rose after hitting a two-week low earlier in the session, as markets awaited key US inflation data. However, escalating US-Iran war lifted crude oil prices higher and reinforced expectatio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee depreciates 33 paise to open at 95.95 against US dollar",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/rupee-depreciates-33-paise-to-open-at-95-95-against-us-dollar-11783999981758.html",
+      "date": "Tue, 14 Jul 2026",
+      "desc": "The Indian rupee declined to 95.95 per US dollar as geopolitical tensions led to increased crude oil prices and negative investor sentiment. Although foreign investment in Indian bonds remains strong,",
       "tags": [],
       "is_portfolio": false
     }
