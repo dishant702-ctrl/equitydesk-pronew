@@ -1,6 +1,17 @@
 {
-  "updated_ist": "15 Jul 2026 13:03 IST",
+  "updated_ist": "15 Jul 2026 15:03 IST",
   "news": [
+    {
+      "title": "NSE partners with Augmont to deepen electronic gold market, reduce reliance on imports",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-partners-with-augmont-to-deepen-electronic-gold-market-reduce-reliance-on-imports/articleshow/132411311.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "The National Stock Exchange (NSE) has partnered with Augmont Enterprises to boost the adoption of Electronic Gold Receipts (EGRs), aiming to build a deeper and more liquid spot gold market in India. T",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "Global Market: Japan bond market sees steeper curve amid yield divergence",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-market-sees-steeper-curve-amid-yield-divergence/articleshow/132408913.cms",
+      "title": "Market strategy: Kotak Equities adds TCS, SBI Life Insurance in model portfolio, raises weight on L&amp;T",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/market-strategy-kotak-equities-adds-tcs-sbi-life-insurance-in-model-portfolio-raises-weight-on-l-and-t-11784106568903.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Japanese government bond yields saw a steepening curve on Wednesday. Shorter-dated yields declined, mirroring U.S. Treasury movements after inflation data. Longer-dated yields, however, climbed due to",
+      "desc": "Market strategy: Both TCS and SBI Life have been assigned a weight of 150 basis points (bps) in the brokerage\u2019s model portfolio. The brokerage, however, clarified that TCS's inclusion in the model por",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Dolly Khanna portfolio rejig: Ace investor likely exits 2 stocks, pares holding in Prakash Industries in Q1",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-portfolio-rejig-ace-investor-likely-exits-2-stocks-pares-holding-in-prakash-industries-in-q1/articleshow/132411330.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Ace investor Dolly Khanna likely exited Rain Industries and Sharda Cropchem during the June quarter after strong gains of up to 42% this year, while trimming her stake in Prakash Industries, according",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Explained: Why is stock market rising today even as Iran-US war escalates, oil prices cross $85",
+      "title": "Tech Mahindra Q1 Preview: Will the IT company surprise investors with its earnings?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-is-stock-market-rising-today-even-as-iran-us-war-escalates-oil-prices-cross-85/articleshow/132408760.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-preview-will-the-it-company-surprise-investors-with-its-earnings/articleshow/132411306.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Indian equities rallied on Wednesday despite escalating Iran-US tensions and Brent crude crossing $85 a barrel, as investors bet the conflict will remain contained and global risk appetite improves on",
+      "desc": "Tech Mahindra is expected to post modest June-quarter revenue growth, led by continued strength in its telecom business, while margins are likely to improve on cost optimisation. Investors will closel",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Capital gives dollar bond guidance, final price by this week, bankers say",
+      "title": "Chipmaker CXMT eyes $9.8 bn in blockbuster China IPO",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/tata-capital-gives-dollar-bond-guidance-final-price-by-this-week-bankers-say/articleshow/132408660.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/chipmaker-cxmt-eyes-9-8-bn-in-blockbuster-china-ipo/articleshow/132410302.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Tata Capital is planning a new U.S. dollar bond issuance. The company seeks to raise between $400 million and $600 million. This debt offering will mature in three-and-a-half years. Proceeds will fund",
+      "desc": "China's leading memory chipmaker ChangXin Memory Technologies is seeking billions in an IPO.  This move aims to bolster the nation's artificial intelligence hardware capabilities.  The company intends",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vietnam raises $116 million in government bond auction",
+      "title": "Global Market:  European shares slip as AI chip rally fails to offset Middle East concerns",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-116-million-in-government-bond-auction/articleshow/132408561.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-ai-chip-rally-fails-to-offset-middle-east-concerns/articleshow/132410224.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Vietnam's State Treasury successfully raised three trillion dong in its recent bond auction.  This amount represents an increase from the previous week's successful bond sales.  The treasury sold a po",
+      "desc": "European shares dipped slightly as Middle East tensions grew. Technology stocks advanced, boosted by ASML's positive financial forecasts. Luxury shares also performed well, driven by strong demand for",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: DBS targets over $774 billion in wealth assets by 2030 amid Asia wealth boom",
+      "title": "Patanjali Foods shares crash 20%, stock nearly halves in value in one year. What's ahead?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-dbs-targets-over-s1-trillion-in-wealth-assets-by-2030-amid-asia-wealth-boom/articleshow/132408229.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-shares-crash-20-stock-nearly-halves-in-value-in-one-year-whats-ahead/articleshow/132410105.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "DBS Group aims to grow assets under management in its retail and wealth businesses from S$632 billion at the end of 2025 to more than S$1 trillion by 2030. The bank plans to capitalise on Asia\u2019s risin",
+      "desc": "Patanjali Foods shares plunged 20% to a fresh 52-week low, extending their decline to nearly 50% from last year's peak. While the company said there were no material developments behind the sharp fall",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market:  China stocks hold steady despite GDP miss as investors shift to consumer, financial shares",
+      "title": "Warren Buffett and Bill Gates no longer friends? Why legendary investor skipped donations to Gates foundation",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hold-steady-despite-gdp-miss-as-investors-shift-to-consumer-financial-shares/articleshow/132408055.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-and-bill-gates-no-longer-friends-why-legendary-investor-skipped-donations-to-gates-foundation/articleshow/132409984.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Chinese stocks showed stability as investors shifted focus from technology to traditional sectors. Disappointing second-quarter economic growth data did not significantly impact market sentiment. Cons",
+      "desc": "Warren Buffett is donating nearly six billion dollars of Berkshire Hathaway stock this year.  His annual mid-year donation went to four family foundations, not Gates Foundation.  Speculation arose aft",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Groww Q1 Results: Net profit spikes 94% YoY to Rs 735 crore; revenue jumps 66%",
+      "title": "Global Market: ECB monitoring Middle East conflict for inflation risks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q1-results-net-profit-spikes-94-yoy-to-rs-735-crore-revenue-jumps-66/articleshow/132408001.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-monitoring-middle-east-conflict-for-inflation-risks/articleshow/132409932.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Billionbrains Garage Ventures, Groww's parent, posted a Rs 735 crore net profit. This marks a substantial 94.44% year-on-year increase in earnings. Groww's revenue from operations also saw a sharp 66%",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Kusumgar shares jump 10% after solid D-Street debut. What investors should do now?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kusumgar-makes-a-stellar-debut-lists-at-37-premium-what-should-investors-do-now/articleshow/132407809.cms",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Kusumgar shares debuted nearly 37% above their IPO price and extended gains in early trade after a heavily oversubscribed public issue. While analysts remain positive on the company's long-term prospe",
+      "desc": "The European Central Bank sees no immediate inflation fallout from the Iran conflict. Policymakers are closely watching for indirect price pressures and their potential impact. The eurozone economy ha",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,6 +125,42 @@
       "is_portfolio": false
     },
     {
+      "title": "Gold-Silver ratio rises to 69: Here's what it means for investors. Is it time to buy gold or silver?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/commodities/goldsilver-ratio-rises-to-69-heres-what-it-means-for-investors-is-it-time-to-buy-gold-or-silver-11784101247199.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "The gold-silver ratio fluctuates around 69, suggesting balanced valuations. Market conditions and industrial demand will influence future trends, with Tata Mutual Fund noting potential silver outperfo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "ICICI Pru Life Insurance Q1 results: Profit grows 28% YoY to  \u20b9386 crore; VNB jumps 25%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/icici-pru-life-insurance-q1-results-profit-grows-28-yoy-to-386-crore-11784093720120.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "ICICI Pru Life Insurance Q1 results: ICICI Prudential Life Insurance Company reported a 27.8% YoY rise in its standalone profit to  \u20b9386 crore. VNB grew by 24.9% YoY.&amp;nbsp;",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US-Iran war: Crude oil prices extend gains amid rising tensions in the Middle East. Can it hit $100 per barrel?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Aamir Makda, Commodity &amp;amp; Currency Analyst at Commodity Technical Research, Choice Broking, believes that as tensions rise between the US and Iran, global crude oil prices may exceed $100 per b",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "L&amp;T Technology Services\u2019 healthy start to FY27 lifts investor spirits",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/lt-technology-services-q1-earnings-fy27-l-t-technology-share-price-it-industry-india-11784100253789.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "L&amp;amp;T Technology's valuation is a steep premium to tier-1 IT companies and leaves no room for disappointment on earnings growth.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Fineotex Chemicals to SG Finserve: Ashish Kacholia trims stakes in 4 stocks in Q1FY27. Do you own any of them?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/fineotex-chemicals-to-sg-finserve-ashish-kacholia-trims-stakes-in-4-stocks-in-q1fy27-do-you-own-any-of-them-11784098833854.html",
@@ -121,7 +170,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Patanjali Foods share price crashes 20%, extends losses for third straight session; What should investors do?",
+      "title": "Patanjali Foods share price crashes 20%, extending losses for third straight session; what should investors do?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/patanjali-foods-share-price-crashes-20-extends-its-losses-for-third-session-what-should-investors-do-11784098857317.html",
       "date": "Wed, 15 Jul 2026",
@@ -135,51 +184,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/union-bank-of-india-q1-results-profit-jumps-30-yoy-to-5-332-30-crore-11784093248965.html",
       "date": "Wed, 15 Jul 2026",
       "desc": "Union Bank of India Q1 results: Profit jumped 30% YoY to  \u20b95,332.30 crore, while operating profit for the quarter jumped nearly 16% YoY to  \u20b98,002.58 crore.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Laser Power IPO listing tomorrow: Here\u2019s what GMP hints ahead of debut",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/laser-power-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11784095723375.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Laser Power &amp;amp; Infra IPO will list on the Indian stock market on July 16. The IPO priced between  \u20b9203 and  \u20b9214 saw strong demand, particularly among QIBs and NIIs, with expectations of a list",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Groww Q1 results: Net profit jumps 94% to  \u20b9735 crore, revenue grows 66% YoY",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "The company posted a consolidated net profit of  \u20b9735 crore for the first quarter of FY27, registering a growth of 94.44% year-on-year (YoY).",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Caliber Mining &amp; Logistics IPO: GMP signals modest listing gains; 10 key things to know from RHP",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-gmp-signals-modest-listing-gains-10-key-things-to-know-from-rhp-11784094533441.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Caliber Mining IPO is a book build issue, which combines a fresh issue of 94 lakh shares and an offer for sale (OFS) of 12 lakh shares. It will open for public subscription on Friday, 17 July, and wil",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Concor Q1 volumes beat trade headwinds; new rail corridor can fuel growth",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/concor-q1-volumes-concor-earnings-new-rail-corridor-india-concor-shares-11784094695979.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Notwithstanding decent volume growth, Concor\u2019s Q4FY26 financial performance has been subpar with Ebitda declining 3%, despite 6% volume growth",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Kusumgar share price hits 10% upper circuit after stellar listing. Should investors buy, sell or hold the stock?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/kusumgar-share-price-hits-10-upper-circuit-after-stellar-listing-should-investors-buy-sell-or-hold-the-stock-11784096026269.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Kusumgar share price jumped 10% from its listing price to touch an upper circuit of  \u20b9631.35 apiece on the BSE, rising over 50% from the issue price. On NSE, it surged 10% to  \u20b9625.90 per share.",
       "tags": [],
       "is_portfolio": false
     }
