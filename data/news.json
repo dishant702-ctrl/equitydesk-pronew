@@ -1,17 +1,6 @@
 {
-  "updated_ist": "15 Jul 2026 11:07 IST",
+  "updated_ist": "15 Jul 2026 13:03 IST",
   "news": [
-    {
-      "title": "Bitcoin climbs to $64,700 as softer US inflation eases US Fed rate hike concerns",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-64700-as-softer-us-inflation-eases-us-fed-rate-hike-concerns/articleshow/132406900.cms",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Bitcoin rebounded to around $64,700 after softer-than-expected US inflation data weakened the dollar and eased concerns over near-term Fed rate hikes. Ethereum outperformed with a 5.3% gain, while the",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Landmark Cars shares rally upto 13% post Q1 business update, revenue jumps over 22%",
+      "title": "Global Market: Japan bond market sees steeper curve amid yield divergence",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/landmark-cars-shares-rally-upto-13-post-q1-business-update-revenue-jumps-over-22/articleshow/132407141.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-bond-market-sees-steeper-curve-amid-yield-divergence/articleshow/132408913.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Landmark Cars shares rallied after the company reported record Q1FY27 sales, driven by strong vehicle deliveries and robust demand. Healthy growth in after-sales revenue and improved BYD supplies furt",
+      "desc": "Japanese government bond yields saw a steepening curve on Wednesday. Shorter-dated yields declined, mirroring U.S. Treasury movements after inflation data. Longer-dated yields, however, climbed due to",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian bonds gain as soft US inflation cools Fed rate hike bets",
+      "title": "Explained: Why is stock market rising today even as Iran-US war escalates, oil prices cross $85",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-soft-us-inflation-cools-fed-rate-hike-bets/articleshow/132406990.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-is-stock-market-rising-today-even-as-iran-us-war-escalates-oil-prices-cross-85/articleshow/132408760.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Indian government bonds saw gains as US inflation eased, reducing immediate rate hike fears.  Treasury yields declined, prompting a similar trend in Indian overnight index swap rates.  Markets largely",
+      "desc": "Indian equities rallied on Wednesday despite escalating Iran-US tensions and Brent crude crossing $85 a barrel, as investors bet the conflict will remain contained and global risk appetite improves on",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee edges higher; options market gauge turns most bearish in over a month",
+      "title": "Tata Capital gives dollar bond guidance, final price by this week, bankers say",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-edges-higher-options-market-gauge-turns-most-bearish-in-over-a-month/articleshow/132406845.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/tata-capital-gives-dollar-bond-guidance-final-price-by-this-week-bankers-say/articleshow/132408660.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "The Indian rupee strengthened modestly on Wednesday against the U.S. dollar. Easing U.S. Federal Reserve rate hike bets supported the rupee's upward movement. Elevated oil prices and Middle East tensi",
+      "desc": "Tata Capital is planning a new U.S. dollar bond issuance. The company seeks to raise between $400 million and $600 million. This debt offering will mature in three-and-a-half years. Proceeds will fund",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UK to issue first 'digital' bond by early 2027, finance minister says",
+      "title": "Vietnam raises $116 million in government bond auction",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/uk-to-issue-first-digital-bond-by-early-2027-finance-minister-says/articleshow/132406800.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/vietnam-raises-116-million-in-government-bond-auction/articleshow/132408561.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Britain aims to become the first major economy to issue a digital sovereign bond.  This initiative will test distributed-ledger technology for capital markets efficiency.  The Bank of England will ens",
+      "desc": "Vietnam's State Treasury successfully raised three trillion dong in its recent bond auction.  This amount represents an increase from the previous week's successful bond sales.  The treasury sold a po",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "China CITIC Bank International plans dollar, offshore yuan perpetual bonds",
+      "title": "Global Market: DBS targets over $774 billion in wealth assets by 2030 amid Asia wealth boom",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/china-citic-bank-international-plans-dollar-offshore-yuan-perpetual-bonds/articleshow/132406781.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-dbs-targets-over-s1-trillion-in-wealth-assets-by-2030-amid-asia-wealth-boom/articleshow/132408229.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "China CITIC Bank International plans to issue perpetual bonds in US dollars and offshore yuan.  Initial price guidance is set around 5.45% for dollar bonds and 2.90% for yuan bonds.  These benchmark-s",
+      "desc": "DBS Group aims to grow assets under management in its retail and wealth businesses from S$632 billion at the end of 2025 to more than S$1 trillion by 2030. The bank plans to capitalise on Asia\u2019s risin",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ather Energy shares rally 6% after Hero MotoCorp approves Rs 1,000 crore additional investment",
+      "title": "Global Market:  China stocks hold steady despite GDP miss as investors shift to consumer, financial shares",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-6-after-hero-motocorp-approves-rs-1000-crore-additional-investment/articleshow/132406766.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hold-steady-despite-gdp-miss-as-investors-shift-to-consumer-financial-shares/articleshow/132408055.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": " Ather Energy shares jumped on Wednesday after Hero MotoCorp approved an additional investment of up to Rs 1,000 crore in the EV maker through a preferential allotment, reaffirming its long-term commi",
+      "desc": "Chinese stocks showed stability as investors shifted focus from technology to traditional sectors. Disappointing second-quarter economic growth data did not significantly impact market sentiment. Cons",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Wipro Q1 Preview: Under pressure from AI, what can investors expect from earnings?",
+      "title": "Groww Q1 Results: Net profit spikes 94% YoY to Rs 735 crore; revenue jumps 66%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-preview-under-pressure-from-ai-what-can-investors-expect-from-earnings/articleshow/132406701.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q1-results-net-profit-spikes-94-yoy-to-rs-735-crore-revenue-jumps-66/articleshow/132408001.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": " Wipro's Q1 earnings are expected to show a revenue rise, driven by acquisitions and currency.  Core IT services revenue may decline sequentially, impacting overall profitability.  Analysts anticipate",
+      "desc": "Billionbrains Garage Ventures, Groww's parent, posted a Rs 735 crore net profit. This marks a substantial 94.44% year-on-year increase in earnings. Groww's revenue from operations also saw a sharp 66%",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Kusumgar shares jump 10% after solid D-Street debut. What investors should do now?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kusumgar-makes-a-stellar-debut-lists-at-37-premium-what-should-investors-do-now/articleshow/132407809.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Kusumgar shares debuted nearly 37% above their IPO price and extended gains in early trade after a heavily oversubscribed public issue. While analysts remain positive on the company's long-term prospe",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Nuvoco Vistas share price rallies 12% on strong Q1 results FY27. Should you buy or sell?",
+      "title": "Fineotex Chemicals to SG Finserve: Ashish Kacholia trims stakes in 4 stocks in Q1FY27. Do you own any of them?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nuvoco-vistas-share-price-rallies-12-on-strong-q1-results-fy27-should-you-buy-or-sell-11784091753229.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fineotex-chemicals-to-sg-finserve-ashish-kacholia-trims-stakes-in-4-stocks-in-q1fy27-do-you-own-any-of-them-11784098833854.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Nuvoco Vistas opened at  \u20b9348.85 apiece today, as compared to previous close of  \u20b9341.40 on Tuesday.&amp;nbsp;",
+      "desc": "Ashish Kacholia reduced his stakes in Yasho Industries, Fineotex Chemicals, Tanfac Industries, and SG Finserve in Q1FY27. His holding in SG Finserve fell below 1%, indicating a possible exit, while th",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ather Energy share price jumps 9% to 52-week high after Hero MotoCorp approves  \u20b91,000 crore investment",
+      "title": "Patanjali Foods share price crashes 20%, extends losses for third straight session; What should investors do?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-jumps-9-to-52-week-high-after-hero-motocorp-approves-rs-1-000-crore-investment-11784091444102.html",
+      "link": "https://www.livemint.com/market/stock-market-news/patanjali-foods-share-price-crashes-20-extends-its-losses-for-third-session-what-should-investors-do-11784098857317.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Hero MotoCorp holds 29.48% stake in Ather Energy. The post-transaction stake will depend on the pricing and structure of the proposed preferential issue and further issuance of securities as may be ap",
+      "desc": "Patanjali Foods share price has fallen 21% in one month and has declined 28% in three months. The FMCG stock has dropped 38% in six months, while it has plunged 42% over the past one year.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "RBL Bank to Mankind Pharma - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
+      "title": "Union Bank of India Q1 results: Profit jumps 30% YoY to  \u20b95,332 crore; operating profit rises 16% YoY",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rbl-bank-to-mankind-pharma-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11784090409715.html",
+      "link": "https://www.livemint.com/market/stock-market-news/union-bank-of-india-q1-results-profit-jumps-30-yoy-to-5-332-30-crore-11784093248965.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Indian benchmark indices, Sensex and Nifty 50, rebounded in early trade, aided by banking stocks and positive US inflation data. The Sensex rose 553 points to 77,603.57, while Nifty increased by 148.1",
+      "desc": "Union Bank of India Q1 results: Profit jumped 30% YoY to  \u20b95,332.30 crore, while operating profit for the quarter jumped nearly 16% YoY to  \u20b98,002.58 crore.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Alpine Texworld IPO Day 2: Here's GMP, subscription status, other details. Apply or not?",
+      "title": "Laser Power IPO listing tomorrow: Here\u2019s what GMP hints ahead of debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/alpine-texworld-ipo-day-2-heres-gmp-subscription-status-other-details-apply-or-not-11784089893782.html",
+      "link": "https://www.livemint.com/market/ipo/laser-power-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11784095723375.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "As of today, Alpine Texworld's grey market premium (GMP) was  \u20b910 per share, suggesting an estimated listing price of around  \u20b9110.&amp;nbsp;",
+      "desc": "Laser Power &amp;amp; Infra IPO will list on the Indian stock market on July 16. The IPO priced between  \u20b9203 and  \u20b9214 saw strong demand, particularly among QIBs and NIIs, with expectations of a list",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex jumps 600 points, investors earn  \u20b94 lakh crore. Why is stock market rising despite escalating US-Iran tensions?",
+      "title": "Groww Q1 results: Net profit jumps 94% to  \u20b9735 crore, revenue grows 66% YoY",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-nifty-50-up-investors-earn-4-lakh-crore-why-is-stock-market-rising-despite-escalating-us-iran-tensions-11784089235823.html",
+      "link": "https://www.livemint.com/market/stock-market-news/groww-q1-results-net-profit-jumps-94-to-rs-735-crore-revenue-grows-66-yoy-11784097477198.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "The 30-share pack rose nearly 600 points, or 0.80%, to an intraday high of 77,641.86, while the Nifty 50 climbed to 24,220.35, rising more than 150 points, or 0.70%.",
+      "desc": "The company posted a consolidated net profit of  \u20b9735 crore for the first quarter of FY27, registering a growth of 94.44% year-on-year (YoY).",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Blockbuster Market Debut! Kusumgar share price lists at  \u20b9569, a rally of around 36% from IPO price",
+      "title": "Caliber Mining &amp; Logistics IPO: GMP signals modest listing gains; 10 key things to know from RHP",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/blockbuster-market-debut-kusumgar-share-price-lists-at-rs-569-a-rally-of-around-36-from-ipo-price-11784085755583.html",
+      "link": "https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-gmp-signals-modest-listing-gains-10-key-things-to-know-from-rhp-11784094533441.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Kusumgar debuted at  \u20b9569 on NSE and  \u20b9574 on BSE, with a 35.80% and 37% premium, respectively, over its IPO price. The IPO saw strong demand, being subscribed 135.80 times, and was fully an Offer for",
+      "desc": "Caliber Mining IPO is a book build issue, which combines a fresh issue of 94 lakh shares and an offer for sale (OFS) of 12 lakh shares. It will open for public subscription on Friday, 17 July, and wil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Belrise Industries share price gains after  \u20b91,200 crore QIP launch",
+      "title": "Concor Q1 volumes beat trade headwinds; new rail corridor can fuel growth",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-gains-on-rs-1-200-crore-qip-launch-11784089291477.html",
+      "link": "https://www.livemint.com/market/mark-to-market/concor-q1-volumes-concor-earnings-new-rail-corridor-india-concor-shares-11784094695979.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Belrise Industries share price has risen 13% in three months and has gained 36% in six months. The stock has rallied 27% on a year-to-date (YTD) basis, and has jumped 97% in one year.",
+      "desc": "Notwithstanding decent volume growth, Concor\u2019s Q4FY26 financial performance has been subpar with Ebitda declining 3%, despite 6% volume growth",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Upcoming IPO: Indian Gas Exchange files DRHP with SEBI for IPO",
+      "title": "Kusumgar share price hits 10% upper circuit after stellar listing. Should investors buy, sell or hold the stock?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-indian-gas-exchange-ipo-files-drhp-with-sebi-for-ipo-11784088831686.html",
+      "link": "https://www.livemint.com/market/stock-market-news/kusumgar-share-price-hits-10-upper-circuit-after-stellar-listing-should-investors-buy-sell-or-hold-the-stock-11784096026269.html",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Indian Gas Exchange (IGX) has submitted its draft red herring prospectus to SEBI for a proposed IPO, consisting entirely of an offer for sale. Parent company IEX plans to reduce its stake from 47.3% t",
+      "desc": "Kusumgar share price jumped 10% from its listing price to touch an upper circuit of  \u20b9631.35 apiece on the BSE, rising over 50% from the issue price. On NSE, it surged 10% to  \u20b9625.90 per share.",
       "tags": [],
       "is_portfolio": false
     }
