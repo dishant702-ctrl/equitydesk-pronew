@@ -1,17 +1,6 @@
 {
-  "updated_ist": "15 Jul 2026 15:03 IST",
+  "updated_ist": "15 Jul 2026 16:45 IST",
   "news": [
-    {
-      "title": "NSE partners with Augmont to deepen electronic gold market, reduce reliance on imports",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-partners-with-augmont-to-deepen-electronic-gold-market-reduce-reliance-on-imports/articleshow/132411311.cms",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "The National Stock Exchange (NSE) has partnered with Augmont Enterprises to boost the adoption of Electronic Gold Receipts (EGRs), aiming to build a deeper and more liquid spot gold market in India. T",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -35,65 +24,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Dolly Khanna portfolio rejig: Ace investor likely exits 2 stocks, pares holding in Prakash Industries in Q1",
+      "title": "HDFC AMC Q1 Results: Net profit rises 12% to Rs 837 crore, revenue up 14%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-portfolio-rejig-ace-investor-likely-exits-2-stocks-pares-holding-in-prakash-industries-in-q1/articleshow/132411330.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-amc-q1-results-net-profit-rises-12-to-rs-837-crore-revenue-up-14/articleshow/132413400.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Ace investor Dolly Khanna likely exited Rain Industries and Sharda Cropchem during the June quarter after strong gains of up to 42% this year, while trimming her stake in Prakash Industries, according",
+      "desc": "HDFC Asset Management Company reported a 12% rise in Q1 FY27 net profit to \u20b9837 crore, supported by higher revenue and asset growth. Quarterly average AUM climbed 13% year-on-year, while shares gained",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tech Mahindra Q1 Preview: Will the IT company surprise investors with its earnings?",
+      "title": "Rupee ends flat as merchant bids, oil blunt comfort from modest inflows",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-preview-will-the-it-company-surprise-investors-with-its-earnings/articleshow/132411306.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-ends-flat-as-merchant-bids-oil-blunt-comfort-from-modest-inflows/articleshow/132413332.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Tech Mahindra is expected to post modest June-quarter revenue growth, led by continued strength in its telecom business, while margins are likely to improve on cost optimisation. Investors will closel",
+      "desc": "The Indian rupee hovered close to a one-month low on Wednesday, driven by modest portfolio inflows and increased corporate demand for dollars. Asian currencies remained mostly stable, with the dollar ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Chipmaker CXMT eyes $9.8 bn in blockbuster China IPO",
+      "title": "Global Market: Foreign investors add $132 billion to US securities in May as equity demand stays strong",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/chipmaker-cxmt-eyes-9-8-bn-in-blockbuster-china-ipo/articleshow/132410302.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-foreign-investors-add-132-billion-to-us-securities-in-may-as-equity-demand-stays-strong/articleshow/132412853.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "China's leading memory chipmaker ChangXin Memory Technologies is seeking billions in an IPO.  This move aims to bolster the nation's artificial intelligence hardware capabilities.  The company intends",
+      "desc": "According to Reuters, the Treasury's monthly Treasury International Capital (TIC) report showed that net long-term purchases by foreign investors reached $1.33 trillion over the 12 months through May,",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market:  European shares slip as AI chip rally fails to offset Middle East concerns",
+      "title": "'We faltered, did not move quickly:' How IBM CEO Arvind Krishna's statement led to $70 billion wipeout",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-ai-chip-rally-fails-to-offset-middle-east-concerns/articleshow/132410224.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/we-faltered-did-not-move-quickly-how-ibm-ceo-arvind-krishnas-statement-led-to-70-billion-wipeout/articleshow/132412961.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "European shares dipped slightly as Middle East tensions grew. Technology stocks advanced, boosted by ASML's positive financial forecasts. Luxury shares also performed well, driven by strong demand for",
+      "desc": "IBM shares rebounded nearly 2% in premarket trade after plunging 25% in their worst single-day fall in 58 years, wiping out nearly $70 billion in market value. The selloff was triggered by weaker-than",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Patanjali Foods shares crash 20%, stock nearly halves in value in one year. What's ahead?",
+      "title": "NSE, Augmont partner to expand Electronic Gold Receipts ecosystem",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-shares-crash-20-stock-nearly-halves-in-value-in-one-year-whats-ahead/articleshow/132410105.cms",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/nse-augmont-partner-to-expand-electronic-gold-receipts-ecosystem/articleshow/132411721.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Patanjali Foods shares plunged 20% to a fresh 52-week low, extending their decline to nearly 50% from last year's peak. While the company said there were no material developments behind the sharp fall",
+      "desc": "NSE has partnered with Augmont Enterprises to expand the Electronic Gold Receipts (EGR) ecosystem, aiming to unlock India's vast household gold holdings. The initiative seeks to improve liquidity, ena",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Warren Buffett and Bill Gates no longer friends? Why legendary investor skipped donations to Gates foundation",
+      "title": "ICICI Pru Life Q1 Result: Net profit jumps 28% YoY to Rs 386 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-and-bill-gates-no-longer-friends-why-legendary-investor-skipped-donations-to-gates-foundation/articleshow/132409984.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-pru-life-q1-result-net-profit-jumps-28-yoy-to-rs-386-crore/articleshow/132412618.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "Warren Buffett is donating nearly six billion dollars of Berkshire Hathaway stock this year.  His annual mid-year donation went to four family foundations, not Gates Foundation.  Speculation arose aft",
+      "desc": "ICICI Prudential Life Insurance reported a twenty-eight percent net profit increase. Net premium income rose to nine thousand seven hundred forty-nine crore rupees. New business premium grew by twenty",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: ECB monitoring Middle East conflict for inflation risks",
+      "title": "Global Market: ASML raises 2026 outlook as AI boom drives strong earnings, plans capacity expansion",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ecb-monitoring-middle-east-conflict-for-inflation-risks/articleshow/132409932.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asml-raises-2026-outlook-as-ai-boom-drives-strong-earnings-plans-capacity-expansion/articleshow/132412023.cms",
       "date": "Wed, 15 Jul 2026",
-      "desc": "The European Central Bank sees no immediate inflation fallout from the Iran conflict. Policymakers are closely watching for indirect price pressures and their potential impact. The eurozone economy ha",
+      "desc": "ASML raised its 2026 revenue guidance to \u20ac43-45 billion, up from \u20ac36-40 billion, after beating Q2 estimates on surging AI chipmaking demand, sending shares up 5.7% as the company plans a 30% capacity ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mukul Agrawal trims stake in this smallcap infra firm, likely exits Surya Roshni in Q1. Do you own?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-sells-19-lakh-shares-of-this-smallcap-infra-firm-in-q1-likely-exits-surya-roshni-in-q1/articleshow/132411817.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Ace investor Mukul Agrawal trimmed his stake in J Kumar Infraprojects and is likely to have exited Surya Roshni during the June quarter, according to the latest shareholding disclosures. While he redu",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,6 +123,51 @@
       "is_portfolio": false
     },
     {
+      "title": "Expert view: Nifty may touch 27,000 by the year end or early next year, says Rohit Srivastava of Indiacharts",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-may-touch-27-000-by-the-year-end-or-early-next-year-says-rohit-srivastava-of-indiacharts-11784113512404.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Market strategist Rohit Srivastava predicts the Nifty 50 index could reach 27,000 by the end of this year or early next year. He advises investors to buy dips and focus on growth stocks despite geopol",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap FMCG stock Spice Lounge Food Works hits upper circuit after this business update",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-fmcg-stock-spice-lounge-food-works-hits-upper-circuit-after-this-business-update-11784110584032.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Small-cap FMCG stock Spice Lounge Food Works hit its upper circuit on the BSE on Wednesday, 15 July, a day after the company announced it had opened its first Wing Zone Outlet in Bengaluru.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty 50 above 27,000? PL Capital raises target, sees more upside in Indian stock markets but flags key risks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-pl-capital-ups-nifty-target-to-27-000-sees-more-upside-in-indian-stock-markets-but-flags-key-risks-11784107475075.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "PL Capital has raised its one-year Nifty 50 target to 27,019, citing improved macroeconomic conditions, resilient demand, and easing oil prices, while cautioning about risks from geopolitical tensions",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HDFC AMC Q1 Results: Net profit jumps 12% YoY to  \u20b9837 crore; revenue surges 14%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/hdfc-amc-q1-results-net-profit-jumps-12-yoy-to-rs-837-crore-revenue-surges-14-11784109086231.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "HDFC AMC Q1 Results: HDFC AMC reported a 12% YoY increase in Q1 net profit to  \u20b9837 crore and a 13.6% rise in revenue to  \u20b91,100 crore. Total expenses rose 27% to  \u20b9271 crore, while average AUM grew 1",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty Pharma jumps 14% YTD, outshines Nifty 50; is there more upside ahead?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-pharma-jumps-14-ytd-outshines-nifty-50-is-there-more-upside-ahead-11784105548002.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "The Nifty Pharma index has surged 14.53% YTD, outperforming the Nifty 50's 7.87% decline. Key drivers include improving earnings visibility and stable demand in domestic formulations, while geopolitic",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Gold-Silver ratio rises to 69: Here's what it means for investors. Is it time to buy gold or silver?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/commodities/goldsilver-ratio-rises-to-69-heres-what-it-means-for-investors-is-it-time-to-buy-gold-or-silver-11784101247199.html",
@@ -139,51 +182,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/icici-pru-life-insurance-q1-results-profit-grows-28-yoy-to-386-crore-11784093720120.html",
       "date": "Wed, 15 Jul 2026",
       "desc": "ICICI Pru Life Insurance Q1 results: ICICI Prudential Life Insurance Company reported a 27.8% YoY rise in its standalone profit to  \u20b9386 crore. VNB grew by 24.9% YoY.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US-Iran war: Crude oil prices extend gains amid rising tensions in the Middle East. Can it hit $100 per barrel?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/usiran-war-crude-oil-prices-extend-gains-amid-rising-tensions-in-the-middle-east-can-it-hit-100-per-barrel-11784096474117.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Aamir Makda, Commodity &amp;amp; Currency Analyst at Commodity Technical Research, Choice Broking, believes that as tensions rise between the US and Iran, global crude oil prices may exceed $100 per b",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "L&amp;T Technology Services\u2019 healthy start to FY27 lifts investor spirits",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/lt-technology-services-q1-earnings-fy27-l-t-technology-share-price-it-industry-india-11784100253789.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "L&amp;amp;T Technology's valuation is a steep premium to tier-1 IT companies and leaves no room for disappointment on earnings growth.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Fineotex Chemicals to SG Finserve: Ashish Kacholia trims stakes in 4 stocks in Q1FY27. Do you own any of them?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fineotex-chemicals-to-sg-finserve-ashish-kacholia-trims-stakes-in-4-stocks-in-q1fy27-do-you-own-any-of-them-11784098833854.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Ashish Kacholia reduced his stakes in Yasho Industries, Fineotex Chemicals, Tanfac Industries, and SG Finserve in Q1FY27. His holding in SG Finserve fell below 1%, indicating a possible exit, while th",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Patanjali Foods share price crashes 20%, extending losses for third straight session; what should investors do?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/patanjali-foods-share-price-crashes-20-extends-its-losses-for-third-session-what-should-investors-do-11784098857317.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Patanjali Foods share price has fallen 21% in one month and has declined 28% in three months. The FMCG stock has dropped 38% in six months, while it has plunged 42% over the past one year.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Union Bank of India Q1 results: Profit jumps 30% YoY to  \u20b95,332 crore; operating profit rises 16% YoY",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/union-bank-of-india-q1-results-profit-jumps-30-yoy-to-5-332-30-crore-11784093248965.html",
-      "date": "Wed, 15 Jul 2026",
-      "desc": "Union Bank of India Q1 results: Profit jumped 30% YoY to  \u20b95,332.30 crore, while operating profit for the quarter jumped nearly 16% YoY to  \u20b98,002.58 crore.",
       "tags": [],
       "is_portfolio": false
     }
