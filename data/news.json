@@ -1,6 +1,17 @@
 {
-  "updated_ist": "14 Jul 2026 16:40 IST",
+  "updated_ist": "15 Jul 2026 11:07 IST",
   "news": [
+    {
+      "title": "Bitcoin climbs to $64,700 as softer US inflation eases US Fed rate hike concerns",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-climbs-to-64700-as-softer-us-inflation-eases-us-fed-rate-hike-concerns/articleshow/132406900.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Bitcoin rebounded to around $64,700 after softer-than-expected US inflation data weakened the dollar and eased concerns over near-term Fed rate hikes. Ethereum outperformed with a 5.3% gain, while the",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "HCL Tech: Despite strong deal wins, risk-reward remains unfavourable",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/hcltech-retains-fy27-guidance-despite-strong-deals-11784014383150.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "So far in 2026, HCL shares are down 27%. It trades at FY28 PE multiple of 15 \u2013 a premium to larger peers TCS and Infosys, shows Bloomberg data. HCL\u2019s narrowing growth differential, coupled with data-c",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "PMS Tracker: Equirus, Money Grow Asset, Amaltas, 7 others deliver up to 14% returns in June",
+      "title": "Landmark Cars shares rally upto 13% post Q1 business update, revenue jumps over 22%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/aif-pms/pms-tracker-equirus-money-grow-asset-amaltas-7-others-deliver-up-to-14-returns-in-june/articleshow/132389329.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Portfolio management services delivered mixed June returns, with top strategies gaining up to 14.54% as small-cap and multi-cap funds outperformed. Strong broader markets supported winners, while seve",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/landmark-cars-shares-rally-upto-13-post-q1-business-update-revenue-jumps-over-22/articleshow/132407141.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Landmark Cars shares rallied after the company reported record Q1FY27 sales, driven by strong vehicle deliveries and robust demand. Healthy growth in after-sales revenue and improved BYD supplies furt",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Is Wall Street heading towards a massive crash by 2026-end? Here's what history may be hinting at",
+      "title": "Indian bonds gain as soft US inflation cools Fed rate hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-wall-street-heading-towards-a-massive-crash-by-2026-end-heres-what-history-may-be-hinting-at/articleshow/132389071.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Strong US stock gains in 2026 are being overshadowed by historical midterm election volatility, AI valuation concerns and bearish warnings. While corrections are common in midterm years, analysts expe",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-soft-us-inflation-cools-fed-rate-hike-bets/articleshow/132406990.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Indian government bonds saw gains as US inflation eased, reducing immediate rate hike fears.  Treasury yields declined, prompting a similar trend in Indian overnight index swap rates.  Markets largely",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee slides past 96/USD to one-month low as oil climbs; RBI likely intervenes",
+      "title": "Rupee edges higher; options market gauge turns most bearish in over a month",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-past-96/usd-to-one-month-low-as-oil-climbs-rbi-likely-intervenes/articleshow/132388783.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "On Tuesday, the Indian rupee fell to its lowest level in over a month, influenced by soaring oil prices and ongoing tensions in the Middle East. The Reserve Bank of India likely stepped in to stabiliz",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-edges-higher-options-market-gauge-turns-most-bearish-in-over-a-month/articleshow/132406845.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "The Indian rupee strengthened modestly on Wednesday against the U.S. dollar. Easing U.S. Federal Reserve rate hike bets supported the rupee's upward movement. Elevated oil prices and Middle East tensi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Funds Management IPO: How SBI shareholders can improve chances of allotment",
+      "title": "UK to issue first 'digital' bond by early 2027, finance minister says",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-ipo-how-sbi-shareholders-can-improve-chances-of-allotment/articleshow/132388677.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "The SBI Funds Management IPO was subscribed 52% on day one. Eligible SBI shareholders can apply under a reserved quota, competing only with fellow shareholders, potentially improving allotment chances",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/uk-to-issue-first-digital-bond-by-early-2027-finance-minister-says/articleshow/132406800.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Britain aims to become the first major economy to issue a digital sovereign bond.  This initiative will test distributed-ledger technology for capital markets efficiency.  The Bank of England will ens",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "12 stocks held by 100+ MFs in June surged up to 105% in just over 6 months",
+      "title": "China CITIC Bank International plans dollar, offshore yuan perpetual bonds",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-stocks-held-by-100-mfs-in-june-surged-up-to-105-in-just-over-6-months/slideshow/132388557.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Mutual funds' favourite stocks have rewarded investors handsomely in CY26. ETMarkets' analysis shows that 12 stocks held by over 100 mutual fund schemes each have surged between 50% and 105% so far th",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/china-citic-bank-international-plans-dollar-offshore-yuan-perpetual-bonds/articleshow/132406781.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "China CITIC Bank International plans to issue perpetual bonds in US dollars and offshore yuan.  Initial price guidance is set around 5.45% for dollar bonds and 2.90% for yuan bonds.  These benchmark-s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why stock market fell today? Rising oil prices among key factors behind Rs 3 lakh crore wealth erosion",
+      "title": "Ather Energy shares rally 6% after Hero MotoCorp approves Rs 1,000 crore additional investment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-today-rising-oil-prices-among-key-factors-behind-rs-3-lakh-crore-wealth-erosion/articleshow/132386876.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Benchmark indices Sensex and Nifty fell sharply on Tuesday as soaring crude oil prices, renewed rate hike fears, weak Q1 earnings from HCL Tech, a weaker rupee and fragile global cues triggered broad-",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-rally-6-after-hero-motocorp-approves-rs-1000-crore-additional-investment/articleshow/132406766.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": " Ather Energy shares jumped on Wednesday after Hero MotoCorp approved an additional investment of up to Rs 1,000 crore in the EV maker through a preferential allotment, reaffirming its long-term commi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Avendus fund buys PPFAS stake worth Rs 140 crore from promoters",
+      "title": "Wipro Q1 Preview: Under pressure from AI, what can investors expect from earnings?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/avendus-fund-buys-ppfas-stake-worth-rs-140-crore-from-promoters/articleshow/132386912.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Avendus Future Leaders Fund III has acquired nearly a 1% stake in Parag Parikh Financial Advisory Services for around Rs 140 crore through a secondary transaction, backing one of India's largest mutua",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Calcutta Stock Exchange seeks to put exit application on hold",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/calcutta-stock-exchange-seeks-to-put-exit-application-on-hold/articleshow/132386819.cms",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "The Calcutta Stock Exchange requested Sebi to withhold its exit application. This action follows the West Bengal government's support for reviving the exchange. The exchange plans to formally withdraw",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-preview-under-pressure-from-ai-what-can-investors-expect-from-earnings/articleshow/132406701.cms",
+      "date": "Wed, 15 Jul 2026",
+      "desc": " Wipro's Q1 earnings are expected to show a revenue rise, driven by acquisitions and currency.  Core IT services revenue may decline sequentially, impacting overall profitability.  Analysts anticipate",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,65 +114,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Expert view: Risk-reward appears favourable from a medium-term perspective, says Equirus Asset Management's MD, CIO",
+      "title": "Nuvoco Vistas share price rallies 12% on strong Q1 results FY27. Should you buy or sell?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-risk-reward-appears-favourable-from-a-medium-term-perspective-says-equirus-asset-managements-md-cio-11784025614583.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Ashutosh Tiwari, MD and CIO- Public Equities, Equirus Asset Management, highlights how large-cap stocks in India present a favourable risk-reward opportunity amid evolving geopolitical dynamics and ch",
+      "link": "https://www.livemint.com/market/stock-market-news/nuvoco-vistas-share-price-rallies-12-on-strong-q1-results-fy27-should-you-buy-or-sell-11784091753229.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Nuvoco Vistas opened at  \u20b9348.85 apiece today, as compared to previous close of  \u20b9341.40 on Tuesday.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 14 July: HCL Tech, Ceat, Swiggy, Anant Raj, Newgen Software Tech among top losers",
+      "title": "Ather Energy share price jumps 9% to 52-week high after Hero MotoCorp approves  \u20b91,000 crore investment",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-july-hcl-tech-ceat-swiggy-anant-raj-newgen-software-tech-among-top-losers-11784021666895.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Investor sentiment in India dipped on July 14, driven by rising crude oil prices amid US-Iran tensions, leading to market losses over 0.7%. Nifty Realty and PSU Bank were among the biggest losers, whi",
+      "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-jumps-9-to-52-week-high-after-hero-motocorp-approves-rs-1-000-crore-investment-11784091444102.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Hero MotoCorp holds 29.48% stake in Ather Energy. The post-transaction stake will depend on the pricing and structure of the proposed preferential issue and further issuance of securities as may be ap",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Landmark Cars shares jump 17.5% to six-month high after record June-quarter sales",
+      "title": "RBL Bank to Mankind Pharma - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&amp;O segment",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/landmark-cars-shares-jump-17-5-to-six-month-high-after-record-june-quarter-sales-11784020587240.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "Landmark Cars shares jumped 17.5% to  \u20b9496.70, hitting a six-month high after reporting record first-quarter sales of  \u20b91,733 crore, a 22.47% year-on-year increase. The company anticipates sustained s",
+      "link": "https://www.livemint.com/market/stock-market-news/rbl-bank-to-mankind-pharma-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11784090409715.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Indian benchmark indices, Sensex and Nifty 50, rebounded in early trade, aided by banking stocks and positive US inflation data. The Sensex rose 553 points to 77,603.57, while Nifty increased by 148.1",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Defence stocks to buy or sell: Kotak expects defence upcycle to continue, prefers HAL over peers",
+      "title": "Alpine Texworld IPO Day 2: Here's GMP, subscription status, other details. Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-or-sell-kotak-expects-defence-upcycle-to-continue-prefers-hal-over-peers-11784019770556.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "India's defence sector is predicted to experience an 11% CAGR in capital expenditure through FY2030, driven by increases in domestic procurement and AoN approvals. Kotak Institutional Equities forecas",
+      "link": "https://www.livemint.com/market/ipo/alpine-texworld-ipo-day-2-heres-gmp-subscription-status-other-details-apply-or-not-11784089893782.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "As of today, Alpine Texworld's grey market premium (GMP) was  \u20b910 per share, suggesting an estimated listing price of around  \u20b9110.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Higher oil prices to rising bond yields: 5 key risks that could keep the Indian stock market under pressure in 2026",
+      "title": "Sensex jumps 600 points, investors earn  \u20b94 lakh crore. Why is stock market rising despite escalating US-Iran tensions?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/higher-oil-prices-to-rising-bond-yields-5-key-risks-that-could-keep-the-indian-stock-market-under-pressure-in-2026-11784014632183.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "As geopolitical tensions and economic indicators cloud the path to recovery, the Indian stock market faces major headwinds. Investors should brace for short-term volatility amidst rising oil prices, b",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-nifty-50-up-investors-earn-4-lakh-crore-why-is-stock-market-rising-despite-escalating-us-iran-tensions-11784089235823.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "The 30-share pack rose nearly 600 points, or 0.80%, to an intraday high of 77,641.86, while the Nifty 50 climbed to 24,220.35, rising more than 150 points, or 0.70%.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Funds IPO to test investor appetite for  \u20b94.81-trillion IPO pipeline",
+      "title": "Blockbuster Market Debut! Kusumgar share price lists at  \u20b9569, a rally of around 36% from IPO price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sbi-funds-ipo-to-test-investor-appetite-for-4-81-trillion-ipo-pipeline-fundraise-sebi-11784014089895.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "The country's largest asset manager is entering the market at a relatively moderate valuation, and its subscription and listing performance could influence how dozens of companies price and time their",
+      "link": "https://www.livemint.com/market/stock-market-news/blockbuster-market-debut-kusumgar-share-price-lists-at-rs-569-a-rally-of-around-36-from-ipo-price-11784085755583.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Kusumgar debuted at  \u20b9569 on NSE and  \u20b9574 on BSE, with a 35.80% and 37% premium, respectively, over its IPO price. The IPO saw strong demand, being subscribed 135.80 times, and was fully an Offer for",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "World's best-performing market Kospi index enters bear market: Can South Korea's selloff hit Indian stock markets?",
+      "title": "Belrise Industries share price gains after  \u20b91,200 crore QIP launch",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/worlds-best-performing-market-kospi-index-enters-bear-market-can-south-koreas-selloff-hit-indian-stock-markets-11784015390898.html",
-      "date": "Tue, 14 Jul 2026",
-      "desc": "The KOSPI's decline poses a sentiment risk for India, primarily due to FII selling amid global cautiousness. However, rising oil prices present a greater threat by increasing import costs and inflatio",
+      "link": "https://www.livemint.com/market/stock-market-news/belrise-industries-share-price-gains-on-rs-1-200-crore-qip-launch-11784089291477.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Belrise Industries share price has risen 13% in three months and has gained 36% in six months. The stock has rallied 27% on a year-to-date (YTD) basis, and has jumped 97% in one year.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Upcoming IPO: Indian Gas Exchange files DRHP with SEBI for IPO",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-indian-gas-exchange-ipo-files-drhp-with-sebi-for-ipo-11784088831686.html",
+      "date": "Wed, 15 Jul 2026",
+      "desc": "Indian Gas Exchange (IGX) has submitted its draft red herring prospectus to SEBI for a proposed IPO, consisting entirely of an offer for sale. Parent company IEX plans to reduce its stake from 47.3% t",
       "tags": [],
       "is_portfolio": false
     }
