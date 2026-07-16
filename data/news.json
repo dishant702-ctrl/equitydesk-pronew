@@ -1,6 +1,17 @@
 {
-  "updated_ist": "16 Jul 2026 13:53 IST",
+  "updated_ist": "16 Jul 2026 15:58 IST",
   "news": [
+    {
+      "title": "ITC Hotels Q1 net up 36% at Rs 181.91 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-q1-net-up-36-at-rs-181-91-crore/articleshow/132435116.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "ITC Hotels reported a thirty-six percent rise in net profit for the first quarter.  Consolidated revenue from operations also increased compared to the previous year.  The company announced the approv",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "Aswath Damodaran explains why country risk is no longer just an emerging market problem",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aswath-damodaran-explains-why-country-risk-is-no-longer-just-an-emerging-market-problem/articleshow/132433223.cms",
+      "title": "ITC Hotels Q1 Results: PAT jumps 35% to  \u20b9180 crore, revenue grows 15% YoY; announces acquisition of GHK Hospitality",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-hotels-q1-results-pat-jumps-35-to-rs-180-crore-revenue-grows-15-yoy-announces-acquisition-of-ghk-hospitality-11784192420614.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Valuation expert Aswath Damodaran argues that country risk is no longer limited to emerging markets as global companies face political, legal and economic shocks across borders. From US sovereign debt",
+      "desc": "ITC Hotels Q1 Results: The company\u2019s revenue from operations in Q1FY27 grew 14.8% to  \u20b9936.02 crore from  \u20b9815.54 crore, year-on-year (YoY).",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "What's behind Pentair's sharp forecast cut and stock selloff?",
+      "title": "Rupee closes at 96.34 vs USD; firmer Asia FX, oil dip offer little comfort as NDF maturities pinch",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/whats-behind-pentairs-sharp-forecast-cut-and-stock-selloff/slideshow/132433214.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-34-vs-usd-firmer-asia-fx-oil-dip-offer-little-comfort-as-ndf-maturities-pinch/articleshow/132436001.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": " ",
+      "desc": "On Thursday, the Indian rupee experienced a slight decline versus the dollar, influenced by dollar demand associated with expiring non-deliverable forward contracts. Meanwhile, most Asian currencies s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Markets: Japan's Nikkei drops nearly 3% as chip stocks slide despite robust TSMC results",
+      "title": "Warren Buffett issues new warning, says tough to find value in market when everybody prefers gambling",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-drops-nearly-3-as-chip-stocks-slide-despite-robust-tsmc-results/articleshow/132433045.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-issues-new-warning-says-tough-to-find-value-in-market-when-everybody-prefers-gambling/articleshow/132435944.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Japan's Nikkei share average finished close to a three percent decline on Thursday, influenced by a sell-off in chip-related stocks and escalating hostilities in the Middle East that dampened risk app",
+      "desc": "Warren Buffett has warned that value investing is becoming harder as speculative trading gains popularity. Calling today's markets increasingly driven by gambling, the Berkshire Hathaway chairman urge",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Apple's $5 Trillion Dream: Why Wall Street is turning bullish again",
+      "title": "Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apples-5-trillion-dream-why-wall-street-is-turning-bullish-again/slideshow/132433234.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Apple is riding a wave of Wall Street optimism as bullish analysts and investors bet it could become just the second company ever to reach a $5 trillion valuation. The momentum is driven by strong AI ",
+      "desc": "TSMC will invest an additional one hundred billion dollars in Arizona facilities. This expansion underscores strong confidence in future artificial intelligence demand. The company also raised its cap",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Q1 Results Earnings Live Updates: Wipro, Tech Mahindra, Jio Financial among 41 firms to report June quarter earnings today",
+      "title": "Korean subscriber attacks stock YouTuber after losing money on investment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-live-updates-wipro-tech-mahindra-bhel-jio-finances-quarter-1-results-earnings-2026-share-price-updates/liveblog/132432215.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-subscriber-attacks-stock-youtuber-after-losing-money-on-investment/articleshow/132435719.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": " ",
+      "desc": "A South Korean man was arrested for allegedly attacking a stock YouTuber after reportedly suffering heavy investment losses from following the creator's recommendations. The incident has reignited con",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FIIs will return to India, but these 5 reasons will keep them at bay for some time",
+      "title": "Sotefin Bharat IPO opens: Issue 16% subscribed on day one so far, GMP suggests 12% listing pop",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-will-return-to-india-but-these-5-reasons-will-keep-them-at-bay-for-some-time/articleshow/132432147.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sotefin-bharat-ipo-opens-issue-16-subscribed-on-day-one-so-far-gmp-suggests-12-listing-pop/articleshow/132435645.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": " FII selling has remained a key headwind for Indian equities since 2024, with foreign investors pulling out $32 billion amid the Middle East conflict. While recent inflows have provided some relief, E",
+      "desc": "Sotefin Bharat's Rs 89.76 crore SME IPO opened to a cautious 16% subscription on Day 1, with the GMP suggesting a modest listing premium of around 11.76% over its Rs 187 upper price band. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese bond yields climb as oil surge and fiscal concerns weigh on market",
+      "title": "US Stock Market: Healthy loan growth and stable credit trends boost outlook for US bank stocks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-climb-as-oil-surge-and-fiscal-concerns-weigh-on-market/articleshow/132431940.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-healthy-loan-growth-and-stable-credit-trends-boost-outlook-for-us-bank-stocks/articleshow/132434939.cms",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Japanese government bond yields climbed on Thursday due to rising oil prices. Higher energy costs fueled inflation expectations and investor worries about Japan's fiscal health. A Bank of Japan survey",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Laser Power &amp; Infra lists at 26% premium. What should investors do now?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/laser-power-infra-lists-at-26-premium-what-should-investors-do-now/articleshow/132431931.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Laser Power &amp; Infra debuted at a 26% premium over its IPO price, rewarding investors on listing day. Analysts recommend holding the stock for the long term, citing its strong order book, debt redu",
+      "desc": "Major Wall Street banks say the U.S. consumer remains resilient, with strong spending, rising loan balances and stable credit quality backed by a healthy labour market and wage growth. While inflation",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +125,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock under  \u20b950 Spice Lounge Food Works hits upper circuit for second straight session",
+      "title": "Top Gainers &amp; Losers on 16 July: ABB India, Jindal Saw, Kaynes Tech, IIFL Finance, SRF, among top gainers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-spice-lounge-food-works-hits-upper-circuit-for-second-straight-session-11784185613285.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-16-july-abb-india-jindal-saw-kaynes-tech-iifl-finance-srf-among-top-gainers-11784195574873.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Small-cap stock Spice Lounge Food Works opened at  \u20b926.50 apiece today, as compared to previous close of  \u20b923.35 on Wednesday.",
+      "desc": "The Indian stock market was range-bound on July 16, affected by Middle Eastern tensions and a weak rupee. Nifty 50 and Sensex closed flat, with mixed sector performances. Nifty Consumer Durables gaine",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Groww is outgrowing discount broking.  Current valuations to punish execution missteps",
+      "title": "Stock market today: Sensex, Nifty end flat; mid, small-caps underperform; escalating US-Iran conflict weigh on sentiment",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/groww-q1-earnings-stock-price-analysis-fy27-11784182332490.html",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-escalating-us-iran-conflict-weigh-on-sentiment-11784194749772.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Groww added 115,000 net active clients on the National Stock Exchange in Q1, up 4% sequentially, taking the total number of transacting users to 22 million.",
+      "desc": "The Sensex ended 1 point up at 77,186.87, while the Nifty 50 slipped 6 points to settle at 24,072.75.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Big move before IPO: NSE to launch Nifty India FPI 150 Futures &amp; Options from August 12 - Check Details",
+      "title": "Retail investors return with vengeance in Q1 but start selling again in July",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/big-move-before-nse-ipo-nse-to-launch-nifty-india-fpi-150-futures-options-from-august-12-11784183494970.html",
+      "link": "https://www.livemint.com/market/retail-investors-return-indian-stock-market-fpi-dii-flows-11784188871796.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "The NSE has received SEBI approval to launch futures and options on the Nifty India FPI 150 Index from August 12, enhancing its index derivative offerings for investor hedging and diversification with",
+      "desc": "In April-June, retail investors bought equities worth a net  \u20b939,287 crore\u2014the highest since  \u20b942,746 crore clocked in October-December 2024.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sotefin Bharat IPO day 1: GMP hints at modest listing gains; 10 key points of BSE SME IPO",
+      "title": "BHEL Q1 results: BHEL swings to  \u20b9376.71 crore net profit in June quarter",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sotefin-bharat-ipo-day-1-gmp-hints-at-modest-listing-gains-10-key-points-of-bse-sme-ipo-11784182257363.html",
+      "link": "https://www.livemint.com/market/stock-market-news/bhel-q1-results-bhel-swings-to-376-71-crore-net-profit-in-june-quarter-11784194013221.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Sotefin Bharat IPO opened for public subscription on Thursday, 16 July. The SME IPO is entirely a fresh issue of 48 lakh shares, aimed at raising about  \u20b990 crore.",
+      "desc": "BHEL posted a consolidated net profit of  \u20b9376.71 crore in the June quarter of the current financial year, supported by increased income.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Alpine Texaworld IPO Day 3: Issue fully subscribed on last day. Check GMP, other details - apply or not?",
+      "title": "Metal stock Shyam Metalics hits a record high after this business update. Details here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/alpine-texaworld-ipo-day-3-issue-fully-subscribed-on-last-day-check-gmp-other-details-apply-or-not-11784183364734.html",
+      "link": "https://www.livemint.com/market/stock-market-news/metal-stock-shyam-metalics-hits-a-record-high-after-this-business-update-details-here-11784192647831.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "Alpine Texworld IPO's grey market premium (GMP) has fallen to  \u20b93 per share, suggesting an estimated listing price of around  \u20b9108.",
+      "desc": "As per the BSE data, Shyam Metalics shares have gained over 23% year-to-date, while in a shorter timeframe of three months, it has gained nearly 21%. On a monthly scale, the stock is up over 9% so far",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "\u200bPC Jeweller share price declines 3% despite the firm announcing achieving a debt-free status; details here",
+      "title": "Paytm board to consider first-ever bonus issue along with Q1FY27 results on this date. Check details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-declines-3-despite-the-firm-announcing-achieving-a-debt-free-status-details-here-11784184007528.html",
+      "link": "https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-ever-bonus-issue-along-with-q1fy27-results-on-this-date-check-details-11784193089008.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "PC Jeweller has now repaid all outstanding debt to 4 of the 14 consortium banks. The company's board is meeting today to approve a fundraising proposal through a QIP.",
+      "desc": "One 97 Communications, Paytm's parent company, will consider a bonus share issue at its upcoming board meeting on July 20, 2026. This follows the company's financial results for Q1FY27, marked by risi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MSCI India August Review: Groww, Adani Green, Adani Energy among likely additions; Astral, SBI Cards face exclusion risk",
+      "title": "Why standalone health insurers may outshine ICICI Lombard after Q1",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/msci-india-august-review-groww-adani-green-adani-energy-among-likely-additions-astral-sbi-cards-face-exclusion-risk-11784183549493.html",
+      "link": "https://www.livemint.com/market/mark-to-market/icici-lombard-star-health-standalone-health-insurers-sahi-health-insurance-general-insurance-q1fy27-11784186386060.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "MSCI India Standard Index rebalancing is scheduled to be announced on August 12 after market hours, which could see as many as 12 inclusions and three exclusions. This is estimated to lead to potentia",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy: Nagaraj Shetti recommends LIC, RACL Geartech shares to buy in the short-term",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stocks-to-buy-nagaraj-shetti-recommends-lic-racl-geartech-shares-to-buy-in-the-shortterm-11784182703904.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Indian benchmark indices saw minor gains on Thursday, fueled by IT stocks despite financial sector weaknesses. Nifty 50 rose 0.30% while BSE Sensex increased by 0.38%. Geopolitical tensions and rising",
+      "desc": "ICICI Lombard\u2019s strong retail health growth was overshadowed by weak fire insurance premiums and profitability pressures, making standalone health insurers look more attractive to investors.",
       "tags": [],
       "is_portfolio": false
     }
