@@ -1,17 +1,6 @@
 {
-  "updated_ist": "16 Jul 2026 15:58 IST",
+  "updated_ist": "16 Jul 2026 17:35 IST",
   "news": [
-    {
-      "title": "ITC Hotels Q1 net up 36% at Rs 181.91 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-hotels-q1-net-up-36-at-rs-181-91-crore/articleshow/132435116.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "ITC Hotels reported a thirty-six percent rise in net profit for the first quarter.  Consolidated revenue from operations also increased compared to the previous year.  The company announced the approv",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,15 +13,78 @@
       "is_portfolio": true
     },
     {
-      "title": "ITC Hotels Q1 Results: PAT jumps 35% to  \u20b9180 crore, revenue grows 15% YoY; announces acquisition of GHK Hospitality",
+      "title": "Reliance Q1 Results Preview: O2C, Jio to drive earnings - Key things to watch out for",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/itc-hotels-q1-results-pat-jumps-35-to-rs-180-crore-revenue-grows-15-yoy-announces-acquisition-of-ghk-hospitality-11784192420614.html",
+      "link": "https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "ITC Hotels Q1 Results: The company\u2019s revenue from operations in Q1FY27 grew 14.8% to  \u20b9936.02 crore from  \u20b9815.54 crore, year-on-year (YoY).",
+      "desc": "Reliance Industries is set to announce Q1 FY27 results on July 17, with expectations of consolidated growth. The O2C segment is likely to recover, while retail performance remains mixed amid subdued c",
       "tags": [
-        "ITC"
+        "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Indian bonds rise on steady oil, easing US rate-hike fears",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "On Thursday, Indian government bonds experienced an upturn as oil prices stabilized alongside declining U.S. rate hike expectations, enhancing investor confidence. The market eagerly anticipates updat",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-jump-4-after-maharatna-psu-posts-net-profit-of-rs-377-crore-in-q1-revenue-jumps-40/articleshow/132438300.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "BHEL reported a consolidated Q1 FY27 net profit of \u20b9377 crore against a year-ago loss, driven by 40% revenue growth and a sharp recovery in operating margins. Strong power segment performance lifted s",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Quote of the day by Joel Greenblatt: \"When it comes to long-term investing, doing \u201cless\u201d is often \u201cmore\u201d",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-joel-greenblatt-when-it-comes-to-long-term-investing-doing-less-is-often-more/articleshow/132428714.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Value investor Joel Greenblatt advises that less action yields more long-term investment gains. Patience and disciplined holding outperform frequent trading and market timing. Compounding wealth requi",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Wipro declares interim dividend worth Rs 2/share, fixes record date. Check details",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-interim-dividend-worth-rs-2/share-fixes-record-date-check-details/articleshow/132437571.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Wipro declared an interim dividend of \u20b92 per share, with July 27 fixed as the record date. The IT major reported modest Q1 FY27 profit and revenue growth, issued cautious quarterly guidance and reiter",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Larry Page, Sergey Brin get $15 billion richer as Warren Buffett says Alphabet bet was his call",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/larry-page-sergey-brin-get-15-billion-richer-as-warren-buffett-says-alphabet-bet-was-his-call/articleshow/132437443.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Warren Buffett revealed he personally initiated Berkshire Hathaway\u2019s investment in Alphabet, lifting the stock nearly 4% and adding over $15 billion to the combined wealth of Google co-founders Larry ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tech Mahindra Q1 Results: Net profit rises 28% YoY to Rs 1,465 crore, revenue up 18%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-results-net-profit-rises-28-yoy-to-rs-1465-crore-revenue-up-18/articleshow/132436967.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Tech Mahindra announced a consolidated net profit of Rs 1,465 crore for the first quarter. This represents a substantial 28% increase compared to the previous year's earnings. The company also saw its",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Wipro Q1 Results: Profit flat YoY at Rs 3,352 crore; co declares Rs 2/share dividend",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Wipro Q1 Results: Wipro reported a modest 1% year-on-year rise in June-quarter net profit to Rs 3,352 crore, while revenue grew 11%. The IT major declared an interim dividend of Rs 2 per share, but ma",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
@@ -40,60 +92,6 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
       "date": "Thu, 16 Jul 2026",
       "desc": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee closes at 96.34 vs USD; firmer Asia FX, oil dip offer little comfort as NDF maturities pinch",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-34-vs-usd-firmer-asia-fx-oil-dip-offer-little-comfort-as-ndf-maturities-pinch/articleshow/132436001.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "On Thursday, the Indian rupee experienced a slight decline versus the dollar, influenced by dollar demand associated with expiring non-deliverable forward contracts. Meanwhile, most Asian currencies s",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Warren Buffett issues new warning, says tough to find value in market when everybody prefers gambling",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-issues-new-warning-says-tough-to-find-value-in-market-when-everybody-prefers-gambling/articleshow/132435944.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Warren Buffett has warned that value investing is becoming harder as speculative trading gains popularity. Calling today's markets increasingly driven by gambling, the Berkshire Hathaway chairman urge",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: TSMC to invest additional $100 billion in Arizona, raises capex on booming AI demand",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-tsmc-to-invest-additional-100-billion-in-arizona-raises-capex-on-booming-ai-demand/articleshow/132435792.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "TSMC will invest an additional one hundred billion dollars in Arizona facilities. This expansion underscores strong confidence in future artificial intelligence demand. The company also raised its cap",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Korean subscriber attacks stock YouTuber after losing money on investment",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/korean-subscriber-attacks-stock-youtuber-after-losing-money-on-investment/articleshow/132435719.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "A South Korean man was arrested for allegedly attacking a stock YouTuber after reportedly suffering heavy investment losses from following the creator's recommendations. The incident has reignited con",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sotefin Bharat IPO opens: Issue 16% subscribed on day one so far, GMP suggests 12% listing pop",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sotefin-bharat-ipo-opens-issue-16-subscribed-on-day-one-so-far-gmp-suggests-12-listing-pop/articleshow/132435645.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Sotefin Bharat's Rs 89.76 crore SME IPO opened to a cautious 16% subscription on Day 1, with the GMP suggesting a modest listing premium of around 11.76% over its Rs 187 upper price band. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US Stock Market: Healthy loan growth and stable credit trends boost outlook for US bank stocks",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-healthy-loan-growth-and-stable-credit-trends-boost-outlook-for-us-bank-stocks/articleshow/132434939.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Major Wall Street banks say the U.S. consumer remains resilient, with strong spending, rising loan balances and stable credit quality backed by a healthy labour market and wage growth. While inflation",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,6 +123,24 @@
       "is_portfolio": false
     },
     {
+      "title": "Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to  \u20b91,465 crore, revenue up 15% - Key takeaways",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Tech Mahindra reported a consolidated net profit of  \u20b91465.1 crore for Q1 2026, a 28.4% increase year-over-year. Revenue from operations rose 15% to  \u20b915,605.50 crore compared to  \u20b913,569.5 crore in t",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Wipro Q1 results: Profit remains flat YoY at  \u20b93,352 crore; declares interim dividend of  \u20b92",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html",
+      "date": "Thu, 16 Jul 2026",
+      "desc": "Wipro Q1 results: Wipro reported a 0.65% year-on-year rise in its consolidated profit to  \u20b93,352 crore. Revenue from operations for the quarter rose by 10.6% YoY to  \u20b924,478.6 crore.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Top Gainers &amp; Losers on 16 July: ABB India, Jindal Saw, Kaynes Tech, IIFL Finance, SRF, among top gainers",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-16-july-abb-india-jindal-saw-kaynes-tech-iifl-finance-srf-among-top-gainers-11784195574873.html",
@@ -138,7 +154,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-escalating-us-iran-conflict-weigh-on-sentiment-11784194749772.html",
       "date": "Thu, 16 Jul 2026",
-      "desc": "The Sensex ended 1 point up at 77,186.87, while the Nifty 50 slipped 6 points to settle at 24,072.75.",
+      "desc": "The Sensex ended 1 point up at 77,186.87, while the Nifty 50 slipped 6 points to settle at 24,072.75. Mid and small-cap indices underperformed. The Nifty Midcap 100 index dropped 0.41%, while the Smal",
       "tags": [],
       "is_portfolio": false
     },
@@ -166,24 +182,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/metal-stock-shyam-metalics-hits-a-record-high-after-this-business-update-details-here-11784192647831.html",
       "date": "Thu, 16 Jul 2026",
       "desc": "As per the BSE data, Shyam Metalics shares have gained over 23% year-to-date, while in a shorter timeframe of three months, it has gained nearly 21%. On a monthly scale, the stock is up over 9% so far",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Paytm board to consider first-ever bonus issue along with Q1FY27 results on this date. Check details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/paytm-board-to-consider-first-ever-bonus-issue-along-with-q1fy27-results-on-this-date-check-details-11784193089008.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "One 97 Communications, Paytm's parent company, will consider a bonus share issue at its upcoming board meeting on July 20, 2026. This follows the company's financial results for Q1FY27, marked by risi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Why standalone health insurers may outshine ICICI Lombard after Q1",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/icici-lombard-star-health-standalone-health-insurers-sahi-health-insurance-general-insurance-q1fy27-11784186386060.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "ICICI Lombard\u2019s strong retail health growth was overshadowed by weak fire insurance premiums and profitability pressures, making standalone health insurers look more attractive to investors.",
       "tags": [],
       "is_portfolio": false
     }
