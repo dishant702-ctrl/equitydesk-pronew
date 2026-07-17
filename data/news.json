@@ -1,6 +1,28 @@
 {
-  "updated_ist": "16 Jul 2026 17:35 IST",
+  "updated_ist": "17 Jul 2026 11:16 IST",
   "news": [
+    {
+      "title": "Infosys, TCS, HCL Tech, other IT stocks rally up to 3%. 2 major reasons why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-tcs-hcl-tech-other-it-stocks-rally-up-to-3-2-major-reasons-why/articleshow/132453255.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Indian IT stocks saw gains on Friday, led by Tech Mahindra's better-than-expected first quarter results. Infosys and HCL Tech also advanced, with HCL Tech securing a significant seven-year deal. Wipro",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Q1 Results today: Reliance Industries, JSW Steel among 33 companies announcing June quarter earnings. What to expect?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-reliance-industries-jsw-steel-among-33-companies-announcing-june-quarter-earnings-what-to-expect/articleshow/132452648.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Reliance Industries and 32 other firms will announce quarterly earnings on Friday. Several major banks are scheduled to release their April-June quarter results on Saturday. The market is reacting to ",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +35,78 @@
       "is_portfolio": true
     },
     {
-      "title": "Reliance Q1 Results Preview: O2C, Jio to drive earnings - Key things to watch out for",
+      "title": "Reliance Industries Q1 Results LIVE: Here's what brokerages expect from the Mukesh Ambani company - Jio, Retail in focus",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ril-q1-preview-reliance-q1-results-preview-o2c-reliance-jio-to-drive-earnings-key-things-to-watch-out-for-11784187766702.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Reliance Industries is set to announce Q1 FY27 results on July 17, with expectations of consolidated growth. The O2C segment is likely to recover, while retail performance remains mixed amid subdued c",
+      "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-q1-results-2026-live-ril-q1-preview-ril-results-jio-ril-share-reliance-q1-preview-ril-q1fy27-11784264173532.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Reliance Industries Q1 Preview LIVE: Brokerages broadly expect the company to report healthy double-digit growth in revenue and operating profit, driven by stronger refining margins, improving petroch",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Indian bonds rise on steady oil, easing US rate-hike fears",
+      "title": "RIL share price rises over 2% ahead of Q1 results 2026 today: Here's what to expect",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/ril-share-price-jumps-over-2-ahead-of-reliance-q1-results-2026-today-heres-what-to-expect-from-ril-results-11784262485816.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Reliance Industries expects strong earnings from its digital and O2C units for Q1 FY27, countered by a struggling retail segment. Analysts predict revenue growth, yet caution surrounds retail margins ",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: CXMT's $8.6 billion IPO draws strong retail demand, but investor caution persists",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rise-on-steady-oil-easing-us-rate-hike-fears/articleshow/132438415.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "On Thursday, Indian government bonds experienced an upturn as oil prices stabilized alongside declining U.S. rate hike expectations, enhancing investor confidence. The market eagerly anticipates updat",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-cxmts-8-6-billion-ipo-draws-strong-retail-demand-but-investor-caution-persists/articleshow/132453229.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Chinese memory chipmaker CXMT's IPO attracted strong retail investor interest. The retail tranche was oversubscribed by 243.93 times, showing robust demand. This oversubscription level was lower than ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BHEL shares jump 4% after Maharatna PSU posts net profit of Rs 377 crore in Q1, revenue jumps 40%",
+      "title": "Nuvama initiates coverage on SG Mart, Siemens Energy India with Buy; sees up to 21% upside",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bhel-shares-jump-4-after-maharatna-psu-posts-net-profit-of-rs-377-crore-in-q1-revenue-jumps-40/articleshow/132438300.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "BHEL reported a consolidated Q1 FY27 net profit of \u20b9377 crore against a year-ago loss, driven by 40% revenue growth and a sharp recovery in operating margins. Strong power segment performance lifted s",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-initiates-coverage-on-sg-mart-siemens-energy-india-with-buy-sees-up-to-21-upside/articleshow/132453202.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Nuvama Institutional Equities has initiated coverage on SG Mart and Siemens Energy India with \u2018Buy\u2019 ratings, citing strong earnings growth, improving profitability and favourable industry trends. The ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Quote of the day by Joel Greenblatt: \"When it comes to long-term investing, doing \u201cless\u201d is often \u201cmore\u201d",
+      "title": "India bonds tread water ahead of large debt sale",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-joel-greenblatt-when-it-comes-to-long-term-investing-doing-less-is-often-more/articleshow/132428714.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Value investor Joel Greenblatt advises that less action yields more long-term investment gains. Patience and disciplined holding outperform frequent trading and market timing. Compounding wealth requi",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tread-water-ahead-of-large-debt-sale/articleshow/132452926.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Indian government bonds traded sideways early Friday as traders awaited a significant debt auction. Oil prices remained range-bound, and U.S. Treasury yields offered some market stability. Foreign inv",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Wipro declares interim dividend worth Rs 2/share, fixes record date. Check details",
+      "title": "CEAT shares crash 9% after Q1 net profit tumbles 96% YoY to Rs 4 crore. What lies ahead?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-declares-interim-dividend-worth-rs-2/share-fixes-record-date-check-details/articleshow/132437571.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Wipro declared an interim dividend of \u20b92 per share, with July 27 fixed as the record date. The IT major reported modest Q1 FY27 profit and revenue growth, issued cautious quarterly guidance and reiter",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ceat-shares-crash-9-after-q1-net-profit-tumbles-96-yoy-to-rs-4-crore-what-lies-ahead/articleshow/132452864.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "CEAT shares dropped over 9% on Friday after reporting a significant profit decrease. The tyre maker's net profit fell 96% year-on-year to Rs 4 crore. Higher raw material costs due to the West Asia cri",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Larry Page, Sergey Brin get $15 billion richer as Warren Buffett says Alphabet bet was his call",
+      "title": "WeWork India Management shares slide 5%; Q1 loss narrows, revenue jumps 27% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/larry-page-sergey-brin-get-15-billion-richer-as-warren-buffett-says-alphabet-bet-was-his-call/articleshow/132437443.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Warren Buffett revealed he personally initiated Berkshire Hathaway\u2019s investment in Alphabet, lifting the stock nearly 4% and adding over $15 billion to the combined wealth of Google co-founders Larry ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/wework-india-management-shares-slide-5-q1-loss-narrows-revenue-jumps-27-yoy/articleshow/132452780.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "WeWork India reported a narrowed net loss of Rs 4.31 crore for Q1FY27. Revenue from operations increased 27.74% year-on-year to Rs 683.83 crore. The company expanded its operational portfolio by 18.5%",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tech Mahindra Q1 Results: Net profit rises 28% YoY to Rs 1,465 crore, revenue up 18%",
+      "title": "Global Market: China eyes faster national infrastructure spending to steady growth amid local investment slump",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tech-mahindra-q1-results-net-profit-rises-28-yoy-to-rs-1465-crore-revenue-up-18/articleshow/132436967.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Tech Mahindra announced a consolidated net profit of Rs 1,465 crore for the first quarter. This represents a substantial 28% increase compared to the previous year's earnings. The company also saw its",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Wipro Q1 Results: Profit flat YoY at Rs 3,352 crore; co declares Rs 2/share dividend",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/wipro-q1-results-profit-up-1-yoy-to-rs-3352-crore-co-declares-rs-2/share-dividend/articleshow/132436215.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Wipro Q1 Results: Wipro reported a modest 1% year-on-year rise in June-quarter net profit to Rs 3,352 crore, while revenue grew 11%. The IT major declared an interim dividend of Rs 2 per share, but ma",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market Wrap: Sensex ends flat, Nifty holds 24,050 as Iran-US conflict keeps optimism in check",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-sensex-ends-flat-nifty-holds-24050-as-iran-us-conflict-keeps-optimism-in-check/articleshow/132435934.cms",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Sensex gained a mere 1 point to end at around 77,187, and Nifty 50 dropped around 6 points to close at nearly 24,073 on Thursday. Broader markets slipped into the red, with Nifty Midcap 100 and Nifty ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-eyes-faster-national-infrastructure-spending-to-steady-growth-amid-local-investment-slump/articleshow/132452765.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "China is accelerating national infrastructure projects to boost economic growth this year. This strategy aims to offset reduced local government investment and tighten spending oversight. Beijing plan",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,65 +138,56 @@
       "is_portfolio": false
     },
     {
-      "title": "Tech Mahindra Q1 Results 2026: Consolidated net profit rises over 28% to  \u20b91,465 crore, revenue up 15% - Key takeaways",
+      "title": "HDFC Bank share price jumps over 1% ahead of Q1 results 2026 tomorrow, 18 July: What brokerages expect?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tech-mahindra-q1-results-2026-consolidated-net-profit-rises-over-28-to-rs-1-465-crore-revenue-up-15-11784190278654.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Tech Mahindra reported a consolidated net profit of  \u20b91465.1 crore for Q1 2026, a 28.4% increase year-over-year. Revenue from operations rose 15% to  \u20b915,605.50 crore compared to  \u20b913,569.5 crore in t",
+      "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-jumps-over-1-ahead-of-q1-results-2026-tomorrow-18-july-what-brokerages-expect-11784265781874.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "HDFC Bank shares rose over 1% ahead of its Q1 FY27 earnings announcement. Brokerages predict mixed results with flat net interest margins but strong loan growth, and stable asset quality supporting ov",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Wipro Q1 results: Profit remains flat YoY at  \u20b93,352 crore; declares interim dividend of  \u20b92",
+      "title": "NSE stock draws rare \u2018Sell\u2019 call ahead of long-awaited IPO debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/wipro-q1-results-profit-remains-flat-at-3352-crore-dividend-declared-11784188416404.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "Wipro Q1 results: Wipro reported a 0.65% year-on-year rise in its consolidated profit to  \u20b93,352 crore. Revenue from operations for the quarter rose by 10.6% YoY to  \u20b924,478.6 crore.",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-stock-draws-rare-sell-call-ahead-of-long-awaited-ipo-debut-11784265668784.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Dolat Capital initiates coverage on NSE with a bearish call saying tighter F&amp;amp;O regulations would crimp trading volumes at the world's largest derivatives exchange.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 16 July: ABB India, Jindal Saw, Kaynes Tech, IIFL Finance, SRF, among top gainers",
+      "title": "250% return in five years! Multibagger penny stock PC Jeweller to raise  \u20b91,000 crore through QIP",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-16-july-abb-india-jindal-saw-kaynes-tech-iifl-finance-srf-among-top-gainers-11784195574873.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "The Indian stock market was range-bound on July 16, affected by Middle Eastern tensions and a weak rupee. Nifty 50 and Sensex closed flat, with mixed sector performances. Nifty Consumer Durables gaine",
+      "link": "https://www.livemint.com/market/stock-market-news/250-return-in-five-years-multibagger-penny-stock-pc-jeweller-to-raise-rs-1-000-crore-through-qip-11784264949059.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "PC Jeweller said its board of directors on July 16 approved raising of funds up to an aggregate amount not exceeding  \u20b91,000 crore through QIP, in one or more tranches.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market today: Sensex, Nifty end flat; mid, small-caps underperform; escalating US-Iran conflict weigh on sentiment",
+      "title": "Stocks to buy for short term: BHEL, CDSL among 3 stocks Ajit Mishra of Religare Broking recommends for next 1-2 weeks",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-nifty-50-end-flat-escalating-us-iran-conflict-weigh-on-sentiment-11784194749772.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "The Sensex ended 1 point up at 77,186.87, while the Nifty 50 slipped 6 points to settle at 24,072.75. Mid and small-cap indices underperformed. The Nifty Midcap 100 index dropped 0.41%, while the Smal",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bhel-cdsl-among-3-stocks-ajit-mishra-of-religare-broking-recommends-for-next-1-2-weeks-11784262332639.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Ajit Mishra of Religare Broking recommends a stock-specific strategy, highlighting Bharat Heavy Electricals, Central Depository Services, and Divi's Laboratories as short-term buy candidates, with tar",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Retail investors return with vengeance in Q1 but start selling again in July",
+      "title": "SBI Funds Management IPO allotment likely today. GMP, steps to check share allotment status on BSE, NSE, KFin Tech",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/retail-investors-return-indian-stock-market-fpi-dii-flows-11784188871796.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "In April-June, retail investors bought equities worth a net  \u20b939,287 crore\u2014the highest since  \u20b942,746 crore clocked in October-December 2024.",
+      "link": "https://www.livemint.com/market/ipo/sbi-funds-management-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-11784261967029.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "SBI Funds Management IPO allotment date is likely today, 17 July 2026. SBI Funds Management IPO allotment status online check can be done through the websites of BSE and NSE, and also on the official ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BHEL Q1 results: BHEL swings to  \u20b9376.71 crore net profit in June quarter",
+      "title": "Caliber Mining IPO Day 1: GMP, subscription status, review, other details. Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bhel-q1-results-bhel-swings-to-376-71-crore-net-profit-in-june-quarter-11784194013221.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "BHEL posted a consolidated net profit of  \u20b9376.71 crore in the June quarter of the current financial year, supported by increased income.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Metal stock Shyam Metalics hits a record high after this business update. Details here",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/metal-stock-shyam-metalics-hits-a-record-high-after-this-business-update-details-here-11784192647831.html",
-      "date": "Thu, 16 Jul 2026",
-      "desc": "As per the BSE data, Shyam Metalics shares have gained over 23% year-to-date, while in a shorter timeframe of three months, it has gained nearly 21%. On a monthly scale, the stock is up over 9% so far",
+      "link": "https://www.livemint.com/market/ipo/caliber-mining-ipo-day-1-gmp-subscription-status-review-other-details-apply-or-not-11784260411322.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Caliber Mining IPO GMP today: Acording to market observers, shares of the company are available at a premium of  \u20b9100 in the grey market today",
       "tags": [],
       "is_portfolio": false
     }
