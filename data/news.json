@@ -1,6 +1,28 @@
 {
-  "updated_ist": "17 Jul 2026 15:49 IST",
+  "updated_ist": "17 Jul 2026 17:23 IST",
   "news": [
+    {
+      "title": "Reliance Industries Q1 Results Live: RIL to announce earnings today; EBITDA may rise up to 10% on O2C, Jio growth",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-results-live-updates-reliance-industries-ltd-q1-fy27-revenue-earning-net-profit-loss-bonus-shares-date-time/liveblog/132458673.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": " ",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Reliance Industries\u2019 promoters increased their stake to 50.48% in the June quarter through market purchases worth an estimated Rs 8,500\u20139,000 crore. The move signals confidence despite the stock\u2019s wea",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -11,6 +33,42 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132460186.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Indian markets ended the week strongly as Sensex surged 964 points and Nifty gained 262 points, driven by robust Q1 earnings and IT buying. Analysts see improving momentum in large caps, with Nifty's ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Federal Bank among 4 stocks that hit 52-week highs and rallied up to 25% in a month",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Sensex ended 96 points higher on Friday as four BSE 200 stocks\u2014Oracle Financial Services, Adani Energy Solutions, BHEL and Federal Bank\u2014hit fresh 52-week highs. The milestone reflects sustained buying",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shapoorji Pallonji Group completes long-delayed debt fundraising, sources say",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/shapoorji-pallonji-group-completes-long-delayed-debt-fundraising-sources-say/articleshow/132459713.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "The Shapoorji Pallonji Group has successfully wrapped up its fundraising campaign, garnering bids amounting to a remarkable 215 billion rupees for a three-year bond. This initiative is primarily desig",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee closes at 96.28 vs USD; logs sharpest weekly drop since May as oil price jump stings",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "The Indian rupee faced its most significant weekly drop since May, driven by rising oil prices and strong demand for the dollar. Increasing tensions between the U.S. and Iran exacerbated concerns over",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Hang Seng crashes over 2% as tech selloff hits Asia markets. Why Hong Kong stocks are falling on Friday?",
@@ -27,60 +85,6 @@
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-ai-driven-stock-frenzy-fuels-volatility-challenges-market-fundamentals/articleshow/132458499.cms",
       "date": "Fri, 17 Jul 2026",
       "desc": "The sharp swings have unsettled investors and regulators alike, with market movements increasingly driven by leveraged investment products rather than corporate fundamentals. The volatility has also c",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Euro zone current account surplus widens in May; market impact likely limited",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-euro-zone-current-account-surplus-widens-in-may-market-impact-likely-limited/articleshow/132458459.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "The euro zone's current account surplus increased in May, driven by stronger primary income. This rise offset a narrower trade surplus, according to European Central Bank data. On an unadjusted basis,",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "JSW Steel Q1 Results: Net profit doubles to Rs 4,696 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q1-results-net-profit-doubles-to-rs-4696-crore/articleshow/132458385.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "JSW Steel has showcased impressive financial growth in the first quarter of the fiscal year, with its net profit skyrocketing to Rs 4,696 crore, a significant climb compared to previous figures. Total",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Foreign inflows in Asian bonds surge to seven-month high in June",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/foreign-inflows-in-asian-bonds-surge-to-seven-month-high-in-june/articleshow/132457296.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Asian bonds saw their largest foreign inflows in seven months during June. Lower oil prices and strong technology demand improved the region's economic outlook. Investors bought over eleven billion do",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Zepto said to face sharply lower valuation for IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-said-to-face-sharply-lower-valuation-for-ipo/articleshow/132451614.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Zepto Ltd. seeks a lower IPO valuation, reflecting industry cash burn concerns. Foreign investors indicate interest at $4.5 billion, while domestic ones value it lower. This contrasts sharply with its",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "After record $29 billion selloff, FIIs buying India again. Chris Wood explains why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/after-record-29-billion-selloff-fiis-buying-india-again-chris-wood-explains-why/articleshow/132456956.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "After a record $29 billion foreign selloff, FIIs have turned net buyers of Indian equities in July. Jefferies' Christopher Wood says the earlier outflows were driven by the AI-led rally in Korea and T",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Central Bank of India Q1 results: Profit rises 13% to Rs 1,324 cr",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q1-results-profit-rises-13-to-rs-1324-cr/articleshow/132456948.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Central Bank of India announced a thirteen percent net profit increase for the June quarter.  Total income rose to Rs 10,678 crore, and interest earned improved significantly.  However, the bank's ope",
       "tags": [],
       "is_portfolio": false
     },
@@ -108,6 +112,33 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oberoi Realty Q1 profit jumps 29% to  \u20b9544 crore, revenue rises 32%; declares  \u20b92 interim dividend",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/oberoi-realty-q1-profit-jumps-29-to-rs-544-crore-revenue-rises-32-declares-rs-2-interim-dividend-11784283993297.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "Oberoi Realty reported Q1 FY27 net profit of  \u20b9544 crore, up 29% YoY. Revenue rose 31.7% to  \u20b91,301 crore, with EBITDA increasing 41% to  \u20b9734 crore. The company also declared an interim dividend of  ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PB Fintech share price rises 3% after HDFC Mutual Fund stake raise to 5.02%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-share-price-rises-3-after-hdfc-mutual-fund-stake-raise-to-502-11784281552145.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "PB Fintech shares rose 3% intraday on July 17 after HDFC Mutual Fund increased its stake to 5.02% via an open market purchase. The fund acquired 129,068 shares, raising its holding slightly above the ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "JSW Steel Q1 result: Net Profit doubles to  \u20b94,696 crore; revenue jumps 10%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/jsw-steel-q1-result-net-profit-doubles-to-rs-4-696-crore-revenue-jumps-10-11784283126412.html",
+      "date": "Fri, 17 Jul 2026",
+      "desc": "JSW Steel reported a Q1 FY27 net profit of  \u20b94,696 crore, more than double last year\u2019s  \u20b92,209 crore, driven by a 9.8% revenue increase to  \u20b947,364 crore. The company began construction on a new 2-mil",
       "tags": [],
       "is_portfolio": false
     },
@@ -153,33 +184,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/expert-view-indian-stock-market-to-deliver-healthy-double-digit-returns-over-medium-term-says-bajaj-life-cio-11784275262208.html",
       "date": "Fri, 17 Jul 2026",
       "desc": "Bajaj Life's CIO Srinivas Rao Ravuri forecasts promising double-digit returns for Indian equities over the medium term, emphasising improved earnings visibility and attractive valuations. Amid geopoli",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Federal Bank Q1 Results: Profit jumps 36.5% YoY to  \u20b91,177 crore",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/federal-bank-q1-results-profit-jumps-36-5-yoy-to-rs-1-177-crore-11784275791175.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Federal Bank Q1 Results: Federal Bank's Q1 FY27 results show a 36.5% rise in net profit to  \u20b91,177 crore, driven by strong net interest income growth of 26%. Asset quality improved with gross NPAs at ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Jio Financial Services share price jumps 6% after Q1 profit soars 155%; should you buy the stock?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/jio-financial-services-share-price-jumps-6-after-q1-profit-soars-155-in-q1-results-2026-should-you-buy-or-sell-stock-11784269234338.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Following a strong Q1 performance, Jio Financial Services reported a 155% YoY increase in consolidated net profit. The company\u2019s growth was driven by significant revenue increases in its investing and",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Polycab India\u2019s Q1 growth is solid. Now volumes need a recharge",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/polycab-q1-earnings-cables-wires-industry-india-polycab-share-price-11784269470143.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Polycab\u2019s Q1FY27 highlights how sensitive the business remains to commodity prices. Sharp declines in copper and aluminium prices in June led dealers to postpone purchases in anticipation of further d",
       "tags": [],
       "is_portfolio": false
     }
