@@ -1,28 +1,6 @@
 {
-  "updated_ist": "17 Jul 2026 17:23 IST",
+  "updated_ist": "20 Jul 2026 11:52 IST",
   "news": [
-    {
-      "title": "Reliance Industries Q1 Results Live: RIL to announce earnings today; EBITDA may rise up to 10% on O2C, Jio growth",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-q1-results-live-updates-reliance-industries-ltd-q1-fy27-revenue-earning-net-profit-loss-bonus-shares-date-time/liveblog/132458673.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": " ",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Reliance Industries\u2019 promoters increased their stake to 50.48% in the June quarter through market purchases worth an estimated Rs 8,500\u20139,000 crore. The move signals confidence despite the stock\u2019s wea",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -35,56 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Market wrap: Top gainers and losers on Nifty and Sensex today",
+      "title": "Big tech earnings to test AI rally as markets enter crucial week",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-top-gainers-and-losers-on-nifty-and-sensex-today/articleshow/132460186.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Indian markets ended the week strongly as Sensex surged 964 points and Nifty gained 262 points, driven by robust Q1 earnings and IT buying. Analysts see improving momentum in large caps, with Nifty's ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/big-tech-earnings-to-test-ai-rally-as-markets-enter-crucial-week/slideshow/132507391.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Big Tech earnings from Alphabet, Tesla and Intel will test the AI rally as investors assess cloud growth, chip demand, capital spending, guidance and macro risks amid geopolitical tensions and rate un",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Federal Bank among 4 stocks that hit 52-week highs and rallied up to 25% in a month",
+      "title": "Tips Music shares jump 11% as board set to approve buyback on July 22",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/federal-bank-among-4-stocks-that-hit-52-week-highs-and-rallied-up-to-25-in-a-month/slideshow/132460099.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Sensex ended 96 points higher on Friday as four BSE 200 stocks\u2014Oracle Financial Services, Adani Energy Solutions, BHEL and Federal Bank\u2014hit fresh 52-week highs. The milestone reflects sustained buying",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tips-music-shares-jump-11-as-board-set-to-approve-buyback-on-july-22/articleshow/132507392.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Tips Music shares jumped up to 11% after the company announced that its board will consider a proposal to buy back equity shares alongside approving its June quarter results on July 22. The announceme",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shapoorji Pallonji Group completes long-delayed debt fundraising, sources say",
+      "title": "Rupee weakens to two-month low as oil climbs; state-run banks cushion",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/shapoorji-pallonji-group-completes-long-delayed-debt-fundraising-sources-say/articleshow/132459713.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "The Shapoorji Pallonji Group has successfully wrapped up its fundraising campaign, garnering bids amounting to a remarkable 215 billion rupees for a three-year bond. This initiative is primarily desig",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakens-to-two-month-low-as-oil-climbs-state-run-banks-cushion/articleshow/132507326.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "The Indian rupee reached its weakest point in two months on Monday.  Rising oil prices and Middle East hostilities pressured the currency's value.  State-run banks sold dollars, which helped to modera",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee closes at 96.28 vs USD; logs sharpest weekly drop since May as oil price jump stings",
+      "title": "VA Tech Wabag shares rise 4% after securing major Bengaluru wastewater treatment order",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-closes-at-96-28-vs-usd-logs-sharpest-weekly-drop-since-may-as-oil-price-jump-stings/articleshow/132458678.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "The Indian rupee faced its most significant weekly drop since May, driven by rising oil prices and strong demand for the dollar. Increasing tensions between the U.S. and Iran exacerbated concerns over",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/va-tech-wabag-shares-rise-4-after-securing-major-bengaluru-wastewater-treatment-order/articleshow/132507063.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "VA Tech Wabag shares rose after announcing a significant order from BWSSB. The company will develop two energy-efficient wastewater treatment facilities in Bengaluru. This large order strengthens its ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hang Seng crashes over 2% as tech selloff hits Asia markets. Why Hong Kong stocks are falling on Friday?",
+      "title": "PC Jeweller shares jump 6%: What\u2019s driving the rally after 220% gains in 3 years?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hang-seng-crashes-over-2-as-tech-selloff-hits-asia-markets-why-hong-kong-stocks-are-falling-on-friday/articleshow/132458594.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Hong Kong's Hang Seng Index fell 2% by midday on Friday, weighed down by a global selloff in technology stocks as renewed inflation concerns dampened risk appetite. The Hang Seng Tech Index plunged 4%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-6-whats-driving-the-rally-after-220-gains-in-3-years/articleshow/132507054.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": " PC Jeweller shares jumped about 6% after its board approved raising up to Rs 1,000 crore through a QIP, nearly reversing Friday\u2019s losses. The rebound also comes amid strong Q1 revenue growth and the ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: South Korea's AI-driven stock frenzy fuels volatility, challenges market fundamentals",
+      "title": "Global Market: China stocks rebound as state support boosts sentiment, tech shares remain under pressure",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-ai-driven-stock-frenzy-fuels-volatility-challenges-market-fundamentals/articleshow/132458499.cms",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "The sharp swings have unsettled investors and regulators alike, with market movements increasingly driven by leveraged investment products rather than corporate fundamentals. The volatility has also c",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rebound-as-state-support-boosts-sentiment-tech-shares-remain-under-pressure/articleshow/132506964.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Chinese equities rebounded after steep losses last week as signs of government-backed support lifted investor confidence and sparked buying in traditional sectors. While state intervention helped broa",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: China's securities regulator to meet market participants as state-backed investors step in to support stocks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-securities-regulator-to-meet-market-participants-as-state-backed-investors-step-in-to-support-stocks/articleshow/132506871.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "China's securities regulator will meet market participants to discuss equity market stabilization. State-backed investors are also buying shares to help arrest the decline. The China Securities Regula",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "South Korea's share market losses deepen as leveraged AI bets take a heavy toll",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-share-market-losses-deepen-as-leveraged-ai-bets-take-a-heavy-toll/articleshow/132506695.cms",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "South Korean shares experienced a significant decline, triggering market-wide trading curbs. Investors are unwinding AI-linked trades, extending a sharp correction in the KOSPI index. This selloff hig",
       "tags": [],
       "is_portfolio": false
     },
@@ -116,74 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Oberoi Realty Q1 profit jumps 29% to  \u20b9544 crore, revenue rises 32%; declares  \u20b92 interim dividend",
+      "title": "Multibagger IPO: Recently listed NSE SME stock doubles allottees' money",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/oberoi-realty-q1-profit-jumps-29-to-rs-544-crore-revenue-rises-32-declares-rs-2-interim-dividend-11784283993297.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Oberoi Realty reported Q1 FY27 net profit of  \u20b9544 crore, up 29% YoY. Revenue rose 31.7% to  \u20b91,301 crore, with EBITDA increasing 41% to  \u20b9734 crore. The company also declared an interim dividend of  ",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-ipo-recently-listed-nse-sme-stock-teja-engineering-industries-doubles-allottees-money-11784526532034.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Teja Engineering Industries share price has delivered 6% gains in a week and 26.45% returns on year-to-date (YTD) basis.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PB Fintech share price rises 3% after HDFC Mutual Fund stake raise to 5.02%",
+      "title": "Lohia Corp IPO: Price band set at  \u20b9404-425 per share; check key dates, issue details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pb-fintech-share-price-rises-3-after-hdfc-mutual-fund-stake-raise-to-502-11784281552145.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "PB Fintech shares rose 3% intraday on July 17 after HDFC Mutual Fund increased its stake to 5.02% via an open market purchase. The fund acquired 129,068 shares, raising its holding slightly above the ",
+      "link": "https://www.livemint.com/market/ipo/lohia-corp-ipo-price-band-set-at-rs-404-425-per-share-check-key-dates-issue-details-11784526527345.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Lohia Corp IPO price band is set at  \u20b9404-425 per share, with subscription opening on 23 July and closing on 27 July. The offering is an OFS of over 2.59 crore shares, with no fresh issue. Listing is ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "JSW Steel Q1 result: Net Profit doubles to  \u20b94,696 crore; revenue jumps 10%",
+      "title": "Alpine Texworld IPO listing in focus. Here's what GMP signals ahead of debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/jsw-steel-q1-result-net-profit-doubles-to-rs-4-696-crore-revenue-jumps-10-11784283126412.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "JSW Steel reported a Q1 FY27 net profit of  \u20b94,696 crore, more than double last year\u2019s  \u20b92,209 crore, driven by a 9.8% revenue increase to  \u20b947,364 crore. The company began construction on a new 2-mil",
+      "link": "https://www.livemint.com/market/ipo/alpine-texworld-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11784525274311.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "The GMP of Alpine Texworld IPO signals flat debut tomorrow, Tuesday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Power to declare Q1 results 2026 on this date. Check details",
+      "title": "Havells India\u2019s margin recovery hinges on easing A&amp;P spends, price hikes after weak Q1",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/tata-power-to-declare-q1-results-2026-on-this-date-check-details-11784281252605.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Tata Power's Board of Directors will convene on July 27 to review Q1 FY27 financial results. The trading window has been closed since June 24.",
+      "link": "https://www.livemint.com/market/mark-to-market/havells-q1fy27-results-margin-pressure-renewables-lloyd-growth-analysis-11784520642325.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Margin pressure overshadowed strong revenue growth in the first quarter.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "This beaten-down fintech stock jumps 39% this week, on track for biggest weekly gain in nearly 5 years",
+      "title": "Small-cap stock under  \u20b950: Elitecon International shares jump 11% despite stock market crash amid US-Iran war jitters",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/this-beaten-down-fintech-stock-jumps-39-this-week-on-track-for-biggest-weekly-gain-in-nearly-5-years-11784279402889.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Fino Payments Bank's shares surged 14% to  \u20b9180.75 on July 17, marking a potential weekly gain of 39%. Despite recovery, the stock remains down 34% this year, following a strong June update and increa",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-elitecon-international-shares-jump-11-despite-stock-market-crash-amid-us-iran-war-jitters-11784523516505.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Small-cap stock under  \u20b950: Elitecon International share price has fallen over 32% in one month, and has declined 58% in three months. The smallcap stock has plunged 75% in six months, and has cracked",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BHEL's profit comeback is real. Can its order boom sustain the rally?",
+      "title": "HAL, BEL to Bharat Dynamics: Defence stocks dip after escalation in the US-Iran war",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/bhel-in-the-driver-s-seat-after-solid-q1-profitability-and-execution-11784273883780.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "BHEL's first Q1 profit in seven years, stronger execution and a  \u20b92.6 trillion order book have fuelled a sharp turnaround. But rising competition and a 45x valuation could test the rally.",
+      "link": "https://www.livemint.com/market/stock-market-news/hal-bel-to-bharat-dynamics-defence-stocks-dip-after-escalation-in-the-us-iran-war-11784521448590.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "HAL shares declined over 0.58% to  \u20b94,474 apiece, while shares of BEL and Bharat Dynamics dropped 0.78% and 0.55%, respectively, during Monday's trading session.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Manipal Hospitals is said to cut IPO valuation from $10-12 billion estimated earlier",
+      "title": "Sensex crashes 700 points, Nifty 50 drops to 24,150- key factors behind the stock market decline explained",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/manipal-hospitals-is-said-to-cut-ipo-valuation-from-10-12-billion-estimated-earlier-11784276077761.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Still, Manipal Hospitals\u2019 proposed listing is on track to be India\u2019s biggest of 2026 so far, surpassing SBI Funds' $1 billion IPO this week.",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-700-points-nifty-50-drops-to-24-150-key-factors-behind-the-stock-market-decline-explained-11784521090606.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "The Sensex crashed over 700 points, or nearly 1%, to an intraday low of 77,445, while the Nifty 50 declined over 180 points, or almost 1%, to an intraday low of 24,150.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Expert view: Indian stock market to deliver healthy double-digit returns over medium term, says Bajaj Life's CIO",
+      "title": "Stocks to buy or sell: Dharmesh Shah of ICICI Sec suggests buying Piramal Pharma on 20 July",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-indian-stock-market-to-deliver-healthy-double-digit-returns-over-medium-term-says-bajaj-life-cio-11784275262208.html",
-      "date": "Fri, 17 Jul 2026",
-      "desc": "Bajaj Life's CIO Srinivas Rao Ravuri forecasts promising double-digit returns for Indian equities over the medium term, emphasising improved earnings visibility and attractive valuations. Amid geopoli",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-sec-suggests-buying-piramal-pharma-on-20-july-11784519588311.html",
+      "date": "Mon, 20 Jul 2026",
+      "desc": "Indian stock indices faced losses on 20 July as HDFC Bank's disappointing earnings pressured the market. The BSE Sensex dropped 0.72%. Additionally, rising crude oil prices due to escalating Middle Ea",
       "tags": [],
       "is_portfolio": false
     }
