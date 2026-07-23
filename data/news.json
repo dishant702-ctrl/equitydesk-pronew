@@ -1,185 +1,149 @@
 {
-  "updated_ist": "23 Jul 2026 11:36 IST",
+  "updated_ist": "23 Jul 2026 14:15 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "title": "Bitcoin trades near $65,700 as AI-led inflation concerns cap gains despite strong ETF demand",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-65700-as-ai-led-inflation-concerns-cap-gains-despite-strong-etf-demand/articleshow/132574693.cms",
+      "date": "Thu, 23 Jul 2026",
+      "desc": "Bitcoin traded near $65,700 on Thursday as inflation concerns capped gains. Strong ETF demand persisted, adding $203 million on Tuesday. Major altcoins like BNB and XRP saw gains up to two percent. Ge",
       "tags": [
-        "RELIANCE"
+        "ITC"
       ],
       "is_portfolio": true
     },
     {
-      "title": "STOCK RADAR",
+      "title": "Global Market: European shares slip as tech stocks drag; ECB policy decision in focus",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-radar/videoshow/132573042.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-tech-stocks-drag-ecb-policy-decision-in-focus/articleshow/132575316.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": " ",
+      "desc": "European shares slipped as weak semiconductor earnings and renewed concerns over AI spending weighed on technology stocks. Energy shares gained as Middle East tensions lifted oil prices, while investo",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Waaree Renewable shares slide 7% despite 34% YoY surge in Q1 profit. What's spooking investors?",
+      "title": "Domino effect: Gandhar Oil\u2019s 20% upper circuit spurs rally in Savita Oil and Panama Petro. Here\u2019s why",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-renewable-shares-crash-7-even-after-q1-net-profit-rises-34-yoy-whats-spooking-investors/articleshow/132572933.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/domino-effect-gandhar-oils-20-upper-circuit-spurs-rally-in-savita-oil-and-panama-petro-heres-why/articleshow/132574516.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Waaree Renewable shares fell sharply on Thursday despite reporting a 34% year-on-year rise in Q1 FY27 profit, as investors focused on weaker sequential earnings and revenue. While the company remains ",
+      "desc": "Gandhar Oil Refinery hit the 20% upper circuit after reporting a 689% year-on-year jump in Q1 net profit, triggering a rally in peers Savita Oil and Panama Petrochem. Strong demand across PHPO, PIO an",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MTF risk grows as investors borrow record Rs 1.36 lakh crore to buy stocks. What happens if the market falls?",
+      "title": "Global Market: BNP Paribas Q2 profit jumps 33% on strong trading, retail rebound; beats estimates",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtf-risk-grows-as-investors-borrow-record-rs-1-36-lakh-crore-to-buy-stocks-what-happens-if-the-market-falls/articleshow/132572777.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bnp-paribas-q2-profit-jumps-33-on-strong-trading-retail-rebound-beats-estimates/articleshow/132574000.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Indian investors have borrowed a record Rs 1.36 lakh crore through Margin Trading Facility (MTF), even as cash market activity slows. While growing retail participation supports long-term expansion, r",
+      "desc": "BNP Paribas reported a better-than-expected 33% rise in second-quarter net profit to \u20ac4.35 billion, driven by strong equity trading, a recovery in retail banking and gains from its revamped insurance ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tanla Platforms shares jump nearly 14% post Q1 earnings, revenue surges 17.8% YoY",
+      "title": "Indonesia's Danantara plans dollar bond sale worth at least $500 mln, sources say",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tanla-platforms-shares-jump-nearly-14-post-q1-earnings-revenue-surges-17-8-yoy/articleshow/132572721.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indonesias-danantara-plans-dollar-bond-sale-worth-at-least-500-mln-sources-say/articleshow/132573818.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Tanla Platforms shares surged nearly 14% after Q1 FY27 revenue rose 17.8% year-on-year to Rs 1,226 crore. Strong gross profit, EBITDA and EPS growth reflected improving profitability, while higher spe",
+      "desc": "Danantara, Indonesia's sovereign wealth fund, plans to issue dollar bonds worth $500 million.  These long-dated bonds will extend the fund's offshore funding into longer maturities.  The issuance aims",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Cloud, AI &amp; Capex: 5 big takeaways from Alphabet's Q2 earnings",
+      "title": "NTPC Green shares soar 9% after Q1 earnings. What\u2019s boosting investor sentiment?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cloud-ai-amp-capex-5-big-takeaways-from-alphabets-q2-earnings/slideshow/132572856.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-green-shares-soar-9-after-q1-earnings-whats-boosting-investor-sentiment/articleshow/132573710.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Alphabet beat Q2 revenue estimates on strong cloud and advertising growth, but higher AI spending and increased capital expenditure guidance weighed on investor sentiment, sending shares lower after e",
+      "desc": "NTPC Green Energy shares rose sharply on Thursday after the company reported strong Q1 FY27 earnings, with net profit rising 38% and revenue surging 63% year-on-year. Investor sentiment was further bo",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Japan's Nikkei rises as chip shares gain, BOJ's rate hike prospects weigh",
+      "title": "Cipla Q1 Results: Cons profit drops 39% YoY to Rs 789 crore; revenue rises marginally",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-rises-as-chip-shares-gain-bojs-rate-hike-prospects-weigh/articleshow/132572655.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q1-results-cons-profit-plunges-39-yoy-to-rs-789-crore-revenue-rises-marginally/articleshow/132573600.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Japan's Nikkei share average saw an increase on Thursday, driven by chip-related stocks.  These gains were tempered by concerns over an early interest rate hike from the Bank of Japan.  Advantest and ",
+      "desc": "Cipla Q1 Results: Pharma major Cipla reported a 39% year-on-year decline in Q1FY27 consolidated net profit to Rs 789 crore, mainly due to a high base, while revenue from operations rose a modest 2.3% ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee likely shielded by RBI intervention as oil surges",
+      "title": "Global Earnings | Hyundai Motor reports 21% drop in Q2 profit, misses forecasts",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-likely-shielded-by-rbi-intervention-as-oil-surges/articleshow/132572568.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/global-earnings-hyundai-motor-reports-21-drop-in-q2-profit-misses-forecasts/articleshow/132573609.cms",
       "date": "Thu, 23 Jul 2026",
-      "desc": "The Indian rupee remained largely unchanged on Thursday.  Higher oil prices and central bank actions influenced its movement.  Global tensions in the Red Sea and strikes on Iran escalated oil prices. ",
+      "desc": "Hyundai Motor reported a significant profit drop in the second quarter. Weaker vehicle sales and production disruptions impacted the company's earnings. Higher costs and a competitive market also pres",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil prices scorch Indian bonds; rising Treasury yields add to pressure",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/oil-prices-scorch-indian-bonds-rising-treasury-yields-add-to-pressure/articleshow/132572526.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Indian government bonds declined early Thursday as Middle East tensions escalated. Crude oil prices neared $100 a barrel, and U.S. Treasury yields also rose. Higher oil prices threaten to revive infla",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Infosys Q1 results LIVE: Guidance cut likely for the IT major - Here's what brokerages expect?",
+      "title": "Eternal\u2019s investors can prepare for more positive earnings surprises",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/infosys-q1-results-live-infosys-results-infosys-q1-preview-infosys-share-it-stocks-nifty-it-22-july-2026-q1fy27-results-11784784629569.html",
+      "link": "https://www.livemint.com/market/mark-to-market/eternal-investors-positive-earnings-surprises-food-delivery-quick-commerce-net-order-value-nov-average-order-value-aov-11784792334449.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Infosys Q1 results LIVE: All eyes will be on Infosys as the IT services major reports its Q1 FY27 earnings after market hours on Thursday, July 23. Apart from the quarterly performance, investors will",
+      "desc": "Both segments - food delivery and quick commerce\u2014are still in varying phases of growth and require investment. Fixed costs generally remain high due to expenses related to expansion, suppressing the E",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gulf Lloyds IPO allotment date likely today. GMP, steps to check share allotment status online for SME IPO",
+      "title": "Cipla Q1 results: Profit falls 39% YoY to  \u20b9789.05 crore",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/gulf-lloyds-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-for-sme-ipo-11784784637110.html",
+      "link": "https://www.livemint.com/market/stock-market-news/cipla-q1-results-2026-profit-falls-39-yoy-to-789-05-crore-11784795719956.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Gulf Lloyds IPO allotment date is likely today, 23 July 2026. Gulf Lloyds IPO allotment status online check can be done through the websites of BSE and IPO registrar. Kfin Technologies is the Gulf Llo",
+      "desc": "Cipla Q1 results: Profit falls 39% YoY to  \u20b9789.05 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Philippine Peso Finds a Line in the Sand as Record Low Holds",
+      "title": "Ujjivan Small Finance Bank Q1 results 2026: Net profit jumps 200% to  \u20b9317 crore, NII up 38% YoY",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/philippine-peso-finds-a-line-in-the-sand-as-record-low-holds-11784785096281.html",
+      "link": "https://www.livemint.com/market/stock-market-news/ujjivan-small-finance-bank-q1-results-2026-net-profit-jumps-200-to-317-crore-nii-up-38-yoy-11784793878446.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "A potential line in the sand is forming for the Philippine peso at its record low, even as the central bank maintains it doesn\u2019t defend a specific level.",
+      "desc": "Ujjivan Small Finance Bank reported its highest-ever quarterly net interest income (NII) of  \u20b91,186 crore in the first quarter of FY27.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Cube Highways Trust InvIT IPO Day 2: Issue subscribed 3% so far. Check GMP, review, key details to know",
+      "title": "FPIs pump  \u20b917,227 crore into Indian stock market in July, ending 4-month outflow streak. Can the comeback sustain?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/cube-highways-trust-invit-ipo-day-2-issue-subscribed-3-so-far-check-gmp-review-key-details-to-know-11784783171939.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fpis-pump-rs-17-227-crore-into-indian-stock-market-in-july-ending-4-month-outflow-streak-can-the-comeback-sustain-11784794191718.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Cube Highways Trust InvIT IPO opened for subscription on 22 July and closes on 24 July. Priced at  \u20b9151-152 per unit, it raised  \u20b91,687.5 crore from anchor investors. The IPO features a lot size of 95",
+      "desc": "FPIs invested a net  \u20b917,227 crore in Indian equities in July, marking a recovery from previous months' outflows. Key beneficiaries include healthcare and metals, while auto and capital goods struggle",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "South Korea GDP expands above estimates in Q2, lifted by semiconductor boom; KOSPI index rallies 3%",
+      "title": "Nithin Kamath of Zerodha reveals the biggest challenge for stock brokers; find here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/south-korea-gdp-expands-above-estimates-in-q2-lifted-by-semiconductor-boom-kospi-index-rallies-3-11784782581671.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nithin-kamath-of-zerodha-reveals-the-biggest-challenge-for-stock-brokers-find-here-11784794848281.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "South Korea's economy grew by 0.6% in Q2, exceeding expectations, mainly due to strong semiconductor exports. Annual GDP growth reached 3.7%, prompting forecasts of further interest rate hikes amid pe",
+      "desc": "Zerodha CEO Nithin Kamath highlights retaining users as a major challenge for stockbroking platforms, as many investors lose money and cease trading. He notes that customer retention is crucial for su",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sotefin Bharat IPO listing: Shares hit upper circuit after listing at a 10% premium; details here",
+      "title": "PVR Inox Q1 results: Multiplex operator posts net profit of  \u20b956 crore, revenue growth at 12% YoY; stock jumps 5%",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sotefin-bharat-ipo-listing-shares-hit-upper-circuit-after-listing-at-a-10-premium-details-here-11784782273860.html",
+      "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-q1-results-multiplex-operator-swings-to-profit-revenue-growth-at-12-yoy-stock-jumps-5-11784794553194.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Sotefin Bharat IPO listing: The SME stock opened at  \u20b9205, up 9.6% from the issue price of  \u20b9187, and jumped further to hit the 5% upper price band of  \u20b9215.25.",
+      "desc": "PVR Inox Q1 results: PVR Inox reported a net profit of  \u20b956.5 crore for the quarter ended June 2026, as compared to a net loss of  \u20b954.5 crore in the corresponding period of last fiscal year.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stocks to buy for short term: Mahindra and Mahindra among 3 shares Amol Athawale of Kotak Securities recommends",
+      "title": "Expert view: Prolonged US-Iran conflict risks earnings estimate cuts, says Dhiraj Relli of HDFC Securities",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mahindra-and-mahindra-among-3-shares-amol-athawale-of-kotak-securities-recommends-11784779688084.html",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-prolonged-us-iran-conflict-risks-earnings-estimate-cuts-says-dhiraj-relli-of-hdfc-securities-11784791105668.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Amol Athawale from Kotak Securities identifies three stocks with growth potential, including Mahindra and Mahindra. With key support levels and upward momentum indicated by technical analysis, now app",
+      "desc": "Dhiraj Relli of HDFC Securities outlines how prolonged US-Iran conflict could impact Indian earnings estimates. However, he remains optimistic about the market's resilience, driven by domestic consump",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indo-MIM IPO opens today: GMP, date, price, subscription status to review. Apply or not?",
+      "title": "CJP protest in Delhi: Is it wise to pause fresh capital allocation to the Indian equities? Explained",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/indomim-ipo-opens-today-gmp-date-price-subscription-status-to-review-apply-or-not-11784776598139.html",
+      "link": "https://www.livemint.com/market/stock-market-news/cjp-protest-in-delhi-live-is-it-wise-to-pause-fresh-capital-allocation-to-the-indian-equities-and-buy-gold-explained-11784789201124.html",
       "date": "Thu, 23 Jul 2026",
-      "desc": "Indo-MIM IPO date: The public issue has opened today and will remain open until 27 July 2026",
+      "desc": "Experts suggest PM Modi's social media post indicates the government will not dismiss Union Minister Dharmendra Pradhan amid the CJI protest, potentially prolonging it",
       "tags": [],
       "is_portfolio": false
     }
