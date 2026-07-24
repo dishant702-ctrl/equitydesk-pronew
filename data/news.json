@@ -1,6 +1,17 @@
 {
-  "updated_ist": "23 Jul 2026 16:45 IST",
+  "updated_ist": "24 Jul 2026 11:24 IST",
   "news": [
+    {
+      "title": "Mukesh Ambani\u2019s long game: How Reliance could turn a 3-year spending spree into Rs 90,000 crore of free cash flow",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukesh-ambanis-long-game-how-reliance-could-turn-a-3-year-spending-spree-into-rs-90000-crore-of-free-cash-flow/articleshow/132597133.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Reliance Industries could generate nearly Rs 90,000 crore in cumulative free cash flow over FY26-FY28 as its heavy investment cycle eases, brokerages say. Stronger earnings from energy and Jio, couple",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "Rupee ends nearly flat as central bank intervention blunts oil strain",
+      "title": "Q1 Results today: SBI Life, Tata Consumer, Hindustan Zinc among 86 companies to announce earnings",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-nearly-flat-as-central-bank-intervention-blunts-oil-strain/articleshow/132577509.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "On Thursday, the Indian rupee hovered close to a two-month low, influenced by potential intervention from the central bank to counteract rising oil prices. Brent crude oil approached the $100 per barr",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-results-today-sbi-life-tata-consumer-hindustan-zinc-among-86-companies-to-announce-earnings/articleshow/132597114.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "A total of 86 companies are slated to announce their Q1 FY27 earnings today, with key names including Tata Consumer Products, SBI Life Insurance, Hindustan Zinc, Shriram Finance, ACC, Bank of Baroda, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IndiGo Q1 Results: Airline reports Rs 238 crore loss vs profit YoY; revenue rises 20%",
+      "title": "Global Market: China, Hong Kong stocks slide as oil surge fuels inflation concerns",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/interglobe-aviation-q1-results-airline-reports-rs-238-crore-loss-vs-profit-yoy-revenue-rises-20/articleshow/132577469.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Interglobe Aviation Q1 Results: IndiGo reported a net loss of Rs 238 crore in Q1FY27, compared with a profit of Rs 2,176 crore a year ago, as sharply higher operating costs outweighed strong revenue g",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-slide-as-oil-surge-fuels-inflation-concerns/articleshow/132597129.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Asian markets saw declines in China and Hong Kong equities on Friday. Crude oil prices surged above $100 a barrel, intensifying inflation worries. Investors remained cautious due to geopolitical risks",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bonus bonanza! This textile player announced 1:1 bonus issue, dividend just 14 sessions after market debut. Do you own?",
+      "title": "Oil shock, Treasury yield spike put Indian bonds under pressure before debt sale",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-bonanza-this-textile-player-announced-11-bonus-issue-dividend-just-14-sessions-after-market-debut-do-you-own/articleshow/132577408.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Aastha Spintex approved a 1:1 bonus issue and Re 0.10 final dividend for FY26, subject to shareholder approval. The microcap textile firm also cleared plans to expand into grey fabric manufacturing, e",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/oil-shock-treasury-yield-spike-put-indian-bonds-under-pressure-before-debt-sale/articleshow/132596731.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Indian government bonds experienced a decline as oil prices surpassed one hundred dollars per barrel.  The benchmark bond yield reached its highest level in five weeks during early trading.  Rising oi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rekha Jhunjhunwala sells over 7 crore Star Health shares in Q1. Details here",
+      "title": "RBI intervention blunts oil surge, shores up rupee",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rekha-jhunjhunwala-sells-over-7-crore-star-health-shares-in-q1-details-here/articleshow/132577312.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Ace investor Rekha Jhunjhunwala sharply cut her promoter stake in Star Health to 3.04% from 15.57% during the June quarter of FY27, implying a sale of nearly 7.38 crore shares. The latest shareholding",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-intervention-blunts-oil-surge-shores-up-rupee/articleshow/132596478.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "The Reserve Bank of India intervened by selling dollars to prevent the rupee from reaching a record low. Surging oil prices and declining stock markets are currently pressuring the Indian currency. Ge",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "D P Abhushan posts 77% rise in Q1 PAT to Rs 64 crore",
+      "title": "Caliber Mining and Logistics shares list at 19% premium over IPO price on BSE",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/d-p-abhushan-posts-77-rise-in-q1-pat-to-rs-64-crore/articleshow/132576066.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "The company posted a PAT of Rs 36.42 crore in Q1 FY26, D P Abhushan said in a statement. Total income for the quarter rose 58% to Rs 854 crore from Rs 541 crore in the June quarter of the financial ye",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/caliber-mining-and-logistics-shares-list-at-19-premium-over-ipo-price-on-bse/articleshow/132596430.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Caliber Mining &amp; Logistics shares debuted nearly 19% above their IPO price on Friday, beating grey market expectations. The Rs 450 crore issue was subscribed 156.63 times, driven by strong demand ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Crypto deposits outpace withdrawals by up to 6x in H1; millennials dominate India's investor base: Report",
+      "title": "Forget selling! FIIs doubled down on this AI multibagger stock that's up 200% YTD",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-deposits-outpace-withdrawals-by-up-to-6x-in-h1-millennials-dominate-indias-investor-base-report/articleshow/132577054.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "According to WazirX's H1 2026 India Crypto Trends Report, crypto deposits exceeded withdrawals by 2\u20136 times during the first half of 2026, while withdrawal requests fell nearly 55%, signalling stronge",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/forget-selling-fiis-doubled-down-on-this-ai-multibagger-stock-thats-up-200-ytd/articleshow/132596323.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "HFCL has emerged as a favourite among foreign investors, with FIIs more than doubling their stake to 15.7% in Q1 despite the stock surging 200% in 2026. Strong AI-driven data centre demand, record ord",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Will robotaxi be the next big trigger for Tesla? Here\u2019s what Elon Musk said",
+      "title": "Why Swiggy shares fell over 5% today: Foreign ownership cap sparks $460 million passive outflow fears",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/willrobotaxi-be-the-nextbigtrigger-for-tesla-heres-what-elonmusksaid/articleshow/132576348.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Tesla is accelerating the rollout of its unsupervised robotaxi service in the US, with CEO Elon Musk outlining ambitious expansion plans while stressing safety as the company's top priority. Musk also",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: CXMT's blockbuster IPO rewards Hefei's decade-long semiconductor investment",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-cxmts-blockbuster-ipo-rewards-hefeis-decade-long-semiconductor-investment/articleshow/132576158.cms",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "China's largest memory chipmaker, ChangXin Memory Technologies (CXMT), is set to debut on the Shanghai Stock Exchange after raising $8.6 billion in Asia's biggest IPO this year, highlighting the succe",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-swiggy-shares-fell-over-5-today-foreign-ownership-cap-sparks-460-million-passive-outflow-fears/articleshow/132596202.cms",
+      "date": "Fri, 24 Jul 2026",
+      "desc": " Swiggy shares fell after the company proposed cutting its foreign ownership limit to 49.5% from 100%, raising concerns over its eligibility for major global indices. The move could lead to Swiggy's e",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +114,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Infosys Q1 results: Profit up 12% YoY to  \u20b97,769 crore",
+      "title": "Bank of Baroda Q1 results LIVE: PSU Bank to announce earnings today; all eyes on loan growth, NIMs, and asset quality",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/infosys-q1-results-2026-profit-deal-tcv-fy27-guidance-5-key-takeaways-from-it-company-q1fy27-earnings-11784798282051.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Infosys Q1 results: Profit rose 12.3% YoY but fell 8.6% QoQ to  \u20b97,769 crore. Revenue from operations for Q1FY27 stood at  \u20b948,211 crore, up 14% YoY and 3.9% QoQ.",
+      "link": "https://www.livemint.com/market/stock-market-news/bank-of-baroda-q1-results-2026-live-bob-q1-results-bank-of-baroda-share-price-bob-q1fy27-earnings-psu-bank-stock-11784871109205.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Bank of Baroda Q1 results LIVE: Market participants will closely track the bank's loan growth, net interest margins (NIM), asset quality and management commentary, while also looking for guidance on c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IndiGo Q1 results: Airline slips into  \u20b9238 crore loss amid cost pressures; revenue rises 20% YoY",
+      "title": "Trump's tariff policy: Abbott India, Ajanta Pharma to Alembic \u2014 pharma stocks crash up to 4%",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/indigo-q1-results-airline-slips-into-rs-238-crore-loss-amid-cost-pressures-revenue-rises-20-yoy-11784803310148.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "InterGlobe Aviation reported a Q1 FY27 consolidated net loss of  \u20b9238 crore, down from a profit of  \u20b92,176.3 crore last year, due to high fuel prices and foreign exchange issues. However, total income",
+      "link": "https://www.livemint.com/market/stock-market-news/trumps-tariff-policy-abbott-india-ajanta-pharma-to-alembic-pharma-stocks-crash-up-to-4-11784869745089.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Pharma stocks dipped on July 24 after President Trump announced a phased tariff plan for imported generic medicines, raising concerns for Indian exporters. Abbott India led losses at 3.69%, prompting ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 23 July: SRF, IndusInd Bank, Adani Green Energy, HFCL, CarTrade Tech among top losers",
+      "title": "Indo-MIM IPO Day 2: Check latest GMP, subscription status, and other details - Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-23-july-srf-indusind-bank-adani-green-energy-hfcl-cartrade-tech-among-top-losers-11784797971154.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Dalal Street saw continued declines, with major indices closing lower for the fourth session. Escalating Middle East tensions and rising crude oil prices contributed to fragile market sentiment, while",
+      "link": "https://www.livemint.com/market/ipo/indomim-ipo-day-2-check-latest-ipo-gmp-subscription-status-and-other-details-apply-or-not-11784869148382.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Brokerages have largely maintained a positive outlook on the Indo-MIM IPO, citing the company's global leadership in the metal injection molding (MIM) segment, diversified customer base, strong financ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty 50 fall for 4th consecutive session; investors lose  \u20b93 lakh crore in a day; oil prices hit $99 per barrel",
+      "title": "Caliber Mining and Logistics IPO listing: Shares debut at a decent premium, erase gains amid weak market sentiment",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-fall-for-4th-consecutive-session-investors-lose-3-lakh-crore-in-a-day-oil-prices-hit-99-per-barrel-11784799501956.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "The Sensex dropped 364 points, or 0.47%, to end at 76,391.39, while the Nifty 50 finished at 23,869.60, down 127 points, or 0.53%. In these four sessions, the Sensex has crashed 1,760 points, or 2.3%,",
+      "link": "https://www.livemint.com/market/ipo/caliber-mining-and-logistics-ipo-listing-shares-debut-at-a-decent-premium-erase-gains-amid-weak-market-sentiment-11784868456374.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Caliber Mining and Logistics' share price was listed at  \u20b9504 on the BSE, a premium of 19% over the issue price of  \u20b9424. On the NSE, the stock was listed at  \u20b9500.25, 18% above the issue price.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock under  \u20b950 hits 20% upper circuit after Q1FY27 results",
+      "title": "Rekha Jhunjhunwala cuts Star Health stake to 3.04% from 15.5%; late Rakesh Jhunjhunwala promoter holding falls to nil",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vellora-impact-stock-under-rs-50-hits-20-upper-circuit-after-q1fy27-results-11784798074989.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Vellora Impact's shares surged 20% after reporting a net profit of  \u20b97.90 crore in Q1 FY27, reversing last year's loss. Revenue soared to  \u20b9141.92 crore, primarily from its agriculture segment, drivin",
+      "link": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-cuts-star-health-stake-to-3-04-from-15-5-late-rakesh-jhunjhunwala-promoter-holding-falls-to-nil-11784863839032.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Star Health and Allied Insurance Company's share price fell over 1% following Rekha Jhunjhunwala's significant stake reduction to 3.04%. Her sale of approximately 7.38 crore shares in FY27 resulted in",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Caliber Mining &amp; Logistics IPO listing tomorrow. Here's what GMP signals ahead of debut",
+      "title": "Lohia Corp IPO Day 2 Live: GMP signals 9% listing pop. Should you apply?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/caliber-mining-logistics-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11784793169280.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "The shares of Caliber Mining &amp;amp; Logistics IPO will be listed on both exchanges BSE and NSE, on Friday, 24 July.",
+      "link": "https://www.livemint.com/market/ipo/lohia-corp-ipo-day-2-live-gmp-signals-9-listing-pop-despite-weak-subscription-status-should-you-apply-11784863045164.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Lohia Corp IPO GMP today: According to market observers, shares of the company are available at a premium of  \u20b940 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibagger Tips Music stock climbs over 13% after June quarter results, buyback plan",
+      "title": "Infosys share price falls 2.5% after guidance cut, new CEO announcement during Q1 results: buy, sell or hold?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-tips-music-stock-climbs-over-13-after-june-quarter-results-buyback-plan-11784793566830.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Tips Music shares rose 13.5% to  \u20b9707.90 after reporting a 21% revenue increase to  \u20b9106.5 crore for Q1 FY27. The company plans a board meeting on August 5, 2026, to discuss a share buyback, emphasizi",
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-falls-2-5-after-guidance-cut-new-ceo-announcement-during-infosys-q1-results-buy-sell-or-hold-11784862815803.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "Infosys reported a 12.3% YoY net profit increase for Q1 FY27, but shares fell 2.5% after lowering FY27 revenue guidance. New CEO Ashiss Kumar Dash will start on April 1, 2027. Brokerage firm Motilal O",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aastha Spintex declares 1:1 bonus shares. Record date, other announcements you may like to know",
+      "title": "Sensex crashes 900 points, Nifty 50 nears 23,600; investors lose  \u20b96 lakh crore. Why is market falling? Explained",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/aastha-spintex-declares-1-1-bonus-shares-record-date-dividend-other-announcements-you-may-like-to-know-11784796047496.html",
-      "date": "Thu, 23 Jul 2026",
-      "desc": "Aastha Spintex\u2019s share price was in focus on July 22 after announcing a 1:1 bonus share issue and a final dividend of Re 0.10 for FY26. The board approved raising share capital to  \u20b9100 crore and expa",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-700-points-nifty-50-drops-below-23-650-investors-lose-4-lakh-crore-why-is-market-falling-explained-11784861955779.html",
+      "date": "Fri, 24 Jul 2026",
+      "desc": "The 30-share pack crashed over 900 points, or more than 1%, to hit an intraday low of 75,474, while the NSE counterpart Nifty 50 shed over 260 points, or over 1%, to touch the day's low of 23,606.",
       "tags": [],
       "is_portfolio": false
     }
