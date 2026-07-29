@@ -1,17 +1,6 @@
 {
-  "updated_ist": "29 Jul 2026 14:22 IST",
+  "updated_ist": "29 Jul 2026 17:00 IST",
   "news": [
-    {
-      "title": "Bitcoin slips near $63K as chip stock sell-off, ETF outflows, $510 million liquidations and Fed uncertainty weigh on sentiment",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-near-63k-as-chip-stock-sell-off-etf-outflows-510-million-liquidations-and-fed-uncertainty-weigh-on-sentiment/articleshow/132705492.cms",
-      "date": "Wed, 29 Jul 2026",
-      "desc": "Bitcoin traded near $63,000 on Wednesday as $510 million in liquidations, chip stock sell-offs, and US spot ETF outflows weighed on sentiment. Investors remain cautious ahead of the US Federal Reserve",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Global Market: Aberdeen Group reports \u00a33 billion outflows in H1 as turnaround efforts continue",
+      "title": "Dhanlaxmi Bank Q1 profit more than doubles on lower provisions",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-aberdeen-group-reports-3-billion-outflows-in-h1-as-turnaround-efforts-continue/articleshow/132706592.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dhanlaxmi-bank-q1-profit-more-than-doubles-on-lower-provisions/articleshow/132710312.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Aberdeen Group experienced substantial net outflows of \u00a33 billion in the first half. This occurred as withdrawals from investment and adviser businesses offset strong growth. Interactive investor plat",
+      "desc": "Dhanlaxmi Bank reported a more than twofold rise in Q1 net profit to Rs 24.9 crore, driven by higher income and lower provisions. Asset quality improved with gross NPAs declining to 1.8%, while operat",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares gain as miners, energy stocks lead; investors track Middle East tensions, earnings",
+      "title": "Bajaj Housing Finance Q1 Results: Net profit jumps 23% YoY to Rs 715 crore, AUM surges 24%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-gain-as-miners-energy-stocks-lead-investors-track-middle-east-tensions-earnings/articleshow/132705972.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q1-results-net-profit-rises-23-yoy-to-rs-715-crore-aum-rises-24/articleshow/132710115.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "European stocks saw a slight increase, driven by strong mining and energy sectors. Commodity prices surged, influencing gains in these key areas of the market. Personal and household goods stocks also",
+      "desc": "Bajaj Housing Finance Q1 Results: Bajaj Housing Finance on Wednesday reported a net profit of Rs 715 crore for the first quarter of FY27, marking a 23% year-on-year rise from the Rs 583 crore net prof",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Earnings | Nomura's first-quarter profit jumps 39%, boosted by markets",
+      "title": "Edelweiss Alternatives raises over Rs 1,200 crore for second Discovery fund; backs Arboreal Bio",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-earnings-nomuras-first-quarter-profit-jumps-39-boosted-by-markets/articleshow/132705888.cms",
+      "link": "https://economictimes.indiatimes.com/markets/aif-pms/edelweiss-alternatives-raises-over-rs-1200-crore-for-second-discovery-fund-backs-arboreal-bio/articleshow/132709897.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Nomura Holdings experienced a remarkable 39% net income surge in the first quarter, driven by favorable market volatility and unprecedented stock price levels. Additionally, increased wealth managemen",
+      "desc": "Edelweiss Alternatives Asset Advisors has secured over Rs 1,200 crore for its second Discovery Fund and made its first investment by leading a Rs 230-crore Series A round in Arboreal Bio Innovations t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Devyani International Q1 profit zooms to Rs 17 cr",
+      "title": "SBI raises Rs 4,691 crore via Tier 1 bonds at 7.75% coupon",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/devyani-international-q1-profit-zooms-to-rs-17-cr/articleshow/132705845.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/sbi-raises-rs-4691-crore-via-tier-1-bonds-at-7-75-coupon/articleshow/132709860.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Devyani International has reported an impressive surge in net profit for the June quarter, marking a substantial revenue increase of 16.47% to Rs 1,580.51 crore. Likewise, total income experienced a r",
+      "desc": "State Bank of India raised Rs 4,691 crore through Basel III-compliant Additional Tier 1 bonds at a 7.75% annual coupon. The issue received bids exceeding twice the base size, reflecting strong demand ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Group raises Rs 43,500 crore, now plans another $3-4 billion in 6 months",
+      "title": "Rupee firms, volatility expectations tick up heading into Fed decision",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-raises-rs-43500-crore-now-plans-another-3-4-billion-in-6-months/articleshow/132705701.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-firms-volatility-expectations-tick-up-heading-into-fed-decision/articleshow/132709811.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "The Adani Group is planning to raise another $3\u20134 billion over the next six months after mobilising Rs 43,500 crore through equity fundraising in the past nine months. Adani Green, Adani Ports and Ada",
+      "desc": "On Wednesday, the Indian rupee hit a three-week peak as local stocks surged, with traders adjusting their positions ahead of the Federal Reserve's decision. State-run banks contributed by selling doll",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swiggy shares jump 8%, rally 15% in 3 days. What's boosting investor sentiment?",
+      "title": "Vedanta Oil &amp; Gas Q1 Results: Co swings to black with Rs 945 crore profit, revenue up 9% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-8-rally-15-in-3-days-whats-boosting-investor-sentiment/articleshow/132705415.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-oil-gas-q1-results-co-swings-to-black-with-rs-945-crore-profit-revenue-up-9-yoy/articleshow/132709673.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Swiggy shares climbed significantly, extending recent gains for a third consecutive session. Nandita Sinha, former Myntra CEO, now leads Swiggy's Instamart business.This appointment occurs amid intens",
+      "desc": "Vedanta Oil &amp; Gas posted a Rs 945 crore net profit for Q1 FY27. This marks a significant turnaround from the previous year's net loss. The company's revenue from operations also saw an increase of",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Ports Q1 Results: Net profit rises 9% YoY to Rs 3,620 crore, revenue jumps 19%",
+      "title": "SML Mahindra to acquire Mahindra Truck and Bus division in commercial vehicle consolidation",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q1-results-net-profit-rises-9-to-rs-3620-crore-revenue-jumps-19/articleshow/132704892.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sml-mahindra-to-acquire-mahindra-truck-and-bus-division-in-commercial-vehicle-consolidation/articleshow/132709583.cms",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Adani Ports and Special Economic Zones announced a consolidated net profit of Rs 3,620 crore for the first quarter. This marks a significant nine percent year-on-year increase from the previous financ",
+      "desc": "SML Mahindra will acquire Mahindra Truck and Bus Division from Mahindra &amp; Mahindra through a slump sale in FY27. The deal consolidates truck and bus operations, expands its commercial vehicle port",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Why did market rise today? Sensex soars 890 pts, Nifty closes above 24,250; 4 factors behind Rs 4 lakh crore gains on D-Street",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-did-market-rise-today-sensex-soars-890-pts-nifty-closes-above-24250-4-factors-behind-rs-4-lakh-cr-gains-on-d-street/articleshow/132708777.cms",
+      "date": "Wed, 29 Jul 2026",
+      "desc": "Indian stock markets experienced a significant surge on Wednesday. Benchmark indices Sensex and Nifty both rose over one percent. This occurred despite a sharp increase in oil prices due to US-Iran te",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Apple briefly touches $5 trillion market cap, becomes the second company after Nvidia to hit the milestone",
+      "title": "SBI raises  \u20b94,691 crore through the issuance of tier-1 bonds. Details here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/apple-briefly-touches-5-trillion-market-cap-becomes-the-second-company-after-nvidia-to-hit-the-milestone-11785312639945.html",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-raises-rs-4-691-crore-through-the-issuance-of-tier-1-bonds-details-here-11785322137276.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Year-to-date, Apple shares have jumped 25%, outperforming other 'Magnificent 7' technology stocks including Nvidia, Meta, Alphabet, and Microsoft.",
+      "desc": "State Bank of India raised  \u20b94,691 crore through its first Basel III-compliant AT1 bond issuance, driven by strong institutional demand. The bonds have a 7.75% coupon rate and a perpetual tenor, with ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Penny stock under Re 1: NBFC share pares intraday loss after this business update",
+      "title": "Nifty seen breaking the 24,000 expiry jinx",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-nbfc-share-pares-intraday-loss-after-this-business-update-11785311369495.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-24000-expiry-august-fpi-inflows-west-asia-crude-oil-investors-11785317222604.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "NCL Research plans to enter the digital personal loan sector in India, focusing on technology-driven solutions. The initiative aims to diversify revenue and grow in the expanding retail credit market,",
+      "desc": "For each of the past five monthly expiries since the West Asia war began, the Nifty has failed to settle above 24,000. However, market analysts hope that the August expiry will be different.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Fed meeting outcome today: Here's date, time, expectations, where to watch Kevin Warsh's speech",
+      "title": "Bajaj Housing Finance Q1 results: Profit jumps 23% YoY to  \u20b9715 crore",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-outcome-today-heres-date-time-expectations-where-to-watch-kevin-warshs-speech-11785310388451.html",
+      "link": "https://www.livemint.com/market/stock-market-news/bajaj-housing-finance-q1-results-profit-jumps-23-to-715-crore-11785321270404.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "US Fed meeting: According to Nachiketa Sawrikar, Fund Manager at Artha Bharat Global Multiplier Fund, the Federal Reserve's mandate is to foster maximum employment while maintaining price stability, w",
+      "desc": "Bajaj Housing Finance reported a 22.6% YoY rise in its profit to  \u20b9715.28 crore for Q1FY27. Bajaj Housing's net interest income (NII) increased by 9% to  \u20b9968 crore.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "L&amp;T's order book is booming. Is the valuation already pricing it in?",
+      "title": "Sensex jumps 900 points, Nifty 50 ends at 24,250; investors earn  \u20b94 lakh crore. Banking, IT stocks drive the rally",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/lt-larsen-and-toubro-q1fy27-results-order-book-strong-valuation-limited-upside-11785307743043.html",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-nearly-900-points-nifty-50-ends-at-24-250-banking-it-heavyweights-drive-the-rally-11785318880485.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Despite a weak first quarter, Larsen &amp;amp; Toubro's management expects execution momentum to pick up, meeting its FY27 growth targets. The bigger challenge for investors may be a valuation that le",
+      "desc": "The Sensex jumped 889 points, or 1.16%, to end at 77,654.60, while the Nifty 50 settled with a gain of 265 points, or 1.10%, at 24,250.20. Investors earned  \u20b94 lakh crore in a single session.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nithin Kamath warns Zerodha could lose revenue from August 3. Here's what's changing in the stock market",
+      "title": "Adani Enterprises Q1 results: Net loss at  \u20b91,160 crore after one-time hit; revenue jumps 50% YoY",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nithin-kamath-warns-zerodha-could-lose-revenue-from-august-3-heres-whats-changing-in-the-stock-market-timings-11785308891883.html",
+      "link": "https://www.livemint.com/market/stock-market-news/adani-enterprises-q1-results-net-loss-of-adani-group-firm-at-rs-1-160-crore-after-one-time-hit-revenue-jumps-50-yoy-11785318914015.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Kamath warns that the new staggered closing times for India's equity market, effective August 3, may confuse investors. The Closing Auction Session aims to improve pricing but could reduce brokerage r",
+      "desc": "Adani Enterprises reported a consolidated net loss of  \u20b91,160 crore for Q1 FY27, down from a net profit of  \u20b9885 crore last year. The loss was attributed to a one-time charge of  \u20b92,644 crore, despite",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Goldman Sachs to Motilal Oswal: Institutions buys stake in multibagger stock that has surged 3,18,900% in 5 years",
+      "title": "Multibagger Thangamayil Jewellery share price hits 10% lower circuit despite strong Q1 results. What spooked investors?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/goldman-sachs-to-motilal-oswal-institutions-buys-stake-in-multibagger-stock-diamond-power-infrastructure-11785306006645.html",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-thangamayil-jewellery-share-price-hits-10-lower-circuit-despite-strong-q1-results-what-spooked-investors-11785314127120.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Diamond Power and Infrastructure share price turned green after falling over 2% during the intraday session on Wednesday.",
+      "desc": "Thangamayil Jewellery reported a net profit of  \u20b985 crore for the quarter ended June 2026, registering an 86% increase from  \u20b945.7 crore in the corresponding period last year. Stock hit 10% lower circ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Ports Q1 results: Profit climbs 9% YoY to  \u20b93,620 crore, revenue jumps 19%",
+      "title": "Juniper Green Energy IPO: GMP, price, review, other details in 10 points",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/adani-ports-q1-results-profit-climbs-9-yoy-to-3-620-crore-11785309598633.html",
+      "link": "https://www.livemint.com/market/ipo/juniper-green-energy-ipo-gmp-price-review-other-details-in-10-points-11785311439078.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Adani Ports reported a 9.2% YoY rise in its consolidated profit for Q1FY27 to  \u20b93,620.40 crore. Revenue from operations increased 18.6% YoY to  \u20b910,820.80 crore.",
+      "desc": "Juniper Green Energy IPO GMP today: According to market observers, shares of the company are available at a premium of  \u20b917 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Post-pandemic digital push sparks wave of new company formations in India",
+      "title": "Xtranet Techmologies IPO listing in focus. Here's what GMP signals ahead of debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/india-company-registrations-fy26-mca-data-startup-boom-11785294317787.html",
+      "link": "https://www.livemint.com/market/ipo/xtranet-techmologies-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11785314548891.html",
       "date": "Wed, 29 Jul 2026",
-      "desc": "Post-pandemic digital adoption and regional expansion have driven a record surge in new business incorporations across India. However, long-term success will hinge on reviving manufacturing momentum a",
+      "desc": "Xtranet Technologies IPO consisted entirely of a fresh issue of 1.31 crore equity shares aggregating to  \u20b9166.8 crore, with no offer for sale (OFS).",
       "tags": [],
       "is_portfolio": false
     }
