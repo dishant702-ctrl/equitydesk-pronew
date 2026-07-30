@@ -1,149 +1,187 @@
 {
-  "updated_ist": "30 Jul 2026 11:18 IST",
+  "updated_ist": "30 Jul 2026 14:07 IST",
   "news": [
     {
-      "title": "Global Market: BOJ may shift to inflation-fighting mode by December, says former official Watanabe",
+      "title": "ITC Q1 Preview: Will cigarette tax shock drag profit lower despite FMCG strength?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-boj-may-shift-to-inflation-fighting-mode-by-december-says-former-official-watanabe/articleshow/132727303.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q1-preview-will-cigarette-tax-shock-drag-profit-lower-despite-fmcg-strength/articleshow/132731989.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "The Bank of Japan could switch to an aggressive inflation-fighting stance as early as December 2026, accelerating interest rate hikes to quarterly intervals, according to former BOJ official Tsutomu W",
+      "desc": "ITC is expected to report a weak Q1FY27 as the first full-quarter impact of the new cigarette tax regime weighs on volumes and profitability. While the FMCG business is likely to deliver healthy growt",
       "tags": [
         "ITC"
       ],
       "is_portfolio": true
     },
     {
-      "title": "KPIT Technologies shares crash 7% after profit falls 32% to Rs 117 crore in Q1",
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Explained: Why Microsoft shares rallied 9% in extended trading after Q4 earnings despite AI worries",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kpit-technologies-shares-crash-7-after-profit-falls-32-to-rs-117-crore-in-q1/articleshow/132728118.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-microsoft-shares-rallied-9-in-extended-trading-after-q4-earnings-despite-ai-worries/articleshow/132733071.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "KPIT Technologies shares tumbled 7% to Rs 592 on the BSE after posting a 32% YoY drop in Q1 FY27 net profit to Rs 117 crore. Operating margins contracted to 17.2% amid client pressures and guidance sl",
+      "desc": "Microsoft shares surged nearly 9% in extended trading after the software giant reported stronger-than-expected Q4 earnings and Azure cloud growth. Robust AI-driven demand, upbeat guidance and lower-th",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Thangamayil Jewellery shares crash 19% in 2 days on weak Q2 outlook. What did the company say?",
+      "title": "US bond yield is global finance\u2019s Achilles heel: Uday Kotak after Fed meeting",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-19-in-2-days-on-weak-q2-outlook-what-did-the-company-say/articleshow/132728014.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yield-is-global-finances-achilles-heel-uday-kotak-after-fed-meeting/articleshow/132732760.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Thangamayil Jewellery shares hit the lower circuit, extending losses to 19% in two sessions after the company warned of a weak Q2 FY27. The jeweller said sales showed no visible improvement in the fir",
+      "desc": "The yield on the 30-year US Treasury bond rose to a 19-year high, according to a Reuters report, as concerns over the Federal Reserve\u2019s commitment to curbing inflation prompted investors to seek great",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Waaree Energies shares slide 6% despite 15% profit growth and 79% YoY revenue surge in Q1FY27",
+      "title": "Maruti Q1 results: What could lead to a profit decline for India's largest carmaker?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-shares-slide-6-despite-15-profit-growth-and-79-yoy-revenue-surge-in-q1fy27/articleshow/132727911.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/maruti-q1-results-what-could-lead-to-a-profit-decline-for-indias-largest-carmaker/articleshow/132732464.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Shares of Waaree Energies fell nearly 6% to Rs 2,581.70 despite posting a strong Q1FY27 performance. Consolidated net profit rose 15.39% YoY to Rs 891.87 crore, while revenue jumped 79.22% to Rs 7,931",
+      "desc": "Maruti Suzuki is expected to post strong Q1FY27 revenue growth of 31% YoY, driven by robust volumes and better realisations. However, the average estimates of six brokerages point to a 7% decline in n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibagger MTAR Tech rallies 5% after 12% slide in 4 days. Here are 2 triggers",
+      "title": "Global Market | South Korea's ETF curbs may not be enough to calm market turmoil: Analysts",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-mtar-tech-rallies-5-after-12-slide-in-4-days-here-are-2-triggers/articleshow/132727745.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-etf-curbs-may-not-be-enough-to-calm-market-turmoil-analysts/articleshow/132732393.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "MTAR Technologies saw a significant profit jump and revenue surge in the first quarter. The company's EBITDA nearly tripled, reflecting strong operational performance and growth. MTAR Technologies sec",
+      "desc": "South Korea\u2019s regulators have announced new curbs on leveraged ETFs after a sharp market selloff erased over $2 trillion in KOSPI market value. Analysts, however, believe the measures may not be enoug",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Redington shares rally 15% after Q1 profit surges 77%; revenue rises 35% YoY",
+      "title": "M&amp;M Q1 Results: Standalone profit rises 7% YoY to Rs 3,685 crore; revenue jumps 23%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-rally-15-after-q1-profit-surges-77-revenue-rises-35-yoy/articleshow/132727511.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mm-q1-results-profit-rises-7-yoy-to-rs-3685-crore-revenue-jumps-23/articleshow/132732129.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Redington Ltd shares surged after the company reported a strong Q1 FY27 performance, with net profit jumping 77% YoY to Rs 486 crore on record revenue and broad-based growth across segments. Excluding",
+      "desc": "Mahindra and Mahindra reported a seven percent net profit rise for the June quarter. Consolidated profit after tax increased thirty-four percent, driven by strong business growth. The auto business sa",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Zhongji Innolight shares slip in Hong Kong debut after record $6.8 billion IPO",
+      "title": "Global Market: Bank of England expected to hold rates steady as inflation risks stay in focus",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-zhongji-innolight-shares-slip-in-hong-kong-debut-after-record-6-8-billion-ipo/articleshow/132726855.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-england-expected-to-hold-rates-steady-as-inflation-risks-stay-in-focus/articleshow/132731866.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Chinese optical component maker Zhongji Innolight fell up to 8% in its Hong Kong listing debut on Thursday after raising HK$53.4 billion ($6.8 billion) in the city's largest IPO of 2026. Despite weak ",
+      "desc": "The Bank of England is expected to hold its benchmark interest rate at 3.75% as policymakers assess inflation risks from geopolitical tensions, energy prices and a slowing labour market. Investors wil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Eicher Motors share price target: What are Morgan Stanley, Nomura saying about Royal Enfield maker?",
+      "title": "Aswath Damodaran warns against disclosure diarrhoea. Why the valuation guru wants Wall Street to end quarterly earnings",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/eicher-motors-share-price-target-what-are-morgan-stanley-nomura-saying-about-royal-enfield-maker/articleshow/132726822.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aswath-damodaran-warns-against-disclosure-diarrhoea-why-the-valuation-guru-wants-wall-street-to-end-quarterly-earnings/articleshow/132730790.cms",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Eicher Motors shares remained flat on Thursday following a 21% YoY rise in Q1 FY27 net profit to Rs 1,462 crore, backed by record Royal Enfield sales. International brokerages Nomura, Morgan Stanley, ",
+      "desc": "Valuation expert Aswath Damodaran has criticised excessive quarterly disclosures, calling it \u201cdisclosure diarrhoea\u201d that fuels short-termism and earnings games. The NYU professor argues for leaner rep",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Waaree Energies share price fell 6% despite strong Q1 results 2026; here's why",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/renewable-energy-stock-waaree-energies-share-price-fell-6-despite-strong-q1-results-2026-heres-why-11785389816080.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Waaree Energies shares fell over 6% following Q1 FY27 results, despite 14% YoY profit growth to  \u20b9850 crore and a 79% revenue increase to  \u20b97,932 crore. Concerns over narrowed EBITDA margins triggered",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Propshop Events &amp; Exhibitions IPO share allotment in focus today; GMP, steps to check status online",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/propshop-events-and-exhibitions-ipo-share-allotment-in-focus-today-gmp-steps-to-check-status-online-11785387734059.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Investors who bet on the IPO can check the share allotment status online either on the registrar's website or on the official websites of the NSE.",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/adani-ports-share-price-tanks-3-after-q1-results-2026-should-you-buy-sell-or-hold-11785387716752.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Adani Ports share price fell over 3% on NSE on Thursday after Q1 results 2026.",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MTAR Technologies share price hits 5% upper circuit after Q1 results",
+      "title": "\u2018My biggest nightmare\u2019: Nithin Kamath of Zerodha warns of South Korea-like crash risk in Indian stock markets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/mtar-technologies-share-price-hits-5-upper-circuit-after-q1-results-11785385654315.html",
+      "link": "https://www.livemint.com/market/stock-market-news/my-biggest-nightmare-nithin-kamath-of-zerodha-warns-of-south-korea-like-crash-risk-in-indian-stock-markets-11785397897939.html",
       "date": "Thu, 30 Jul 2026",
-      "desc": "MTAR Technologies shares rose 5% on July 30, following strong Q1FY27 results. Net profit surged to  \u20b950.2 crore, while revenue doubled to  \u20b9360 crore, reflecting improved operational efficiency and gr",
+      "desc": "According to Nithin Kamath, Zerodha co-founder, margin trading funding raises concerns about potential forced sell-offs during market downturns. Despite improved regulations, he warned that the curren",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Xtranet Technologies IPO listing: Shares list at a 7% premium over the IPO price",
+      "title": "Asian Paints Q1 gives a fresh coat of hope, but there\u2019s no room for complacency yet",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/xtranet-technologies-ipo-listing-shares-lists-at-a-7-premium-to-the-ipo-price-11785384426421.html",
+      "link": "https://www.livemint.com/market/mark-to-market/asian-paints-q1-gives-a-fresh-coat-of-hope-but-no-room-for-complacency-yet-11785394073164.html",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Xtranet Technologies share price opened at 7% premium over the IPO price of  \u20b9127 per share.",
+      "desc": "Asian Paints delivered its strongest growth in four years in Q1, helped by pricing, product mix and margins. But rising competition, raw material volatility and rich valuations leave little room for c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lohia Corp IPO listing: Shares list at an 8% premium, extend gains; details here",
+      "title": "HPCL, BPCL to IOCL \u2014 oil PSU stocks dip as crude price jumps above $90/bbl",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/lohia-corp-ipo-listing-shares-list-at-an-8-premium-11785384782191.html",
+      "link": "https://www.livemint.com/market/stock-market-news/hpcl-bpcl-to-iocl-oil-psu-stocks-dip-as-crude-price-jumps-above-90bbl-11785396163811.html",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Lohia Corp IPO listing: Lohia Corp shares were listed at  \u20b9460 on the BSE, 8.2% above the issue price of  \u20b9425. On the NSE, they listed at  \u20b9461, up 8.5% from the issue price.",
+      "desc": "HPCL share price emerged as the top laggard, falling as much as 1% on NSE. Meanwhile, other PSU OMCs \u2014 BPCL and IOC shares also tanked less than a percent on Thursday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Blockbuster Debut! Indo-MIM share price lists at  \u20b9700 on NSE, a premium of over 44% from IPO price",
+      "title": "M&amp;M Q1 Results: Net profit surges 34% YoY to  \u20b95,455 crore",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/blockbuster-debut-indo-mim-share-price-lists-at-rs-700-on-nse-a-premium-of-over-44-from-ipo-price-11785382608280.html",
+      "link": "https://www.livemint.com/market/stock-market-news/mm-q1-results-pat-surges-34-yoy-to-rs-5-454-54-crore-11785392705759.html",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Indo-MIM debuted on the stock market on July 30, listing at  \u20b9700 on NSE, a 44.33% premium to its IPO price. The IPO was highly subscribed, achieving a 72.37 times subscription, with strong demand fro",
+      "desc": "M&amp;amp;M Q1 Results: Mahindra &amp;amp; Mahindra reported a 33.58% YoY rise in consolidated profit to  \u20b95,454.54 crore for Q1 2027. Revenue rose 26.62% to  \u20b957,533.44 crore, with strong growth in a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Samsung Q2 results: Tech giant's revenue reaches all-time high of $119 billion amid strong semiconductor demand",
+      "title": "Brent climbs above $90 a barrel as fresh US-Iran conflict raises risks for India",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/samsung-q2-results-tech-giants-revenue-reaches-all-time-high-of-119-billion-amid-strong-semiconductor-demand-11785385136224.html",
+      "link": "https://www.livemint.com/market/commodities/brent-crosses-90-a-bbl-as-us-resumes-attacks-on-iran-11785395024154.html",
       "date": "Thu, 30 Jul 2026",
-      "desc": "Technology giant Samsung Electronics posted a record operating profit for the quarter ended June 30, while its revenue reached an all-time high of 171.5 trillion won ($119 billion), driven by its semi",
+      "desc": "Escalating tensions in West Asia are pushing &amp;nbsp;crude oil prices higher, threatening to inflate India's oil import bill, fuel inflation and complicate energy security even as key shipping route",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Dhaval Packaging IPO Day 1: Issue booked 26% so far. Check GMP, issue details",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/dhaval-packaging-ipo-day-1-issue-booked-26-so-far-check-gmp-issue-details-11785395065895.html",
+      "date": "Thu, 30 Jul 2026",
+      "desc": "Dhaval Packaging IPO began on July 30 and ends August 3, with shares priced between  \u20b992-97. The company raised  \u20b99.99 crore from anchor investors. Established in 2015, it specializes in plastic packa",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Vedanta Oil and Gas share price fell 5.5% even after the Vedanta demerger firm turned profitable in Q1",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/vedanta-oil-and-gas-share-price-fell-5-5-even-after-the-vedanta-demerger-firm-turned-profitable-in-q1-11785395383469.html",
+      "date": "Thu, 30 Jul 2026",
+      "desc": "Vedanta Oil and Gas shares fell 5.5% after reporting Q1 FY27 results, revealing a profit of  \u20b9945 crore versus a loss last year. Revenue grew 8.5%, with EBITDA up 61.2%, despite a one-time loss of  \u20b94",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "1000% return in five years! Multibagger stock inches close to record high after Q1FY27 results",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/1000-return-in-five-years-multibagger-stock-gokul-agro-resources-inches-close-to-record-high-after-q1fy27-results-11785392337921.html",
+      "date": "Thu, 30 Jul 2026",
+      "desc": "Gokul Agro Resources shares opened at  \u20b9225.40 apiece today, as compared to the previous close of  \u20b9223.20 on Wednesday.",
       "tags": [],
       "is_portfolio": false
     }
