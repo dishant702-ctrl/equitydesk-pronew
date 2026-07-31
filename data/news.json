@@ -1,6 +1,17 @@
 {
-  "updated_ist": "31 Jul 2026 14:55 IST",
+  "updated_ist": "31 Jul 2026 17:09 IST",
   "news": [
+    {
+      "title": "Bitcoin trades near $64K; key support seen at $63,800-$64,000 amid Fed uncertainty",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64k-key-support-seen-at-63800-64000-amid-fed-uncertainty/articleshow/132764733.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Bitcoin traded near $64,000 on Friday, holding largely steady over the past 24 hours as softer US inflation data offset concerns over the Federal Reserve\u2019s hawkish stance. Ethereum slipped 0.93%, whil",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "Sun Pharma Q1 Results: Profit rises 27% YoY to Rs 2,895 crore; revenue climbs 10.5%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q1-results-profit-rises-27-yoy-to-rs-2895-crore-revenue-climbs-10-5/articleshow/132762558.cms",
+      "title": "ITC Q1 results: Profit drops 16% YoY to  \u20b94,394 crore",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-q1-results-profit-drops-16-yoy-to-4-394-crore-11785496419273.html",
       "date": "Fri, 31 Jul 2026",
-      "desc": "Sun Pharma Q1 Results: Sun Pharma reported a 27% YoY rise in Q1 net profit to Rs 2,895 crore, while revenue grew 10% to Rs 15,300 crore, driven by strong performance in India and its innovative medici",
+      "desc": "ITC Q1 results: ITC reported a 16.2% year-on-year drop in its consolidated profit to  \u20b94,394.13 crore for Q1FY27. Revenue from operations for the quarter rose 27.6% YoY and 23.9% QoQ to  \u20b929,523.30 cr",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Sedemac Mechatronics shares can rally to Rs 3,700? Here\u2019s why HSBC initiated coverage on the stock",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sedemac-mechatronics-shares-can-rally-to-rs-3700-heres-why-hsbc-initiated-coverage-on-the-stock/articleshow/132764683.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Key growth factors include products such as MCUs for power tools and light commercial vehicles, the after-exhaust control module (ACM) for medium and heavy commercial vehicles and electronic fuel inje",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Euro zone, US bond yields log biggest monthly rise since March on Middle East inflation concerns",
+      "title": "Urban Company Q1 Results: Firm posts Rs 92 crore loss vs profit year ago; revenue rises 44% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-us-bond-yields-log-biggest-monthly-rise-since-march-on-middle-east-inflation-concerns/articleshow/132761537.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q1-results-firm-posts-rs-92-crore-loss-vs-profit-a-year-ago-revenue-rises-44-yoy/articleshow/132764529.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "Euro zone and US bond yields recorded their largest monthly increase since March as Middle East conflict concerns renewed inflation fears. Traders pushed back interest rate cut expectations, with Germ",
+      "desc": "Urban Company slipped to a Rs 92 crore net loss in Q1 FY27 despite a 44% year-on-year rise in revenue to Rs 528 crore, as aggressive expansion of its InstaHelp business weighed on profitability. The c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Juniper Green Energy IPO Day 2: Issue subscribed over 40% so far, GMP slips. Should investors subscribe or stay away?",
+      "title": "Rupee posts strongest week since March on RBI support",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/juniper-green-energy-ipo-day-2-issue-subscribed-over-40-so-far-gmp-slips-should-investors-subscribe-or-stay-away/articleshow/132761443.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-posts-strongest-week-since-march-on-rbi-support/articleshow/132764214.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "Juniper Green Energy\u2019s Rs 1,800 crore IPO received a muted response on the second day of bidding. The IPO\u2019s grey market premium has also declined to around 2.67% from nearly 8% earlier, signalling exp",
+      "desc": "The Indian rupee finished Friday on a strong note, marking its most significant weekly increase since March, thanks to continuous support from the central bank amidst a weakening dollar. Heightened te",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Sony Q1 profit jumps 32%, earthquake impact yet to be assessed",
+      "title": "10 microcap stocks surged up to 170% in 6 months; 5 turned multibaggers",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sony-q1-profit-jumps-32-earthquake-impact-yet-to-be-assessed/articleshow/132761263.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-microcap-stocks-surged-up-to-170-in-6-months-5-turned-multibaggers/slideshow/132764066.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "Sony Group reported a 32% year-on-year rise in first-quarter profit, driven by strong performances in its music, gaming and imaging businesses. However, the company warned it is still assessing the fi",
+      "desc": "India's microcap segment has significantly outperformed the broader market over the past six months, with the Nifty Microcap 250 index gaining around 17% despite a decline in the Nifty 50. Around 65 m",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why high-conviction investor Cathie Wood bought Nvidia after it erased billions from May high",
+      "title": "Global Market: Nikkei ends sharply higher as global AI momentum boosts markets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-high-conviction-investor-cathie-wood-bought-nvidia-after-it-erased-billions-from-may-high/articleshow/132761211.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-ends-sharply-higher-as-global-ai-momentum-boosts-markets/articleshow/132763497.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "Cathie Wood's Ark Invest bought nearly 79,000 Nvidia shares worth about $15.5 million after the AI chipmaker's recent selloff, reaffirming confidence in the stock despite its recent decline and mixed ",
+      "desc": "Japan\u2019s Nikkei index surged 4% to 64,362.02 on Friday, boosted by global AI optimism following strong Microsoft earnings. Advantest jumped 16% and SoftBank soared 14%, while Panasonic surged 19.5% on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Explained: Why Kospi skyrocketed 18% today after massive selloff and what\u2019s ahead for South Korea\u2019s 'bipolar' stock market",
+      "title": "Cube Highways Trust InvIT debuts with 2% premium over issue price of Rs 152",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-kospi-skyrocketed-18-today-after-massive-selloff-and-whats-ahead-for-south-koreas-bipolar-stock-market/articleshow/132761188.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-invit-debuts-with-2-premium-over-issue-price-of-rs-152/articleshow/132762831.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "South Korea\u2019s Kospi jumped 18% on Friday as US tech earnings triggered a 28% surge in Samsung and SK Hynix. The sharp rebound follows a 40% crash driven by single-stock leveraged ETFs, drawing retail ",
+      "desc": "Cube Highways Trust InvIT listed at a 2% premium on Friday at Rs 155 per unit following strong investor demand for its Rs 5,000-crore public issue. The Trust, which owns 27 operational road assets in ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MTAR Tech shares hit 5% upper circuit again. What\u2019s behind the renewed optimism?",
+      "title": "Global Market: European shares hit record high as tech rally, earnings lift sentiment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-shares-hit-5-upper-circuit-again-whats-behind-the-renewed-optimism/articleshow/132760907.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hit-record-high-as-tech-rally-earnings-lift-sentiment/articleshow/132762762.cms",
       "date": "Fri, 31 Jul 2026",
-      "desc": "MTAR Technologies shares hit the 5% upper circuit for the second straight session after the company reported a strong Q1 performance, with net profit rising 364.5% year-on-year and revenue more than d",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Swiggy contra view: Why JM Financial downgraded the stock to 'sell' despite strong Q1 results",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-contra-view-why-jm-financial-downgraded-the-stock-to-sell-despite-strong-q1-results/articleshow/132760664.cms",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "Bajaj Finance shares jumped 5% after the NBFC reported a strong Q1 FY27 performance, with standalone net profit rising 28% YoY to Rs 6,081 crore and net interest income growing 23% to Rs 12,571 crore.",
+      "desc": "European shares hit a record high on Friday as a rally in technology stocks, easing crude oil prices and upbeat corporate earnings lifted investor sentiment, helping the STOXX 600 extend its winning s",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,6 +125,42 @@
       "is_portfolio": false
     },
     {
+      "title": "Maruti Suzuki Q1 Results: Net profit drops 9% as margin pressure offsets revenue growth",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-q1-results-net-profit-drops-9-as-margin-pressure-offsets-revenue-growth-11785496535693.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Maruti Suzuki reported a 9.1% YoY decline in profit to  \u20b93,446.9 crore despite a 35.9% increase in revenue to  \u20b952,469 crore. Higher input costs and expenses pressured profitability, leading to a pric",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 31 July: Bajaj Finance, Hyundai Motor, GAIL, Tata Motors, Redington among top gainers today",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-31-july-bajaj-finance-hyundai-motor-gail-tata-motors-redington-among-top-gainers-today-11785490241096.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Indian equities closed the last trading day of July with modest gains, driven by financial and auto stocks. The Nifty 50 rose 0.20% to 24,336, while Sensex advanced 0.21% to 78,091, reflecting positiv",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty 50 rise for third straight session; earnings optimism offset geopolitical headwinds",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-for-third-straight-session-earnings-optimism-offset-geopolitical-headwinds-11785491237299.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "The Sensex ended 166 points, or 0.21%, to end at 78,094.64, while the Nifty 50 settled at 24,383.60, up 66 points, or 0.27%.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "3250% rally in five years! Multibagger stock Apollo Micro Systems jumps 3% after completion of Indian Navy project",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/3250-rally-in-five-years-multibagger-stock-apollo-micro-systems-jumps-over-3-after-completion-of-indian-navys-project-11785489256996.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Multibager stock: Apollo Micro Systems share price has rallied from  \u20b911.58 apiece to  \u20b9391.95 per share on the NSE in five years",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "GAIL Q1 Results: Net profit jumps 96% to  \u20b94,671 crore; revenue rises 17% YoY",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/gail-q1-results-net-profit-jumps-96-to-rs-4-671-crore-revenue-rises-17-yoy-11785487954409.html",
@@ -135,51 +184,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/zee-media-shares-rise-up-to-10-after-allotment-of-foreign-currency-bonds-to-mauritius-based-fpi-11785484317755.html",
       "date": "Fri, 31 Jul 2026",
       "desc": "Zee Media share price today opened upside and touched an intraday high of  \u20b98.20 apiece on the NSE, logging an intraday gain of nearly 10%",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mukul Agrawal-portfolio multibagger stock LT Foods jumps 5% after Q1 results; details here",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/mukul-agrawal-portfolio-multibagger-stock-lt-foods-jumps-5-after-q1-results-details-here-11785482484299.html",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "Mukul Mahavir Agrawal held 39,00,000 shares, equivalent to 1.12% of the total voting rights, of LT Foods by the end of the June quarter. LT Foods share price has given a multibagger return of over 125",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bajaj Finserv Q1 Results: Net profit rises 12% to  \u20b93,132 crore; board approves entering reinsurance business",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bajaj-finserv-q1-results-net-profit-rises-12-to-rs-3-132-crore-board-approves-entering-reinsurance-business-11785481405370.html",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "Bajaj Finserv reported a 12% YoY increase in consolidated net profit to  \u20b93,132 crore for Q1 FY27, with revenue from operations up 19% to  \u20b942,037 crore. The board approved entering the reinsurance bu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Multibagger stock Netweb Technologies surges almost 10% in a lacklustre market; what should investors do?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-netweb-technologies-surges-almost-10-in-a-lacklustre-market-what-should-investors-do-11785480033936.html",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "Netweb Technologies share price saw a near 10% increase. Analysts weigh in on the stock\u2019s potential, suggesting strategic buying opportunities and warnings against holding on to long positions.&amp;nb",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b910 PC Jeweller pares early losses, jumps around 3% from today's low; here's why",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-pc-jeweller-share-price-pares-early-losses-jumps-around-3-from-todays-low-heres-why-11785478832395.html",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "PC Jeweller shares rose nearly 3% after announcing the repayment of over 96% of its bank debt, aiming for debt-free status this quarter. The stock opened at  \u20b99.21, fell to  \u20b99.04, and then rebounded ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bajaj Finance Q1: Tight leash on bad debts, other costs accelerate profit growth",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/bajaj-finance-q1fy27-nim-credit-cost-bad-loans-roe-bajaj-housing-finance-nbfc-earnings-lending-valuations-11785475678090.html",
-      "date": "Fri, 31 Jul 2026",
-      "desc": "A margin beat in non-mortgage lending, disciplined lending and benign credit costs powered Bajaj Finance\u2019s Q1, reinforcing confidence in its ability to sustain profitable growth.",
       "tags": [],
       "is_portfolio": false
     }
