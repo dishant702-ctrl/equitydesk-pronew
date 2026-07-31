@@ -1,6 +1,17 @@
 {
-  "updated_ist": "30 Jul 2026 16:22 IST",
+  "updated_ist": "31 Jul 2026 11:48 IST",
   "news": [
+    {
+      "title": "Kospi\u2019s mammoth 17% surge spells caution for Indian IT stocks. Why TCS, Infosys, others are down up to 5%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kospis-mammoth-17-surge-spells-caution-for-indian-it-stocks-why-tcs-infosys-others-are-down-up-to-5/articleshow/132756687.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": " Indian IT stocks declined after renewed optimism around global AI and cloud spending after strong earnings from tech giants. Meanwhile, global AI sentiment improved after Microsoft and Amazon reporte",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "'Wait till payback time!': South Korean retail investors protest as govt apologises after Kospi crashes 40% in a month",
+      "title": "ITC Q1 results preview: Analysts see a weak quarter; cigarette tax hikes likely to dent profit, margins- What to expect?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-q1-results-preview-analysts-see-a-weak-quarter-cigarette-tax-hikes-likely-to-dent-profit-margins-what-to-expect-11785473654553.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Analysts forecast a challenging Q1 FY27 for ITC Ltd, with the agri and cigarette segments expected to weigh on earnings, amidst revenue declines. However, the FMCG sector shows promise with anticipate",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: Chinese tech stocks surge as AI optimism returns, policy support lifts markets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wait-till-payback-time-south-korean-retail-investors-protest-as-govt-apologises-after-kospi-crashes-40-in-a-month/articleshow/132736424.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Kospi skyrocketed over 122% since the beginning of the year to hit a lifetime high of 9,386 in June on the back of a global AI frenzy, before things began to go downhill. While South Korea\u2019s stock mar",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-tech-stocks-surge-as-ai-optimism-returns-policy-support-lifts-markets/articleshow/132757656.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Chinese technology stocks rallied sharply on Friday, mirroring global markets. Investors regained confidence as the artificial intelligence sell-off appeared to ease. Policy support for innovation boo",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swiggy Q1 Results: Net loss narrows to Rs 791 crore; revenue jumps 37% YoY",
+      "title": "Data Patterns shares fall nearly 7% after Q1 profit declines 14% YoY to Rs 22 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy/articleshow/132736162.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Swiggy Q1 Results: The online food and grocery delivery platform reported a 37% year-on-year increase in revenue from operations to Rs 6,812 crore in the April\u2013June quarter of FY27, compared with Rs 4",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/data-patterns-shares-fall-nearly-7-after-q1-profit-declines-14-yoy-to-rs-22-crore/articleshow/132757660.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Data Patterns India shares declined after the defence electronics company reported a 14% YoY drop in Q1 FY27 net profit to Rs 22 crore. Despite the profit decline, revenue from operations rose 17% YoY",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee ends nearly flat at 95.68 vs USD, wedged between oil swings, RBI intervention",
+      "title": "Thermax shares crash 16% after firm expects weak quarters ahead after muted Q1 results",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-nearly-flat-at-95-68-vs-usd-wedged-between-oil-swings-rbi-intervention/articleshow/132736055.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "On Thursday, the Indian rupee remained stable, closing at approximately 95.68 against the dollar. The currency faced pressure due to fluctuating oil prices and heightened demand for dollars from corpo",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/thermax-shares-crash-16-after-firm-expects-weak-quarters-ahead-after-muted-q1-results/articleshow/132757535.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Thermax shares dropped significantly after reporting an 86% profit decline. Revenue rose 7% year-on-year, but earnings before interest, taxes, depreciation, and amortization fell. Order inflow increas",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hyundai Motor Q1 Results: Profit slumps 35% YoY to Rs 889 crore as headwinds weigh on volumes",
+      "title": "Redington shares gain 4% after Q1 profit jumps 77% YoY, revenue growth remains robust",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-q1-results-profit-slumps-35-yoy-to-rs-889-crore-as-headwinds-weigh-on-volumes/articleshow/132735596.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Hyundai Motor India reported a net profit of Rs 889 crore for Q1 FY27. This represents a significant 35% decrease from the previous year's earnings. Revenue from operations saw a slight dip to Rs 16,3",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/redington-shares-gain-4-after-q1-profit-jumps-77-yoy-revenue-growth-remains-robust/articleshow/132757444.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Redington shares gained nearly 4% after a 15% surge in the previous session, following a strong Q1FY27 performance. The technology solutions provider reported a 77% YoY rise in net profit to Rs 486 cr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bajaj Finance Q1 Results: Profit jumps 28% YoY to Rs 6,081 crore, NII surges 23%",
+      "title": "Microsoft's AI Bet Pays Off: Key Takeaways From Its Blockbuster Quarter",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q1-results-profit-jumps-28-yoy-to-rs-6081-crore-nii-surges-23/articleshow/132735572.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Bajaj Finance on Thursday reported 28% year-on-year (YoY) growth in its standalone net profit at Rs 6,081 crore, compared with Rs 4,765 crore in the last year quarter. Net interest income in the repor",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsofts-ai-bet-pays-off-key-takeaways-from-its-blockbuster-quarter/slideshow/132757561.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Microsoft's blockbuster earnings, powered by robust Azure cloud growth and rising AI adoption, reassured investors that heavy AI investments are generating returns, driving a sharp stock rally and lif",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Retail investors raised stakes in 12 smallcap stocks that surged up to 110%",
+      "title": "Indo-MIM shares extend rally, surge 60% above IPO price in two trading sessions",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-raised-stakes-in-12-smallcap-stocks-that-surged-up-to-110/slideshow/132735800.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Shareholding data for the June 2026 quarter show that retail investors increased their stakes in 328 small-cap stocks for the second consecutive quarter, signalling sustained confidence.  ",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indo-mim-shares-extend-rally-surge-60-above-ipo-price-in-two-trading-sessions/articleshow/132756933.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Indo-MIM shares extended their post-listing rally on Friday, rising nearly 5% to Rs 776.90 and climbing over 60% above the Rs 485 IPO price in two sessions. Analysts at Swastika Investmart recommend p",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vedanta Q1 Results: Profit jumps 72% YoY to Rs 5,473 crore; EBITDA soars 98% to record high",
+      "title": "Hyundai Motor India shares rally 7% despite Q1 profit decline. Should you buy, sell or hold?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-q1-results-net-profit-surges-72-yoy-to-rs-5473-crore-revenue-jumps-54/articleshow/132735166.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Vedanta's net profit surged seventy-two percent year-on-year for the first quarter. Revenue from operations also increased fifty-four percent during the same period. The company's EBITDA soared ninety",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ethereum surged significantly in 11 years. What's next for the second-largest cryptocurrency?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/ethereum-surged-significantly-in-11-years-whats-next-for-the-second-largest-cryptocurrency/articleshow/132735111.cms",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Completing 11 years since its 2015 launch, Ethereum has evolved from a $2.77 asset into the backbone of Web3 and DeFi. With institutional backing through spot ETFs and expanding real-world asset token",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hyundai-motor-india-shares-rally-7-despite-q1-profit-decline-should-you-buy-sell-or-hold/articleshow/132756507.cms",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Hyundai Motor India shares rallied nearly 7% despite reporting a 35% year-on-year decline in June-quarter profit, as the results broadly met analyst expectations. Brokerages remained constructive on t",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +125,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Vedanta Q1 results: Profit rises 72% YoY to  \u20b95,473 crore",
+      "title": "Fusion Klassroom Edutech IPO day 1: GMP, subscription status, price band, other details of BSE SME IPO in 10 key points",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vedanta-q1-results-net-profit-rises-72-yoy-to-5-473-crore-11785397650377.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Vedanta Q1 results: Profit rises 72% YoY to  \u20b95,473 crore",
+      "link": "https://www.livemint.com/market/ipo/fusion-klassroom-edutech-ipo-day-1-gmp-subscription-status-price-band-other-details-of-bse-sme-ipo-in-10-key-points-11785474983825.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Fusion Klassroom Edutech IPO opened for public subscription on Friday, 31 July. The price band of the public issue has been fixed at  \u20b9151 to  \u20b9159 per equity share.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swiggy Q1 results: Net loss narrows to  \u20b9791 crore; revenue jumps 37% YoY",
+      "title": "GV Electricals IPO Day 1: Issue booked 21% so far. Check GMP, key dates, issue details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/swiggy-q1-results-net-loss-narrows-to-rs-791-crore-revenue-jumps-37-yoy-11785406074314.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Swiggy reported a net loss of  \u20b9791 crore for Q1 FY27, an improvement from  \u20b91,197 crore in Q1 FY26. Revenue surged 54% YoY to  \u20b96,812 crore, bolstered by growth in quick commerce, up from  \u20b94,961 cro",
+      "link": "https://www.livemint.com/market/ipo/gv-electricals-ipo-day-1-issue-booked-21-so-far-check-gmp-key-dates-issue-details-11785475636697.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "GV Electricals IPO commenced on July 31, aiming to raise  \u20b942.25 crore. The firm's price band is set at  \u20b9123-130, with mixed subscription status reported. Analysts view a positive market sentiment, r",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bajaj Finance Q1 Results: Net profit jumps 27% to  \u20b95,986 crore; NII up 23%",
+      "title": "Poojaa Precision IPO: GMP jumps following strong subscription status, how to check allotment status online",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-q1-results-net-profit-jumps-27-to-rs-5-986-crore-nii-up-23-11785405841515.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Bajaj Finance Ltd. reported strong Q1 FY27 earnings with a 27.4% YoY rise in net profit to  \u20b95,986 crore, exceeding estimates. Net interest income rose 23% YoY to  \u20b912,571 crore, while AUM increased 2",
+      "link": "https://www.livemint.com/market/ipo/poojaa-precision-ipo-gmp-jumps-following-strong-subscription-status-how-to-check-allotment-status-online-11785474476120.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Poojaa Precision IPO GMP today: According to market observers, the company's shares are available at a premium of  \u20b9230 in the grey market today. From 23 July 2026 to 31 July 2026, Poojaa Precision IP",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 30 July: Redington, Swiggy, Hero MotoCorp, Syrma SGS Tech, Exide among top gainers",
+      "title": "Can Radico Khaitan keep its lead over liquor rivals?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-30-july-redington-swiggy-hero-motocorp-syrma-sgs-tech-exide-among-top-gainers-11785403227132.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "The Indian stock market remained range-bound on July 30, amid fragile investor sentiment and escalating Middle East tensions. The Nifty 50 gained 0.35%, while broader indices declined. U.S. Federal Re",
+      "link": "https://www.livemint.com/market/stock-market-news/radico-khaitan-magic-moments-prestige-above-p-a-portfolio-premiumization-premium-liquor-imfl-11785424195039.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Radico Khaitan has stayed well ahead of its peers, not just over the past six months but also on a three-year basis, as the chart shows. Radico's scrip has gained nearly 56% in the past six months, co",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Balkrishna Industries shares rise 8% after Q1FY27 results, 200% final dividend: Should you buy?",
+      "title": "Eicher Motors may have more miles to cover after a solid Q1",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/balkrishna-industries-shares-rise-8-after-q1fy27-results-200-final-dividend-should-you-buy-11785403170938.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Balkrishna Industries shares rose over 10% after strong Q1 FY27 earnings, with a net profit increase of 56.4% YoY to  \u20b9451 crore. Revenue grew 25% YoY to  \u20b93,455 crore. The board declared a first inte",
+      "link": "https://www.livemint.com/market/mark-to-market/eicher-motors-royal-enfield-q1fy27-flying-flea-ve-commercial-vehicles-vecv-ebitda-margins-11785468574387.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Strong Royal Enfield demand and capacity expansion underpin Eicher Motors' growth outlook, but elevated raw material costs, weak exports and new investments could keep margin gains under pressure.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty 50 rise, but mid, small-caps falter; rising US bond yields keep investors cautious",
+      "title": "Juniper Green Energy IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-rise-but-mid-small-caps-falter-rising-us-bond-yields-keep-investors-cautious-11785405396383.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "The Sensex rose 274 points, or 0.35%, to end at 77,928, while the Nifty 50 settled at 24,317, up 67 points, or 0.28%. However, the Nifty Midcap 100 index slipped 0.35%, and the Smallcap 100 index ende",
+      "link": "https://www.livemint.com/market/ipo/juniper-green-energy-ipo-day-2-live-gmp-subscription-status-expected-listing-price-to-review-apply-or-not-11785468916323.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Juniper Green Energy IPO GMP today: According to market observers, shares of the company are available at a premium of  \u20b917 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "South Korean KOSPI falls 38.50% after hitting record high on 22 June 2026; here's why",
+      "title": "Silverstorm Parks and Resorts IPO listing: Shares debut almost flat, hit lower circuit; details here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/asian-markets-today-south-korean-kospi-falls-38-50-after-hitting-record-high-on-22-june-2026-ai-bubble-cxmt-listing-11785403317085.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "The South Korean index touched a record high of 9,385.59 on 22 June 2026",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Vedanta Aluminium Metal Q1 Results: Net profit jumps 34% QoQ to  \u20b95,629 crore; revenue up 12%",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/vedanta-aluminium-metal-q1-results-net-profit-jumps-34-qoq-to-rs-5-629-crore-revenue-up-12-11785403235462.html",
-      "date": "Thu, 30 Jul 2026",
-      "desc": "Vedanta Aluminium Metal Q1 Results: Vedanta Aluminium posted a net profit of  \u20b95,629 crore in Q1 FY27, a 33.8% increase. Revenue grew to  \u20b921,393 crore, while EBITDA rose 23.3%. The company also set a",
+      "link": "https://www.livemint.com/market/ipo/silverstorm-parks-and-resorts-ipo-listing-shares-debut-almost-flat-sme-stock-11785471805703.html",
+      "date": "Fri, 31 Jul 2026",
+      "desc": "Silverstorm Parks shares debuted almost flat on the BSE on Friday, amid cautious market sentiment. The SME stock was listed at  \u20b9132.90 compared to its issue price of  \u20b9133.",
       "tags": [],
       "is_portfolio": false
     }
