@@ -1,6 +1,28 @@
 {
-  "updated_ist": "03 Aug 2026 15:55 IST",
+  "updated_ist": "03 Aug 2026 18:55 IST",
   "news": [
+    {
+      "title": "Market wrap: TCS, IndiGo, Sun Pharma among top gainers and losers on Nifty and Sensex on Monday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-indigo-sun-pharma-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/132831712.cms",
+      "date": "Mon, 03 Aug 2026",
+      "desc": "Indian benchmark indices surged on Monday after easing crude oil prices, sparked by renewed US-Iran talks, boosted investor sentiment. The Sensex jumped 544 points and the Nifty climbed 1.6%, adding n",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Bitcoin trades near $63,000 as falling oil prices ease inflation worries; weak flows limit recovery",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-63000-as-falling-oil-prices-ease-inflation-worries-weak-flows-limit-recovery/articleshow/132831639.cms",
+      "date": "Mon, 03 Aug 2026",
+      "desc": "Bitcoin traded near $63,000 as easing oil prices reduced inflation concerns, but weak institutional inflows and subdued spot activity capped gains. Ethereum and major altcoins declined, while analysts",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -9,6 +31,17 @@
       "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
       "tags": [
         "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 3 August: Urban Company, Pine Labs, Redington, Paytm, TCS, Meesho among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-august-urban-company-pine-labs-redington-paytm-tcs-meesho-among-top-gainers-11785751559441.html",
+      "date": "Mon, 03 Aug 2026",
+      "desc": "Indian equities surged nearly 1% on Monday, led by a decline in crude oil prices and strong IT sector buying. The Nifty 50 rose to 24,573 and the Sensex to 78,677, extending gains to a fourth session.",
+      "tags": [
+        "TCS"
       ],
       "is_portfolio": true
     },
@@ -24,74 +57,56 @@
       "is_portfolio": true
     },
     {
-      "title": "Ather Energy Q1 Results: Loss narrows YoY to Rs 51 crore on stronger sales",
+      "title": "Divi's Laboratories among 7 stocks to hit 52-week highs and surge up to 25% in a month",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ather-energy-q1-results-loss-narrows-yoy-to-rs-51-crore-on-stronger-sales/articleshow/132827997.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-laboratories-among-7-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/132832705.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Ather Energy, the Indian electric scooter manufacturer, has announced a significant reduction in its quarterly losses, attributing this positive outcome to robust sales that overshadowed increased exp",
+      "desc": "Benchmark indices extended gains as Sensex climbed 544 points to 78,639, driving eight BSE 100 stocks to fresh 52-week highs. Divi's Laboratories, TVS Motor, Bajaj Auto and Bajaj Finance led the rally",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FIIs turn buyers after two quarters of selling; 13 stocks rally up to 665%, 5 become multibaggers",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise on Mideast deal hopes; healthcare in focus",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-turn-buyers-after-two-quarters-of-selling-13-stocks-rally-up-to-665-5-become-multibaggers/slideshow/132827643.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Foreign institutional investors turned selective buyers in the June 2026 quarter, increasing stakes in 135 stocks. Several of these delivered 50\u2013665% annual returns, including five multibaggers, signa",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Titagarh Rail, RITES, other railway stocks rise up to 4%. Here\u2019s why",
+      "title": "US 10-year yield falls from 18-month high on Iran peace talk hopes",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/titagarh-rail-rites-other-railway-stocks-rise-up-to-4-heres-why/articleshow/132826761.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Railway stocks rose after reports that the government plans to invest Rs 45,000 crore in border railway upgrades over the next 18-24 months. The project will cover track, platform and network expansio",
+      "desc": "U.S. Treasury yields saw a decline on Monday as oil prices plummeted. President Donald Trump's recent announcement about renewed discussions with Iran helped ease inflation concerns, pushing U.S. crud",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IEX shares fall 4% after Supreme Court denies hearing market coupling case",
+      "title": "India bonds end flat as oil drop offsets index setback",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/iex-shares-fall-4-after-supreme-court-denies-hearing-market-coupling-case/articleshow/132826709.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-drop-offsets-index-setback/articleshow/132831546.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Indian Energy Exchange shares declined after the Supreme Court allowed the Central Electricity Regulatory Commission to continue framing regulations on market coupling, while clarifying it had not exp",
+      "desc": "On Monday, Indian government bonds experienced a flat close following a day of volatility. A sharp decline in oil prices provided some respite after Bloomberg's recent decisions. The benchmark bond yi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Technocraft Ventures IPO sets price band, opens August 7. Check GMP, key details",
+      "title": "Nexus Select Trust posts 11% increase in net operating income to Rs 510 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/technocraft-ventures-ipo-sets-price-band-opens-august-7-check-gmp-key-details/articleshow/132826666.cms",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nexus-select-trust-posts-11-increase-in-net-operating-income-to-rs-510-crore/articleshow/132831528.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Technocraft Ventures has set the IPO price band at Rs 200-212 per share. The issue will open on August 7 and close on August 11, while anchor investor bidding will take place on August 6. ",
+      "desc": "Nexus Select Trust has announced an exciting eleven percent rise in net operating income, coupled with a distribution of three hundred seventy crore rupees to its unit holders. With an eye on growth, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Euro zone bond yields decline as falling oil prices boost market sentiment",
+      "title": "Quote of the day by Mohnish Pabrai: \"Investing is not a discipline based on absolutes or precise mathematics. There simply aren\u2019t enough data points available to work out the exact odds\"",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-decline-as-falling-oil-prices-boost-market-sentiment/articleshow/132826355.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-mohnish-pabrai-investing-is-not-a-discipline-based-on-absolutes-or-precise-mathematics-there-simply-arent-enough-data-points-available-to-work-out-the-exact-odds/articleshow/132829450.cms",
       "date": "Mon, 03 Aug 2026",
-      "desc": "Euro zone government bond yields declined after oil prices retreated on hopes of easing Middle East tensions, reducing inflation concerns and prompting markets to pare expectations for further ECB rat",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global investors rebuild positions in South Korean stocks after volatile July",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-investors-rebuild-positions-in-south-korean-stocks-after-volatile-july/articleshow/132825723.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Global investors are returning to South Korean equities after a sharp leverage-driven selloff, with renewed buying in semiconductor stocks such as Samsung Electronics and SK Hynix. While volatility pe",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Greaves Electric Mobility\u2019s Rs 530 crore rights issue offer gets fully subscribed",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/greaves-electric-mobilitys-rs-530-crore-rights-issue-offer-gets-fully-subscribed/articleshow/132825682.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Greaves Electric Mobility's Rs 530 crore rights issue was fully subscribed by existing shareholders, reinforcing confidence in the EV maker's growth strategy. The company will use the funds to expand ",
+      "desc": "Mohnish Pabrai says investing relies on judgment, patience and probability rather than certainty. He advises focusing on business fundamentals, managing risk and maintaining a margin of safety instead",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,7 +138,16 @@
       "is_portfolio": false
     },
     {
-      "title": "Sensex jumps over 500 points, Nifty 50 ends above 24,750; investors earn  \u20b95 lakh crore in a day",
+      "title": "US stock market today: Wall Street futures gain as easing Iran tensions trigger sharp fall in oil prices",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-gain-as-easing-iran-tensions-trigger-sharp-fall-in-oil-prices-11785756062931.html",
+      "date": "Mon, 03 Aug 2026",
+      "desc": "US stock futures rose on 3 August after Trump cancelled military strikes on Iran, easing tensions and lowering crude oil prices. Dow futures increased 413 points, while S&amp;amp;P 500 and Nasdaq-100 ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex jumps over 500 points, Nifty 50 ends above 24,750; investors earn  \u20b94 lakh crore in a day",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-over-500-points-nifty-50-ends-above-24-750-investors-earn-5-lakh-crore-in-a-day-11785750602056.html",
       "date": "Mon, 03 Aug 2026",
@@ -164,24 +188,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-blue-cloud-softech-solutions-jumps-after-this-major-business-update-in-west-africa-11785742081391.html",
       "date": "Mon, 03 Aug 2026",
       "desc": "The small-cap stock opened at  \u20b919.88 apiece today, as compared to previous close of  \u20b919.50 on Friday last week.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FPIs turn net buyers in cash market for first time since war began",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/fpi-inflows-india-stock-market-nifty-west-asia-conflict-11785737865720.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Inflows of  \u20b96,732 crore alongside significant short-covering and DII support drove a 2.2% Nifty gain in July, raising hopes for a recovery to pre-war levels if geopolitical risks subside and the glob",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FPIs back in buying mode: These two key factors will determine the trend ahead",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fpis-back-in-buying-mode-these-two-key-factors-will-determine-the-trend-ahead-11785738221496.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "After months of selling, FPIs have returned to the Indian markets, driven by falling oil prices and healthy AI earnings. As macroeconomic conditions stabilise, what are the key factors shaping FPI sen",
       "tags": [],
       "is_portfolio": false
     }
