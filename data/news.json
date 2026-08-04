@@ -1,28 +1,6 @@
 {
-  "updated_ist": "03 Aug 2026 18:55 IST",
+  "updated_ist": "04 Aug 2026 11:23 IST",
   "news": [
-    {
-      "title": "Market wrap: TCS, IndiGo, Sun Pharma among top gainers and losers on Nifty and Sensex on Monday",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-indigo-sun-pharma-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/132831712.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Indian benchmark indices surged on Monday after easing crude oil prices, sparked by renewed US-Iran talks, boosted investor sentiment. The Sensex jumped 544 points and the Nifty climbed 1.6%, adding n",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Bitcoin trades near $63,000 as falling oil prices ease inflation worries; weak flows limit recovery",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-63000-as-falling-oil-prices-ease-inflation-worries-weak-flows-limit-recovery/articleshow/132831639.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Bitcoin traded near $63,000 as easing oil prices reduced inflation concerns, but weak institutional inflows and subdued spot activity capped gains. Ethereum and major altcoins declined, while analysts",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -35,78 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Top Gainers &amp; Losers on 3 August: Urban Company, Pine Labs, Redington, Paytm, TCS, Meesho among top gainers",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-august-urban-company-pine-labs-redington-paytm-tcs-meesho-among-top-gainers-11785751559441.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Indian equities surged nearly 1% on Monday, led by a decline in crude oil prices and strong IT sector buying. The Nifty 50 rose to 24,573 and the Sensex to 78,677, extending gains to a fourth session.",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "ITC looks past its worst quarter. Can the recovery last?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/itc-looks-past-its-worst-quarter-can-the-recovery-last-11785745617327.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "The cigarette tax shock weighed heavily on June-quarter earnings, but resilient volumes, staggered price hikes and improving profitability are raising hopes the worst is over.",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Divi's Laboratories among 7 stocks to hit 52-week highs and surge up to 25% in a month",
+      "title": "Dabur shares drop 3% after FSSAI bars FMCG major from selling products with '100%' guarantee claims",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/divis-laboratories-among-7-stocks-to-hit-52-week-highs-and-surge-up-to-25-in-a-month/slideshow/132832705.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Benchmark indices extended gains as Sensex climbed 544 points to 78,639, driving eight BSE 100 stocks to fresh 52-week highs. Divi's Laboratories, TVS Motor, Bajaj Auto and Bajaj Finance led the rally",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-shares-drop-3-after-fssai-bars-fmcg-major-from-selling-products-with-100-guarantee-claims/articleshow/132847507.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Dabur India shares fell nearly 3% after the Food Safety and Standards Authority of India (FSSAI) barred the FMCG company from selling certain food products carrying misleading \"100%\" claims. The regul",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise on Mideast deal hopes; healthcare in focus",
+      "title": "Thangamayil share selloff continues: Stock drops 5% despite Rs 344 crore sales in first 3 days of August",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-trump-us-iran-attacks-hormuz-crude-oil-fed-warsh-spacex-micron-amazon-amd-chip-stock-price-news-3rd-august-2026/liveblog/132831640.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": " ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-share-selloff-continues-stock-drops-5-despite-rs-344-crore-sales-in-first-3-days-of-august/articleshow/132847383.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Thangamayil Jewellery shares fell significantly despite robust August sales figures. The company reported strong sales during the auspicious Aadi Perukku festival. However, weak guidance and market un",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US 10-year yield falls from 18-month high on Iran peace talk hopes",
+      "title": "KEI Industries shares surge 7% after Q1FY27 profit jumps 40%, revenue rises 23%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/us-10-year-yield-falls-from-18-month-high-on-iran-peace-talk-hopes/articleshow/132831577.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "U.S. Treasury yields saw a decline on Monday as oil prices plummeted. President Donald Trump's recent announcement about renewed discussions with Iran helped ease inflation concerns, pushing U.S. crud",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kei-industries-shares-surge-7-after-q1fy27-profit-jumps-40-revenue-rises-23/articleshow/132847279.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Shares of KEI Industries rallied nearly 7% to Rs 5,363.20 on Tuesday following a 40% year-on-year jump in Q1 FY27 net profit to Rs 274 crore. Revenue from operations rose 23% to Rs 3,185 crore, backed",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India bonds end flat as oil drop offsets index setback",
+      "title": "Global Market: Japan's Nikkei slips as intervention fears weigh; Toyota earnings in focus",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-flat-as-oil-drop-offsets-index-setback/articleshow/132831546.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "On Monday, Indian government bonds experienced a flat close following a day of volatility. A sharp decline in oil prices provided some respite after Bloomberg's recent decisions. The benchmark bond yi",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slips-as-intervention-fears-weigh-toyota-earnings-in-focus/articleshow/132847238.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Japan\u2019s Nikkei edged 0.11% lower, while the Topix fell 0.26%, as investors remained cautious over possible further yen-buying intervention by authorities and awaited Toyota\u2019s quarterly earnings. The y",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nexus Select Trust posts 11% increase in net operating income to Rs 510 crore",
+      "title": "GE Shipping shares rally 9% as Q1 net profit surges 160% YoY, revenue up 67%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/nexus-select-trust-posts-11-increase-in-net-operating-income-to-rs-510-crore/articleshow/132831528.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Nexus Select Trust has announced an exciting eleven percent rise in net operating income, coupled with a distribution of three hundred seventy crore rupees to its unit holders. With an eye on growth, ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ge-shipping-shares-rally-9-as-q1-net-profit-surges-160-yoy-revenue-up-67/articleshow/132847168.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "GE Shipping shares rallied sharply on Tuesday after the company reported a 160% year-on-year jump in Q1FY27 net profit and a 67% rise in revenue. The shipping major also announced an interim dividend ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Quote of the day by Mohnish Pabrai: \"Investing is not a discipline based on absolutes or precise mathematics. There simply aren\u2019t enough data points available to work out the exact odds\"",
+      "title": "US Stock Market: Treasury sees higher Q3 borrowing needs as cash flow outlook weakens",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-mohnish-pabrai-investing-is-not-a-discipline-based-on-absolutes-or-precise-mathematics-there-simply-arent-enough-data-points-available-to-work-out-the-exact-odds/articleshow/132829450.cms",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Mohnish Pabrai says investing relies on judgment, patience and probability rather than certainty. He advises focusing on business fundamentals, managing risk and maintaining a margin of safety instead",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-treasury-sees-higher-q3-borrowing-needs-as-cash-flow-outlook-weakens/articleshow/132846616.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "The US Treasury anticipates borrowing $739 billion in the third quarter. This borrowing estimate reflects lower cash flows and a stronger opening balance. For the fourth quarter, the department projec",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee opens on flat note, rises 3 paise to 95.34 against US dollar in early trade",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-opens-on-flat-note-rises-3-paise-to-95-34-against-us-dollar-in-early-trade/articleshow/132846463.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "The rupee opened flat and gained three paise against the US dollar in early trade. Dollar demand from importers was negated by a weaker dollar index and improved risk sentiment. Lower oil prices and a",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Ather Energy shares zoom 18% after Q1 results. Why is it Nomura's top 2-wheeler pick?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ather-energy-shares-zoom-18-after-q1-results-why-is-it-nomuras-top-2-wheeler-pick/articleshow/132846384.cms",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Ather Energy shares rose sharply on Tuesday after the electric two-wheeler maker sharply narrowed its June-quarter loss and reported strong revenue growth with positive EBITDA. Nomura retained its Buy",
       "tags": [],
       "is_portfolio": false
     },
@@ -138,56 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "US stock market today: Wall Street futures gain as easing Iran tensions trigger sharp fall in oil prices",
+      "title": "SBI, HDFC Bank, to ICICI Bank, Axis Bank: Bank stocks fall ahead of RBI monetary policy decision tomorrow",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-gain-as-easing-iran-tensions-trigger-sharp-fall-in-oil-prices-11785756062931.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "US stock futures rose on 3 August after Trump cancelled military strikes on Iran, easing tensions and lowering crude oil prices. Dow futures increased 413 points, while S&amp;amp;P 500 and Nasdaq-100 ",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-hdfc-bank-to-icici-bank-axis-bank-bank-stocks-fall-ahead-of-rbi-monetary-policy-decision-tomorrow-11785816258149.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Banking stocks fell ahead of the RBI's monetary policy announcement amid inflation worries and geopolitical tensions. Investors expect the RBI to maintain the current interest rates but are cautious a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex jumps over 500 points, Nifty 50 ends above 24,750; investors earn  \u20b94 lakh crore in a day",
+      "title": "Juniper Green Energy IPO allotment in focus today; latest GMP, step-by-step guide to check status",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-jumps-over-500-points-nifty-50-ends-above-24-750-investors-earn-5-lakh-crore-in-a-day-11785750602056.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "The Sensex ended the day 544 points, or 0.70%, higher at 78,639, while the Nifty 50 ended 391 points, or 1.60%, higher at 24,774.30.",
+      "link": "https://www.livemint.com/market/ipo/juniper-green-energy-ipo-gmp-juniper-green-energy-ipo-allotment-status-juniper-green-energy-ipo-allotment-datejuniper-11785817518771.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Juniper Green Energy IPO allotment will be finalised on 4 August. Investors can check their status via Kfin Technologies. The Juniper Green Energy IPO GMP is +9.5, indicating a potential listing price",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Urban Company shares jump 18% to 12-week high after Q1 earnings",
+      "title": "Textile stock under  \u20b9100 hits 10% upper circuit despite muted trend on Dalal Street",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/urban-company-shares-jump-18-to-12-week-high-after-q1-earnings-11785747736301.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Urban Company's shares rose 18% to  \u20b9152 as strong June-quarter earnings exceeded expectations. Despite a net loss of  \u20b992.1 crore due to investments in InstaHelp, the company saw significant growth, ",
+      "link": "https://www.livemint.com/market/stock-market-news/textile-stock-under-100-aastha-spintex-hits-10-upper-circuit-despite-muted-trend-on-dalal-street-11785818344958.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "The stock rally came in after company secured  \u20b951 crore worth order book from Falcon Yarns.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "This infra stock to declare bonus shares, dividend soon. Details here",
+      "title": "Poojaa Precision IPO listing: Shares list at a 56% premium to the issue price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/this-infra-stock-to-declare-bonus-shares-dividend-soon-details-here-11785745109814.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "Chavda Infra's board will meet on August 6, 2026, to consider various proposals including bonus shares and dividends, subject to approvals. The trading window remains closed in accordance with SEBI re",
+      "link": "https://www.livemint.com/market/ipo/poojaa-precision-ipo-listing-shares-list-at-a-56-premium-to-the-issue-price-11785817719669.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Poojaa Precision IPO listing: Shares of Poojaa Precision Engg made a strong debut on the BSE SME on Tuesday, 4 August.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Penny stock under  \u20b91 hits 9% upper circuit after this MoU to strengthen software development business",
+      "title": "Oneindig Technologies IPO allotment to be finalised today: GMP, steps to check allotment status online for SME IPO",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-gacm-technologies-hits-9-upper-circuit-after-this-mou-to-strengthen-software-development-business-11785743678658.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "In an exchange filing on 3 August, GACM Technologies said that the execution of MoU marks an important and purposeful milestone in its journey of growth and expansion.",
+      "link": "https://www.livemint.com/market/ipo/oneindig-technologies-ipo-allotment-to-be-finalised-today-ipo-gmp-steps-to-check-allotment-status-online-for-sme-ipo-11785814952122.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Oneindig Technologies allotment date is likely to be finalised today, August 5. Investors can check Oneindig Technologies IPO allotment status online through the websites of NSE, BSE and the IPO regis",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock under  \u20b950 jumps after this major business update in West Africa",
+      "title": "LIC OFS: Shares crash 8% as offer for sale opens for non-retail investors. Details here",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-blue-cloud-softech-solutions-jumps-after-this-major-business-update-in-west-africa-11785742081391.html",
-      "date": "Mon, 03 Aug 2026",
-      "desc": "The small-cap stock opened at  \u20b919.88 apiece today, as compared to previous close of  \u20b919.50 on Friday last week.",
+      "link": "https://www.livemint.com/market/stock-market-news/lic-share-price-crashes-8-as-ofs-opens-for-non-retail-investors-details-here-11785815112599.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "According to the Department of Investment and Public Asset Management (DIPAM), the floor price for the LIC OFS has been set at  \u20b9382 per share.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold Holds Steady With US-Iran Standoff and Fed Outlook in Focus",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/gold-holds-steady-with-us-iran-standoff-and-fed-outlook-in-focus-11785815223644.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Gold moved in a narrow range, as traders monitored diplomatic efforts to cool US-Iran tensions, potentially pushing energy prices lower and easing pressure on the US Federal Reserve to raise interest ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold Steady as Middle East Talks Weigh on Interest Rate Outlook",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/gold-steady-as-middle-east-talks-weigh-on-interest-rate-outlook-11785815218115.html",
+      "date": "Tue, 04 Aug 2026",
+      "desc": "Gold moved in a narrow range as traders monitored talks in the Middle East for signs of progress that would ease pressure on the US Federal Reserve to raise interest rates.",
       "tags": [],
       "is_portfolio": false
     }
