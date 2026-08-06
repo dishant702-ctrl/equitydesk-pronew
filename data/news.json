@@ -1,75 +1,151 @@
 {
-  "updated_ist": "06 Aug 2026 14:16 IST",
+  "updated_ist": "06 Aug 2026 16:58 IST",
   "news": [
     {
-      "title": "AI boom reshapes emerging markets, but surging volatility tests investor nerves",
+      "title": "Bitcoin trades near $64,000 as profit booking emerges, but bulls continue to hold control",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-reshapes-emerging-markets-but-surging-volatility-tests-investor-nerves/articleshow/132991436.cms",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64000-as-profit-booking-emerges-but-bulls-continue-to-hold-control/articleshow/132996736.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Artificial intelligence has powered a strong rally in emerging-market technology stocks, led by semiconductor giants in South Korea and Taiwan. However, soaring valuations have triggered sharp volatil",
+      "desc": "Bitcoin traded near $64,700 as buyers maintained control despite profit-booking at higher levels. While major altcoins saw mixed price action, market experts highlighted steady institutional demand, s",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Indo MIM shares surge 10%, extend gains to 82% over issue price. Should investors book profits?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-surge-10-extend-gains-to-82-over-issue-price-should-investors-book-profits/articleshow/132997743.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Indo-MIM's shares skyrocketed by 82%, surpassing their original IPO price, with robust interest from investors and a firm market position. The company reported impressive financial growth in FY26, wit",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese bond yields fall as lower oil prices ease inflation concerns",
+      "title": "Indian rupee slips on importer bids, far forward premiums ease to one-month low",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-fall-as-lower-oil-prices-ease-inflation-concerns/articleshow/132991673.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-slips-on-importer-bids-far-forward-premiums-ease-to-one-month-low/articleshow/132997510.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Japanese government bond yields fell as lower oil prices eased inflation concerns and improving Middle East peace prospects boosted demand for safe-haven assets. Gains were seen across maturities, wit",
+      "desc": "On Thursday, the Indian rupee ended slightly lower against the dollar, impacted by continuous demand from importers hedging their positions. While falling oil prices helped bolster market sentiment, t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Asian multi-strategy hedge funds hit by AI stock rout in July",
+      "title": "Global Market: SoftBank's AI strategy stays on course despite flat OpenAI valuation in Q1",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-multi-strategy-hedge-funds-hit-by-ai-stock-rout-in-july/articleshow/132989205.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-softbanks-ai-strategy-stays-on-course-despite-flat-openai-valuation-in-q1/articleshow/132996579.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Major Asian multi-strategy hedge funds suffered sharp losses in July 2026 as an artificial intelligence and tech stock selloff erased early-year gains. Declines across Japan, South Korea, and China te",
+      "desc": "SoftBank reported an 18% decline in first-quarter net profit, though earnings exceeded expectations as strong gains from Intel and ByteDance investments offset weaker contributions from OpenAI. The co",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Trent Q1 Results: Profit rises 21% YoY to Rs 519 crore; revenue up 18%",
+      "title": "Distortions are inevitable: Nithin Kamath explains why new closing auction is causing wild moves in Indian stocks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/trent-q1-results-profit-rises-21-yoy-to-rs-519-crore-revenue-up-18/articleshow/132991383.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/distortions-are-inevitable-nithin-kamath-explains-why-new-closing-auction-is-causing-wild-moves-in-indian-stocks/articleshow/132996405.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Trent Q1 Results: Trent reported a 21% year-on-year rise in Q1 consolidated net profit to Rs 519 crore, while revenue grew 18% to Rs 5,755 crore. The retailer expanded its store network to over 1,300 ",
+      "desc": "Zerodha co-founder Nithin Kamath said the sharp swings under the new Closing Auction Session (CAS) reflect structural weaknesses in Indian markets rather than flaws in the mechanism itself. The new 20",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Manipal Health shares slide 6% on account of profit booking. What should investors do?",
+      "title": "Global Market: European shares hit record high as peace hopes, strong earnings lift sentiment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/manipal-health-shares-slide-6-on-account-of-profit-booking-what-should-investors-do/articleshow/132990960.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hit-record-high-as-peace-hopes-strong-earnings-lift-sentiment/articleshow/132996067.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Manipal Health Enterprises shares fell sharply on Thursday day after their strong market debut, triggering profit booking. Analysts remain constructive on the company's long-term prospects but advise ",
+      "desc": "European stock markets extended record gains as optimism over a potential U.S.-Iran peace agreement eased energy supply concerns and strong corporate earnings boosted investor confidence. Deutsche Tel",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Deccan Gold Mines shares rally 13% after maiden gold dor\u00e9 production at Altyn Tor Project",
+      "title": "Market Reaction: Sandisk's AI momentum continues, but forecast leaves Street wanting more",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/deccan-gold-mines-shares-rally-13-after-maiden-gold-dor-production-at-altyn-tor-project/articleshow/132990723.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-reaction-sandisks-ai-momentum-continues-but-forecast-leaves-street-wanting-more/slideshow/132995817.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Deccan Gold Mines shares surged over 13% after the company announced the production of its first gold dor\u00e9 at the Altyn Tor Gold Project in Kyrgyzstan. The milestone validates the upgraded processing ",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swiggy shares jump nearly 3% as company targets Rs 10,000 crore adjusted EBITDA by FY31",
+      "title": "FIIs, MFs boost stakes in these 10 midcap stocks; shares soar up to 65%. Do you own any?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-shares-jump-nearly-3-as-company-targets-rs-10000-crore-adjusted-ebitda-by-fy31/articleshow/132990265.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-boost-stakes-in-these-10-midcap-stocks-shares-soar-up-to-65-do-you-own-any/slideshow/132995604.cms",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Swiggy shares rose after the company unveiled an ambitious FY31 roadmap targeting Rs 10,000 crore in Adjusted EBITDA. It aims to more than triple consolidated GOV to Rs 2.5 lakh crore from Rs 67,734 c",
+      "desc": "FIIs and mutual funds increased stakes in several Nifty Midcap 150 stocks over recent quarters, with many delivering strong returns. Radico Khaitan led the pack, gaining up to 65%. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Explained: How AI-led Kospi, Nikkei selloff sparked record 15% drawdown in Asian funds in July",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-ai-led-kospi-nikkei-selloff-sparked-record-15-drawdown-in-asian-funds-in-july/articleshow/132989783.cms",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Infra stock declares 1:1 bonus shares, raising of share capital. Details here",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/infra-stock-declares-1-1-bonus-shares-raising-of-share-capital-details-here-11786014557356.html",
       "date": "Thu, 06 Aug 2026",
-      "desc": "Asia\u2019s major multi-strategy funds suffered sharp July losses as an AI-linked stock selloff across Japan, South Korea and China erased much of their 2026 gains. Concerns over AI spending and Middle Eas",
+      "desc": "Chavda Infra announced a 1:1 bonus share issue for existing shareholders, pending approvals. The board approved increasing its authorized capital to  \u20b970 crore and will issue 3.26 crore bonus shares.&",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 6 August: Navin Fluorine, Tata Tech, HAL, Pine Labs, Kalyan Jewellers among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-6-august-navin-fluorine-tata-tech-hal-pine-labs-kalyan-jewellers-among-top-gainers-11786009429594.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Indian stock markets remained largely stable on August 6 as investors awaited clarity on a potential Middle East peace deal. The Nifty 50 edged up 0.05%, while the Sensex gained 0.26%. Mixed performan",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Navin Fluorine shares jump 14% to record high as analysts stay bullish, lift target price after Q1",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/navin-fluorine-shares-jump-14-to-record-high-as-analysts-stay-bullish-lift-target-price-after-q1-11786007717400.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Navin Fluorine's shares jumped 14% to  \u20b98.647, following strong quarterly results. Brokerages raised target prices, with Axis Securities lifting it to  \u20b98,600, while JM Financial also raised its targe",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Healthcare stock close to record high. Will it climb to a new peak?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/healthcare-stock-park-medi-world-close-to-record-high-will-it-climb-to-a-new-peak-11786005793905.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "The healthcare stock today hit an intraday high of  \u20b9392 apiece on the NSE, just  \u20b913 away from its existing peak of  \u20b9305 per share",
       "tags": [],
       "is_portfolio": false
     },
@@ -106,42 +182,6 @@
       "link": "https://www.livemint.com/market/paytm-shares-rise-despite-mauritius-based-fii-booking-partial-profit-in-fintech-company-11786000165300.html",
       "date": "Thu, 06 Aug 2026",
       "desc": "Paytm share price rose over 1% on August 6 as Elevation Capital reduced its stakes through a block deal worth  \u20b92,038 crore. The National Pension System Trust emerged as the largest buyer, acquiring 3",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Why Berger Paints\u2019 Q2 may be brighter than Asian Paints'",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/berger-paints-q2-earnings-berger-paints-share-price-berger-vs-asian-paints-11785995805398.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Both Berger and Asian Paints acknowledged intense competition in the paints market as new entrants like Birla Opus continue to gain grip",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Samvardhana Motherson International Q1 results 2026: Net profit rises 102% to  \u20b91,032 crore",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/samvardhana-motherson-international-q1-results-2026-net-profit-46-yoy-to-1-561-crore-11785998162407.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Samvardhana Motherson International Q1 results 2026: The company had reported a consolidated net profit of  \u20b9511.84 crore in the corresponding quarter of the previous financial year, according to a re",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "West Asia raw material shock hits India Inc harder than Russia-Ukraine war",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/west-asia-conflict-hits-india-inc-margins-harder-than-russia-ukraine-war-june-quarter-raw-material-shock-11785989161794.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Input costs now account for a bigger share of expenditure and sales than during the FY23 commodity spike, squeezing margins to three-year lows even as stronger balance sheets and lower energy dependen",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b910 jumps 4% despite muted trend on Dalal Street",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-sepc-jumps-4-despite-muted-trend-on-dalal-street-11785993254664.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Sepc shares opened at  \u20b96.55 apiece today, as compared to the previous close of  \u20b96.32 on Wednesday",
       "tags": [],
       "is_portfolio": false
     }
