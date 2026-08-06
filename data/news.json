@@ -1,5 +1,5 @@
 {
-  "updated_ist": "05 Aug 2026 16:38 IST",
+  "updated_ist": "06 Aug 2026 11:25 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -13,74 +13,96 @@
       "is_portfolio": true
     },
     {
-      "title": "Rupee hits one-month closing high as oil slide outweighs RBI pause",
+      "title": "Stocks to buy: Nagaraj Shetti recommends Jamna Auto, Hindustan Copper shares to buy in the short-term",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stocks-to-buy-nagaraj-shetti-recommends-jamna-auto-hindustan-copper-shares-to-buy-in-the-shortterm-11785992099808.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Indian benchmarks Sensex and Nifty 50 opened higher on August 6, driven by falling crude oil prices and Reliance Industries' gains. The RBI maintained the repo rate at 5.25%, supporting investor senti",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Bharti Airtel stock lacks near-term triggers and even raising stake in Africa biz won\u2019t help much",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/bharti-airtel-stock-bharti-airtel-earnings-airtle-vs-jio-telecom-industry-india-11785986967076.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Apart from tariff hike, a higher-than-expected IPO valuation for Reliance Industries\u2019 telecom business Jio Platforms, can act as a re-rating catalyst for the Bharti Airtel stock.",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Gold prices jump Rs 6,400/10 grams in 3 days, silver soars Rs 11,000/kg as oil slide continues. Big rally ahead?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-one-month-closing-high-as-oil-slide-outweighs-rbi-pause/articleshow/132916592.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "On Wednesday, the Indian rupee climbed to its highest point in a month, bolstered by a dip in crude oil prices that fueled early gains. Although the Reserve Bank of India's decision to maintain rates ",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-in-3-days-silver-soars-rs-11000/kg-as-oil-slide-continues-big-rally-ahead/articleshow/132983009.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Gold and silver prices rose for the third straight session on MCX, helped by a weaker US dollar, lower Treasury yields and easing oil prices amid hopes of the Strait of Hormuz reopening. Silver gained",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex rises 152 points, Nifty closes above 24,600 as market trims gains. What lies ahead?",
+      "title": "US stocks may have more room to rally as earnings, AI spending support market",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-152-points-nifty-closes-above-24600-as-market-trims-gains-what-lies-ahead/articleshow/132915892.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Indian equity benchmarks Sensex and Nifty ended higher on Wednesday after the RBI MPC maintained interest rates and raised the FY27 GDP growth outlook. Despite early upswings, markets trimmed gains du",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-may-have-more-room-to-rally-as-earnings-ai-spending-support-market/articleshow/132978854.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Strong corporate earnings, sustained AI infrastructure spending and easing valuation concerns have strengthened confidence in the US stock market, although Treasury yields and geopolitical development",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Bessent's BOJ comments raise expectations of September rate hike, spark independence concerns",
+      "title": "Neuland Laboratories shares jump over 6% after 975% YoY surge in Q1 profit",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bessents-boj-comments-raise-expectations-of-september-rate-hike-spark-independence-concerns/articleshow/132912223.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "US Treasury Secretary's comments boost expectations for a Bank of Japan rate hike. Market watchers anticipate a potential increase at the September policy meeting. This follows a joint currency interv",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/neuland-laboratories-shares-jump-over-6-after-975-yoy-surge-in-q1-profit/articleshow/132982715.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Neuland Laboratories shares rose sharply on Thursday after the drugmaker reported a 975% year-on-year surge in Q1 FY27 profit to Rs 147.4 crore. Revenue more than doubled, while EBITDA jumped 448%, dr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares climb as earnings, US-Iran diplomacy lift sentiment",
+      "title": "Navin Fluorine shares surge 8% after Q1 profit more than doubles. Should you buy, sell or hold?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-as-earnings-us-iran-diplomacy-lift-sentiment/articleshow/132911978.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "European stocks advanced on Wednesday, driven by U.S.-Iran diplomatic talks. Mining companies led the rally as geopolitical concerns eased for investors. Novo Nordisk shares fell despite an improved o",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/navin-fluorine-shares-surge-8-after-q1-profit-more-than-doubles-should-you-buy-sell-or-hold/articleshow/132982625.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Navin Fluorine shares surged nearly 8% after the company posted a strong Q1FY27 performance, with profit more than doubling and revenue rising 44% YoY. Elara Securities retained its 'Buy' rating and R",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Quote of the day by Myron Scholes: \"At times of shock, converting illiquid assets to cash to build flexibility is very expensive. Finding an umbrella in a rain storm might be impossible or very costly.\"",
+      "title": "PB Fintech shares gain 2% after Q1 results. Why Morgan Stanley, Nomura see up to 25% downside",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-myron-scholes-at-times-of-shock-converting-illiquid-assets-to-cash-to-build-flexibility-is-very-expensive-finding-an-umbrella-in-a-rain-storm-might-be-impossible-or-very-costly-/articleshow/132911533.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Nobel laureate Myron Scholes emphasizes liquidity's value during market shocks.  Illiquid assets become difficult to sell without significant price reductions.  Finding cash during a crisis is often i",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-gain-2-after-q1-results-why-morgan-stanley-nomura-see-up-to-25-downside/articleshow/132982565.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": " PB Fintech shares rose after the Policybazaar parent reported a 92% YoY jump in Q1 FY27 net profit to Rs 163 crore. Operating revenue grew 40% to Rs 1,888 crore, while total insurance premium increas",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SpaceX posts 92% revenue surge, but stock tumbles 7% in after-hours. Here's why",
+      "title": "Samsung, SK Hynix shareholders call for bigger payouts from AI cash mountain",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-posts-92-revenue-surge-but-stock-tumbles-7-in-after-hours-heres-why/articleshow/132910245.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "SpaceX reported a strong debut quarterly performance as a public company, with revenue surging 92% year-on-year to $7.8 billion in the April\u2013June quarter, driven by robust growth in its Starlink and A",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/samsung-sk-hynix-shareholders-call-for-bigger-payouts-from-ai-cash-mountain/articleshow/132982149.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Samsung and SK Hynix are under pressure from investors to boost shareholder returns as they experience significant profits driven by strong demand for AI technology. With record earnings in hand, shar",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "12 Nifty stocks that are down up to 35% from 52-week highs. Are you affected?",
+      "title": "Dhaval Packaging, Oneindig Technologies SME shares to list today. Check GMP and expected listing price",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-nifty-stocks-that-are-down-up-to-35-from-52-week-highs-are-you-affected/slideshow/132910965.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Despite a recent recovery, several Nifty50 heavyweights continue to trade well below their 52-week highs. Data from ACE Equity shows 12 blue-chip stocks remain 20\u201335% below their peak levels, highligh",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/dhaval-packaging-oneindig-technologies-sme-shares-to-list-today-check-gmp-and-expected-listing-price/articleshow/132982008.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Oneindig Technologies and Dhaval Packaging are set to debut on the BSE SME platform today. While both IPOs attracted investor interest, Dhaval Packaging enters listing day with stronger momentum, back",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Europe\u2019s tech giants emerge as surprise AI winners as enterprise adoption takes off",
+      "title": "Global Market: Prudential shares tumble as China offshore insurance tax report rattles investors",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-europes-tech-giants-emerge-as-surprise-ai-winners-as-enterprise-adoption-takes-off/articleshow/132907541.cms",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Europe\u2019s established technology companies are emerging as unexpected winners of the AI boom as enterprises move from experimentation to large-scale adoption. Companies such as SAP, Capgemini, Sopra St",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-prudential-shares-tumble-as-china-offshore-insurance-tax-report-rattles-investors/articleshow/132981858.cms",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Shares of Prudential plunged after reports that Chinese tax authorities had begun collecting personal income tax on returns from offshore insurance policies, stoking concerns over tighter regulatory o",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +134,56 @@
       "is_portfolio": false
     },
     {
-      "title": "Vodafone Idea sets AGM date to declare financial statement for FY26. Details here",
+      "title": "MV Electrosystems share price makes a bumper debut on Dalal Street at over 22% premium. Buy, sell or hold?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vodafone-idea-sets-agm-date-to-declare-financial-statement-q1-results-for-fy26-idea-share-in-focus-details-here-11785925132024.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Vodafone Idea converted  \u20b936,900 crore of spectrum dues into equity, making the Government of India a 49% shareholder. The firm plans a  \u20b930,000 crore network expansion and added over 31,000 broadband",
+      "link": "https://www.livemint.com/market/stock-market-news/mv-electrosystems-share-price-makes-a-bumper-debut-on-dalal-street-at-over-22-premium-11785990016155.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "MV Electrosystems shares listed on the BSE at  \u20b9519 apiece, delivering a whopping 22% listing gain to the lucky allottees",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Expert view: Earnings growth will continue to strengthen over coming quarters, says Sandip Raichura of PL Capital",
+      "title": "Juniper Green Energy IPO listing: Shares list at 9% premium over the IPO price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-earnings-growth-will-continue-to-strengthen-over-coming-quarters-says-sandip-raichura-of-pl-capital-11785926688304.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "As geopolitical tensions loom, expert Sandip Raichura predicts Indian earnings growth will rise steadily in the coming quarters. He emphasises disciplined investment strategies over short-term volatil",
+      "link": "https://www.livemint.com/market/stock-market-news/juniper-green-energy-ipo-listing-shares-list-at-9-premium-over-the-ipo-price-11785988928449.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Juniper Green Energy share price opened at  \u20b9245 apiece on NSE and  \u20b9242 on BSE. This means that the Juniper Green Energy IPO listing delivered a 8% gain to the IPO allottees.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Michael Burry warns of 1987-style crash as AI rally powers Wall Street; investor shorts Nvidia, Tesla, Palantir",
+      "title": "Bankers kept in dark on LIC\u2019s unusually fast and large $3.3-billion OFS",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/michael-burry-warns-of-1987-style-crash-as-ai-rally-powers-wall-street-investor-shorts-nvidia-tesla-palantir-11785922333250.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Michael Burry maintains his bearish outlook despite Wall Street's record highs, warning of a potential market crash similar to 1987.&amp;nbsp;",
+      "link": "https://www.livemint.com/market/stock-market-news/lic-ofs-size-price-launch-date-11785989588805.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Officials kept the LIC OFS launch date, as well as size and price, a secret to prevent traders from taking positions ahead of the sale and pushing the stock lower.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 5 August: Hindustan Copper, OLA, HFCL, Mphasis, Tata Capital among top gainers",
+      "title": "Ardee Industries IPO Day 2 LIVE: Issue booked 3.08x so far. Check key dates, review. Apply or skip?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-5-august-hindustan-copper-ola-hfcl-mphasis-tata-capital-among-top-gainers-11785922141765.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Indian equity markets closed mixed on August 5, with the Nifty 50 down 0.18% and the Sensex down 0.09%. Weakness in banking and IT stocks outweighed gains in metals and autos. The RBI held the repo ra",
+      "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-gmp-ardee-industries-ipo-review-ardee-industries-ipo-details-ardee-industries-ipo-subscription-11785988585691.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Ardee Industries IPO opened on August 5, priced between  \u20b950 and  \u20b953. It raised  \u20b9128 crore from anchor investors. The IPO includes a fresh issue of  \u20b9320 crore and an OFS of 1.99 crore shares, with ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "From Bajaj Auto to Polycab to Garden Reach Shipbuilders: 5 companies that posted over 25% revenue growth in Q1 FY27",
+      "title": "These 10 stocks turned  \u20b91 lakh into over  \u20b93 lakh in 2026: Do you own any of these top gainers?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/from-bajaj-auto-to-polycab-to-garden-reach-shipbuilders-5-companies-that-posted-over-25-revenue-growth-in-q1-fy27-11785921987216.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "India Inc. reported strong earnings for Q1, with many companies achieving double-digit revenue growth amid global uncertainties. A few companies, including Laxmi Organic and Bajaj Auto, noted remarkab",
+      "link": "https://www.livemint.com/market/stock-market-news/these-10-stocks-turned-1-lakh-into-over-3-lakh-in-2026-do-you-own-any-of-these-top-gainers-11785989209401.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Data showed that as many as 10 companies on the NSE surged more than 200% in the ongoing calendar year till 4 August 2026, rewarding investors with solid returns despite the broader market gaining in ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex gains 150 points, Nifty 50 ends flat above 24,600 after RBI MPC keeps interest rates unchanged",
+      "title": "Gold rate today at a seven-week high as easing US-Iran tension cools US Fed rate hike buzz",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-gains-150-points-nifty-50-ends-flat-above-24-600-after-rbi-mpc-keeps-interest-rates-unchanged-11785922265051.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "The 30-share pack Sensex rose 152 points, or 0.19%, to end at 78,581, while the Nifty 50 inched up by 10 points, or 0.04%, to close at 24,624.65.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Kalyan Jewellers shares extend slide, tumble 5% after Q1 results; down 11% in four days",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/kalyan-jewellers-shares-extend-slide-tumble-5-after-q1-results-down-11-in-four-days-11785919994880.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Kalyan Jewellers shares fell 5% to  \u20b9562.70 due to disappointing June quarter earnings. Year-on-year net profit rose 32%, but profit declined sequentially. Revenue increased 46% YoY, although gross an",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Manipal Health Enterprises share price jumps after listing at a strong premium. Buy, sell or hold?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/manipal-health-enterprises-share-price-jumps-after-listing-at-strong-premium-buy-sell-or-hold-11785917371416.html",
-      "date": "Wed, 05 Aug 2026",
-      "desc": "Manipal Health Enterprises shares listed on the NSE at  \u20b9652 apiece, delivering around 11% listing gain to the lucky allottees",
+      "link": "https://www.livemint.com/market/commodities/gold-rate-today-6-august-2026-gold-price-today-at-seven-week-high-as-easing-us-iran-war-cools-us-fed-rate-hike-buzz-11785987873730.html",
+      "date": "Thu, 06 Aug 2026",
+      "desc": "Gold rate today: Gold price today opened upside at  \u20b91,49,029 and touched an intraday high of  \u20b91,49,250 per 10 gm within a few minutes of the Opening Bell",
       "tags": [],
       "is_portfolio": false
     }
