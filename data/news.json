@@ -1,75 +1,140 @@
 {
-  "updated_ist": "07 Aug 2026 11:43 IST",
+  "updated_ist": "07 Aug 2026 13:16 IST",
   "news": [
     {
-      "title": "Indian bonds buckle under oil spike, fresh debt sale",
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: China\u2019s July exports top forecasts as AI boom and pre-tariff rush fuel trade growth",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-buckle-under-oil-spike-fresh-debt-sale/articleshow/133023421.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-july-exports-top-forecasts-as-ai-boom-and-pre-tariff-rush-fuel-trade-growth/articleshow/133026299.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Indian government bonds declined early Friday, reversing some weekly gains. Higher oil prices and global rate fears impacted investor sentiment before a large debt sale. New Delhi plans to raise 320 b",
+      "desc": "China's July exports rose 23.9%, beating forecasts as strong global AI-related demand and pre-tariff shipments boosted trade. High-tech and semiconductor exports remained key growth drivers despite fr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Stock Market: SpaceX shares gain as first lockup expiry more than doubles tradable float",
+      "title": "Market Test: Can SpaceX sustain gains after the share unlock?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-spacex-shares-gain-as-first-lockup-expiry-more-than-doubles-tradable-float/articleshow/133023304.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-test-can-spacex-sustain-gains-after-the-share-unlock/articleshow/133023811.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "SpaceX shares rose over 6% on Thursday in heavy trading, with more than $23 billion worth of shares changing hands \u2014 likely the busiest session since the company joined the Nasdaq 100 on July 7. The r",
+      "desc": "SpaceX shares rebounded 6% after 900 million shares became eligible to trade following its first post-IPO lockup expiry, but investors remain cautious over future unlocks and potential volatility. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan stocks fall over 1% as chip shares tumble, SoftBank declines despite earnings beat",
+      "title": "Airbnb's strong quarter: 5 key takeaways for investors",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-fall-over-1-as-chip-shares-tumble-softbank-declines-despite-earnings-beat/articleshow/133023202.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/airbnbs-strong-quarter-5-key-takeaways-for-investors/slideshow/133026106.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Japan's Nikkei fell over 1% on Friday, dragged down by a selloff in AI and semiconductor stocks, even as the broader Topix stayed roughly flat. SoftBank Group was a key laggard, dropping 4.3% despite ",
+      "desc": "Airbnb raised its full-year 2026 revenue outlook following a strong Q2 performance. Revenue rose 17% to $3.61 billion, while EPS hit $1.37, beating Wall Street estimates. Robust international travel d",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan reveals record $40 billion yen-buying intervention as currency pressure persists",
+      "title": "Samvardhana Motherson shares rally over 7% after Q1 earnings; Motilal Oswal, Nomura weigh in",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-reveals-record-40-billion-yen-buying-intervention-as-currency-pressure-persists/articleshow/133021238.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/samvardhana-motherson-shares-rally-over-7-after-q1-earnings-motilal-oswal-nomura-weigh-in/articleshow/133025764.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Japan carried out its largest-ever single-day currency intervention, deploying nearly $40 billion to support the yen amid sharp depreciation. Detailed data from the Ministry of Finance showed authorit",
+      "desc": "Samvardhana Motherson International shares surged after the company posted record Q1 FY27 revenue of \u20b935,244 crore (up 17% YoY) and a 70.1% YoY jump in profit after tax to \u20b91,032 crore, aided by recen",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indraprastha Medical Corporation shares surge 9% after Q1FY27 profit rises 9%, revenue grows 11%",
+      "title": "Old strategies buried alive: How CAS hit Dalal Street traders",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indraprastha-medical-corporation-shares-surge-9-after-q1fy27-profit-rises-9-revenue-grows-11/articleshow/133022396.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/old-strategies-buried-alive-how-cas-hit-dalal-street-traders/articleshow/133025442.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Indraprastha Medical Corporation shares surged over 8.5% to Rs 392.90 following strong Q1FY27 earnings. The healthcare operator reported a 9% YoY increase in consolidated net profit to Rs 56 crore and",
+      "desc": "The new closing auction session (CAS) has rattled Dalal Street, with traders saying long-standing strategies are no longer working. SEBI, however, remains confident the system will improve as particip",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Investment, Tata Chemicals rally up to 7% after RBI classifies Tata Sons as upper-layer NBFC",
+      "title": "Global Market: China, Hong Kong stocks rise as strong trade data and AI demand lift sentiment",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-investment-tata-chemicals-rally-up-to-7-after-rbi-classifies-tata-sons-as-upper-layer-nbfc/articleshow/133022291.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-strong-trade-data-and-ai-demand-lift-sentiment/articleshow/133024693.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Tata Investment Corp and Tata Chemicals shares rallied up to 7% after the RBI classified Tata Sons among the 16 upper-layer NBFCs, reviving focus on the holding company's potential listing. The centra",
+      "desc": "China and Hong Kong equities advanced on Friday after stronger-than-expected July trade data reinforced confidence in the country's export resilience. Robust demand for AI-related technologies, partic",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hero MotoCorp shares jump 3% as Q1 profit rises 29% YoY, beats estimates. What's ahead?",
+      "title": "Crompton Greaves shares crash 7% despite strong Q1 results",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hero-motocorp-shares-jump-3-as-q1-profit-rises-29-yoy-beats-estimates-whats-ahead/articleshow/133022247.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/crompton-greaves-shares-crash-7-despite-strong-q1-results/articleshow/133024503.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Hero MotoCorp shares jumped over 3% to Rs 5,739 following strong Q1 FY27 results. The two-wheeler giant reported a 29% YoY rise in standalone net profit to Rs 1,454 crore and a 36% surge in revenue to",
+      "desc": "Crompton Greaves Consumer Electricals shares fell to a day's low of \u20b9250 on Friday, even after posting strong Q1 results a day earlier. The company reported a 15.2% YoY jump in PAT to \u20b9143 crore (6.4%",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vikram Solar shares crash 11% to fresh lifetime low. What's spooking investors?",
+      "title": "Kalyan Jewellers shares jump 5% after Jefferies starts coverage with 'Buy'. More upside after 63% rally in 1 month?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vikram-solar-shares-crash-11-to-fresh-lifetime-low-whats-spooking-investors/articleshow/133021945.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-jump-5-after-jefferies-starts-coverage-with-buy-more-upside-after-63-rally-in-1-month/articleshow/133024083.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Vikram Solar shares fell sharply to a record low on Friday after the company reported an 85% year-on-year drop in Q1 profit, with margins shrinking sharply. Investor sentiment was also dented by US Pr",
+      "desc": "Kalyan Jewellers shares witnessed an uptick on Friday  after Jefferies initiated coverage with a Buy rating and Rs 830 target, implying 39% upside. The stock has rallied 63% in a month. Analysts see f",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Aegeus Technologies IPO allotment to be finalised today. Here's GMP, how to check status online",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/aegeus-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11786082575292.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "The GMP of Aegeus Technologies IPO ahead of allotment is  \u20b912, according to Investorgain.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "For LIC, successful OFS and strong Q1 may not provide succour yet",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/lic-ofs-lic-share-price-valuation-lic-q1-earnings-lic-vs-hdfc-life-insurance-sector-india-11786083518452.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "The government's announcement of an offer for sale in LIC has positive implications but the stock trades at a higher multiple versus HDFC Life despite slower growth rates in future",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Solar stock under  \u20b950 hits 52-week high after this Capex update. Do you own?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/solar-stock-under-50-rhetan-tmt-hits-52-week-high-after-this-capex-update-do-you-own-11786083186074.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Rhetam TMT share price opened at  \u20b933.46 apiece today, as compared to previous close of  \u20b932.85 on Thursday.",
       "tags": [],
       "is_portfolio": false
     },
@@ -115,33 +180,6 @@
       "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786073729808.html",
       "date": "Fri, 07 Aug 2026",
       "desc": "Ardee Industries IPO GMP today: According to Investorgain, the company shares are available at a premium of  \u20b915 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Fusion Klassroom Edutech IPO listing: Shares list at 7% premium over the IPO price",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fusion-klassroom-edutech-ipo-listing-shares-list-at-7-premium-over-the-ipo-price-11786074396067.html",
-      "date": "Fri, 07 Aug 2026",
-      "desc": "Fusion Klassroom Edutech share price listed at 7% premium over the IPO price of  \u20b9159. The stock opened at  \u20b9170 apiece on BSE SME.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 6 paise lower at 95.28 against US dollar amid spike in crude oil prices",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html",
-      "date": "Fri, 07 Aug 2026",
-      "desc": "The rupee opened lower at 95.28 against the US dollar, impacted by rising crude oil prices and expectations of a hawkish Fed. Market watchers await the US jobs report for insights into monetary policy",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nikkei, Kospi to US stocks: Global equity heatmap before opening bell of Indian stock market on Friday \u2014 7 August 2026",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html",
-      "date": "Fri, 07 Aug 2026",
-      "desc": "Global markets today: The US stock market ended lower overnight as investors booked profits following the recent rally",
       "tags": [],
       "is_portfolio": false
     }
