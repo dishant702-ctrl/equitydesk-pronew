@@ -1,113 +1,93 @@
 {
-  "updated_ist": "07 Aug 2026 15:42 IST",
+  "updated_ist": "07 Aug 2026 16:40 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Multibaggers: 12 stocks skyrocketed up to 925% in 6 months; here's how retail investors bet on them",
+      "title": "Premier Energies Q1 Result: Profit jumps 53% to Rs 472 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-12-stocks-skyrocketed-up-to-925-in-6-months-heres-how-retail-investors-bet-on-them/slideshow/133030207.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/premier-energies-q1-result-profit-jumps-53-to-rs-472-crore/articleshow/133031911.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Thirty-four BSE stocks doubled in six months, with 12 delivering returns of 169% to 923%. Retail investors raised stakes in several multibaggers while booking profits in others during June 2026 quarte",
+      "desc": "Premier Energies reported remarkable growth, with profits soaring more than 53% in the latest quarter. The uptick in revenue can be attributed to robust demand across vital business sectors. The compa",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: SK Hynix approves $38.3 billion investment plan through 2031 to expand AI chip production",
+      "title": "JK Tyre &amp; Industries Q1 Results: Net profit tumbles 73% at Rs 44.09 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-approves-38-3-billion-investment-plan-through-2031-to-expand-ai-chip-production/articleshow/133029935.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-industries-q1-results-net-profit-tumbles-73-at-rs-44-09-crore/articleshow/133031885.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "SK Hynix approved investments of 54.3 trillion won through 2031 to expand semiconductor production, targeting rising AI-driven demand. Funds will support new DRAM facilities in Yongin and NAND flash c",
+      "desc": "In the first quarter of FY27, JK Tyre &amp; Industries reported a staggering 73 percent decline in profits, primarily due to soaring raw material prices linked to the West Asia crisis. Their consolida",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data",
+      "title": "Arvind SmartSpaces Q1 Results: Profit zooms 8-fold to Rs 97 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-healthcare-stocks-offset-geopolitical-concerns-investors-await-us-jobs-data/articleshow/133029661.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/arvind-smartspaces-q1-results-profit-zooms-8-fold-to-rs-97-crore/articleshow/133031836.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "European stock markets edged higher on Friday, supported by gains in healthcare stocks, while rising oil prices and renewed Middle East tensions kept investors cautious ahead of the closely watched U.",
+      "desc": "In the June quarter, Arvind SmartSpaces achieved remarkable results with an eight-fold rise in net profit. The company's total income surged to Rs 322.02 crore, while sales bookings more than doubled ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global equity funds extend inflow streak to 11 weeks as earnings optimism lifts risk appetite",
+      "title": "Bectors Food Q1 Results: Profit rises 25.5% to Rs 38.76 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-equity-funds-extend-inflow-streak-to-11-weeks-as-earnings-optimism-lifts-risk-appetite/articleshow/133029555.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bectors-food-q1-results-profit-rises-25-5-to-rs-38-76-crore/articleshow/133031671.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "Global equity funds extended their inflow streak to 11 weeks, attracting $21.15 billion in the week ended August 5. Strong corporate earnings and easing crude prices boosted risk appetite. European an",
+      "desc": "In the June quarter, Mrs Bectors Food Specialities reported a notable 25.53 percent increase in net profit. Their operating revenue surged by sixteen percent to reach Rs 548.75 crore, bolstered by a 1",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI share price climbs 4% after Q1 profit jumps 10% YoY, beats estimates",
+      "title": "RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-share-price-climbs-4-after-q1-profit-jumps-10-yoy-beats-estimates/articleshow/133029314.cms",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/rbis-rate-pause-sustains-steady-momentum-in-residential-real-estate/articleshow/133031598.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "SBI shares rose sharply on Friday after the lender reported a 10% year-on-year rise in Q1 FY27 standalone profit to Rs 21,121 crore, beating Street estimates. Net interest income rose 15% to Rs 46,992",
+      "desc": "India's residential property sector remains robust, driven by consistent demand and advancements in infrastructure. The Reserve Bank of India's choice to hold the repo rate steady bolsters this positi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European bluechip earnings set for strongest growth since 2022 as energy sector powers profits",
+      "title": "Mumbai luxury home sales hit record Rs 18,512 crore in H1, growth likely to moderate: Report",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-bluechip-earnings-set-for-strongest-growth-since-2022-as-energy-sector-powers-profits/articleshow/133028458.cms",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mumbai-luxury-home-sales-hit-record-rs-18512-crore-in-h1-growth-likely-to-moderate-report/articleshow/133031547.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "European blue-chip companies are gearing up for their most promising quarterly earnings growth in the last three years, with the energy sector and basic materials industries making significant strides",
+      "desc": "Mumbai's luxury housing market recorded its highest-ever half-yearly sales of Rs 18,512 crore during the first half of 2026, but the pace of growth is likely to moderate in the coming quarters due to ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates",
+      "title": "ICICI Bank, Axis Bank tap dollar debt again in less than two months: Report",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-axis-bank-tap-dollar-debt-again-in-less-than-two-months-report/articleshow/133031429.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "State Bank of India reported a ten percent year-on-year net profit growth.  Its net interest income also saw a fifteen percent rise during the quarter.  Total business crossed one hundred ten trillion",
+      "desc": "ICICI Bank and Axis Bank have returned to the U.S. dollar debt market, each looking to raise $300 million through upcoming bond issues, set to close for subscription next week. Notably, last month saw",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "AI frenzy spooks investors but JPMorgan CEO Jamie Dimon says spending boom likely to pay off. Here's why",
+      "title": "Titan Q1 Results: Profit soars 63% YoY to Rs 1,777 crore, total income surges 40%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-frenzy-spooks-investors-but-jpmorgan-ceo-jamie-dimon-says-spending-boom-likely-to-pay-off-heres-why/articleshow/133028059.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/titan-q1-results-profit-soars-63-yoy-to-rs-1777-crore-total-income-surges-40/articleshow/133031183.cms",
       "date": "Fri, 07 Aug 2026",
-      "desc": "JPMorgan Chase CEO Jamie Dimon believes massive capital expenditure in artificial intelligence by hyperscalers will ultimately pay off despite market anxiety. Speaking to CNBC, Dimon noted that AI inf",
+      "desc": "Titan Q1 Results: Consumer discretionary major Titan Ltd on Friday reported 63% year-on-year (YoY) growth in its consolidated net profit at Rs 1,777 crore in the first quarter, compared with Rs 1,091 ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "title": "Titan Q1 Results: Net profit jumps 63% to  \u20b91,777 crore on steady jewellery demand; revenue rises 40%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/titan-q1-results-net-profit-jumps-63-to-rs-1-777-crore-revenue-rises-40-11786099305471.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Titan, part of the Tata Group, reported strong FY27 results, with June quarter net profit rising 63% YoY to  \u20b91,777 crore. Revenue from operations also surged 40% YoY to  \u20b920,787 crore.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "title": "Top Gainers &amp; Losers on 7 August: Bajaj Finance, Navin Fluorine, Trent, Tata Capital, Swiggy among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-7-august-bajaj-finance-navin-fluorine-trent-tata-capital-swiggy-among-top-losers-11786097361207.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "The Indian stock market struggled on August 7, with the Nifty 50 down 0.32% and the Sensex declining 0.59%. Concerns over a potential peace deal in the Middle East and financial sector weaknesses led ",
       "tags": [],
       "is_portfolio": false
     },
@@ -162,24 +142,6 @@
       "link": "https://www.livemint.com/market/ipo/aegeus-technologies-ipo-allotment-to-be-finalised-today-heres-gmp-how-to-check-status-online-11786082575292.html",
       "date": "Fri, 07 Aug 2026",
       "desc": "The GMP of Aegeus Technologies IPO ahead of allotment is  \u20b912, according to Investorgain.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "For LIC, successful OFS and strong Q1 may not provide succour yet",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/lic-ofs-lic-share-price-valuation-lic-q1-earnings-lic-vs-hdfc-life-insurance-sector-india-11786083518452.html",
-      "date": "Fri, 07 Aug 2026",
-      "desc": "The government's announcement of an offer for sale in LIC has positive implications but the stock trades at a higher multiple versus HDFC Life despite slower growth rates in future",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Solar stock under  \u20b950 hits 52-week high after this Capex update. Do you own?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/solar-stock-under-50-rhetan-tmt-hits-52-week-high-after-this-capex-update-do-you-own-11786083186074.html",
-      "date": "Fri, 07 Aug 2026",
-      "desc": "Rhetam TMT share price opened at  \u20b933.46 apiece today, as compared to previous close of  \u20b932.85 on Thursday.",
       "tags": [],
       "is_portfolio": false
     }
