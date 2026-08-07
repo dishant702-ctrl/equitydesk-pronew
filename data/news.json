@@ -1,17 +1,6 @@
 {
-  "updated_ist": "06 Aug 2026 16:58 IST",
+  "updated_ist": "07 Aug 2026 10:28 IST",
   "news": [
-    {
-      "title": "Bitcoin trades near $64,000 as profit booking emerges, but bulls continue to hold control",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64000-as-profit-booking-emerges-but-bulls-continue-to-hold-control/articleshow/132996736.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Bitcoin traded near $64,700 as buyers maintained control despite profit-booking at higher levels. While major altcoins saw mixed price action, market experts highlighted steady institutional demand, s",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Indo MIM shares surge 10%, extend gains to 82% over issue price. Should investors book profits?",
+      "title": "Trent shares slide 3% after Q1. What Morgan Stanley, four other brokerages recommend",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-surge-10-extend-gains-to-82-over-issue-price-should-investors-book-profits/articleshow/132997743.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Indo-MIM's shares skyrocketed by 82%, surpassing their original IPO price, with robust interest from investors and a firm market position. The company reported impressive financial growth in FY26, wit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-shares-slide-3-after-q1-what-morgan-stanley-four-other-brokerages-recommend/articleshow/133021617.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Trent shares fell 3% after the Tata Group retailer reported a 21% year-on-year rise in Q1 consolidated net profit to Rs 519 crore. Revenue from operations grew 18% to Rs 5,755 crore. On a sequential b",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian rupee slips on importer bids, far forward premiums ease to one-month low",
+      "title": "Siemens Energy India shares jump 7% after strong Q1 results. Should you buy, sell or hold?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-slips-on-importer-bids-far-forward-premiums-ease-to-one-month-low/articleshow/132997510.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "On Thursday, the Indian rupee ended slightly lower against the dollar, impacted by continuous demand from importers hedging their positions. While falling oil prices helped bolster market sentiment, t",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/siemens-energy-india-shares-jump-7-after-strong-q1-results-should-you-buy-sell-or-hold/articleshow/133021477.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Siemens Energy India shares surged over 7% after the company posted a robust June 2026 quarter, with net profit jumping 68% year-on-year and revenue rising nearly 40%. Encouraged by strong execution, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: SoftBank's AI strategy stays on course despite flat OpenAI valuation in Q1",
+      "title": "Bajaj Finance, Bajaj Finserv shares fall up to 5% on RBI's new proposal for NBFCs",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-softbanks-ai-strategy-stays-on-course-despite-flat-openai-valuation-in-q1/articleshow/132996579.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "SoftBank reported an 18% decline in first-quarter net profit, though earnings exceeded expectations as strong gains from Intel and ByteDance investments offset weaker contributions from OpenAI. The co",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-bajaj-finserv-shares-fall-up-to-5-on-rbis-new-proposal-for-nbfcs/articleshow/133021274.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Shares of Bajaj Finance and Bajaj Finserv fell sharply after the RBI proposed restricting NBFCs to offering only term loans, effectively barring revolving credit products. The proposal exempts NBFCs a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Distortions are inevitable: Nithin Kamath explains why new closing auction is causing wild moves in Indian stocks",
+      "title": "LIC gains 3% after Q1 earnings. Here's what Morgan Stanley and Motilal Oswal recommend",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/distortions-are-inevitable-nithin-kamath-explains-why-new-closing-auction-is-causing-wild-moves-in-indian-stocks/articleshow/132996405.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Zerodha co-founder Nithin Kamath said the sharp swings under the new Closing Auction Session (CAS) reflect structural weaknesses in Indian markets rather than flaws in the mechanism itself. The new 20",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-gains-3-after-q1-earnings-heres-what-morgan-stanley-and-motilal-oswal-recommend/articleshow/133020828.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "LIC shares rose 2.5% after the state-owned insurer reported a 23% year-on-year jump in Q1 standalone net profit to Rs 13,492 crore, while net premium income grew 7% to Rs 1.27 lakh crore. LIC also ret",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares hit record high as peace hopes, strong earnings lift sentiment",
+      "title": "Global Market: South Korean stocks fluctuate as AI spending concerns weigh on chipmakers",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hit-record-high-as-peace-hopes-strong-earnings-lift-sentiment/articleshow/132996067.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "European stock markets extended record gains as optimism over a potential U.S.-Iran peace agreement eased energy supply concerns and strong corporate earnings boosted investor confidence. Deutsche Tel",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-stocks-fluctuate-as-ai-spending-concerns-weigh-on-chipmakers/articleshow/133020896.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "South Korean shares swung between gains and losses on Friday as investors assessed the latest U.S. corporate earnings and remained cautious over AI-related spending. Despite recovering from early loss",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Market Reaction: Sandisk's AI momentum continues, but forecast leaves Street wanting more",
+      "title": "CAS Chaos: Dalal Street's biggest stock trading reform in years endures a rocky first week",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-reaction-sandisks-ai-momentum-continues-but-forecast-leaves-street-wanting-more/slideshow/132995817.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": " ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-streets-biggest-stock-reform-in-years-endures-rocky-first-week/articleshow/133020712.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "India's recently introduced closing auction system for stock prices is encountering early challenges, with traders raising alarms over erratic price fluctuations and confusion in the marketplace. In r",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FIIs, MFs boost stakes in these 10 midcap stocks; shares soar up to 65%. Do you own any?",
+      "title": "Sensex drops over 200 points, Nifty tests 23,600 as Strait of Hormuz tensions rattle oil markets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-boost-stakes-in-these-10-midcap-stocks-shares-soar-up-to-65-do-you-own-any/slideshow/132995604.cms",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "FIIs and mutual funds increased stakes in several Nifty Midcap 150 stocks over recent quarters, with many delivering strong returns. Radico Khaitan led the pack, gaining up to 65%. ",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-200-points-nifty-tests-23600-as-strait-of-hormuz-tensions-rattle-oil-markets/articleshow/133020628.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Indian stock markets opened lower on Friday as oil prices increased. Concerns over Iran potentially closing the Strait of Hormuz impacted investor sentiment. Bajaj Finance and Bajaj Finserv shares led",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Britannia shares rally 4% as Q1 profit rises 14% YoY. Should you buy, sell or hold?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/britannia-shares-rally-4-as-q1-profit-rises-14-yoy-should-you-buy-sell-or-hold/articleshow/133020659.cms",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Britannia Industries shares rose 4% after the FMCG major reported a more than 14% year-on-year increase in Q1 FY27 net profit to Rs 591 crore. Despite higher input costs due to geopolitical tensions, ",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +112,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Infra stock declares 1:1 bonus shares, raising of share capital. Details here",
+      "title": "Ardee Industries IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/infra-stock-declares-1-1-bonus-shares-raising-of-share-capital-details-here-11786014557356.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Chavda Infra announced a 1:1 bonus share issue for existing shareholders, pending approvals. The board approved increasing its authorized capital to  \u20b970 crore and will issue 3.26 crore bonus shares.&",
+      "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786073729808.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Ardee Industries IPO GMP today: According to Investorgain, the company shares are available at a premium of  \u20b915 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top Gainers &amp; Losers on 6 August: Navin Fluorine, Tata Tech, HAL, Pine Labs, Kalyan Jewellers among top gainers",
+      "title": "Fusion Klassroom Edutech IPO listing: Shares list at 7% premium over the IPO price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-6-august-navin-fluorine-tata-tech-hal-pine-labs-kalyan-jewellers-among-top-gainers-11786009429594.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Indian stock markets remained largely stable on August 6 as investors awaited clarity on a potential Middle East peace deal. The Nifty 50 edged up 0.05%, while the Sensex gained 0.26%. Mixed performan",
+      "link": "https://www.livemint.com/market/stock-market-news/fusion-klassroom-edutech-ipo-listing-shares-list-at-7-premium-over-the-ipo-price-11786074396067.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Fusion Klassroom Edutech share price listed at 7% premium over the IPO price of  \u20b9159. The stock opened at  \u20b9170 apiece on BSE SME.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Navin Fluorine shares jump 14% to record high as analysts stay bullish, lift target price after Q1",
+      "title": "Rupee opens 6 paise lower at 95.28 against US dollar amid spike in crude oil prices",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/navin-fluorine-shares-jump-14-to-record-high-as-analysts-stay-bullish-lift-target-price-after-q1-11786007717400.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Navin Fluorine's shares jumped 14% to  \u20b98.647, following strong quarterly results. Brokerages raised target prices, with Axis Securities lifting it to  \u20b98,600, while JM Financial also raised its targe",
+      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-28-against-us-dollar-amid-spike-in-crude-oil-prices-11786073687343.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "The rupee opened lower at 95.28 against the US dollar, impacted by rising crude oil prices and expectations of a hawkish Fed. Market watchers await the US jobs report for insights into monetary policy",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Healthcare stock close to record high. Will it climb to a new peak?",
+      "title": "Nikkei, Kospi to US stocks: Global equity heatmap before opening bell of Indian stock market on Friday \u2014 7 August 2026",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/healthcare-stock-park-medi-world-close-to-record-high-will-it-climb-to-a-new-peak-11786005793905.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "The healthcare stock today hit an intraday high of  \u20b9392 apiece on the NSE, just  \u20b913 away from its existing peak of  \u20b9305 per share",
+      "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-stocks-us-stock-market-global-markets-equity-heatmap-before-opening-bell-indian-stock-market-11786069670487.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Global markets today: The US stock market ended lower overnight as investors booked profits following the recent rally",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "New closing auction rules spark delivery risks for stock option traders",
+      "title": "Three monopoly stocks where FIIs increased their stake in June quarter",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-options-expiry-closing-auction-physical-delivery-risk-11785995214248.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Late-session volatility in the new order-matching window can abruptly flip options from out-of-the-money to in-the-money, leaving traders unaware of stock delivery obligations until settlement finishe",
+      "link": "https://www.livemint.com/market/stock-market-news/three-monopoly-stocks-where-fiis-increased-their-stake-in-june-quarter-11786016489334.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Despite heavy FII selling, these three monopoly and near-monopoly stocks saw increased foreign institutional ownership in the June 2026 quarter.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Trent Q1 results 2026: Net profit rises 22% YoY to  \u20b9518 crore, revenue up 18%",
+      "title": "LEAP India IPO Day 1: Issue subscribed 1% so far. GMP hints 12% listing gain. Check key dates, review. Apply or skip?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Tata Group company Trent posted a 22% year-on-year (YoY) rise in its net profit to  \u20b9518 crore.",
+      "link": "https://www.livemint.com/market/ipo/leap-india-ipo-gmp-leap-india-ipo-expected-listing-price-leap-india-ipo-review-leap-india-ipo-details-leap-india-ipo-11786071708789.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "LEAP India IPO opens for subscription from 7 to 11 August, with a price band of  \u20b9151\u2013159. The company raised  \u20b9743.62 crore from anchor investors and aims for a listing price of  \u20b9178.5, indicating p",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock jumps 3% following Indian stock market rebound",
+      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 7 August 2026",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-ashika-global-securities-jumps-3-following-indian-stock-market-rebound-11786002611922.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Small-cap stock Ashika Global Securities opened at  \u20b9468.50 apiece today, as compared to previous close of  \u20b9461.30 on Wednesday.",
+      "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-7-august-2026-11786070755187.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "The Indian stock market is set to open lower on August 7, influenced by rising crude oil prices. The Nifty 50 and Sensex indices show weak trends, with analysts suggesting key support and resistance l",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Paytm shares rise despite Mauritius-based FII booking partial profit in fintech company",
+      "title": "Stock market today: Gift Nifty hints a gap-down start; eight day trading stocks to buy on Friday, 7 August",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/paytm-shares-rise-despite-mauritius-based-fii-booking-partial-profit-in-fintech-company-11786000165300.html",
-      "date": "Thu, 06 Aug 2026",
-      "desc": "Paytm share price rose over 1% on August 6 as Elevation Capital reduced its stakes through a block deal worth  \u20b92,038 crore. The National Pension System Trust emerged as the largest buyer, acquiring 3",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-gap-down-start-eight-day-trading-stocks-to-buy-on-friday-7-august-11786068461100.html",
+      "date": "Fri, 07 Aug 2026",
+      "desc": "Indian stock market indices Sensex and Nifty 50 are expected to open lower on 7 August due to rising crude oil prices and Middle East tensions. Brent crude has surged, raising concerns over energy sup",
       "tags": [],
       "is_portfolio": false
     }
