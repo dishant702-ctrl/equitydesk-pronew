@@ -1,6 +1,17 @@
 {
-  "updated_ist": "10 Aug 2026 15:19 IST",
+  "updated_ist": "10 Aug 2026 16:43 IST",
   "news": [
+    {
+      "title": "Bitcoin holds near $65K as $1.1 billion crypto ETF inflows lift sentiment; CPI in focus",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-65k-as-1-1-billion-crypto-etf-inflows-lift-sentiment-cpi-in-focus/articleshow/133093418.cms",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "Bitcoin is trading near the $65,000 mark after a volatile week, with US spot Bitcoin and Ether ETFs attracting around $1.1 billion in combined net inflows. Analysts say crypto markets are turning caut",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "Global Market |Bank of Japan signals vigilance on Yen weakness, keeps door open for rate hikes",
+      "title": "Rupee weakness cushioned by central bank intervention, shorts grow wary",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-signals-vigilance-on-yen-weakness-keeps-door-open-for-rate-hikes/articleshow/133094512.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakness-cushioned-by-central-bank-intervention-shorts-grow-wary/articleshow/133098407.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "The Bank of Japan monitors yen weakness closely, with Governor Kazuo Ueda highlighting its impact on import costs and inflation. While short-term rates remain at 0.75%, currency movements increasingly",
+      "desc": "The Indian rupee ended the day with minimal fluctuations, influenced primarily by oil market dynamics and moves from the central bank. State-owned banks reportedly intervened by supplying dollars on b",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hindustan Copper Q1 Results: PAT zooms 163% YoY to Rs 353 crore; revenue rises to Rs 937 crore",
+      "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hindustan-copper-q1-results-pat-zooms-163-yoy-to-rs-353-crore-revenue-rises-to-rs-937-crore/articleshow/133094486.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/has-dalal-streets-near-term-outlook-improved-hsbc-lists-4-headwinds-3-tailwinds-to-watch-out-for/articleshow/133097555.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "Hindustan Copper reported a 163% year-on-year jump in Q1FY27 net profit to Rs 353 crore, while revenue from operations rose 81.4% to Rs 936.5 crore. EBITDA more than doubled to Rs 507.5 crore from Rs ",
+      "desc": "HSBC Mutual Fund remains constructive on Indian equities, citing improving earnings, private capex, policy support and potential trade deals. However, elevated commodity prices, weak global growth, a ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: China bears the brunt of Asia\u2019s crude oil demand cut as Middle East supplies shrink",
+      "title": "Astra Microwave shares tank 9% after profit, revenue take a hit in Q1FY27",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-bears-the-brunt-of-asias-crude-oil-demand-cut-as-middle-east-supplies-shrink/articleshow/133094458.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/astra-microwave-shares-tank-9-after-profit-revenue-take-a-hit-in-q1fy27/articleshow/133097251.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "China is bearing the brunt of Asia\u2019s crude oil demand slowdown as Middle East supplies shrink following the Iran conflict. Chinese crude imports fell sharply in June and July, despite a recovery in Ju",
+      "desc": "Astra Microwave shares fell nearly 9% after Q1FY27 profit declined 24% and revenue dropped 12% year-on-year. EBITDA also weakened, while margins narrowed. The defence company announced a leadership tr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vijay Kedia-backed Atul Auto shares fall 9% despite nearly 4x YoY surge in Q1 profit",
+      "title": "Bharat Forge shares plunge 9% after firm posts Rs 90 crore Q1 net loss on exceptional items, revenue rises 19%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-backed-atul-auto-shares-fall-9-despite-nearly-4x-yoy-surge-in-q1-profit/articleshow/133094415.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-plunge-9-after-firm-posts-rs-90-crore-q1-net-loss-on-exceptional-items-revenue-rises-19/articleshow/133097144.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "Vijay Kedia-backed Atul Auto shares fell 9% despite a nearly four-fold year-on-year jump in Q1 FY27 net profit. Revenue rose 43%, supported by a sharp increase in three-wheeler dispatches. The company",
+      "desc": "Bharat Forge shares plunged nearly 9% after the company reported an Rs 89.89 crore consolidated net loss in Q1 FY27, compared with a Rs 284 crore profit a year earlier. One-time restructuring and VRS ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Akums Drugs shares rally 9% hit 52-week high after Q1 results; stock up 67% YTD",
+      "title": "FIIs more than doubled their stakes in 11 multibaggers in June quarter. Do you own any?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/akums-drugs-shares-rally-9-hit-52-week-high-after-q1-results-stock-up-67-ytd/articleshow/133094389.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/slideshow/133096409.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "Akums Drugs shares rose sharply on Monday to hit a 52-week high after the company reported strong Q1 FY27 results. Revenue rose 13.9% year-on-year, while profit increased 55%. EBITDA grew 35.4%, suppo",
+      "desc": "At least 34 BSE-listed companies with a market capitalisation above Rs 3,000 crore have delivered over 100% returns in the past six months. Notably, FIIs increased their holdings in 27 of these stocks",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock Market: Senate moves to advance Crypto Clarity Act in major win for Trump, industry",
+      "title": "Info Edge Q1 Results: Standalone Profit falls 6% YoY to Rs 245 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-senate-moves-to-advance-crypto-clarity-act-in-major-win-for-trump-industry/articleshow/133092792.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-q1-results-standalone-profit-falls-6-yoy-to-rs-245-crore/articleshow/133095835.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": "US Senate Majority Leader John Thune has moved to advance the Clarity Act, a proposed framework for regulating cryptocurrencies. The bill could face a 60-vote hurdle in the Senate, with Democrats seek",
+      "desc": "Info Edge reported a 6% YoY decline in Q1 standalone net profit to Rs 245 crore, impacted by a Rs 72.1 crore exceptional loss. However, revenue rose 12% to Rs 824 crore, while profit before tax before",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "5 key market themes to watch this week",
+      "title": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-key-market-themes-to-watch-this-week/slideshow/133091907.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-hold-steady-as-hormuz-uncertainty-keeps-oil-prices-elevated/articleshow/133095725.cms",
       "date": "Mon, 10 Aug 2026",
-      "desc": " ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "$48 billion profit! 5 global oil majors cash in on oil surge amid Iran war. Where is money flowing?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/48-billion-profit-5-global-oil-majors-cash-in-on-oil-surge-amid-iran-war-where-is-money-flowing/articleshow/133091563.cms",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Five global oil majors \u2014 Exxon Mobil, Chevron, BP, Shell and TotalEnergies \u2014 posted a combined $48 billion profit in Q2, benefiting from oil prices surging above $100 a barrel amid US-Iran hostilities",
+      "desc": "European shares were broadly flat on Monday as uncertainty over the Strait of Hormuz kept oil prices elevated. Investors awaited key economic data and monetary-policy signals, while strong corporate e",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +114,110 @@
       "is_portfolio": false
     },
     {
-      "title": "Delhivery rises after Q1 revenue grows 28% YoY",
+      "title": "Nifty August futures trade at a premium",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/delhivery-rises-after-q1-revenue-grows-28-yoy-126081000916_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081001106_1.html",
       "date": "Mon, 10 Aug 2026",
-      "desc": "Delhivery rose 1.77% to Rs 479.45 after reporting its financial performance for the quarter ended 30 June 2026.",
+      "desc": "SBI, BSE and Bharat Forge were top traded contracts.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Archidply Decor Ltd leads losers in 'B' group",
+      "title": "Nifty ends above 24,550 mark; realty shares rally",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/archidply-decor-ltd-leads-losers-in-b-group-126081000915_1.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Ambika Cotton Mills Ltd, Greenlam Industries Ltd, Diffusion Engineers Ltd and Atul Auto Ltd are among the other losers in the BSE's 'B' group today, 10 August 2026.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Volumes spurt at The Ramco Cements Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-the-ramco-cements-ltd-counter-126081000914_1.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "The Ramco Cements Ltd notched up volume of 14.51 lakh shares by 14:14 IST on NSE, a 8.96 fold spurt over two-week average daily volume of 1.62 lakh shares",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US dollar index large currency speculators add net longs to around three and half year high",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/us-dollar-index-large-currency-speculators-add-net-longs-to-around-three-and-half-year-high-126081000889_1.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "\nLarge currency speculators in the US dollar futures added further net longs to around a three and half year high, according to the latest Commitment of Traders (COT) data released by the Commodity Fu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bharat Forge shares crash 9% after \u20b990 crore Q1 loss; here's what mgmt said",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bharat-forge-shares-crash-9-after-90-crore-q1-loss-here-s-what-mgmt-said-126081000886_1.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Bharat Forge's management said that for FY27, it continues to maintain a growth outlook of 20-25 per cent for the Indian manufacturing business.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Paisalo Digital rises after BC channel crosses $1 billion in transaction value",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/paisalo-digital-rises-after-bc-channel-crosses-1-billion-in-transaction-value-126081000874_1.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Paisalo Digital rose 2.34% to Rs 70.30 after the company announced that its Business Correspondent (BC) channel had crossed $1 billion in cumulative gross transaction value (GTV).",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market trades with minor gains; metal shares advance",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/market-trades-with-minor-gains-metal-shares-advance-126081000873_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-above-24-550-mark-realty-shares-rally-126081001075_1.html",
       "date": "Mon, 10 Aug 2026",
       "desc": "\nMarket participants continued to closely monitor developments surrounding the US-Iran conflict and the progress of the monsoon. Persistent geopolitical uncertainty, along with its potential impact on",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kwality Pharma, Aarti Pharmalabs, Universal Cables hit 20% upper circuits",
+      "title": "Japanese equities rally on AI and rate-cut hopes",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/kwality-pharma-aarti-pharmalabs-universal-cables-hit-20-upper-circuits-126081000830_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-equities-rally-on-ai-and-rate-cut-hopes-126081001033_1.html",
       "date": "Mon, 10 Aug 2026",
-      "desc": "The share price of Kwality Pharmaceuticals hit a new high of \u20b93,130.85 on Monday. The stock zoomed 183% thus far in the calendar year 2026.",
+      "desc": "\n\nInvestors also continued to monitor geopolitical developments in the Middle East. While the US indicated that a potential agreement with Iran could be close, Iran denied reports of direct negotiatio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "China equities gain on policy support hopes",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/china-equities-gain-on-policy-support-hopes-126081001032_1.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "\n\nChina's consumer inflation eased to 0.5% year-on-year in July, marking a six-month low, mainly due to lower food prices and slower growth in non-food costs. Producer price inflation also moderated t",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Large currency speculators slightly reduce net short position in Pound futures market",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/large-currency-speculators-slightly-reduce-net-short-position-in-pound-futures-market-126081001027_1.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "\nLarge currency speculators slightly decreased net shorts in Pound futures market, according to the latest Commitment of Traders (COT) data released by the Commodity Futures Trading Commission (CFTC).",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Motilal Oswal AMC surpasses \u20b92 trillion assets under management in August",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/motilal-oswal-amc-surpasses-2-trillion-assets-under-management-in-august-126081000921_1.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "Motilal Oswal Asset Management Company on Monday announced that its total Assets Under Management (AUM) across its Mutual Fund, Alternative Investment Fund (AIF), and Portfolio Management Services (PM",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IPO boom meets investor caution as FY26 signals more mature market: Report",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/india-ipo-market-hits-record-fy26-but-investors-turn-selective-126081001000_1.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "India's IPO market raised a record \u20b91.9 trn in FY26, but listing gains and subscription levels fell as investors became more selective on valuations, governance and earnings quality, finds report",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Salzer Electronics slips after Q1 adjusted PAT drops 53% YoY",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/salzer-electronics-slips-after-q1-adjusted-pat-drops-53-yoy-126081000996_1.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "Salzer Electronics fell 6.19% to Rs 571.25 after reporting weaker profitability for the quarter ended 30 June 2026.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 10 August: Hitachi Energy, Paytm, Titian, BSE, BEML, Lenskart among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-10-august-hitachi-energy-paytm-titian-bse-beml-lenskart-among-top-gainers-11786356700006.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "On August 10, the Indian stock market traded within a narrow range amid Middle East tensions affecting oil prices. Nifty 50 saw a slight increase of 0.05%, while Sensex dipped 0.06%. Sector performanc",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty 50 end flat; elevated oil prices, Middle East uncertainty weigh on sentiment",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-end-flat-elevated-oil-prices-middle-east-uncertainty-weigh-on-sentiment-11786356194595.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "The Sensex rose 43 points, or 0.06%, to end at 78,542, while the Nifty 50 inched up by 13 points, or 0.05%, to settle at 24,583.80.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shiprocket IPO: GMP signals over 25% listing gains; 5 key things to know from RHP",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-signals-over-25-listing-gains-5-key-things-to-know-from-rhp-11786349923617.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "The upcoming Shiprocket IPO, set for August 12-14, aims to raise  \u20b91,617 crore, with strong grey market signals suggesting a robust listing. This article breaks down the key details investors must kno",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NSE SME stock set for mainboard listing close to 52-week high after Q1FY27 results",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-sme-stock-set-for-mainboard-listing-close-to-52-week-high-after-q1fy27-results-11786353510282.html",
+      "date": "Mon, 10 Aug 2026",
+      "desc": "Swaraj Suiting share price rose nearly 1% on August 10, nearing a 52-week high due to strong Q1FY27 results. Revenue increased 138.8% YoY to  \u20b9183.37 crore, and net profit doubled to  \u20b916.22 crore, su",
       "tags": [],
       "is_portfolio": false
     },
@@ -216,42 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/hitachi-energy-india-shares-zoom-11-after-q1-results-2026-do-you-own-11786348424164.html",
       "date": "Mon, 10 Aug 2026",
       "desc": "Hitachi Energy India shares rose over 11% after reporting a net profit of  \u20b9294 crore in Q1 FY27, up from  \u20b9131.6 crore a year earlier. Revenue surged to  \u20b92,493.7 crore, reflecting strong demand in e",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India Inc raises dividends, but payout ratio hits 12-year low in FY26",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/india-dividend-payouts-fy26-rise-8-percent-payout-ratio-12-year-low-11786342196867.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "A Mint analysis of BSE 500 companies, based on unaudited results and including proposed dividends, showed that aggregate payouts rose 8.2% year-on-year to  \u20b95.13 trillion in FY26, slowing from an 11.9",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SBI\u2019s Q1 beat is strong, but can it trigger a rerating?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/sbi-state-bank-of-india-q1fy27-results-bank-stocks-nii-nim-credit-growth-asset-quality-gold-loans-fcnr-deposits-11786344957270.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "SBI\u2019s Q1FY27 beat, improving margins and strong credit growth bolster its earnings outlook, but with the stock no longer deeply valued, sustained returns will be key to a rerating.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Solar power stock jumps 5% after this Capex expansion update",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/solar-power-stock-fujiyama-power-systems-jumps-5-after-this-capex-expansion-update-11786347132337.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Fujiyama Power Systems share price opened at  \u20b9411.50 apiece today, as compared to the previous close of  \u20b9389.95 on Friday.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shein IPO Value to Fall Short of $30 Billion Targeted by Some Investors, BI Says",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/shein-ipo-value-to-fall-short-of-30-billion-targeted-by-some-investors-bi-says-11786348811770.html",
-      "date": "Mon, 10 Aug 2026",
-      "desc": "Shein Global Holdings Ltd.\u2019s fast-fashion niche supports a valuation of $22 billion to $25 billion, Bloomberg Intelligence said, putting a fresh marker on one of the biggest questions surrounding the ",
       "tags": [],
       "is_portfolio": false
     }
