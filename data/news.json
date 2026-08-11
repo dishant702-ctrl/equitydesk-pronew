@@ -1,16 +1,50 @@
 {
-  "updated_ist": "11 Aug 2026 11:06 IST",
+  "updated_ist": "11 Aug 2026 12:08 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hor",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oil India shares jump over 5%. What made Emkay upgrade the stock after Q1 results",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-over-5-what-made-emkay-upgrade-the-stock-after-q1-results/articleshow/133143729.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Oil India shares jumped over 5% after strong Q1FY27 results prompted Emkay Global to upgrade the stock to \u2018Buy\u2019. The brokerage cited attractive valuations, higher crude production and improving gas ev",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jubilant Pharmova shares decline 6% after Q1 profits falls 45% YoY",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jubilant-pharmova-shares-decline-6-after-q1-profits-falls-45-yoy/articleshow/133143391.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Jubilant Pharmova shares fell after Q1 profit plunged 45% YoY to Rs 56 crore, despite revenue rising 17% to Rs 2,229 crore. The profit decline was attributed to weaker operating profitability and high",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PC Jeweller share price jumps 6% as Q1FY27 profit surges 37% YoY, revenue up 21%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-share-price-jumps-6-as-q1fy27-profit-surges-37-yoy-revenue-up-21/articleshow/133143035.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "PC Jeweller shares rose sharply after Q1FY27 profit jumped 37% year-on-year and revenue grew 21%. The jewellery retailer also reported a sharp improvement in operating profitability, continued progres",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "4 Vedanta Group stocks to see inflows worth $160 million in Nifty September rejig. What investors must know",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/4-vedanta-group-stocks-to-see-inflows-worth-160-million-in-nifty-september-rejig-what-investors-must-know/articleshow/133143084.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Four newly demerged Vedanta entities could attract combined passive inflows of up to $159 million following the NSE Indices\u2019 September 2026 reshuffle, according to Nuvama Alternative and Quantitative ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Forget gold and stocks: Nvidia CEO Jensen Huang aims to make chips an investable asset, lines up $500 bn in financing",
@@ -40,146 +74,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Gland Pharma shares rally 12% after Q1FY27 profit jumps 47% YoY. Should you buy, sell or hold?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gland-pharma-shares-rally-12-after-q1fy27-profit-jumps-47-yoy-should-you-buy-sell-or-hold/articleshow/133142679.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Gland Pharma shares rose sharply after Q1FY27 profit rose 47% and revenue grew 20% year-on-year. While strong margins and CDMO growth prompted Elara Securities to raise its earnings estimates, the bro",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Paytm shares recover 410% from 2024 low, but will long-awaiting IPO investors finally see redemption?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-recover-410-from-2024-low-but-will-long-awaiting-ipo-investors-finally-see-redemption/articleshow/133142649.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Paytm shares have soared over 410 percent from their lowest levels, igniting hopes among investors that the stock will soon hit its initial public offering price. Bernstein's increased target price of",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Eternal vs Swiggy: The quick commerce war is on. Which stock should you own after Q1?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-vs-swiggy-the-quick-commerce-war-is-on-which-stock-should-you-own-after-q1/articleshow/133142469.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "The rivalry in the quick commerce sector heats up as Q1 results show stark contrasts between Eternal and Swiggy. While Swiggy leans towards aggressive growth supported by robust funding, Eternal place",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Singapore raises 2026 growth forecast on AI boom, resilient global economy",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-singapore-raises-2026-growth-forecast-on-ai-boom-resilient-global-economy/articleshow/133142372.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Singapore raised its 2026 economic growth forecast to 4.5%-5.5% from 2.0%-4.0%, supported by stronger-than-expected AI investment and a milder impact from the Middle East conflict. The economy grew 5.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Infosys, Vedanta among 10 stocks that saw the sharpest decrease in LIC holdings in Q1. See full list",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-vedanta-among-10-stocks-that-saw-the-sharpest-decrease-in-lic-holdings-in-q1-see-full-list/slideshow/133142456.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": " Life Insurance Corporation of India has notably trimmed its investments across several leading firms. The reductions in shareholdings were particularly pronounced in Infosys and Vedanta during the la",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Flair Cyrosil Industries to add its 4th manufacturing line for stainless steel bottles",
+      "title": "Minister highlights need to enhance private sector participation in India's Biotechnology ecosystem",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/flair-cyrosil-industries-to-add-its-4th-manufacturing-line-for-stainless-steel-bottles-126081100433_1.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Flair Writing Industries announced that its subsidiary, Flair Cyrosil Industries (FCIPL) has placed an order for a fourth state-of-the-art manufacturing line for stainless steel bottles. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Yen slides past 159 as US-Japan intervention effect diminishes",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/yen-slides-past-159-as-us-japan-intervention-effect-diminishes-126081100412_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/minister-highlights-need-to-enhance-private-sector-participation-in-india-s-biotechnology-ecosystem-126081100562_1.html",
       "date": "Tue, 11 Aug 2026",
       "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Escorts Kubota rises after tractor price hike announcement",
+      "title": "Kolte-Patil Developers surges 16% after Q1 PAT turns positive",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/escorts-kubota-rises-after-tractor-price-hike-announcement-126081100411_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kolte-patil-developers-surges-16-after-q1-pat-turns-positive-126081100543_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Escorts Kubota rose 1.22% to Rs 3,122.20 after the company announced that its Agri Machinery Business Division will increase tractor prices across all its brands in August 2026.",
+      "desc": "Kolte-Patil Developers surged 15.95% to Rs 535.90 after reporting strong financial performance for the quarter ended 30 June 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IRB Infra reports 26% YoY rise in July toll revenue",
+      "title": "GHV Infra Projects slips after Q1 PAT declines 43% QoQ to Rs 11 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/irb-infra-reports-26-yoy-rise-in-july-toll-revenue-126081100410_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ghv-infra-projects-slips-after-q1-pat-declines-43-qoq-to-rs-11-cr-126081100542_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "IRB Infrastructure Developers reported that its IRB Group recorded an approximately 26% year-on-year (YoY) increase in toll revenue to Rs 798 crore in July 2026, compared with Rs 633 crore in July 202",
+      "desc": "GHV Infra Projects dropped 4.72% to Rs 268.20 after the company reported a 43.27% decline in standalone net profit to Rs 11.25 crore in Q1 FY27, compared with Rs 19.84 crore in Q4 FY26.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gland Pharma rallies 12%, hits 4-year high; should you buy, hold or sell?",
+      "title": "HDFC Bank stock hits 2-year low, tanks 12% in one month",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gland-pharma-rallies-12-hits-4-year-high-should-you-buy-hold-or-sell-126081100343_1.html",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-stock-hits-2-year-low-tanks-12-in-one-month-126081100440_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Gland Pharma Share: The market price of Gland Pharma hit a high of \u20b92,989.2 in intra-day deals on Tuesday. The stock bounced back 90 per cent from its 52-week low of \u20b91,575 touched on March 16, 2026.",
+      "desc": "HDFC Bank stock: Thus far in the calendar year 2026, HDFC Bank underperformed the market by falling 27 per cent, compared to a 8.2 per cent decline in the BSE Sensex.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kolte-Patil shares zoom 19% to hit fresh 52-wk high after Q1 turnaround",
+      "title": "U.S. Stocks Edge Down From Record Highs While Oil Prices Rise Amid Strait of Hormuz Uncertainty",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/kolte-patil-shares-zoom-19-to-hit-fresh-52-wk-high-after-q1-turnaround-126081100376_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/u-s-stocks-edge-down-from-record-highs-while-oil-prices-rise-amid-strait-of-hormuz-uncertainty-126081100490_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Kolte Patil Developers' net profit was \u20b9146.3 crore for the first quarter of FY27, compared with a loss of \u20b917 crore in the corresponding quarter last year.",
+      "desc": "Markets dip slightly as investors await key inflation data, while major corporate acquisitions and Berkshire Hathaway's latest moves spark trading activity.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "KEC International slips after weak Q1 performance",
+      "title": "Bharat Electronics bags additional orders worth Rs 541 crore",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kec-international-slips-after-weak-q1-performance-126081100373_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-electronics-bags-additional-orders-worth-rs-541-crore-126081100489_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "KEC International declined 2.85% to Rs 461.95 after the company reported 42% fall in consolidated net profit to Rs 73 crore in Q1 FY27 from Rs 125 crore in Q1 FY26.",
+      "desc": "Bharat Electronics announced that it has secured additional orders worth Rs 541 crore since its last disclosure on 31 July 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ind-Swift Laboratories surges after Q1 PAT zooms 183% YoY",
+      "title": "Coforge launches private equity business unit",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ind-swift-laboratories-surges-after-q1-pat-zooms-183-yoy-126081100355_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/coforge-launches-private-equity-business-unit-126081100471_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Ind-Swift Laboratories surged 18.19% to Rs 280.40 after reporting strong financial performance for the quarter ended 30 June 2026.",
+      "desc": "Coforge announced the launch of a new business unit focused on the Private Equity (PE) sector. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold rises \u20b91,600 on MCX, silver jumps \u20b93,132 on safe-haven demand",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/commodities/gold-rises-1-600-on-mcx-silver-jumps-3-132-on-safe-haven-demand-126081100441_1.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "In the global market, gold was trading near $4,450 per ounce on Comex, while silver was around $66 per ounce",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty Rejig: BSE to enter Nifty 50, Wipro moves to Nifty Next 50; Hitachi Energy, Polycab join Nifty 100",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-rejig-bse-to-enter-nifty-50-wipro-moves-to-nifty-next-50-hitachi-energy-polycab-join-nifty-100-11786428654633.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "NSE Indices will implement a significant reshuffle of its indices, including changes to Nifty 50, Nifty 100, Nifty Next 50, and Nifty 500, effective 30 September 2026. Key shifts include the inclusion",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PC Jeweller share price jumps 5% after Q1 results 2026. Do you own?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "PC Jeweller share price opened at  \u20b910.20 apiece today, as compared to previous close of  \u20b99.82 on Monday. The multibagger jewellery stock touched an intraday high of  \u20b910.57 on 11 August.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Blue Cloud shares jump over 30% in 2 days after joining hands with Malaysia's SpaceX International for AI infra",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/blue-cloud-shares-jump-over-30-in-2-days-after-joining-hands-with-spacex-for-ai-infra-11786426650460.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "In just two sessions, Blue Cloud share price has surged nearly 31%. The stock hit a 52-week low of  \u20b916.51 on 27 January 2026 after hitting a 52-week high of  \u20b938 on 6 November 2025.&amp;nbsp;",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Molbio Diagnostics IPO Day 2: Issue subscribed 1.22 times so far. Check GMP, size, &amp; other details - Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-day-2-issue-subscribed-1-22-times-so-far-check-gmp-size-other-details-apply-or-not-11786423916760.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "The grey market is indicating strong demand for the Molbio Diagnostics IPO, with the latest grey market premium (GMP) at around  \u20b9124 per share.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Ardee Industries IPO listing on Wednesday; GMP signals healthy listing pop. Details here",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-listing-on-wednesday-gmp-signals-healthy-listing-pop-details-here-11786424152963.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Ardee Industries shares are attracting investors' attention in grey markets. The latest grey market premium (GMP) suggests the stock could list at a decent double-digit premium.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Technocraft Ventures IPO Day 3: Issue subscribed 7.35x so far. Check GMP, key dates, review. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-gmp-technocraft-ventures-ipo-subscription-status-technocraft-ventures-ipo-review-technocraft-11786423683314.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Technocraft Ventures IPO was subscribed 4.73 times by day two, following  \u20b975.55 crore raised from anchor investors. With a price band of  \u20b9200-212 per share, the IPO closes Tuesday. The company, focu",
       "tags": [],
       "is_portfolio": false
     },
@@ -193,65 +209,11 @@
       "is_portfolio": false
     },
     {
-      "title": "Milky Mist IPO Day 1: Issue booked 13% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
+      "title": "Milky Mist IPO Day 1: Issue booked 18% so far. Check GMP, key dates, review, issue details. Should you apply or skip?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-milky-mist-ipo-subscription-status-milky-mist-ipo-details-milky-mist-ipo-review-milky-mist-ipo-11786421264864.html",
       "date": "Tue, 11 Aug 2026",
       "desc": "The Milky Mist Dairy Food IPO is set for August 11-13, priced at  \u20b9133-140 per share. The company raised  \u20b9465.30 crore from anchor investors, aiming to fund expansion and repay borrowings.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy for short term: Mphasis, Asian Paints among 6 stocks experts recommend buying today for next 1-2 weeks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mphasis-asian-paints-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11786418195442.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Experts recommend six stocks to buy for the next 1-2 weeks, including Mphasis and Asian Paints, backed by strong technical indicators and bullish trends. Discover the stocks showing potential for upsi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Adani Energy to Adani Ports: Adani Group shares rise as the US Court dismisses criminal case against Gautam Adani",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/adani-power-to-adani-ports-adani-group-shares-rise-as-the-us-court-dismisses-criminal-case-against-gautam-adani-11786422001690.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Adani Group stocks like Adani Enterprises, Adani Energy Solutions, Adani Ports, Adani Total Gas were trading higher after the the US Court dismisses criminal case against Gautam Adani.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dhoot Transmission IPO Day 2 LIVE: GMP, subscription, review, other details. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-day-2-live-gmp-subscription-review-other-details-apply-or-not-11786420827823.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Dhoot Transmission IPO GMP: According to Investorgain, the company shares are available at a premium of  \u20b9250 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nikkei, Kospi to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-equity-heatmap-you-must-know-before-the-opening-bell-of-the-indian-stock-market-11786417558377.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Global markets: The US equities equities were little changed on Monday, as crude oil extended its rally amid fading hopes of reopening of the Strait of Hormuz",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "MCX gold jumps over  \u20b91,55,100 per 10 grams, silver trades above  \u20b92,39,400 per kg; Middle East, US inflation in focus",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/mcx-gold-jumps-over-1-55-060-per-10-grams-silver-trades-above-2-39-000-per-kg-middle-east-us-inflation-in-focus-11786418608520.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "MCX gold October futures jumped to  \u20b91,55,124 per 10 grams, while MCX silver September futures rose to  \u20b92,39,400 per kg in the morning trade.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 9 paise lower at 95.39 against US dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-9-paise-lower-at-95-39-against-us-dollar-11786419156023.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "The rupee opened lower at 95.39 against the US dollar on 11 August due to high oil prices and U.S.-Iran tensions, with RBI interventions supporting it. Market experts highlight financial pressures fro",
       "tags": [],
       "is_portfolio": false
     }
