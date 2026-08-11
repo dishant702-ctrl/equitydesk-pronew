@@ -1,17 +1,6 @@
 {
-  "updated_ist": "11 Aug 2026 13:27 IST",
+  "updated_ist": "11 Aug 2026 14:39 IST",
   "news": [
-    {
-      "title": "Bitcoin slips to $64K, Ethereum below $1,900 amid crypto market volatility",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-slips-to-64k-ethereum-below-1900-amid-crypto-market-volatility/articleshow/133146858.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Bitcoin slipped below the $64,000 mark and Ethereum fell below $1,900 on Tuesday as crypto markets came under renewed pressure amid macroeconomic uncertainty and leveraged positioning, triggering anot",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,76 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Swan Defence zooms 620% in a year; is this stupendous rally sustainable?",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/swan-defence-share-jump-620-in-a-year-what-s-driving-the-rally-126081100788_1.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Notably, Swan Defence acquired Reliance Naval and Engineering in 2023, and shares of the shipbuilding and heavy engineering firm recommenced trading on the bourses in January 2025.",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Aswath Damodaran shares 3 lessons investors can learn from rise and fall of Leopold Aschenbrenner's AI fund",
+      "title": "Intel\u2019s $15 billion stock sale. Why shares fell despite AI boom",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aswath-damodaran-shares-3-lessons-investors-can-learn-from-rise-and-fall-of-leopold-aschenbrenners-ai-fund/articleshow/133146739.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/intels-15-billion-stock-sale-why-shares-fell-despite-ai-boom/slideshow/133148896.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Aswath Damodaran has shared three lessons investors can learn from the rise and fall of Leopold Aschenbrenner\u2019s AI-focused hedge fund, Situational Awareness. He cautioned against excessive leverage, h",
+      "desc": "Intel shares fell after the company announced the offering, as investors worried about share dilution ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Stock Market: Adit Ventures under SEC scrutiny over SpaceX-linked investment deals",
+      "title": "How Wipro's Nifty exit shows old warhorse Indian IT is losing charm",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-adit-ventures-under-sec-scrutiny-over-spacex-linked-investment-deals/articleshow/133144822.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-nifty-exit-shows-old-warhorse-indian-it-is-losing-charm/articleshow/133147925.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "The SEC has brought settled fraud charges against Adit Ventures Management, its founder Eric Munson and three partners over alleged misconduct involving pre-IPO investments in companies including Klar",
+      "desc": "Wipro\u2019s exit from the Nifty 50 and BSE\u2019s inclusion highlight the shifting composition of India\u2019s benchmark index. The move comes as IT stocks face concerns over AI disruption and weakening investor in",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jupiter Wagons shares rise 4% after Rs 211 crore order wins, Rs 400 crore BESS project",
+      "title": "US officials seek to strengthen domestic supply chains as foreign manufacturing investment surges",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-shares-rally-4-after-rs-211-crore-order-wins-rs-400-crore-bess-project/articleshow/133144988.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-officials-seek-to-strengthen-domestic-supply-chains-as-foreign-manufacturing-investment-surges/articleshow/133147619.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Jupiter Wagons marked a notable surge in share prices due to securing significant contracts for freight wagons and energy storage solutions. With orders exceeding Rs 211 crore from the JSW Group and O",
+      "desc": "US officials are working to strengthen domestic manufacturing supply chains as foreign investment rises under President Donald Trump\u2019s tariff and deregulation policies. Officials are seeking to help s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aarti Pharmalabs shares rally over 33% in two days post Q1 results. What is driving the surge?",
+      "title": "25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aarti-pharmalabs-shares-rally-over-33-in-two-days-post-q1-results-what-is-driving-the-surge/articleshow/133144352.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/25-year-old-hedge-fund-manager-who-lost-35-billion-in-a-month-eyes-fresh-capital-after-ai-stock-selloff/articleshow/133147747.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Aarti Pharmalabs shares have surged 33% in two days after the company reported a 65.4% year-on-year rise in Q1FY27 profit and 38.7% growth in revenue. The rally was further supported by a Rs 149-crore",
+      "desc": "Leopold Aschenbrenner\u2019s AI-focused hedge fund, Situational Awareness, lost around $35 billion in weeks after leveraged bets on AI stocks turned sour. Despite the sharp losses, the 25-year-old fund man",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SpaceX rally signals stronger growth ahead with Starlink and AI",
+      "title": "Without Warren Buffett, Berkshire Hathaway is no longer an attractive investment: \u2018Big Short\u2019 fame Michael Burry",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-rally-signals-stronger-growth-ahead-with-starlink-and-ai/slideshow/133144030.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/without-warren-buffett-berkshire-hathaway-is-no-longer-an-attractive-investment-big-short-fame-michael-burry/articleshow/133147802.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "SpaceX shares reclaimed their IPO price after a three-session rally, recovering sharply from recent lows. The stock\u2019s outlook is being supported by bullish expectations around Starlink, orbital AI inf",
+      "desc": "Veteran investor Michael Burry said Berkshire Hathaway has lost its investment appeal after Warren Buffett\u2019s succession, arguing that Greg Abel may lack Buffett\u2019s patience for major opportunities. Bur",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+      "title": "ideaForge Technology shares slide 5% after Q1 gross profit margin falls 49%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ideaforge-technology-shares-slide-5-after-q1-gross-profit-margin-falls-49/articleshow/133147754.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hor",
+      "desc": "ideaForge Technology shares fell after its Q1 gross profit margin declined to 49% from 62% a year ago and 68% in the previous quarter. Gross profit rose to Rs 33.6 crore and revenue increased to Rs 68",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil India shares jump over 5%. What made Emkay upgrade the stock after Q1 results",
+      "title": "Lumax Auto Technologies shares rally 19% after Q1 earnings",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-shares-jump-over-5-what-made-emkay-upgrade-the-stock-after-q1-results/articleshow/133143729.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lumax-auto-technologies-shares-rally-19-after-q1-earnings/articleshow/133147709.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Oil India shares jumped over 5% after strong Q1FY27 results prompted Emkay Global to upgrade the stock to \u2018Buy\u2019. The brokerage cited attractive valuations, higher crude production and improving gas ev",
+      "desc": "Lumax Auto Technologies shares surged after Q1 profit jumped 83% YoY to Rs 99 crore, while revenue grew 33% to Rs 1,364 crore. EBITDA rose 51% to Rs 205 crore, with margins expanding 190 bps to 15.1% ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indian bonds skid as crude soars, Treasuries fall",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-indian-bonds-skid-as-crude-soars-treasuries-fall/articleshow/133146987.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Early Tuesday saw a drop in Indian government bonds, reflecting a broader selloff in US Treasury markets. The rise in crude prices has reignited concerns over inflation, thus influencing market attitu",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,65 +112,101 @@
       "is_portfolio": false
     },
     {
-      "title": "Vodafone Idea share price rises 3% on narrower losses in Q1, rise in Arpu",
+      "title": "Bondada Group bags 200 MW / 400 MWh BESS projects and order for 100 BSNL towers",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/vodafone-idea-share-price-rises-3-on-narrower-losses-in-q1-rise-in-arpu-126081100805_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bondada-group-bags-200-mw-400-mwh-bess-projects-and-order-for-100-bsnl-towers-126081100997_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Vodafone Idea share price gained 3 per cent to hit \u20b913.30 against the last closing price of \u20b912.91 apiece on the BSE. This marks the third straight day of gains for the stock.",
+      "desc": "Consolidated order book now totals Rs 10,023 cr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zydus Lifesciences Ltd gains for third straight session",
+      "title": "Molbio Diagnostics IPO fully subscribed on day 2; NIIs lead with 3x bids",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zydus-lifesciences-ltd-gains-for-third-straight-session-126081100812_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/molbio-diagnostics-ipo-fully-subscribed-on-day-2-niis-lead-with-3x-bids-126081100968_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Zydus Lifesciences Ltd is quoting at Rs 1159, up 3.57% on the day as on 12:49 IST on the NSE. The stock is up 21.28% in last one year as compared to a 0.12% slide in NIFTY and a 22.17% slide in the Ni",
+      "desc": "The company's IPO garnered bids for 1,83,79,566 shares against 81,58,529 shares on offer, as per BSE data.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bosch Ltd rises for third straight session",
+      "title": "Hazoor Multi Projects secures toll collection and facilities maintenance contract from NHAI",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bosch-ltd-rises-for-third-straight-session-126081100811_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hazoor-multi-projects-secures-toll-collection-and-facilities-maintenance-contract-from-nhai-126081100972_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Bosch Ltd is quoting at Rs 45410, up 4.38% on the day as on 12:49 IST on the NSE. The stock is up 17.61% in last one year as compared to a 0.12% slide in NIFTY and a 23.97% slide in the Nifty Auto ind",
+      "desc": "At Ramnagar fee plaza on New NH27 in Madhya Pradesh",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Triveni Turbine drops after Q1 PAT declines 21% YoY to Rs 51 cr",
+      "title": "EIA expects India's liquid fuels consumption to see decent rise next year",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/triveni-turbine-drops-after-q1-pat-declines-21-yoy-to-rs-51-cr-126081100796_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/eia-expects-india-s-liquid-fuels-consumption-to-see-decent-rise-next-year-126081100971_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Triveni Turbine declined 5.77% to Rs 599.95 after the company reported a 20.78% decline in consolidated net profit to Rs 51.1 crore, despite a 19.23% increase in revenue from operations to Rs 442.7 cr",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MRF consolidated net profit declines 1.29% in the June 2026 quarter",
+      "title": "Table Space files DRHP with Sebi for \u20b9800 crore fresh issue, OFS",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/mrf-consolidated-net-profit-declines-1-29-in-the-june-2026-quarter-126081100795_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/table-space-files-drhp-for-ipo-with-rs-800-crore-fresh-issue-126081100967_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Sales rise 9.64% to Rs 8415.50 crore",
+      "desc": "The managed workspace provider's IPO will also include an OFS of up to 65.48 million shares, with proceeds earmarked for debt repayment, acquisitions and corporate purposes",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Apex Capital and Finance standalone net profit rises 74.36% in the June 2026 quarter",
+      "title": "Dev Information Technology secures order worth Rs 5.33 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/apex-capital-and-finance-standalone-net-profit-rises-74-36-in-the-june-2026-quarter-126081100794_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dev-information-technology-secures-order-worth-rs-5-33-cr-126081100934_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Sales rise 65.77% to Rs 2.47 crore",
+      "desc": "From Revenue Department, Government of Gujarat",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Globus Power Generation reports standalone net loss of Rs 0.03 crore in the June 2026 quarter",
+      "title": "Info Edge extends rally, surges 13% in two days on heavy volume post Q1",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/globus-power-generation-reports-standalone-net-loss-of-rs-0-03-crore-in-the-june-2026-quarter-126081100793_1.html",
+      "link": "https://www.business-standard.com/markets/news/info-edge-extends-rally-surges-13-in-2-days-on-heavy-volumes-post-q1-126081100825_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Reported sales  nil",
+      "desc": "Q1FY27 marks a meaningful improvement in Info Edge's growth trajectory, although the sustainability of recruitment volume growth and Shiksha's traffic headwinds remain key monitorables, say analysts.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty drops amid weak global cues; European mrkt decline",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-drops-amid-weak-global-cues-european-mrkt-decline-126081100874_1.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "\nMarket participants are assessing a slew of Q1 FY27 earnings announcements, with sector- and stock-specific movements remaining in focus amid the ongoing earnings season while keeping a close watch t",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bharat Forge\u2019s cost pressures dampen defence-driven euphoria",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/bharat-forge-share-price-q1-results-margin-pressure-defence-business-11786431017999.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Bharat Forge revised the FY27 revenue growth guidance for its Indian manufacturing business from 25% in Q4FY26 to 20-25%. While this suggests improving traction in H2FY27, some brokerages have cut ear",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IPO GMPs: Milky Mist IPO to Technocraft Ventures IPO \u2014 what grey market hints",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-dhoot-transmission-ipo-gmp-molbio-diagnostics-ipo-gmp-leap-india-ipo-gmp-technocraft-ventures-ipo-gmp-11786433303597.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "The primary market remains active with several IPOs. Milky Mist Dairy Food IPO opened today with cautious investor response, while Dhoot Transmission and Molbio Diagnostics IPOs are fully subscribed. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Behari Lal Engineering IPO: GMP to price band - 10 things to know ahead of issue opening on Wednesday",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-to-price-band-10-things-to-know-ahead-of-issue-opening-on-wednesday-11786433756899.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Behari Lal Engineering IPO: The price band for the Behari Lal Engineering IPO has been set at  \u20b9271\u2013 \u20b9285 per equity share, with a face value of  \u20b910.",
       "tags": [],
       "is_portfolio": false
     },
@@ -229,33 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/pc-jeweller-share-price-jumps-5-after-q1-results-2026-do-you-own-11786426853564.html",
       "date": "Tue, 11 Aug 2026",
       "desc": "PC Jeweller share price opened at  \u20b910.20 apiece today, as compared to previous close of  \u20b99.82 on Monday. The multibagger jewellery stock touched an intraday high of  \u20b910.57 on 11 August.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Blue Cloud shares jump over 30% in 2 days after joining hands with Malaysia's SpaceX International for AI infra",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/blue-cloud-shares-jump-over-30-in-2-days-after-joining-hands-with-spacex-for-ai-infra-11786426650460.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "In just two sessions, Blue Cloud share price has surged nearly 31%. The stock hit a 52-week low of  \u20b916.51 on 27 January 2026 after hitting a 52-week high of  \u20b938 on 6 November 2025.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Molbio Diagnostics IPO Day 2: Issue subscribed 1.75 times so far. Check GMP, size, &amp; other details - Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-day-2-issue-subscribed-1-22-times-so-far-check-gmp-size-other-details-apply-or-not-11786423916760.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "The grey market is indicating strong demand for the Molbio Diagnostics IPO, with the latest grey market premium (GMP) at around  \u20b9124 per share.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ardee Industries IPO listing on Wednesday; GMP signals healthy listing pop. Details here",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/ardee-industries-ipo-listing-on-wednesday-gmp-signals-healthy-listing-pop-details-here-11786424152963.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Ardee Industries shares are attracting investors' attention in grey markets. The latest grey market premium (GMP) suggests the stock could list at a decent double-digit premium.",
       "tags": [],
       "is_portfolio": false
     }
