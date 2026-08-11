@@ -1,27 +1,50 @@
 {
-  "updated_ist": "11 Aug 2026 15:43 IST",
+  "updated_ist": "11 Aug 2026 16:37 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Rupee retreats to near two-week low, closes at 95.43 vs USD as US-Iran standoff pushes oil higher",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-near-two-week-low-closes-at-95-43-vs-usd-as-us-iran-standoff-pushes-oil-higher/articleshow/133150919.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "The Indian rupee tumbled to a two-week low on Tuesday as surging oil prices and waning optimism regarding a U.S.-Iran deal pressured the currency. The Reserve Bank of India stepped in to mitigate the ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
-      "title": "Rhetan TMT Ltd leads losers in 'B' group",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rhetan-tmt-ltd-leads-losers-in-b-group-126081101127_1.html",
+      "title": "Is Microsoft overbuilding AI capacity? Bernstein says no, raises target price to $660",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/is-microsoft-overbuilding-ai-capacity-bernstein-says-no-raises-target-price-to-660/articleshow/133150784.cms",
       "date": "Tue, 11 Aug 2026",
-      "desc": "HLE Glascoat Ltd, Fermenta Biotech Ltd, GTPL Hathway Ltd and RMC Switchgears Ltd are among the other losers in the BSE's 'B' group today, 11 August 2026.",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
+      "desc": "Bernstein maintains an Outperform rating on Microsoft and raises its target to $660, citing disciplined AI infrastructure spending, flexible datacenters, staggered commitments and strong fundamentals ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "KPI Green Energy Q1 Results: Net profit dips 14% at Rs 95 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q1-results-net-profit-dips-14-at-rs-95-crore/articleshow/133150517.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "KPI Green Energy experienced a fourteen percent dip in net profit for the June quarter, signaling the effects of geopolitical tensions and rising costs on financing and depreciation. Despite this, the",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Zydus Lifesciences Q1 Results: Net profit down 36% at Rs 939.8 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zydus-lifesciences-q1-results-net-profit-down-36-at-rs-939-8-crore/articleshow/133150477.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Zydus Lifesciences reported a significant year-on-year decline of thirty-six percent in net profit for the first quarter, despite a robust twenty-two percent increase in operational revenue, reaching ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Siemens Q1 Results: Net profit declines 18% to Rs 343 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-net-profit-declines-18-to-rs-343-crore/articleshow/133150416.cms",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Siemens Ltd reported a decline in net profit of over eighteen percent in the June quarter, largely due to fluctuating commodity prices and rising material costs. On a positive note, the company experi",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Axis Direct highlights 3 stocks showing bullish momentum for August. Do you own any?",
@@ -51,137 +74,110 @@
       "is_portfolio": false
     },
     {
-      "title": "Intel\u2019s $15 billion stock sale. Why shares fell despite AI boom",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/intels-15-billion-stock-sale-why-shares-fell-despite-ai-boom/slideshow/133148896.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Intel shares fell after the company announced the offering, as investors worried about share dilution ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "How Wipro's Nifty exit shows old warhorse Indian IT is losing charm",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-wipros-nifty-exit-shows-old-warhorse-indian-it-is-losing-charm/articleshow/133147925.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Wipro\u2019s exit from the Nifty 50 and BSE\u2019s inclusion highlight the shifting composition of India\u2019s benchmark index. The move comes as IT stocks face concerns over AI disruption and weakening investor in",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US officials seek to strengthen domestic supply chains as foreign manufacturing investment surges",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-officials-seek-to-strengthen-domestic-supply-chains-as-foreign-manufacturing-investment-surges/articleshow/133147619.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "US officials are working to strengthen domestic manufacturing supply chains as foreign investment rises under President Donald Trump\u2019s tariff and deregulation policies. Officials are seeking to help s",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/25-year-old-hedge-fund-manager-who-lost-35-billion-in-a-month-eyes-fresh-capital-after-ai-stock-selloff/articleshow/133147747.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Leopold Aschenbrenner\u2019s AI-focused hedge fund, Situational Awareness, lost around $35 billion in weeks after leveraged bets on AI stocks turned sour. Despite the sharp losses, the 25-year-old fund man",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Without Warren Buffett, Berkshire Hathaway is no longer an attractive investment: \u2018Big Short\u2019 fame Michael Burry",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/without-warren-buffett-berkshire-hathaway-is-no-longer-an-attractive-investment-big-short-fame-michael-burry/articleshow/133147802.cms",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Veteran investor Michael Burry said Berkshire Hathaway has lost its investment appeal after Warren Buffett\u2019s succession, arguing that Greg Abel may lack Buffett\u2019s patience for major opportunities. Bur",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Info Edge clocks PAT of Rs 246 crore for Q1 FY27; billings up over 14% YoY",
+      "title": "Kusumgar standalone net profit rises 882.63% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/info-edge-clocks-pat-of-rs-246-crore-for-q1-fy27-billings-up-over-14-yoy-126081101130_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kusumgar-standalone-net-profit-rises-882-63-in-the-june-2026-quarter-126081101274_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Info Edge (India) has reported 5.4% fall in standalone net profit to Rs 246 crore despite a 12% rise in revenue from operations to Rs 824 crore in Q1 FY27 as compared with Q1 FY26.",
+      "desc": "Sales rise 93.59% to Rs 241.91 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Finolex Cables hits 52-week high after Q1 PAT climbs 59% YoY to Rs 221 cr",
+      "title": "Escorp Asset Management standalone net profit rises 460.27% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/finolex-cables-hits-52-week-high-after-q1-pat-climbs-59-yoy-to-rs-221-cr-126081101129_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/escorp-asset-management-standalone-net-profit-rises-460-27-in-the-june-2026-quarter-126081101273_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Finolex Cables surged 11.64% to Rs 1,182 after the company reported a 59.4% year-on-year (YoY) jump in standalone net profit to Rs 221.28 crore in Q1 FY27 from Rs 138.88 crore in Q1 FY26.",
+      "desc": "Sales rise 684.75% to Rs 4.63 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "KPI Green Energy Ltd leads losers in 'A' group",
+      "title": "Dhatre Udyog reports standalone net loss of Rs 0.29 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kpi-green-energy-ltd-leads-losers-in-a-group-126081101128_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dhatre-udyog-reports-standalone-net-loss-of-rs-0-29-crore-in-the-june-2026-quarter-126081101271_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Triveni Turbine Ltd, Websol Energy System Ltd, CMS Info Systems Ltd and AvenuesAI Ltd are among the other losers in the BSE's 'A' group today, 11 August 2026.",
+      "desc": "Reported sales  nil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Volumes soar at Gland Pharma Ltd counter",
+      "title": "Aananda Lakshmi Spinning Mills reports standalone net loss of Rs 0.24 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-gland-pharma-ltd-counter-126081101126_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/aananda-lakshmi-spinning-mills-reports-standalone-net-loss-of-rs-0-24-crore-in-the-june-2026-quarter-126081101270_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Gland Pharma Ltd clocked volume of 76.21 lakh shares by 14:14 IST on NSE, a 13.82 times surge over two-week average daily volume of 5.52 lakh shares",
+      "desc": "Sales decline 66.67% to Rs 0.10 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lupin Ltd slips for fifth straight session",
+      "title": "Tasty Dairy Specialities reports standalone net loss of Rs 0.33 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lupin-ltd-slips-for-fifth-straight-session-126081101125_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tasty-dairy-specialities-reports-standalone-net-loss-of-rs-0-33-crore-in-the-june-2026-quarter-126081101269_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Lupin Ltd is quoting at Rs 2268.1, down 1.39% on the day as on 13:19 IST on the NSE. The stock jumped 16.68% in last one year as compared to a 0.15% slide in NIFTY and a 22.17% spurt in the Nifty Phar",
+      "desc": "Reported sales  nil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Prime Focus Ltd eases for fifth straight session",
+      "title": "Valley Magnesite Company standalone net profit declines 34.44% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/prime-focus-ltd-eases-for-fifth-straight-session-126081101124_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/valley-magnesite-company-standalone-net-profit-declines-34-44-in-the-june-2026-quarter-126081101268_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Prime Focus Ltd is quoting at Rs 282.75, down 0.11% on the day as on 13:19 IST on the NSE. The stock jumped 24.06% in last one year as compared to a 0.15% slide in NIFTY and a 6.22% spurt in the Nifty",
+      "desc": "Reported sales  nil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Siemens Ltd eases for fifth straight session",
+      "title": "Nouveau Global Ventures reports standalone net loss of Rs 0.04 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/siemens-ltd-eases-for-fifth-straight-session-126081101123_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nouveau-global-ventures-reports-standalone-net-loss-of-rs-0-04-crore-in-the-june-2026-quarter-126081101267_1.html",
       "date": "Tue, 11 Aug 2026",
-      "desc": "Siemens Ltd is quoting at Rs 3889.4, down 0.64% on the day as on 13:19 IST on the NSE. The stock jumped 24.06% in last one year as compared to a 0.15% slide in NIFTY and a 11.4% spurt in the Nifty Ene",
+      "desc": "Reported sales  nil",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Kovalam Investment & Trading Co. standalone net profit rises 37.78% in the June 2026 quarter",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kovalam-investment-trading-co-standalone-net-profit-rises-37-78-in-the-june-2026-quarter-126081101266_1.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Sales rise 46.48% to Rs 2.08 crore",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Intel raises $20 billion from upsized share sale: Where the money will go?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/intel-raises-20-billion-from-upsized-share-sale-where-the-money-will-go-11786443786970.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "Intel raised $20 billion in a share sale, exceeding its initial $15 billion goal, with a share price of $95. The offering drew over $100 billion in demand as Intel invests heavily to compete in contra",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 11 August: Triveni Turbine, Crisil, Castrol India, Vedanta, Jindal Steel among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-11-august-triveni-turbine-crisil-castrol-india-vedanta-jindal-steel-among-top-losers-11786441064137.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "On August 11, the Indian stock market faced pressure with the Nifty 50 down 0.54% and Sensex declining 0.50%. Crude oil price rises and geopolitical tensions impacted sentiment, despite gains in pharm",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-falls-388-points-nifty-50-ends-below-24-500-rising-oil-prices-middle-east-confusion-weigh-11786443270822.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "The Sensex fell 388 points, or 0.49%, to end at 78,154, while the Nifty 50 settled 112 points, or 0.46%, lower at 24,472. Nifty Midcap 100 index slipped 0.02%, while the Smallcap 100 index rose 0.22%.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty-gold ratio narrows: Could this be the start of a stock market rally?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html",
+      "date": "Tue, 11 Aug 2026",
+      "desc": "The current Nifty-gold ratio of 1.6 signals a potential equities rebound, although experts advise maintaining investments in both gold and stocks. Consolidation may occur before equities outperform go",
       "tags": [],
       "is_portfolio": false
     },
@@ -218,42 +214,6 @@
       "link": "https://www.livemint.com/market/mark-to-market/bharat-forge-share-price-q1-results-margin-pressure-defence-business-11786431017999.html",
       "date": "Tue, 11 Aug 2026",
       "desc": "Bharat Forge revised the FY27 revenue growth guidance for its Indian manufacturing business from 25% in Q4FY26 to 20-25%. While this suggests improving traction in H2FY27, some brokerages have cut ear",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IPO GMPs: Milky Mist IPO to Technocraft Ventures IPO \u2014 what grey market hints",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/milky-mist-ipo-gmp-dhoot-transmission-ipo-gmp-molbio-diagnostics-ipo-gmp-leap-india-ipo-gmp-technocraft-ventures-ipo-gmp-11786433303597.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "The primary market remains active with several IPOs. Milky Mist Dairy Food IPO opened today with cautious investor response, while Dhoot Transmission and Molbio Diagnostics IPOs are fully subscribed. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering IPO: GMP to price band - 10 things to know ahead of issue opening on Wednesday",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-to-price-band-10-things-to-know-ahead-of-issue-opening-on-wednesday-11786433756899.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Behari Lal Engineering IPO: The price band for the Behari Lal Engineering IPO has been set at  \u20b9271\u2013 \u20b9285 per equity share, with a face value of  \u20b910.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shiprocket IPO: GMP, price, date, other key details in 10 points",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-gmp-price-date-other-key-details-in-10-points-11786430198450.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Shiprocket IPO IPO GMP on Tuesday morning was  \u20b927, suggesting the stock could list at a 28% premium to the issue price. The stock's GMP has increased from the previous session's level of  \u20b926.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-cap stock jumps 4% after receipt of order worth  \u20b9740 crore",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-4-after-receipt-of-order-worth-740-crore-11786428662807.html",
-      "date": "Tue, 11 Aug 2026",
-      "desc": "Krystal Integrated Services share price opened at  \u20b9611.85 apiece today, as compared to previous close of  \u20b9602.55 on Monday. The small-cap stock touched an intraday high of  \u20b9633.90 on 11 August.",
       "tags": [],
       "is_portfolio": false
     }
