@@ -1,6 +1,17 @@
 {
-  "updated_ist": "12 Aug 2026 16:13 IST",
+  "updated_ist": "12 Aug 2026 17:04 IST",
   "news": [
+    {
+      "title": "TCS shares tumble 4%, wipe out Rs 35,000 crore after N Chandrasekaran resigns. What should investors do?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-tumble-4-wipe-out-rs-35000-crore-after-n-chandrasekaran-resigns-what-should-investors-do/articleshow/133180381.cms",
+      "date": "Wed, 12 Aug 2026",
+      "desc": "TCS shares fell nearly 4% after N Chandrasekaran resigned as Tata Sons chairman, wiping \u20b935,000 crore from its market value. Analysts called the reaction knee-jerk, while technical indicators point to",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
       "source": "Economic Times",
@@ -9,18 +20,6 @@
       "desc": "Bitcoin hovered near $64,000 as investors remained cautious ahead of US CPI data, with the broader crypto market largely subdued. Analysts flagged weak short-term momentum below key resistance levels,",
       "tags": [
         "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "\u20b918K cr bet! Retail investors bet on Infosys, TCS, Reliance &amp; 3 other falling bluechips",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/18k-cr-bet-retail-investors-bet-on-infosys-tcs-reliance-3-other-falling-bluechips/videoshow/133178010.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": " ",
-      "tags": [
-        "RELIANCE",
-        "TCS"
       ],
       "is_portfolio": true
     },
@@ -36,15 +35,53 @@
       "is_portfolio": true
     },
     {
-      "title": "After Mahanadi, Coal India's SECL invites banker pitches for proposed  \u20b910,000 crore IPO",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/secl-ipo-coal-india-subsidiary-10000-crore-ipo-11786519217430.html",
+      "title": "Nifty August futures trade at a premium",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081201258_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "SECL\u2019s proposed IPO of  \u20b98,000 crore to  \u20b910,000 crore is expected to be a mix of a fresh issue of shares and an offer for sale by the parent company.",
+      "desc": "TCS, HDFC Bank and GCPL were top traded contracts.",
       "tags": [
-        "ITC"
+        "TCS"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Top Gainers &amp; Losers on August 12: TCS, Tata Tech, Redington, Godrej Consumer, Wockhardt among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-august-12-tcs-tata-tech-redington-godrej-consumer-wockhardt-among-top-losers-11786528018285.html",
+      "date": "Wed, 12 Aug 2026",
+      "desc": "Indian stocks faced downward pressure on August 12 due to rising crude oil prices and weakness in financial and technology sectors. Nifty fell 0.15% to 24,435 and Sensex dropped 0.34% to 77,889, pushi",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Embassy Office Parks REIT to enter Nifty 500, become only investment trust in Nifty Midcap 150",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
+      "date": "Wed, 12 Aug 2026",
+      "desc": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices\u2019 latest periodic review. The REIT will also enter several other broad-b",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lenskart Q1 Results: Profit zooms 182% YoY to Rs 228 crore; revenue up 34%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms",
+      "date": "Wed, 12 Aug 2026",
+      "desc": "Lenskart Solutions reported a 182.3% YoY jump in Q1 FY27 profit to Rs 228 crore, while revenue rose 33.6% to Rs 2,214 crore. EBITDA increased 61.3% to Rs 589 crore, with margins expanding and product ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Groww shares climb 2% after July client additions; market share rises to 28.88%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-climb-2-after-july-client-additions-market-share-rises-to-28-88/articleshow/133179929.cms",
+      "date": "Wed, 12 Aug 2026",
+      "desc": "Groww shares rose 1.91% after the company added 70,119 clients in July, taking its active client base to 13.12 million and market share to 28.88%. The stock has gained nearly 27% in 2026 so far, outpe",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
@@ -70,33 +107,6 @@
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investcorp-backed-ndr-invit-trust-files-draft-paper-with-sebi-for-rs-750-crore-ipo/articleshow/133179051.cms",
       "date": "Wed, 12 Aug 2026",
       "desc": "NDR InvIT Trust filed draft papers for a Rs 750 crore IPO to transition from private to public. The funds will support acquiring warehousing assets, aiming to strengthen and diversify its logistics po",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Marksans Pharma shares rally over 9% after Q1 profit spikes 174% YoY to Rs 159 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marksans-pharma-shares-rally-over-9-after-q1-profit-spikes-174-yoy-to-rs-159-crore/articleshow/133178142.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Marksans Pharma shares surged after Q1FY27 profit jumped 174% YoY to Rs 159 crore. Revenue rose 35.6% to Rs 841 crore, while EBITDA hit a record Rs 213 crore, driven by strong growth in its UK and Eur",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Euro zone bond yields dip ahead of US CPI, heavy debt supply",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-dip-ahead-of-us-cpi-heavy-debt-supply/articleshow/133178019.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Euro zone government bond prices edged higher as investors remained cautious ahead of key U.S. inflation data and a heavy pipeline of new bond supply. Renewed tensions in the Middle East and rising oi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: European shares subdued as investors assess earnings, geopolitical risks ahead of US inflation data",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-subdued-as-investors-assess-earnings-geopolitical-risks-ahead-of-us-inflation-data/articleshow/133177703.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "European shares traded largely flat as investors assessed mixed corporate earnings, rising oil prices and renewed geopolitical tensions ahead of key U.S. inflation data. Energy stocks led gains, while",
       "tags": [],
       "is_portfolio": false
     },
@@ -128,74 +138,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Japanese stocks rise as technology and bank shares gain",
+      "title": "Nifty settles below 24,450 level; IT shares tumble",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-rise-as-technology-and-bank-shares-gain-126081201124_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-below-24-450-level-it-shares-tumble-126081201253_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "\n\nTechnology stocks gained after positive outlooks from US companies CoreWeave and Super Micro Computer boosted optimism around strong spending on artificial intelligence. ",
+      "desc": "\nIT, FMCG and consumer durables shares declined while PSU Bank, media and metal shares advanced.\n\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Chinese stocks rebound as technology shares lead gains",
+      "title": "Alphalogic Techsys consolidated net profit rises 10.26% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-rebound-as-technology-shares-lead-gains-126081201123_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/alphalogic-techsys-consolidated-net-profit-rises-10-26-in-the-june-2026-quarter-126081201250_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "\n\nTechnology stocks led the recovery after strong results from US companies CoreWeave and Super Micro Computer improved investor sentiment toward the sector. ",
+      "desc": "Sales decline 11.54% to Rs 10.12 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "AVG Logistics secures long term logistics contract from renowned cement company",
+      "title": "Globe Enterprises (India) consolidated net profit rises 107.86% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/avg-logistics-secures-long-term-logistics-contract-from-renowned-cement-company-126081201102_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/globe-enterprises-india-consolidated-net-profit-rises-107-86-in-the-june-2026-quarter-126081201249_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "\nUnder this strategic contract, AVG Logistics will deploy a dedicated fleet of 30 heavy-duty EV Trucks to manage seamless inbound and outbound logistics for essential raw materials and finished goods.",
+      "desc": "Sales rise 24.43% to Rs 184.51 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PI Industries plunges 10%, hits 52-week low on disappointing Q1 results",
+      "title": "BCL Industries consolidated net profit rises 5.29% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/pi-industries-plunges-10-hits-52-week-low-on-disappointing-q1-results-126081201065_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bcl-industries-consolidated-net-profit-rises-5-29-in-the-june-2026-quarter-126081201248_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "The average trading volume at the PI Industries counter jumped over nine-fold with a combined 2.1 million equity shares changing hands on the NSE and BSE till 02:58 PM on Wednesday.",
+      "desc": "Sales decline 26.36% to Rs 583.19 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty India FPI 150: How the new NSE index tracks foreign investibility",
+      "title": "Indo US Bio-Tech standalone net profit declines 35.32% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/stock-market-news/nifty-india-fpi-150-how-the-new-nse-index-tracks-foreign-investibility-126081201081_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indo-us-bio-tech-standalone-net-profit-declines-35-32-in-the-june-2026-quarter-126081201247_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "NSE's Nifty India FPI 150 selects 150 liquid Nifty 500 stocks using foreign-investible free-float market capitalisation, creating a basket of stocks accessible to overseas investors",
+      "desc": "Sales rise 7.21% to Rs 32.99 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Horizon Industrial Parks' \u20b92,600 cr IPO to open Aug 17 at \u20b957-60 price band",
+      "title": "Kenvi Jewels standalone net profit rises 68.42% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/horizon-industrial-parks-2-600-cr-ipo-to-open-aug-17-at-57-60-price-band-126081201035_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kenvi-jewels-standalone-net-profit-rises-68-42-in-the-june-2026-quarter-126081201246_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "Blackstone-backed Horizon Industrial Parks Ltd will open its Rs 2,600 crore Initial Public Offering (IPO) for subscription on August 17, with the price band fixed at Rs 57-60 per share.\nAt the upper p",
+      "desc": "Sales decline 38.30% to Rs 19.06 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "How a company can grow 200% and still get demoted from India's large caps",
+      "title": "VMS Industries standalone net profit rises 6.98% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/india-large-cap-threshold-tripled-amfi-analysis-nifty100-data-visualisation-126081201052_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/vms-industries-standalone-net-profit-rises-6-98-in-the-june-2026-quarter-126081201245_1.html",
       "date": "Wed, 12 Aug 2026",
-      "desc": "A company can grow its market value and still lose its large-cap status. Since 2017, the price of a top-100 seat has more than tripled, so growth alone no longer guarantees a place",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "202% rally in 1 year: Why this multibagger stock zoomed 19% today",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/202-rally-in-1-year-why-this-multibagger-stock-zoomed-19-today-126081201024_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "TD Power Systems shares have been on a strong run on Dalal Street in recent years. According to NSE data, the stock has more than doubled investors' money in 2026 so far, gaining 122 per cent.",
+      "desc": "Sales rise 13.09% to Rs 44.83 crore",
       "tags": [],
       "is_portfolio": false
     },
