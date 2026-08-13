@@ -1,17 +1,6 @@
 {
-  "updated_ist": "13 Aug 2026 11:52 IST",
+  "updated_ist": "13 Aug 2026 13:31 IST",
   "news": [
-    {
-      "title": "Which Tata stocks look attractive now? Jefferies picks 4 and flags TCS and 2 others",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/which-tata-stocks-look-attractive-now-jefferies-picks-4-and-flags-tcs-and-2-others/articleshow/133199628.cms",
-      "date": "Thu, 13 Aug 2026",
-      "desc": " Jefferies believes Tata group stocks should remain driven by business fundamentals despite N Chandrasekaran\u2019s planned exit as Tata Sons chairman in February 2027. The brokerage\u2019s top picks are Tata C",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,85 @@
       "is_portfolio": true
     },
     {
-      "title": "Will Bharti Airtel\u2019s ARPU increase after scrapping Rs 299, other popular prepaid plans? What JM Financial says",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-bharti-airtels-arpu-increase-after-scrapping-rs-299-other-popular-prepaid-plans-what-jm-financial-says/articleshow/133199472.cms",
+      "title": "Stocks to buy: Nagaraj Shetti recommends Bank of Maharashtra, Hindustan Copper shares to buy in the short-term",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bank-of-maharashtra-hindustan-copper-shares-to-buy-in-the-shortterm-11786605083579.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Bharti Airtel could see a 2% rise in ARPU after withdrawing four entry-level prepaid plans, including the popular Rs 299 pack, JM Financial said. Subscribers will now need to opt for the Rs 349 plan, ",
+      "desc": "The Indian stock market remained under strain, with Nifty 50 down 0.28% and BSE Sensex stable. Elevated crude oil prices and increasing retail inflation impacted investor sentiment, while Reliance Ind",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "UBS upgrades MCX rating to Buy with Rs 3,800 target price: Can it boost the stock?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-mcx-rating-to-buy-with-rs-3800-target-price-can-it-boost-the-stock/articleshow/133203886.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "UBS upgraded MCX to Buy from Neutral and raised its target price to Rs 3,800, citing attractive valuations, resilient trading volumes and positive regulatory developments. The brokerage also raised it",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gaja Alternative Asset Management IPO sets price band for Rs 550 crore issue, opens August 19",
+      "title": "India bonds consolidate as traders seek fresh cues",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-sets-price-band-for-rs-550-crore-issue-opens-august-19/articleshow/133199328.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-consolidate-as-traders-seek-fresh-cues/articleshow/133203797.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Gaja Alternative Asset Management is set to launch its Rs 550 crore IPO on August 19, with a price band of Rs 152-160 per share. The issue comprises a fresh issue and OFS, with proceeds aimed at fundi",
+      "desc": "Indian government bonds showed minor fluctuations as market participants remained cautious, looking for new cues. Meanwhile, oil prices settled amidst ongoing concerns over a possible peace deal betwe",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Credent Connect N Care raises Rs 26.53 crore from 10 anchor investors; Sunil Singhania's Abakkus Asset among top investors",
+      "title": "KRN Heat Exchanger shares hit 5% upper circuit as Q1 net profit more than doubles",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/credent-connect-n-care-raises-rs-26-53-crore-from-10-anchor-investors-sunil-singhanias-abakkus-asset-among-top-investors/articleshow/133199212.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/krn-heat-exchanger-shares-hit-5-upper-circuit-as-q1-net-profit-more-than-doubles/articleshow/133203568.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Credent Connect N Care raised Rs 26.53 crore from 10 anchor investors ahead of its IPO, with Abakkus Asset Management emerging as the largest participant. The healthcare logistics company\u2019s Rs 93.90-c",
+      "desc": "Shares of KRN Heat Exchanger and Refrigeration hit a upper circuit on Thursday, following a strong Q1 FY27 earnings performance. The rally was driven by robust demand across both domestic and internat",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: China stocks rise on AI optimism; Hong Kong shares mostly flat",
+      "title": "Euro zone bonds little changed as oil prices steady",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-rise-on-ai-optimism-hong-kong-shares-mostly-flat/articleshow/133199079.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Chinese mainland stocks advanced, led by optical communications and technology shares, as strong AI demand forecasts boosted sentiment. Hong Kong equities remained subdued amid concerns over weak cons",
+      "desc": "Euro zone bond yields showed little movement on Thursday, coinciding with steady oil prices. Recent U.S. inflation data has lessened the market's anticipation of a Federal Reserve rate increase in the",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dollar treads water as Fed hike bets pared on benign US inflation",
+      "title": "Global Market: Japan wholesale inflation stays elevated, bolstering September rate hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-treads-water-as-fed-hike-bets-pared-on-benign-us-inflation/articleshow/133198714.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-wholesale-inflation-stays-elevated-bolstering-september-rate-hike-bets/articleshow/133203477.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "The dollar's advance stalled on Thursday after benign U.S. inflation data emerged. Traders pared back bets for a near-term Federal Reserve interest rate hike. The dollar index remained flat, but was o",
+      "desc": "Japan\u2019s wholesale inflation stayed elevated in July, with producer prices rising 7.2% year-on-year, reinforcing expectations of a September Bank of Japan rate hike. Broad-based cost pressures, higher ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "South Korea's Kospi swings from bear to bull market in just a month. Is AI trade regaining strength?",
+      "title": "Global Market: Japanese bond yields hold near highs as markets brace for BOJ rate hike",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-swings-from-bear-to-bull-market-in-just-a-month-is-ai-trade-regaining-strength/articleshow/133198231.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-hold-near-highs-as-markets-brace-for-boj-rate-hike/articleshow/133203276.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "South Korea\u2019s KOSPI has swung from bear to bull market in just a month, surging over 31% from its July low. A sharp rebound in Samsung Electronics and SK Hynix has driven the rally, reviving optimism ",
+      "desc": "Japanese government bond yields remained broadly steady as investors increased bets on a possible Bank of Japan rate hike in September. Short-term yields stayed near multi-year highs, while longer-ter",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Muthoot Fincorp files draft papers for Rs 3,000 cr IPO to boost capital base",
+      "title": "Lenskart\u2019s Meller sunglasses are Ray-Ban of the future, says Jefferies. Here\u2019s why Wall Street giant is bullish",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/muthoot-fincorp-files-draft-papers-for-rs-3000-cr-ipo-to-boost-capital-base/articleshow/133198045.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskarts-meller-sunglasses-are-ray-ban-of-the-future-says-jefferies-heres-why-wall-street-giant-is-bullish/articleshow/133203250.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Muthoot Fincorp filed draft papers with Sebi for a Rs 3,000 crore IPO.  The company aims to strengthen its capital base and fund business growth.  Its gold loan business has seen significant expansion",
+      "desc": "Lenskart\u2019s strong Q1 FY27 performance, marked by sharp profit growth, revenue expansion and improving margins, has strengthened the bullish case among brokerages. Jefferies sees further potential from",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "8 midcap stocks surged up to 125% in a year; 4 became multibaggers. Do you own any?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-surged-up-to-125-in-a-year-4-became-multibaggers-do-you-own-any/slideshow/133203456.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": " While the Nifty 50 stayed nearly flat, midcaps delivered strong gains, with 14 stocks rising 50% or more and several doubling investor wealth over the past year. ",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +123,110 @@
       "is_portfolio": false
     },
     {
-      "title": "Provigil Surveillance secures contract of Rs 3.73 cr from DFCCIL, Noida",
+      "title": "Promoter pares stake in Thyrocare Technologies",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/provigil-surveillance-secures-contract-of-rs-3-73-cr-from-dfccil-noida-126081300691_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/promoter-pares-stake-in-thyrocare-technologies-126081300840_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Magellanic Cloud announced that its wholly owned subsidiary, Provigil Surveillance, has received a Letter of Acceptance (LOA) from Dedicated Freight Corridor Corporation of India (DFCCIL), Noida, for ",
+      "desc": "Docon Technologies divests 9.90% stake held in Thyrocare Technologies",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Texmaco Rail bags Rs 78-cr order from IVC Logistics",
+      "title": "Amagi Media Labs surges after Q1 PAT jumps over 8-fold to Rs 34 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/texmaco-rail-bags-rs-78-cr-order-from-ivc-logistics-126081300690_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/amagi-media-labs-surges-after-q1-pat-jumps-over-8-fold-to-rs-34-cr-126081300839_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Texmaco Rail & Engineering announced that IVC Logistics has placed a purchase order worth Rs 77.76 crore for the supply of three rakes of ACT1 wagons, along with one BVCM wagon with each rake.",
+      "desc": "Amagi Media Labs rallied 9.11% to Rs 696.20 after the company reported a strong earnings performance in Q1 FY27, with consolidated net profit surging 760.41% year on year (YoY) to Rs 33.90 crore, comp",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "How South Korea's Kospi entered bull market after last month's sell-off",
+      "title": "Bosch Ltd gains for fifth session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/stock-market-news/south-korea-kospi-entered-bull-market-after-last-month-s-sell-off-126081300666_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bosch-ltd-gains-for-fifth-session-126081300838_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "The gains came as investor interest returned to technology hardware stocks on expectations of continued spending on artificial intelligence infrastructure by large technology companies",
+      "desc": "Bosch Ltd is quoting at Rs 46695, up 0.46% on the day as on 12:44 IST on the NSE. The stock is up 21.02% in last one year as compared to a 0.97% fall in NIFTY and a 21.96% fall in the Nifty Auto.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "RBI issues draft rules on harmonised interest rate determination to align the policies between banks and NBFCs",
+      "title": "British pound under $1.35 mark on weak UK data; GBP/INR futures linger around 129 levels",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rbi-issues-draft-rules-on-harmonised-interest-rate-determination-to-align-the-policies-between-banks-and-nbfcs-126081300669_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/british-pound-under-1-35-mark-on-weak-uk-data-gbp-inr-futures-linger-around-129-levels-126081300814_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "\nThe Reserve Bank of India issued draft rules on harmonised interest rate determination to align the policies between banks and non-banking finance companies (NBFCs). The Reserve Bank has issued vario",
+      "desc": "\nThe British pound came under pressure on Thursday as dollar index holds steady around 100 mark owing to safe haven demand amid ongoing geopolitical turmoil. The stalled peace process in the Middle Ea",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE SME LAPL Automotive hits the road with strong listing gains",
+      "title": "Tata Motors spurts after Q1 PAT jumps 83% YoY; clocks wholesales of 108,700 units",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-lapl-automotive-hits-the-road-with-strong-listing-gains-126081300668_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-spurts-after-q1-pat-jumps-83-yoy-clocks-wholesales-of-108-700-units-126081300813_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "LAPL Automotive traded at Rs 131.26 on the BSE, representing a 39.64% premium to its issue price of Rs 94.",
+      "desc": "Tata Motors jumped 7.93% to Rs 834.65 after the company reported 83% increase in consolidated net profit to Rs 2,556 crore on a 19.3% rise in revenue to Rs 20,667 crore in Q1 FY27 as compared with Q1 ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Volumes soar at UltraTech Cement Ltd counter",
+      "title": "Zee Media Corporation Ltd leads gainers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-ultratech-cement-ltd-counter-126081300667_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zee-media-corporation-ltd-leads-gainers-in-b-group-126081300812_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "UltraTech Cement Ltd recorded volume of 25.12 lakh shares by 10:45 IST on BSE, a 181.44 times surge over two-week average daily volume of 13845 shares",
+      "desc": "Omaxe Ltd, Khandwala Securities Ltd, Jubilant Agri & Consumer Products Ltd and Landmark Property Development Company Ltd are among the other gainers in the BSE's 'B' group today, 13 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hexaware Technologies expands partnership with upGrad",
+      "title": "Astral jumps 9.5% as strong pipe performance drives Q1 PAT 52% higher",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/hexaware-technologies-expands-partnership-with-upgrad-126081300650_1.html",
+      "link": "https://www.business-standard.com/markets/news/astral-jumps-9-5-as-strong-pipe-performance-drives-q1-pat-52-higher-126081300808_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "To deliver AI skilling and enterprise transformation programs for Hexaware clients worldwide",
+      "desc": "According to Motilal Oswal Financial Services (MOFSL), Astral delivered a mixed first quarter, but missed its estimates by 5-13 per cent.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "INR edges lower amid lingering geopolitical tensions",
+      "title": "Indices trade with sideways; metal shares lose sheen",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-edges-lower-amid-lingering-geopolitical-tensions-126081300642_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-trade-with-sideways-metal-shares-lose-sheen-126081300802_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "\nThe Indian rupee depreciated 7 paise to 95.40 against the US dollar in early trade on Thursday pressured by lingering geopolitical risks. DXY edging close to 100 mark is also adding weight on the loc",
+      "desc": "\nThe Nifty traded tad below the 24,400 level. Metal shares declined after advancing in the past trading session. \n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Afcons\u2019 turnaround story stumbles on execution roadblocks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/afcons-infrastructure-q1-results-share-price-outlook-11786597462888.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Payment delays and labour shortages continue to squeeze margins and delay revenue conversion, overshadowing a record  \u20b943,300-crore order book and causing the stock to fall 30% this year.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Multibagger stock jumps over 8% in bear-hit Indian markets",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-jumps-over-8-in-bear-hit-indian-markets-11786601815669.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Multibagger stock today opened with an upside gap at  \u20b91,567.40 per share on the NSE and touched an intraday high of  \u20b91,686.90 per share",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap stock under  \u20b9500 jumps 5% despite muted trend on Dalal Street",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-500-jaro-institute-jumps-5-despite-muted-trend-on-dalal-street-11786600010179.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "The small-cap stock opened at  \u20b9449 apiece today, as compared to previous close of  \u20b9444.40 on Wednesday.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Molbio Diagnostics IPO: Focus shifts to allotment date today. Latest GMP, step-by-step guide to check status",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-subscription-molbio-diagnostics-ipo-allotment-date-molbio-diagnostics-11786599105765.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Molbio Diagnostics IPO allotment will be finalized on 13 August. Investors can check their allotment status via Kfin Technologies. The IPO was oversubscribed 70.26x, with a current grey market premium",
       "tags": [],
       "is_portfolio": false
     },
@@ -209,51 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-leisure-tourism-declares-record-date-for-1-10-stock-split-details-here-11786596685490.html",
       "date": "Thu, 13 Aug 2026",
       "desc": "Waterways Leisure Tourism announced Wednesday, 26 August, as the record date for the subdivision of its shares. On 10 July, the company announced that its board had approved a 1:10 stock split.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tour, travel stock under  \u20b9200 jumps 7% despite weak trends in Indian stock market; here's why",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tour-travel-stock-under-200-mach-travel-solutions-jumps-7-despite-weak-trends-in-indian-stock-market-11786596213529.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Mach Travel Solutions share price surged as much as 7% on BSE in Thursday's trading session after the company posted strong set of numbers during the April-June quarter (Q1 results 2026).",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bank of Korea Makes First Gold-Linked Investment in 13 Years",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/bank-of-korea-makes-first-gold-linked-investment-in-13-years-11786597081671.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "South Korea\u2019s central bank bought gold-related assets for the first time in 13 years, joining global reserve managers turning to the precious metal as a hedge against geopolitical and economic uncerta",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b95 jumps 7% despite weak trends on Dalal Street. Do you own?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-5-jumps-7-despite-weak-trends-on-dalal-street-do-you-own-11786595893809.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Nandan Denim share price rose over 7% despite a 40.6% revenue decline in Q1FY27. Net profit increased by 31.8% due to a tax adjustment. The company also reappointed Managing Director Jyotiprasad Devki",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering IPO Day 2: Issue booked 3.49x so far. Check GMP, review, key dates. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-review-behari-lal-engineering-ipo-subscription-status-11786594047857.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Behari Lal Engineering IPO was subscribed 2.03 times on its opening day. Priced between  \u20b9271\u2013 \u20b9285, it will close on 14 August. The company aims to use proceeds for manufacturing capacity expansion. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "LAPL Automotive SME IPO listing: Shares debut at a 44% premium despite weak stock market sentiment",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/lapl-automotive-sme-ipo-listing-shares-debut-at-a-44-premium-despite-weak-stock-market-sentiment-11786594982873.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Shares of LAPL Automotive made a stellar debut on the BSE SME on Thursday, 13 August, in an otherwise weak market. LAPL Automotive's share price was listed at  \u20b9135, up 43.62% from the issue price of ",
       "tags": [],
       "is_portfolio": false
     }
