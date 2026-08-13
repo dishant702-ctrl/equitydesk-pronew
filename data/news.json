@@ -1,5 +1,5 @@
 {
-  "updated_ist": "13 Aug 2026 15:04 IST",
+  "updated_ist": "13 Aug 2026 16:15 IST",
   "news": [
     {
       "title": "Bitcoin near $63K, Ethereum below $1,900 as softer US inflation fails to ease crypto market pressure",
@@ -22,6 +22,33 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Solar Industries shares jump 8% to fresh lifetime high after Q1 net profit soars 93% YoY to Rs 653 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/solar-industries-shares-jump-8-to-fresh-lifetime-high-after-q1-net-profit-soars-93-yoy-to-rs-653-crore/articleshow/133207168.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Solar Industries shares surged over 8% after the company reported a 93% YoY rise in Q1 FY27 net profit to Rs 652.55 crore and 70% revenue growth. Strong defence, domestic and international explosives ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Anthropic to beat SpaceX? Investors bet on $2 trillion valuation in record IPO",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-to-beat-spacex-investors-bet-on-2-trillion-valuation-in-record-ipo/articleshow/133206890.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Anthropic is heading towards a potential record-breaking IPO, with investors reportedly expecting a valuation of more than $2 trillion as the AI startup\u2019s revenue continues to surge. The Claude maker\u2019",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jubilant FoodWorks profit rises as Domino's sales growth picks up",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jubilant-foodworks-profit-rises-as-dominos-sales-growth-picks-up/articleshow/133206787.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Jubilant FoodWorks posted a higher first-quarter profit on Thursday.  This increase was aided by steady growth at Domino's India.  The company also saw continued store expansion during the period.  Pr",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Black Box Q1 net profit up 18% to Rs 56 crore",
@@ -60,33 +87,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European stocks gain as lower oil prices offer relief amid Middle East tensions",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-gain-as-lower-oil-prices-offer-relief-amid-middle-east-tensions/articleshow/133205433.cms",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "European shares edged higher as easing oil prices offered some relief, though stalled US-Iran peace efforts and Strait of Hormuz disruptions capped gains. The STOXX 600 rose 0.2%, while the FTSE 100 s",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market | Shein plans Hong Kong stock market debut on August 28: Reports",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-shein-plans-hong-kong-stock-market-debut-on-august-28-reports/articleshow/133205012.cms",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Shein is reportedly planning a Hong Kong IPO on August 28, reviving its long-awaited public listing plans after exploring New York and London. The Singapore-based fast-fashion retailer may target a $3",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Q1 earnings show resilience as demand, cost headwinds prove less severe than expected: ICRA",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-as-demand-cost-headwinds-prove-less-severe-than-expected-icra/articleshow/133204304.cms",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "ICRA said India Inc\u2019s Q1 FY27 earnings began on a stronger-than-expected note, with revenue growth accelerating to 22%. Despite margin pressure from higher commodity costs and weakness in oil refining",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -114,74 +114,110 @@
       "is_portfolio": false
     },
     {
-      "title": "Sheetal Cool Products standalone net profit rises 30.90% in the June 2026 quarter",
+      "title": "Benchmarks end sideways; metal shares tumble",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sheetal-cool-products-standalone-net-profit-rises-30-90-in-the-june-2026-quarter-126081301034_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/benchmarks-end-sideways-metal-shares-tumble-126081301243_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales rise 17.48% to Rs 132.64 crore",
+      "desc": "\nMetal, private bank and oil & gas shares declined while FMCG, IT and media stocks advanced.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SAB Events & Governance Now Media reports standalone net loss of Rs 0.19 crore in the June 2026 quarter",
+      "title": "Saatvik Green Energy subsidiary bags Rs 476-cr order from Vikran Engineering",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sab-events-governance-now-media-reports-standalone-net-loss-of-rs-0-19-crore-in-the-june-2026-quarter-126081301033_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/saatvik-green-energy-subsidiary-bags-rs-476-cr-order-from-vikran-engineering-126081301242_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales rise 9.76% to Rs 0.45 crore",
+      "desc": "Saatvik Green Energy rose 1.68% to Rs 440.90 after its material subsidiary, Saatvik Solar Industries, received and accepted an order worth Rs 476 crore from Vikran Engineering for the supply of solar ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ECS Biztech reports standalone net loss of Rs 0.14 crore in the June 2026 quarter",
+      "title": "Board of Zuari Industries approves acquisition of stake in Texmaco Infrastructure & Holdings and Zuari Agro Chemicals",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ecs-biztech-reports-standalone-net-loss-of-rs-0-14-crore-in-the-june-2026-quarter-126081301032_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/board-of-zuari-industries-approves-acquisition-of-stake-in-texmaco-infrastructure-holdings-and-zuari-agro-chemicals-126081301231_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Reported sales  nil",
+      "desc": "At meeting held on 13 August 2026",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Infratech & Finance standalone net profit rises 1400.00% in the June 2026 quarter",
+      "title": "Paisalo Digital signs co-lending MoU with FatakPay",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/global-infratech-finance-standalone-net-profit-rises-1400-00-in-the-june-2026-quarter-126081301031_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/paisalo-digital-signs-co-lending-mou-with-fatakpay-126081301230_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Reported sales  nil",
+      "desc": "Paisalo Digital announced the signing of a Rs 500 crore co-lending MOU with FatakPay.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Golechha Global Finance standalone net profit declines 49.30% in the June 2026 quarter",
+      "title": "Wanbury receives ESQM approval for new product Rivaroxaban API",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/golechha-global-finance-standalone-net-profit-declines-49-30-in-the-june-2026-quarter-126081301030_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/wanbury-receives-esqm-approval-for-new-product-rivaroxaban-api-126081301229_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales rise 30.00% to Rs 0.13 crore",
+      "desc": "Also receives USFD DMF clearance for Paraxetine HCI and Metformin HCI",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sunil Agro Foods standalone net profit rises 233.33% in the June 2026 quarter",
+      "title": "Aveer Foods standalone net profit rises 11.32% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sunil-agro-foods-standalone-net-profit-rises-233-33-in-the-june-2026-quarter-126081301029_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/aveer-foods-standalone-net-profit-rises-11-32-in-the-june-2026-quarter-126081301227_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales decline 20.92% to Rs 40.02 crore",
+      "desc": "Sales rise 1.29% to Rs 34.45 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sangal Papers standalone net profit rises 235.00% in the June 2026 quarter",
+      "title": "A B Infrabuild standalone net profit rises 4.30% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sangal-papers-standalone-net-profit-rises-235-00-in-the-june-2026-quarter-126081301028_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/a-b-infrabuild-standalone-net-profit-rises-4-30-in-the-june-2026-quarter-126081301226_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales rise 17.53% to Rs 55.91 crore",
+      "desc": "Sales rise 25.91% to Rs 76.25 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sharda Ispat standalone net profit rises 485.71% in the June 2026 quarter",
+      "title": "Vantage Knowledge Academy standalone net profit declines 76.19% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sharda-ispat-standalone-net-profit-rises-485-71-in-the-june-2026-quarter-126081301027_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/vantage-knowledge-academy-standalone-net-profit-declines-76-19-in-the-june-2026-quarter-126081301225_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Sales rise 155.75% to Rs 71.15 crore",
+      "desc": "Sales decline 50.54% to Rs 0.46 crore",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex climbs 100 points, Nifty 50 ends below 24,400; US-Iran uncertainty keep investors cautious",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-climbs-100-points-nifty-50-ends-below-24-400-us-iran-uncertainty-keep-investors-cautious-11786615078970.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "The Sensex ended 114 points, or 0.15%, higher at 78,079.96, while the Nifty ended at 24,395.85, down 40 points, or 0.16%. The Nifty Midcap 100 index rose by 0.15%, while the Smallcap 100 index inched ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 13 August: Apar Industries, Hindalco, Ather Energy, Force Motors, CUB among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-13-august-apar-industries-hindalco-ather-energy-force-motors-cub-among-top-losers-11786615201243.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Indian stocks slid further, driven down by weak financial participation and high crude oil prices. The Nifty decreased by 0.34% and Sensex by 0.13%, with key sectors like metals and cement seeing sign",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Solar Industries Q1 results: Net profit jumps 92.6% YoY to  \u20b9653 crore, revenue up 70.3%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/solar-industries-q1-results-net-profit-jumps-92-6-yoy-to-rs-653-crore-revenue-up-703-11786614253420.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Solar Industries reported Q1 FY27 net profit of  \u20b9653 crore, up 92.6% YoY. Revenue rose 70.3% to  \u20b93,668 crore. EBITDA increased 82% to  \u20b91,024 crore, with a margin of 27.7%. The company is optimistic",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Technocraft Ventures IPO listing in focus. Here's what GMP signals ahead of debut",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/technocraft-ventures-ipo-listing-in-focus-heres-what-gmp-signals-ahead-of-debut-11786612111594.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Technocraft Ventures IPO: The public issue received a strong response from investors, with the IPO being subscribed 38.69 times overall.",
       "tags": [],
       "is_portfolio": false
     },
@@ -218,42 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/upcoming-ipo-muthoot-fincorp-files-drhp-with-sebi-to-raise-3-000-crore-through-the-ipo-route-11786609848563.html",
       "date": "Thu, 13 Aug 2026",
       "desc": "According to the Draft Red Herring Prospectus (DRHP) filed on Wednesday, the proposed IPO will comprise entirely of a fresh issue of equity shares.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b91 hits 5% upper circuit after Q1 results despite muted trends on Dalal Street",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-gacm-technologies-hits-5-upper-circuit-after-q1-results-despite-muted-trends-on-dalal-street-11786609021214.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "GACM Technologies share price has jumped 56% over the last month despite stock market volatility. The stock hit a 52-week low of  \u20b90.40 on 30 March this year after hitting a 52-week high of  \u20b90.94 on ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FMCG stock shows resilience against Dalal Street bears",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fmcg-stock-grm-overseas-shows-resilience-against-dalal-street-bears-11786606855965.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "The FMCG stock opened at  \u20b992.85 apiece today, as compared to previous close  \u20b991.38 on Wednesday.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Lenskart gets leg-up from international biz even as India expansion continues",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/lenskart-solutions-q1fy27-international-business-india-expansion-ebitda-margin-eyewear-retail-11786604384409.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Lenskart\u2019s overseas business delivered a sharp margin boost in Q1, while India continued its store expansion. Sustaining profitability of new stores will be a key monitorable.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Newly-listed metal stock Rajputana Stainless surges 10%, hits record high after strong Q1 results",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "Rajputana Stainless reported 32.4% year-on-year growth in its revenue from operations to  \u20b9306.54 crore for Q1 FY27. Profit after tax rose 80.5% to  \u20b920.20 crore from  \u20b911.19 crore in Q1FY26.",
       "tags": [],
       "is_portfolio": false
     }
