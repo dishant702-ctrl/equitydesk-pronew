@@ -1,28 +1,6 @@
 {
-  "updated_ist": "12 Aug 2026 17:04 IST",
+  "updated_ist": "13 Aug 2026 10:26 IST",
   "news": [
-    {
-      "title": "TCS shares tumble 4%, wipe out Rs 35,000 crore after N Chandrasekaran resigns. What should investors do?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-tumble-4-wipe-out-rs-35000-crore-after-n-chandrasekaran-resigns-what-should-investors-do/articleshow/133180381.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "TCS shares fell nearly 4% after N Chandrasekaran resigned as Tata Sons chairman, wiping \u20b935,000 crore from its market value. Analysts called the reaction knee-jerk, while technical indicators point to",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Bitcoin near $64,000 as crypto markets turn cautious ahead of US CPI. Here is what expert say",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64000-as-crypto-markets-turn-cautious-ahead-of-us-cpi-here-is-what-expert-say/articleshow/133178203.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Bitcoin hovered near $64,000 as investors remained cautious ahead of US CPI data, with the broader crypto market largely subdued. Analysts flagged weak short-term momentum below key resistance levels,",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -35,78 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Nifty August futures trade at a premium",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081201258_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "TCS, HDFC Bank and GCPL were top traded contracts.",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Top Gainers &amp; Losers on August 12: TCS, Tata Tech, Redington, Godrej Consumer, Wockhardt among top losers",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-august-12-tcs-tata-tech-redington-godrej-consumer-wockhardt-among-top-losers-11786528018285.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Indian stocks faced downward pressure on August 12 due to rising crude oil prices and weakness in financial and technology sectors. Nifty fell 0.15% to 24,435 and Sensex dropped 0.34% to 77,889, pushi",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Embassy Office Parks REIT to enter Nifty 500, become only investment trust in Nifty Midcap 150",
+      "title": "State Bank of India's successful dollar debt sale prompts Bank of Baroda to test waters, bankers say",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/embassy-office-parks-reit-to-enter-nifty-500-become-only-investment-trust-in-nifty-midcap-150/articleshow/133180478.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Embassy Office Parks REIT will be included in the Nifty 500 and Nifty Midcap 150 from September 30, 2026, as part of NSE Indices\u2019 latest periodic review. The REIT will also enter several other broad-b",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/state-bank-of-indias-successful-dollar-debt-sale-prompts-bank-of-baroda-to-test-waters-bankers-say/articleshow/133197886.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Bank of Baroda is actively seeking dollar funding avenues to bolster its operations, inspired by the successful foreign-currency bond issuance led by State Bank of India. The bank is considering a dua",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lenskart Q1 Results: Profit zooms 182% YoY to Rs 228 crore; revenue up 34%",
+      "title": "US refiners ramp up buybacks as Iran war boosts fuel margins",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Lenskart Solutions reported a 182.3% YoY jump in Q1 FY27 profit to Rs 228 crore, while revenue rose 33.6% to Rs 2,214 crore. EBITDA increased 61.3% to Rs 589 crore, with margins expanding and product ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-refiners-ramp-up-buybacks-as-iran-war-boosts-fuel-margins/articleshow/133197769.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "US refiners Marathon Petroleum, Phillips 66 and Valero Energy reported combined second-quarter profits of $12.6 billion, benefiting from supply disruptions and higher refining margins. The trio return",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Groww shares climb 2% after July client additions; market share rises to 28.88%",
+      "title": "US deficit reaches $1.8 trillion in first 10 months of fiscal 2026",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/groww-shares-climb-2-after-july-client-additions-market-share-rises-to-28-88/articleshow/133179929.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Groww shares rose 1.91% after the company added 70,119 clients in July, taking its active client base to 13.12 million and market share to 28.88%. The stock has gained nearly 27% in 2026 so far, outpe",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-deficit-reaches-1-8-trillion-in-first-10-months-of-fiscal-2026/articleshow/133197766.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "US federal budget deficit hit a record $432 billion in July, taking the fiscal 2026 shortfall to $1.799 trillion in the first 10 months. Higher government spending and weaker tariff revenues have inte",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Motors CV Q1 Results: Net profit soars 83% YoY to Rs 2,560 cr on one-time gain from Tata Capital; revenue jumps 19%",
+      "title": "Global Market: Japanese stocks rise as chip rally lifts Topix to record high",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-q1-results-net-profit-soars-83-to-rs-2560-crore-on-one-time-gain-from-tata-capital-revenue-jumps-19/articleshow/133179150.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Tata Motors CV Q1 Results: Commercial vehicle major Tata Motors on Wednesday reported a net profit of Rs 2,560 in the first quarter of financial year 2027, marking a jump of 83.3% from Rs 1,397 crore ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-stocks-rise-as-chip-rally-lifts-topix-to-record-high/articleshow/133197670.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Japanese equities gained on Thursday, with the Topix hitting a record high and extending its seven-session winning streak. The Nikkei rose 1.6%, led by semiconductor stocks tracking US peers. Strong c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee nudges up on RBI intervention; investors eye inflation data",
+      "title": "Tata Motors shares jump 6% after strong Q1; Nomura upgrades stock, CLSA retains Outperform rating",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-rupee-nudges-up-on-rbi-intervention-investors-eye-inflation-data/articleshow/133179272.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "The Indian rupee finished the day marginally higher, propelled by ongoing tensions in the Middle East. Continuous interventions from the central bank have provided support against the U.S. dollar. Tra",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-shares-jump-6-after-strong-q1-nomura-upgrades-stock-clsa-retains-outperform-rating/articleshow/133197624.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Tata Motors shares jumped after Q1 FY27 net profit surged 83% YoY to Rs 2,560 crore, aided by mark-to-market gains on Tata Capital investments. Revenue rose 19% YoY to Rs 20,667 crore. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Investcorp-backed NDR InvIT Trust files draft paper with Sebi for Rs 750 crore IPO",
+      "title": "Gold prices rise Rs 1,400/gram in 2 days; silver dips marginally despite soft US inflation. What should investors do?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investcorp-backed-ndr-invit-trust-files-draft-paper-with-sebi-for-rs-750-crore-ipo/articleshow/133179051.cms",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "NDR InvIT Trust filed draft papers for a Rs 750 crore IPO to transition from private to public. The funds will support acquiring warehousing assets, aiming to strengthen and diversify its logistics po",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1400/gram-in-2-days-silver-dips-marginally-despite-soft-us-inflation-what-should-investors-do/articleshow/133197523.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Gold prices rose Rs 1,400 in two sessions, while MCX silver slipped marginally as softer US inflation lowered expectations of a near-term Fed rate hike. Investors now await US PPI data for further cue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Will largecaps outshine smallcaps on Dalal Street? Here\u2019s what analysts say",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-largecaps-outshine-smallcaps-on-dalal-street-heres-what-analysts-say/articleshow/133197383.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "As investors navigate Dalal Street, there\u2019s a growing sentiment that large-cap stocks might soon reclaim leadership. Despite slight gains in the Nifty 50 index, small-cap segments have showcased remar",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: SK Hynix, Samsung lead South Korea stocks higher on AI boost",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-sk-hynix-samsung-lead-south-korea-stocks-higher-on-ai-boost/articleshow/133197429.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "South Korean shares surged, with the Kospi rising 3.73% to a three-week high, led by chipmakers SK Hynix and Samsung Electronics. Gains followed overnight strength in US AI stocks and reports of Temas",
       "tags": [],
       "is_portfolio": false
     },
@@ -138,128 +112,146 @@
       "is_portfolio": false
     },
     {
-      "title": "Nifty settles below 24,450 level; IT shares tumble",
+      "title": "Lenskart rallies 7% to 52-week high on Q1 beat; analysts hail margin growth",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-below-24-450-level-it-shares-tumble-126081201253_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "\nIT, FMCG and consumer durables shares declined while PSU Bank, media and metal shares advanced.\n\n",
+      "link": "https://www.business-standard.com/markets/news/lenskart-rallies-7-to-52-week-high-on-q1-beat-analysts-hail-margin-growth-126081300533_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Lenskart reported a 182.3 per cent year-on-year increase in profit after tax to \u20b9228 crore in the first quarter of FY27 compared to a profit of \u20b961 crore in the year-ago period",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Alphalogic Techsys consolidated net profit rises 10.26% in the June 2026 quarter",
+      "title": "Molbio Diagnostics IPO ends with 70.26 times subscription",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/alphalogic-techsys-consolidated-net-profit-rises-10-26-in-the-june-2026-quarter-126081201250_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales decline 11.54% to Rs 10.12 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/molbio-diagnostics-ipo-ends-with-70-26-times-subscription-126081300539_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "The offer received bids for 57.32 crore shares as against 81.58 lakh shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Globe Enterprises (India) consolidated net profit rises 107.86% in the June 2026 quarter",
+      "title": "Dhoot Transmission IPO ends with 74.21 times subscription",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/globe-enterprises-india-consolidated-net-profit-rises-107-86-in-the-june-2026-quarter-126081201249_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales rise 24.43% to Rs 184.51 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dhoot-transmission-ipo-ends-with-74-21-times-subscription-126081300526_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "The offer received bids for 185.19 crore shares as against 2.49 crore shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BCL Industries consolidated net profit rises 5.29% in the June 2026 quarter",
+      "title": "Astral surges as Q1 PAT rises 48% YoY",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bcl-industries-consolidated-net-profit-rises-5-29-in-the-june-2026-quarter-126081201248_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales decline 26.36% to Rs 583.19 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/astral-surges-as-q1-pat-rises-48-yoy-126081300512_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Astral surged 7.31% to Rs 1,565.55 after the company reported strong financial performance for Q1 FY27.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indo US Bio-Tech standalone net profit declines 35.32% in the June 2026 quarter",
+      "title": "Gold falls \u20b9170 to \u20b91,54,712 on MCX, silver slips \u20b91,010 after firm start",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indo-us-bio-tech-standalone-net-profit-declines-35-32-in-the-june-2026-quarter-126081201247_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales rise 7.21% to Rs 32.99 crore",
+      "link": "https://www.business-standard.com/markets/commodities/gold-falls-170-to-1-54-712-on-mcx-silver-slips-1-010-after-firm-start-126081300508_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "In the global market, gold was trading near $4,465 per ounce on Comex, while silver was around $65.60 per ounce",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kenvi Jewels standalone net profit rises 68.42% in the June 2026 quarter",
+      "title": "Tata group stocks mixed a day after Chandra's exit; check winners & losers",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kenvi-jewels-standalone-net-profit-rises-68-42-in-the-june-2026-quarter-126081201246_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales decline 38.30% to Rs 19.06 crore",
+      "link": "https://www.business-standard.com/markets/news/tata-group-stocks-mixed-a-day-after-chandra-s-exit-check-winners-losers-126081300504_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "After shedding almost up to 5 per cent a day earlier, most Tata group stocks gained. Titan and Tata Investment Corporation remained the top laggards.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "VMS Industries standalone net profit rises 6.98% in the June 2026 quarter",
+      "title": "Indices drop in early trade; breadth strong",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/vms-industries-standalone-net-profit-rises-6-98-in-the-june-2026-quarter-126081201245_1.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Sales rise 13.09% to Rs 44.83 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-drop-in-early-trade-breadth-strong-126081300503_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "\nThe Nifty traded below the 24,350 mark, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil prices, Gold and developments on",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Motors Q1 Results: Net profit surges 83% YoY to  \u20b92,560 crore, revenue improves 20%",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tata-motors-q1-results-net-profit-surges-83-yoy-to-rs-2-560-crore-revenue-improves-20-11786530133706.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Tata Motors Commercial Vehicles reported a consolidated net profit of  \u20b92,560 crore for the June quarter, up 83.24% year-on-year. Revenue from operations rose by nearly 20% to  \u20b920,576 crore compared ",
+      "title": "Goodyear India slips after PAT falls nearly 54% YoY as rising input costs impact margins",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/goodyear-india-slips-after-pat-falls-nearly-54-yoy-as-rising-input-costs-impact-margins-126081300501_1.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Goodyear India fell 3.19% to Rs 785.05 after the company reported 53.9% fall in net profit to Rs 6.51 crore despite an 18% increase in revenue to Rs 774.35 crore in Q1 FY27 as compared with Q1 FY26.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap infra stock under  \u20b9100 jumps 3%, showing resilience against stock market sell-off",
+      "title": "Behari Lal Engineering IPO Day 2: Issue booked 2.10x so far. Check GMP, review, key dates. Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-100-om-infra-share-price-jumps-3-showing-resilience-against-stock-market-selloff-11786527621597.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Small-cap stock under  \u20b9100: Despite a bearish market, the infra share opened higher at  \u20b987.99 apiece on the NSE, which turned out to be its intraday high",
+      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-review-behari-lal-engineering-ipo-subscription-status-11786594047857.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Behari Lal Engineering IPO was subscribed 2.03 times on its opening day. Priced between  \u20b9271\u2013 \u20b9285, it will close on 14 August. The company aims to use proceeds for manufacturing capacity expansion. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock to buy after Q1 results 2026: Nuvama sees 66% upside in BLS International Services. Should you buy?",
+      "title": "LAPL Automotive SME IPO listing: Shares debut at a 44% premium despite weak stock market sentiment",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-after-q1-results-2026-nuvama-sees-66-upside-in-bls-international-services-should-you-buy-11786524640476.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "BLS International share price trend has remained volatile amid weak market sentiments. The stock has gained 2.64% in a week and 10.68% in a month.",
+      "link": "https://www.livemint.com/market/ipo/lapl-automotive-sme-ipo-listing-shares-debut-at-a-44-premium-despite-weak-stock-market-sentiment-11786594982873.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Shares of LAPL Automotive made a stellar debut on the BSE SME on Thursday, 13 August, in an otherwise weak market. LAPL Automotive's share price was listed at  \u20b9135, up 43.62% from the issue price of ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Senco Gold shares plunge over 14% to 4-week low after Q1 results",
+      "title": "Dhoot Transmission IPO allotment date likely today. GMP, how to check status online",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/senco-gold-shares-plunge-over-14-to-4-week-low-after-q1-results-11786524676292.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Senco Gold shares dropped 14.5% to  \u20b9343, hitting a three-month low. Despite a 67% rise in revenue to  \u20b93,056 crore, lower margins and gold price hikes affected investor sentiment. The company aims fo",
+      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-11786592152191.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Dhoot Transmission IPO GMP: According to market observers, the company shares are available at a premium of  \u20b9276 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Penny stock under  \u20b910 hits 5% upper circuit despite stock market sell-off",
+      "title": "Shiprocket IPO Day 2: Issue subscribed 97% so far. Check GMP, review &amp; other key details - Apply or not?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-despite-stock-market-selloff-11786524167869.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "String Metaverse share price hit a 5% upper circuit on August 12, despite a declining Indian stock market. The company reported a strong Q1 FY27, with revenue nearly doubling and PAT surging over 101.",
+      "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-day-2-issue-subscribed-97-so-far-check-gmp-review-other-key-details-apply-or-not-11786590834946.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Shiprocket IPO\u2019s grey market premium (GMP) stood at  \u20b934. Based on the upper end of the IPO price band and the prevailing grey market premium, the estimated listing price was  \u20b9131 per share, implying",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Closing stock auctions show no signs of manipulation yet, says Sebi chief",
+      "title": "Gold and silver trade lacklustre on MCX despite soft US inflation data; elevated dollar, bond yields weigh",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/closing-stock-auctions-show-no-signs-of-manipulation-yet-sebi-chief-11786519864664.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "Pandey\u2019s comments come against the backdrop of criticism from market participants over the new auction mechanism, which has seen low liquidity trigger sharp price swings. For instance, on the first da",
+      "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-today-rates-lacklustre-on-mcx-despite-soft-us-inflation-data-elevated-dollar-bond-yields-weigh-11786591359947.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Gold and silver prices were lacklustre on the MCX on Thursday morning amid an elevated US dollar and 10-year bond yields, even as the US inflation data for July eased expectations of a rate hike by th",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HAL Q1 results 2026: Profit jumps 15% YoY to  \u20b91,590 crore",
+      "title": "Rupee opens 3 paise lower at 95.36 against US dollar",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hal-q1-results-2026-profit-jumps-15-yoy-to-1-590-crore-11786524452419.html",
-      "date": "Wed, 12 Aug 2026",
-      "desc": "HAL Q1 results 2026: HAL reported a 14.9% YoY jump in its consolidated profit to  \u20b91589.68 crore for Q1FY27. HAL's revenue from operations for the June quarter rose 14.4% YoY to  \u20b95,515.17 crore.",
+      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-3-paise-lower-at-95-36-against-us-dollar-11786592066298.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "The Indian rupee opened at 95.36 against the US dollar, impacted by dollar demand and external factors. RBI's interventions have stabilized the currency, which moved within a narrow range this week, d",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stocks to buy for short term: BoB among 3 shares Amol Athawale of Kotak Securities recommends for next 1-2 weeks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bank-of-baroda-among-3-shares-amol-athawale-of-kotak-securities-recommends-11786589998068.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Amol Athawale identifies three stocks poised for growth in the next 1-2 weeks, including Bank of Baroda and Prestige Estates. Learn crucial price levels to watch.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nikkei, Kospi to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-you-must-know-before-opening-bell-of-the-indian-stock-market-11786587204512.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Global markets today: The US stock market ended on a mixed note, as the Dow Jones Industrial Average lagged amid lingering geopolitical concerns",
       "tags": [],
       "is_portfolio": false
     }
