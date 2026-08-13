@@ -1,6 +1,17 @@
 {
-  "updated_ist": "13 Aug 2026 13:31 IST",
+  "updated_ist": "13 Aug 2026 15:04 IST",
   "news": [
+    {
+      "title": "Bitcoin near $63K, Ethereum below $1,900 as softer US inflation fails to ease crypto market pressure",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-63k-ethereum-below-1900-as-softer-us-inflation-fails-to-ease-crypto-market-pressure/articleshow/133206294.cms",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Bitcoin and Ethereum remained under pressure despite softer US inflation data, with analysts pointing to key support and resistance levels as markets await US PPI data for the next directional cue. Al",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "Stocks to buy: Nagaraj Shetti recommends Bank of Maharashtra, Hindustan Copper shares to buy in the short-term",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bank-of-maharashtra-hindustan-copper-shares-to-buy-in-the-shortterm-11786605083579.html",
-      "date": "Thu, 13 Aug 2026",
-      "desc": "The Indian stock market remained under strain, with Nifty 50 down 0.28% and BSE Sensex stable. Elevated crude oil prices and increasing retail inflation impacted investor sentiment, while Reliance Ind",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "UBS upgrades MCX rating to Buy with Rs 3,800 target price: Can it boost the stock?",
+      "title": "Black Box Q1 net profit up 18% to Rs 56 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ubs-upgrades-mcx-rating-to-buy-with-rs-3800-target-price-can-it-boost-the-stock/articleshow/133203886.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/black-box-q1-net-profit-up-18-to-rs-56-crore/articleshow/133206234.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "UBS upgraded MCX to Buy from Neutral and raised its target price to Rs 3,800, citing attractive valuations, resilient trading volumes and positive regulatory developments. The brokerage also raised it",
+      "desc": "Black Box has announced a remarkable eighteen percent rise in profits for the June quarter, attributed to a solid order book and growth in its Brazilian sector. Revenue from operations surged to Rs 8,",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India bonds consolidate as traders seek fresh cues",
+      "title": "IndiQube Spaces Q1 revenue jumps 37% to record Rs 428 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-consolidate-as-traders-seek-fresh-cues/articleshow/133203797.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/indiqube-spaces-q1-revenue-jumps-37-to-record-rs-428-crore/articleshow/133205891.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Indian government bonds showed minor fluctuations as market participants remained cautious, looking for new cues. Meanwhile, oil prices settled amidst ongoing concerns over a possible peace deal betwe",
+      "desc": "IndiQube Spaces reported record Q1FY27 revenue of \u20b9428 crore, up 37% year-on-year. EBITDA rose 34%, while PAT surged 91% to \u20b935 crore. Area under management and seat capacity expanded, alongside stron",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "KRN Heat Exchanger shares hit 5% upper circuit as Q1 net profit more than doubles",
+      "title": "Shriram Properties Q1 profit down 46% to Rs 11 cr",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/krn-heat-exchanger-shares-hit-5-upper-circuit-as-q1-net-profit-more-than-doubles/articleshow/133203568.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-properties-q1-profit-down-46-to-rs-11-cr/articleshow/133205651.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Shares of KRN Heat Exchanger and Refrigeration hit a upper circuit on Thursday, following a strong Q1 FY27 earnings performance. The rally was driven by robust demand across both domestic and internat",
+      "desc": "Shriram Properties faced a significant profit decrease of forty-six percent in the June quarter, largely affected by rising operational expenses and taxes. Nevertheless, the company recorded a slight ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Euro zone bonds little changed as oil prices steady",
+      "title": "Fintech startup Navi said to hire banks for $315 million IPO",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-little-changed-as-oil-prices-steady/articleshow/133203702.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fintech-startup-navi-said-to-hire-banks-for-315-million-ipo/articleshow/133205408.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Euro zone bond yields showed little movement on Thursday, coinciding with steady oil prices. Recent U.S. inflation data has lessened the market's anticipation of a Federal Reserve rate increase in the",
+      "desc": "Navi Ltd. is preparing for an Indian IPO targeting up to $315 million, with JM Financial, Kotak Mahindra Capital, Goldman Sachs and JPMorgan advising. The fintech firm seeks a valuation of up to $2 bi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan wholesale inflation stays elevated, bolstering September rate hike bets",
+      "title": "Global Market: European stocks gain as lower oil prices offer relief amid Middle East tensions",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-wholesale-inflation-stays-elevated-bolstering-september-rate-hike-bets/articleshow/133203477.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-gain-as-lower-oil-prices-offer-relief-amid-middle-east-tensions/articleshow/133205433.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Japan\u2019s wholesale inflation stayed elevated in July, with producer prices rising 7.2% year-on-year, reinforcing expectations of a September Bank of Japan rate hike. Broad-based cost pressures, higher ",
+      "desc": "European shares edged higher as easing oil prices offered some relief, though stalled US-Iran peace efforts and Strait of Hormuz disruptions capped gains. The STOXX 600 rose 0.2%, while the FTSE 100 s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese bond yields hold near highs as markets brace for BOJ rate hike",
+      "title": "Global Market | Shein plans Hong Kong stock market debut on August 28: Reports",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-hold-near-highs-as-markets-brace-for-boj-rate-hike/articleshow/133203276.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-shein-plans-hong-kong-stock-market-debut-on-august-28-reports/articleshow/133205012.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Japanese government bond yields remained broadly steady as investors increased bets on a possible Bank of Japan rate hike in September. Short-term yields stayed near multi-year highs, while longer-ter",
+      "desc": "Shein is reportedly planning a Hong Kong IPO on August 28, reviving its long-awaited public listing plans after exploring New York and London. The Singapore-based fast-fashion retailer may target a $3",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lenskart\u2019s Meller sunglasses are Ray-Ban of the future, says Jefferies. Here\u2019s why Wall Street giant is bullish",
+      "title": "Q1 earnings show resilience as demand, cost headwinds prove less severe than expected: ICRA",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskarts-meller-sunglasses-are-ray-ban-of-the-future-says-jefferies-heres-why-wall-street-giant-is-bullish/articleshow/133203250.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-as-demand-cost-headwinds-prove-less-severe-than-expected-icra/articleshow/133204304.cms",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Lenskart\u2019s strong Q1 FY27 performance, marked by sharp profit growth, revenue expansion and improving margins, has strengthened the bullish case among brokerages. Jefferies sees further potential from",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "8 midcap stocks surged up to 125% in a year; 4 became multibaggers. Do you own any?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-surged-up-to-125-in-a-year-4-became-multibaggers-do-you-own-any/slideshow/133203456.cms",
-      "date": "Thu, 13 Aug 2026",
-      "desc": " While the Nifty 50 stayed nearly flat, midcaps delivered strong gains, with 14 stocks rising 50% or more and several doubling investor wealth over the past year. ",
+      "desc": "ICRA said India Inc\u2019s Q1 FY27 earnings began on a stronger-than-expected note, with revenue growth accelerating to 22%. Despite margin pressure from higher commodity costs and weakness in oil refining",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,137 +114,146 @@
       "is_portfolio": false
     },
     {
-      "title": "Promoter pares stake in Thyrocare Technologies",
+      "title": "Sheetal Cool Products standalone net profit rises 30.90% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/promoter-pares-stake-in-thyrocare-technologies-126081300840_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sheetal-cool-products-standalone-net-profit-rises-30-90-in-the-june-2026-quarter-126081301034_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Docon Technologies divests 9.90% stake held in Thyrocare Technologies",
+      "desc": "Sales rise 17.48% to Rs 132.64 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Amagi Media Labs surges after Q1 PAT jumps over 8-fold to Rs 34 cr",
+      "title": "SAB Events & Governance Now Media reports standalone net loss of Rs 0.19 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/amagi-media-labs-surges-after-q1-pat-jumps-over-8-fold-to-rs-34-cr-126081300839_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sab-events-governance-now-media-reports-standalone-net-loss-of-rs-0-19-crore-in-the-june-2026-quarter-126081301033_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Amagi Media Labs rallied 9.11% to Rs 696.20 after the company reported a strong earnings performance in Q1 FY27, with consolidated net profit surging 760.41% year on year (YoY) to Rs 33.90 crore, comp",
+      "desc": "Sales rise 9.76% to Rs 0.45 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bosch Ltd gains for fifth session",
+      "title": "ECS Biztech reports standalone net loss of Rs 0.14 crore in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bosch-ltd-gains-for-fifth-session-126081300838_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ecs-biztech-reports-standalone-net-loss-of-rs-0-14-crore-in-the-june-2026-quarter-126081301032_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Bosch Ltd is quoting at Rs 46695, up 0.46% on the day as on 12:44 IST on the NSE. The stock is up 21.02% in last one year as compared to a 0.97% fall in NIFTY and a 21.96% fall in the Nifty Auto.",
+      "desc": "Reported sales  nil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "British pound under $1.35 mark on weak UK data; GBP/INR futures linger around 129 levels",
+      "title": "Global Infratech & Finance standalone net profit rises 1400.00% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/british-pound-under-1-35-mark-on-weak-uk-data-gbp-inr-futures-linger-around-129-levels-126081300814_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/global-infratech-finance-standalone-net-profit-rises-1400-00-in-the-june-2026-quarter-126081301031_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "\nThe British pound came under pressure on Thursday as dollar index holds steady around 100 mark owing to safe haven demand amid ongoing geopolitical turmoil. The stalled peace process in the Middle Ea",
+      "desc": "Reported sales  nil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Motors spurts after Q1 PAT jumps 83% YoY; clocks wholesales of 108,700 units",
+      "title": "Golechha Global Finance standalone net profit declines 49.30% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-spurts-after-q1-pat-jumps-83-yoy-clocks-wholesales-of-108-700-units-126081300813_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/golechha-global-finance-standalone-net-profit-declines-49-30-in-the-june-2026-quarter-126081301030_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Tata Motors jumped 7.93% to Rs 834.65 after the company reported 83% increase in consolidated net profit to Rs 2,556 crore on a 19.3% rise in revenue to Rs 20,667 crore in Q1 FY27 as compared with Q1 ",
+      "desc": "Sales rise 30.00% to Rs 0.13 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zee Media Corporation Ltd leads gainers in 'B' group",
+      "title": "Sunil Agro Foods standalone net profit rises 233.33% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zee-media-corporation-ltd-leads-gainers-in-b-group-126081300812_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sunil-agro-foods-standalone-net-profit-rises-233-33-in-the-june-2026-quarter-126081301029_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Omaxe Ltd, Khandwala Securities Ltd, Jubilant Agri & Consumer Products Ltd and Landmark Property Development Company Ltd are among the other gainers in the BSE's 'B' group today, 13 August 2026.",
+      "desc": "Sales decline 20.92% to Rs 40.02 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Astral jumps 9.5% as strong pipe performance drives Q1 PAT 52% higher",
+      "title": "Sangal Papers standalone net profit rises 235.00% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/astral-jumps-9-5-as-strong-pipe-performance-drives-q1-pat-52-higher-126081300808_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sangal-papers-standalone-net-profit-rises-235-00-in-the-june-2026-quarter-126081301028_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "According to Motilal Oswal Financial Services (MOFSL), Astral delivered a mixed first quarter, but missed its estimates by 5-13 per cent.",
+      "desc": "Sales rise 17.53% to Rs 55.91 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indices trade with sideways; metal shares lose sheen",
+      "title": "Sharda Ispat standalone net profit rises 485.71% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indices-trade-with-sideways-metal-shares-lose-sheen-126081300802_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sharda-ispat-standalone-net-profit-rises-485-71-in-the-june-2026-quarter-126081301027_1.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "\nThe Nifty traded tad below the 24,400 level. Metal shares declined after advancing in the past trading session. \n",
+      "desc": "Sales rise 155.75% to Rs 71.15 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Afcons\u2019 turnaround story stumbles on execution roadblocks",
+      "title": "Ashish Kacholia-owned Credent Connect N Care IPO opens today. GMP, subscription status, other details in 10 points",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/afcons-infrastructure-q1-results-share-price-outlook-11786597462888.html",
+      "link": "https://www.livemint.com/market/ipo/ashish-kacholia-owned-credent-connect-n-care-ipo-opens-today-gmp-subscription-status-other-details-in-10-points-11786609125586.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Payment delays and labour shortages continue to squeeze margins and delay revenue conversion, overshadowing a record  \u20b943,300-crore order book and causing the stock to fall 30% this year.",
+      "desc": "Credent Connect N Care IPO opens today with plans to raise  \u20b994 crore. The company excels in healthcare logistics, servicing over 2,500 labs across India. It aims to become the first listed dedicated ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibagger stock jumps over 8% in bear-hit Indian markets",
+      "title": "Lenskart shares hit record high after Q1 profit jumps nearly four-fold; Motilal Oswal lifts target price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-jumps-over-8-in-bear-hit-indian-markets-11786601815669.html",
+      "link": "https://www.livemint.com/market/stock-market-news/lenskart-shares-hit-record-high-after-q1-profit-jumps-nearly-four-fold-motilal-oswal-lifts-target-price-11786610679031.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Multibagger stock today opened with an upside gap at  \u20b91,567.40 per share on the NSE and touched an intraday high of  \u20b91,686.90 per share",
+      "desc": "Lenskart Solutions' shares rose 7% to an all-time high of  \u20b9627 after posting a net profit of  \u20b9228 crore for Q1 FY27, a 273% increase. Revenue grew 43.3% YoY to  \u20b92,714.18 crore, driven by strong dom",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock under  \u20b9500 jumps 5% despite muted trend on Dalal Street",
+      "title": "GIC Q1 results: Standalone profit jumps 10% YoY to  \u20b91,922 crore",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-500-jaro-institute-jumps-5-despite-muted-trend-on-dalal-street-11786600010179.html",
+      "link": "https://www.livemint.com/market/stock-market-news/gic-q1-results-2026-general-insurance-corporation-of-india-profit-jumps-10-yoy-to-1-922-crore-11786610670038.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "The small-cap stock opened at  \u20b9449 apiece today, as compared to previous close of  \u20b9444.40 on Wednesday.",
+      "desc": "General Insurance Corporation of India (GIC), on Thursday, 13 August, reported its profit after tax increased by 9.69% to  \u20b91,922.04 crore for the quarter ended June 2026 as compared to profit of  \u20b91,",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Molbio Diagnostics IPO: Focus shifts to allotment date today. Latest GMP, step-by-step guide to check status",
+      "title": "Upcoming IPO: Muthoot Fincorp files DRHP with SEBI to raise  \u20b93,000 crore through the IPO route",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-gmp-molbio-diagnostics-ipo-subscription-molbio-diagnostics-ipo-allotment-date-molbio-diagnostics-11786599105765.html",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-muthoot-fincorp-files-drhp-with-sebi-to-raise-3-000-crore-through-the-ipo-route-11786609848563.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Molbio Diagnostics IPO allotment will be finalized on 13 August. Investors can check their allotment status via Kfin Technologies. The IPO was oversubscribed 70.26x, with a current grey market premium",
+      "desc": "According to the Draft Red Herring Prospectus (DRHP) filed on Wednesday, the proposed IPO will comprise entirely of a fresh issue of equity shares.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "LEAP India IPO listing on Friday; GMP signals modest listing pop. Details here",
+      "title": "Penny stock under  \u20b91 hits 5% upper circuit after Q1 results despite muted trends on Dalal Street",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/leap-india-ipo-listing-on-friday-gmp-signals-modest-listing-pop-details-here-11786598955777.html",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-gacm-technologies-hits-5-upper-circuit-after-q1-results-despite-muted-trends-on-dalal-street-11786609021214.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Shares of LEAP India are set to debut on the Indian bourses on Friday, 14 August, after the mainboard IPO concluded with a decent overall subscription on Tuesday, 11 August.",
+      "desc": "GACM Technologies share price has jumped 56% over the last month despite stock market volatility. The stock hit a 52-week low of  \u20b90.40 on 30 March this year after hitting a 52-week high of  \u20b90.94 on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Milky Mist Dairy Food IPO Day 3 LIVE: GMP, subscription status to review. Apply or not?",
+      "title": "FMCG stock shows resilience against Dalal Street bears",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-day-3-live-gmp-subscription-status-to-review-apply-or-not-11786595602005.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fmcg-stock-grm-overseas-shows-resilience-against-dalal-street-bears-11786606855965.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Milky Mist Dairy Food IPO GMP toay: According to market observers, the company shares are available at a premium of  \u20b922 in the grey market today",
+      "desc": "The FMCG stock opened at  \u20b992.85 apiece today, as compared to previous close  \u20b991.38 on Wednesday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Newly-listed stock Waterways Leisure Tourism declares record date for 1:10 stock split; details here",
+      "title": "Lenskart gets leg-up from international biz even as India expansion continues",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/newlylisted-stock-waterways-leisure-tourism-declares-record-date-for-1-10-stock-split-details-here-11786596685490.html",
+      "link": "https://www.livemint.com/market/mark-to-market/lenskart-solutions-q1fy27-international-business-india-expansion-ebitda-margin-eyewear-retail-11786604384409.html",
       "date": "Thu, 13 Aug 2026",
-      "desc": "Waterways Leisure Tourism announced Wednesday, 26 August, as the record date for the subdivision of its shares. On 10 July, the company announced that its board had approved a 1:10 stock split.",
+      "desc": "Lenskart\u2019s overseas business delivered a sharp margin boost in Q1, while India continued its store expansion. Sustaining profitability of new stores will be a key monitorable.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Newly-listed metal stock Rajputana Stainless surges 10%, hits record high after strong Q1 results",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/newlylisted-metal-stock-rajputana-stainless-surges-10-hits-record-high-after-strong-q1-results-2026-11786606773029.html",
+      "date": "Thu, 13 Aug 2026",
+      "desc": "Rajputana Stainless reported 32.4% year-on-year growth in its revenue from operations to  \u20b9306.54 crore for Q1 FY27. Profit after tax rose 80.5% to  \u20b920.20 crore from  \u20b911.19 crore in Q1FY26.",
       "tags": [],
       "is_portfolio": false
     }
