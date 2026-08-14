@@ -1,6 +1,17 @@
 {
-  "updated_ist": "14 Aug 2026 14:45 IST",
+  "updated_ist": "14 Aug 2026 15:58 IST",
   "news": [
+    {
+      "title": "Bitcoin hovers near $63,000 despite softer US inflation as weak liquidity weighs on crypto",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-63000-despite-softer-us-inflation-as-weak-liquidity-weighs-on-crypto/articleshow/133236737.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Bitcoin hovered near $63,000 as weak liquidity and subdued institutional demand offset softer U.S. inflation data. Bitcoin and Ethereum declined 1.31% and 0.70%, respectively, while major altcoins als",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,15 +24,40 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS announces strategic partnership with Vodafone biz",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tcs-announces-strategic-partnership-with-vodafone-biz-126081401021_1.html",
+      "title": "Crypto exchanges are evolving into financial superapps; traditional assets emerge as key growth engine: Binance",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/crypto-exchanges-are-evolving-into-financial-superapps-traditional-assets-emerge-as-key-growth-engine-binance/articleshow/133236327.cms",
       "date": "Fri, 14 Aug 2026",
-      "desc": "Tata Consultancy Services (TCS) has announced a strategic partnership with Vodafone Business, the enterprise arm of VodafoneThree  the United Kingdom's largest mobile operator. This synergy will help ",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
+      "desc": "Crypto exchanges are evolving into financial superapps, expanding into payments, tokenised assets, equities and investment products. Binance gained market share in H1 2026, while traditional-asset per",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Natco Pharma Q1 profit falls 57 pc to Rs 206.5 cr",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/natco-pharma-q1-profit-falls-57-pc-to-rs-206-5-cr/articleshow/133236198.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Natco Pharma has reported a stark profit decline in the first quarter, largely driven by reduced sales of its leading cancer drug, lenalidomide. This led to a pronounced drop in consolidated revenues ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Rising real yields raise fresh risks for stocks and global economic growth",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-rising-real-yields-raise-fresh-risks-for-stocks-and-global-economic-growth/articleshow/133236127.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Real borrowing costs across major economies have climbed to multi-year highs as heavy government borrowing and large technology companies\u2019 AI spending increase bond supply. Rising real yields could ch",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market | Bank of Japan could raise rates in September, eye faster hikes: Reports",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-could-raise-rates-in-september-eye-faster-hikes-reports/articleshow/133235665.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "The Bank of Japan is contemplating a potential increase in interest rates, likely as soon as September. This decision stems from concerns regarding inflation driven by global factors and a depreciatin",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: European shares steady near record highs as Iran war, Eurozone data in focus",
@@ -47,51 +83,6 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-q1-results-net-profit-soars-6x-to-rs-119-crore-revenue-surges-131-yoy/articleshow/133233995.cms",
       "date": "Fri, 14 Aug 2026",
       "desc": "Bharat Dynamics reported a strong Q1 FY27 performance, with standalone net profit rising more than sixfold year on year to Rs 118.79 crore, while revenue from operations jumped 131%. The stock remaine",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Pakistan celebrates Independence Day: Here's how its stock market performed in last one year",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-celebrates-independence-day-heres-how-its-stock-market-performed-in-last-one-year/articleshow/133232943.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Pakistan celebrates its 79th Independence Day as the KSE-100 index delivers a 23% return over the past year despite geopolitical tensions and market volatility. From a record high in January, the inde",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Unitree IPO: China\u2019s humanoid robot starset for potentially explosive Shanghai debut",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/unitree-ipo-chinas-humanoid-robot-starset-for-potentially-explosive-shanghai-debut/articleshow/133232736.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Unitree is set for a highly anticipatedShanghai debut, with private-market prices indicating potentially steep gainsover its 150.8-yuan IPO price. The humanoid robot maker attracted record retaildeman",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "15 stocks held by 100+ MFs in July surged up to 131%; 3 turned multibaggers in CY26",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/15-stocks-held-by-100-mfs-in-july-surged-up-to-131-3-turned-multibaggers-in-cy26/slideshow/133232865.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Stocks held by more than 100 mutual fund schemes showed strong gains in CY26, with 15 stocks rising 50% or more through July. Welspun Corp, Apar Industries and Ather Energy emerged as the top performe",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "LEAP India shares fall 12% post-listing, slip below IPO price. What should investors do?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/leap-india-shares-fall-12-post-listing-slip-below-ipo-price-what-should-investors-do/articleshow/133231868.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "LEAP India shares dropped from their listing price, slipping below the IPO issue price after a modest debut. While analysts highlight the company's leadership in pallet pooling and long-term growth po",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ananya Birla-promoted Svatantra Microfin files for Rs 3,000 crore IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ananya-birla-promoted-svatantra-microfin-files-for-rs-3000-crore-ipo/articleshow/133231829.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Svatantra Microfin has filed for a Rs 3,000 crore IPO, comprising Rs 1,500 crore fresh shares and Rs 1,500 crore OFS. Promoter Ananya Birla owns nearly 60%, while Advent and Multiples plan to pare hol",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,65 +114,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Zee Entertainment spurts after SAT grants interim relief in SEBI case",
+      "title": "HCL Technologies expands collaboration with NetApp",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zee-entertainment-spurts-after-sat-grants-interim-relief-in-sebi-case-126081401059_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hcl-technologies-expands-collaboration-with-netapp-126081401208_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "Zee Entertainment Enterprises surged 5.34% to Rs 101.92 after media reports said the Securities Appellate Tribunal (SAT) granted interim relief to the company in its dispute with the Securities and Ex",
+      "desc": "To offer hybrid cloud STaaS solution to enterprises",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "CESC Ltd soars 1.23%",
+      "title": "Japan stocks extend rally on rate hopes and AI gains",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cesc-ltd-soars-1-23-126081401046_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japan-stocks-extend-rally-on-rate-hopes-and-ai-gains-126081401207_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "CESC Ltd is quoting at Rs 166.85, up 1.23% on the day as on 12:49 IST on the NSE. The stock is up 1.46% in last one year as compared to a 2.14% spurt in NIFTY and a 11.79% spurt in the Nifty Energy in",
+      "desc": "\n\nMarkets now see about a 35% chance of a 25-basis-point Fed rate hike in September, down from 55% a week earlier. At home, investors are also watching for a possible Bank of Japan rate hike in Septem",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Welspun Living jumps 12% as Q1 profit rose 83%; MOFSL flags volume recovery",
+      "title": "China stocks end mixed as semiconductor and AI gains offset US tariff concerns",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/welspun-living-jump-12-as-q1-profit-rose-83-mofsl-flags-volume-recovery-126081401033_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/china-stocks-end-mixed-as-semiconductor-and-ai-gains-offset-us-tariff-concerns-126081401206_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "Welspun Living's net profit rose 83.59 per cent to \u20b9160.73 crore in the quarter ended June 2026 as against \u20b987.55 crore during the previous quarter ended June 2025.",
+      "desc": "\n\nThe Shanghai Composite was flat at 3,927.2, while the Shenzhen Component rose 0.45% to 14,354.3. Semiconductor stocks gained after SMIC reported a more than threefold increase in second-quarter prof",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bank of Baroda raises USD 700M Senior Notes",
+      "title": "Ashok Leyland posts PAT of Rs 609 crore for Q1 FY27; sells 48,763 CV units",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-baroda-raises-usd-700m-senior-notes-126081401003_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ashok-leyland-posts-pat-of-rs-609-crore-for-q1-fy27-sells-48-763-cv-units-126081401191_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "\nThese bonds will be issued through the Bank's IFSCBU branch as of 20 August 2026 and shall be listed on Singapore Stock Exchange, India INX and NSE -IX Exchange Gift city.",
+      "desc": "Ashok Leyland has reported 2.6% rise in standalone net profit to Rs 609.11 crore on a 10.4% increase in revenue from operations to Rs 9,634.35 crore in Q1 FY27 as compared with Q1 FY26.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Galaxy Surfactants shares hit 20% upper circuit as profit doubles in Q1",
+      "title": "National Aluminium Company Ltd leads losers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/galaxy-surfactants-share-price-hit-20-upper-circuit-as-profit-doubles-in-q1-126081400977_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/national-aluminium-company-ltd-leads-losers-in-a-group-126081401189_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "So far this year, Galaxy Surfactants' stock has gained 23 per cent as against an 8.61 per cent decline in the barometer Sensex.",
+      "desc": "Mishra Dhatu Nigam Ltd, Natco Pharma Ltd, Hindustan Petroleum Corporation Ltd and Olectra Greentech Ltd are among the other losers in the BSE's 'A' group today, 14 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty trade rangebound; European mrkt decline",
+      "title": "Wholesale price inflation stays elevated at 9.78%, food price inflation accelerates",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-trade-rangebound-european-mrkt-decline-126081401001_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/wholesale-price-inflation-stays-elevated-at-9-78-food-price-inflation-accelerates-126081401178_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "\nThe Nifty hovered below the 24,350 mark, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with dev",
+      "desc": "All India Wholesale Price Index (WPI) inflation for July 2026 is 9.78 per cent on year-on-year (YoY) basis, compared to 9.87 per cent in June 2026. The index for All Commodities for July 2026 stands a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Consumer durable stocks in demand: LG India, Bata, Voltas rally up to 10%",
+      "title": "Shreeji Shipping Global consolidated net profit rises 19.03% in the June 2026 quarter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/consumer-durable-stocks-in-demand-lg-india-bata-voltas-rally-up-to-10-126081400970_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/shreeji-shipping-global-consolidated-net-profit-rises-19-03-in-the-june-2026-quarter-126081401177_1.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "In the past three months, the Nifty Consumer Durable index surged 15 per cent, against a 2.7 per cent rise in the Nifty 50.",
+      "desc": "Sales rise 29.57% to Rs 208.85 crore",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tube Investments of India consolidated net profit declines 15.25% in the June 2026 quarter",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tube-investments-of-india-consolidated-net-profit-declines-15-25-in-the-june-2026-quarter-126081401176_1.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Sales rise 16.78% to Rs 6038.11 crore",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 14 August: NALCO, HPCL, Tata Motors PV, Netweb Tech, Hindustan Copper among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-august-nalco-hpcl-tata-motors-pv-netweb-tech-hindustan-copper-among-top-losers-11786700818338.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "The Indian stock market declined for the fourth consecutive day, driven by rising crude oil prices and foreign investor sell-offs. The Nifty dropped 0.12% and the Sensex fell 0.19%, with pharma sector",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap retail stock jumps 4% from today's low. Details here",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-retail-stock-jumps-4-from-todays-low-details-here-11786700699703.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Patel Retail shares gained 4% on 14 August, supported by strong Q1 FY27 results. Revenue rose 69.7% YoY to  \u20b9309.54 crore, and profit after tax increased 37.57% to  \u20b99.52 crore as the company expands ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty 50 snap 2-week winning streak on Middle East uncertainty, oil price volatility",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-snap-2-week-winning-streak-on-middle-east-uncertainty-oil-price-volatility-11786701521270.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "The Sensex declined 71 points, or 0.09%, to end at 78,009.25, while the Nifty 50 ended at 24,366, down 30 points, or 0.12%.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Dhoot Transmission IPO listing on 17 August: Here\u2019s what GMP hints ahead of debut",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-gmp-dhoot-transmission-ipo-allotment-dhoot-transmission-ipo-listing-dhoot-transmission-ipo-11786690446538.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Dhoot Transmission IPO listing is set for August 17, following a strong response from investors. The IPO, priced between  \u20b9829 and  \u20b9871, has seen significant subscription levels, especially from QIBs",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tata Motors PV shares tumble 6% after net profit drops in Q1; analysts stay cautious",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/tata-motors-pv-shares-tumble-6-after-net-profit-drops-in-q1-analysts-stay-cautious-11786697421433.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Tata Motors Passenger Vehicles shares fell 6% to  \u20b9329 due to an 80% drop in net profit linked to challenges at JLR and high material costs. Analysts expect ongoing pressure, with Motilal Oswal mainta",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Penny stock under  \u20b91 hits 5% upper circuit despite muted trends on Dalal Street",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-ncl-research-and-financial-services-hits-5-upper-circuit-despite-muted-trends-on-dalal-street-11786696692515.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "NCL Research and Financial Services hit a 52-week high of  \u20b90.87 on 27 July after hitting a 52-week low of  \u20b90.39 on 17 March this year. The stock has jumped 44% year-to-date, while over the last mont",
       "tags": [],
       "is_portfolio": false
     },
@@ -200,60 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/ashok-leyland-q1-results-net-profit-rises-2-59-yoy-to-rs-609-crore-revenue-up-104-11786694997036.html",
       "date": "Fri, 14 Aug 2026",
       "desc": "Ashok Leyland reported a net profit of  \u20b9609 crore for Q1 FY27, a 2.59% YoY increase. Revenue grew by 10.4% to  \u20b99,634 crore, with commercial vehicle volumes hitting a record 48,763 units despite risi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rekha Jhunjhunwala portfolio stock VA Tech Wabag jumps 5%; Axis Securities raises target price after Q1 results",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rekha-jhunjhunwala-portfolio-stock-va-tech-wabag-jumps-5-axis-securities-raises-target-price-after-q1-results-2026-11786692269587.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "VA Tech Wabag's stock jumped over 5% following positive Q1 results and upgraded earnings estimates by Axis Securities, driven by a significant order backlog of  \u20b919,400 crore.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Newly-listed stock Fujiyama Power Systems jumps 5%, hits record high after Q1 results 2026",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/newlylisted-stock-fujiyama-power-systems-jumps-5-hits-record-high-after-q1-results-2026-11786690383299.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "In an exchange filing on 13 August, Fujiyama Power Systems said its Q1FY27 revenue from operations surged 125.3% year-on-year (YoY) and 49.4% quarter-on-quarter (QoQ) to  \u20b91,345.7 crore.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Apollo\u2019s hospital expansion, 24/7 breakeven to shape its health",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/apollo-hospitals-hospital-expansion-apollo-healthco-24-7-breakeven-healthcare-services-pharmacy-operational-beds-11786686332761.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "The healthcare sector continues to benefit from favourable demand trends, and the Apollo stock could well remain on investors\u2019 radar if it delivers on expansion plans and growth guidance.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Molbio Diagnostics IPO listing in focus: GMP signals nearly 20% listing pop ahead of debut on Monday",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-in-focus-gmp-signals-nearly-20-listing-pop-ahead-of-debut-on-monday-11786683853332.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Molbio Diagnostics is set for a significant stock market debut following a robust IPO subscription of 70 times. With a promising grey market premium suggesting a 19.3% rise over its issue price, inves",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Page Industries faces volume-margin tightrope after soft Q1",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/page-industries-share-price-page-industries-q1-11786684735119.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Temporary supply logjams and cost pressures marred Q1 for the Jockey licensee, complicating its path to a double-digit volume growth target while protecting profit margins.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-cap engineering stock dips after giving a technical breakout. Should you buy?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-ratnaveer-precision-engineering-dips-after-giving-a-technical-breakout-should-you-buy-11786684269037.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Small-cap stock to buy today: Experts believe the stock is trading above all SMA days after giving a technical breakout at  \u20b9190 to  \u20b9195 zone",
       "tags": [],
       "is_portfolio": false
     }
