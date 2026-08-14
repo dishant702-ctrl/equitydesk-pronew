@@ -1,5 +1,5 @@
 {
-  "updated_ist": "14 Aug 2026 15:58 IST",
+  "updated_ist": "14 Aug 2026 16:51 IST",
   "news": [
     {
       "title": "Bitcoin hovers near $63,000 despite softer US inflation as weak liquidity weighs on crypto",
@@ -22,6 +22,42 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Adani Energy Solution shares end 2% higher after acquiring Vizag Power Transmission",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-solution-shares-end-2-higher-after-acquiring-vizag-power-transmission/articleshow/133238587.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Adani Energy Solutions shares gained 2% after the company acquired Vizag Power Transmission from REC Power Development and Consultancy. The acquisition is aimed at facilitating power integration for p",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee logs weekly decline, with RBI intervention curbing losses",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-logs-weekly-decline-with-rbi-intervention-curbing-losses/articleshow/133237831.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "The Indian rupee faced a challenging week, depreciating against the dollar amidst mounting tensions from the Middle East conflict. Despite this, central bank interventions and steady dollar sales by s",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex falls 71 points, Nifty closes below 24,400; broader markets underperform. What lies ahead?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-71-points-nifty-closes-below-24400-broader-markets-underperform-what-lies-ahead/articleshow/133237775.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "The Indian stock market ended lower on Friday as Sensex dropped 71 points and Nifty closed at 24,366. Broader midcap and smallcap indices underperformed, falling 0.7% each. Analysts cite global yield ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Quest Global said to pick banks for $1 billion India IPO",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/quest-global-said-to-pick-banks-for-1-billion-india-ipo/articleshow/133237705.cms",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Carlyle-backed Quest Global has appointed five banks for a potential Mumbai IPO targeting up to $1 billion. Axis Capital, Kotak Mahindra Capital, JM Financial, Morgan Stanley and Citigroup will advise",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Crypto exchanges are evolving into financial superapps; traditional assets emerge as key growth engine: Binance",
@@ -51,42 +87,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market | Bank of Japan could raise rates in September, eye faster hikes: Reports",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-japan-could-raise-rates-in-september-eye-faster-hikes-reports/articleshow/133235665.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "The Bank of Japan is contemplating a potential increase in interest rates, likely as soon as September. This decision stems from concerns regarding inflation driven by global factors and a depreciatin",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: European shares steady near record highs as Iran war, Eurozone data in focus",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "European shares traded largely flat near record highs as investors weighed stalled US-Iran negotiations, elevated oil prices and upcoming Eurozone economic data. The STOXX 600 remained supported by re",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "S&amp;P assigns investment-grade rating to IDFC FIRST Bank. Can it lift the stock?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sp-assigns-investment-grade-rating-to-idfc-first-bank-can-it-lift-the-stock/articleshow/133234206.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "S&amp;P Global Ratings has assigned IDFC FIRST Bank an inaugural investment-grade rating of BBB- for the long term, with a Stable Outlook. The rating is expected to strengthen the lender\u2019s access to g",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bharat Dynamics Q1 Results: Net profit soars 6x to Rs 119 crore, revenue surges 131% YoY",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-dynamics-q1-results-net-profit-soars-6x-to-rs-119-crore-revenue-surges-131-yoy/articleshow/133233995.cms",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Bharat Dynamics reported a strong Q1 FY27 performance, with standalone net profit rising more than sixfold year on year to Rs 118.79 crore, while revenue from operations jumped 131%. The stock remaine",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -110,6 +110,33 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty August futures trade at a premium",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-august-futures-trade-at-a-premium-126081401307_1.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Bharat Dynamics, Tata Motors PV and Bharti Airtel were top traded contracts.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Pound holds around one-month high, GBP/INR above 129 mark",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/pound-holds-around-one-month-high-gbp-inr-above-129-mark-126081401306_1.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "Powered by Capital Market - Live News",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty settles below 24,400 level; pharma shares decline",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-below-24-400-level-pharma-shares-decline-126081401272_1.html",
+      "date": "Fri, 14 Aug 2026",
+      "desc": "\nThe Nifty settled below the 24,400 level, while sentiment remained subdued amid a lack of strong directional cues. Investors will monitor the movements in crude oil and gold prices, along with develo",
       "tags": [],
       "is_portfolio": false
     },
@@ -159,29 +186,11 @@
       "is_portfolio": false
     },
     {
-      "title": "Wholesale price inflation stays elevated at 9.78%, food price inflation accelerates",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/wholesale-price-inflation-stays-elevated-at-9-78-food-price-inflation-accelerates-126081401178_1.html",
+      "title": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-q1-results-2026-profit-sees-sixfold-increase-revenue-surges-131-yoy-11786705115010.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "All India Wholesale Price Index (WPI) inflation for July 2026 is 9.78 per cent on year-on-year (YoY) basis, compared to 9.87 per cent in June 2026. The index for All Commodities for July 2026 stands a",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shreeji Shipping Global consolidated net profit rises 19.03% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shreeji-shipping-global-consolidated-net-profit-rises-19-03-in-the-june-2026-quarter-126081401177_1.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Sales rise 29.57% to Rs 208.85 crore",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tube Investments of India consolidated net profit declines 15.25% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tube-investments-of-india-consolidated-net-profit-declines-15-25-in-the-june-2026-quarter-126081401176_1.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Sales rise 16.78% to Rs 6038.11 crore",
+      "desc": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
       "tags": [],
       "is_portfolio": false
     },
@@ -208,7 +217,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-50-snap-2-week-winning-streak-on-middle-east-uncertainty-oil-price-volatility-11786701521270.html",
       "date": "Fri, 14 Aug 2026",
-      "desc": "The Sensex declined 71 points, or 0.09%, to end at 78,009.25, while the Nifty 50 ended at 24,366, down 30 points, or 0.12%.",
+      "desc": "The Sensex declined 71 points, or 0.09%, to end at 78,009.25, while the Nifty 50 ended at 24,366, down 30 points, or 0.12%. For the week, the 30-share pack dropped 490 points, or 0.62%, while the Nift",
       "tags": [],
       "is_portfolio": false
     },
@@ -245,15 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/nse-ipo-nse-ipo-news-nse-ipo-date-11786694374266.html",
       "date": "Fri, 14 Aug 2026",
       "desc": "India\u2019s dominant exchange is preparing for final investor roadshows next week as it awaits regulatory observation for its 148.9-million-share offer-for-sale.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ashok Leyland Q1 Results: Net profit rises 2.59% YoY to  \u20b9609 crore, revenue up 10.4%",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ashok-leyland-q1-results-net-profit-rises-2-59-yoy-to-rs-609-crore-revenue-up-104-11786694997036.html",
-      "date": "Fri, 14 Aug 2026",
-      "desc": "Ashok Leyland reported a net profit of  \u20b9609 crore for Q1 FY27, a 2.59% YoY increase. Revenue grew by 10.4% to  \u20b99,634 crore, with commercial vehicle volumes hitting a record 48,763 units despite risi",
       "tags": [],
       "is_portfolio": false
     }
