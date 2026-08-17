@@ -1,5 +1,5 @@
 {
-  "updated_ist": "17 Aug 2026 14:41 IST",
+  "updated_ist": "17 Aug 2026 15:29 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -22,6 +22,24 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Global Market: European shares climb despite geopolitical risks; miners lead gains",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-climb-despite-geopolitical-risks-miners-lead-gains/articleshow/133292397.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "European shares edged higher as gains in basic resources and technology stocks offset weakness in defensive sectors. A softer dollar, weaker US economic data and firmer gold prices supported sentiment",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "FIIs raise stakes in 12 stocks for three straight quarters; shares surge up to 130%, 3 turn multibaggers",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-12-stocks-for-three-straight-quarters-shares-surge-up-to-130-3-turn-multibaggers/slideshow/133291970.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "FIIs steadily increased holdings in several BSE 500 companies across three quarters, with select stocks delivering 50\u2013133% returns. Three multibaggers more than doubled investors\u2019 wealth, highlighting",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "India\u2019s six listed REITs distribute Rs 3,136 crore in Q1 FY27",
@@ -69,29 +87,11 @@
       "is_portfolio": false
     },
     {
-      "title": "BSE shares tumble 5% after Jefferies downgrades stock to Underperform. Here\u2019s why",
+      "title": "BSE shares tumble 5% after Jefferies downgrades stock to 'underperform'. Here\u2019s why",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-tumble-5-after-jefferies-downgrades-stock-to-underperform-heres-why/articleshow/133290430.cms",
       "date": "Mon, 17 Aug 2026",
       "desc": "BSE shares fell sharply on Monday after Jefferies downgraded the stock and cut its target price to Rs 2,940, citing risks from proprietary trading activity, STT changes, RBI bank guarantee norms and t",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Alibaba Earnings: Can AI bets power the next growth wave?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alibaba-earnings-can-ai-bets-power-the-next-growth-wave/slideshow/133290796.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Alibaba\u2019s Q2 earnings will test whether its aggressive AI investments can drive sustainable growth and profits. Strong Qwen adoption and cloud growth support optimism, while falling profitability, hea",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: AI investment story shifts from spending to picking the winners",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-investment-story-shifts-from-spending-to-picking-the-winners/articleshow/133290209.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "The AI investment debate is shifting toward identifying sustainable winners as spending accelerates. Hyperscalers, semiconductor firms and neocloud providers remain key beneficiaries, but investors in",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,74 +123,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Schneider Electric Infrastructure slumps after dismal Q1 performance",
+      "title": "Rubicon Research rallies as Q1 PAT soars 95.8% YoY",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/schneider-electric-infrastructure-slumps-after-dismal-q1-performance-126081700618_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/rubicon-research-rallies-as-q1-pat-soars-95-8-yoy-126081700736_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Schneider Electric Infrastructure tumbled 11.18% to Rs 1215.40 after the company reported 69.8% drop in net profit to Rs 12.4 crore in Q1 FY27 from Rs 41.2 crore in Q1 FY26.",
+      "desc": "Rubicon Research surged 9.68% to Rs 1,775.90 after the company reported strong Q1 FY27 performance, with sharp growth in revenue, EBITDA and profit.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "$115/bbl: CareEdge pegs oil level seen turning OMCs' operating profit red",
+      "title": "Zaggle Prepaid Ocean Services Ltd leads losers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/oil-prices-at-115-bbl-careedge-pegs-level-that-could-turn-omcs-operating-profit-negative-126081700591_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-ltd-leads-losers-in-a-group-126081700735_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The ratings agency estimates that an integrated OMC's operating profit would turn negative at around $115 a barrel, assuming no further increase in petrol and diesel retail prices.",
+      "desc": "Cupid Ltd, Schneider Electric Infrastructure Ltd, Belrise Industries Ltd and NMDC Steel Ltd are among the other losers in the BSE's 'A' group today, 17 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "EMS rises after securing work contract worth Rs 129 crore from Municipal Corporation Jodhpur",
+      "title": "Rubicon Research zooms 166% in CY2026; hits new high post Q1 results",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ems-rises-after-securing-work-contract-worth-rs-129-crore-from-municipal-corporation-jodhpur-126081700598_1.html",
+      "link": "https://www.business-standard.com/markets/news/rubicon-research-zooms-166-in-cy2026-hits-new-high-post-q1-results-126081700692_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "EMS added 2.50% to Rs 370.90 after the company announced the receipt of the lowest bidder (L-1) status awarded by Municipal Corporation Jodhpur for sewerage work.",
+      "desc": "Rubicon's share price hit a new high of \u20b91,800 soaring 11 per cent on the BSE in Monday's intra-day deals amid heavy volume after reporting healthy earnings for Q1FY27.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Power Ltd slips for fifth straight session",
+      "title": "Thomas Cook and SOTC launch curated ocean and expedition voyages",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-ltd-slips-for-fifth-straight-session-126081700597_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/thomas-cook-and-sotc-launch-curated-ocean-and-expedition-voyages-126081700704_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Adani Power Ltd is quoting at Rs 203.3, down 0.95% on the day as on 13:19 IST on the NSE. The stock jumped 69.77% in last one year as compared to a 2.12% slide in NIFTY and a 12.23% spurt in the Nifty",
+      "desc": "Across Europe, the Mediterranean, Antarctica and the Arctic",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades near 24,350 level; European markets open higher amid easing Fed hike expectations",
+      "title": "Turtlemint Fintech climbs after Q1 net loss narrows to Rs 38 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-near-24-350-level-european-markets-open-higher-amid-easing-fed-hike-expectations-126081700586_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/turtlemint-fintech-climbs-after-q1-net-loss-narrows-to-rs-38-cr-126081700700_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe benchmark indices continued to pare losses in afternoon trade as investors continued to assess the slew of latest corporate earnings announcements. The Nifty traded near the 24,350 mark. Metals, ",
+      "desc": "Turtlemint Fintech Solutions rallied 8.01% to Rs 148.30 after the company's consolidated net loss narrowed to Rs 37.78 crore in Q1 FY27 compared with net loss of Rs 46.69 crore recorded in Q1 FY26.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE slides after foreign broker downgrades stock to 'underperform'",
+      "title": "Volumes jump at Physicswallah Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bse-slides-after-foreign-broker-downgrades-stock-to-underperform-126081700584_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-physicswallah-ltd-counter-126081700699_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "BSE fell 2.62% to Rs 3,356.70 after a foreign brokerage downgraded the stock to 'underperform', citing concerns over lower trading volumes and the impact of the Closing Auction Session (CAS).",
+      "desc": "Physicswallah Ltd witnessed volume of 808.08 lakh shares by 14:14 IST on NSE, a 16.2 times surge over two-week average daily volume of 49.89 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more",
+      "title": "Ritesh International plans capacity expansion of 50% at its Ahmedgarh facility",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/equirus-20trn-economy-roadmap-list-railways-cut-tds-end-stt-more-126081700547_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ritesh-international-plans-capacity-expansion-of-50-at-its-ahmedgarh-facility-126081700662_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Equirus Securities in its report 'India's Road to a $20 Trillion Economy' has proposed a 20-point reform agenda across five areas.",
+      "desc": "\nThe project involves an estimated total capital expenditure of Rs 7 crore, which will be financed through a balanced mix of long-term bank loans of about Rs. 1 crore and balance of about Rs. 6 crore ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ola Electric unveils its Shakti energy storage portfolio",
+      "title": "Nifty trades below 24,350; consumer durables share decline",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ola-electric-unveils-its-shakti-energy-storage-portfolio-126081700546_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-350-consumer-durables-share-decline-126081700661_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "For deployment from home to grid",
+      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex tanked 212.72 points or 0.27% to 77,797.27. The Nifty 50 index lost 37 points or 0.15% to 24,329.\n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Milky Mist Dairy Food IPO GMP signals strong debut on Dalal Street ahead of listing date",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/milky-mist-dairy-food-ipo-gmp-signals-strong-debut-on-dalal-street-ahead-of-listing-date-11786957958242.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Milky Mist Dairy Food IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b918 in the grey market today",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Closing auction session is here to stay, says Sebi chief amid concerns over low liquidity",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/closing-auction-session-sebi-chief-tuhin-kanta-pandey-options-trade-11786954720268.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Sebi chairman Tuhin Kanta Pandey said the market regulator would examine and address constraints in the mechanism, but ruled out abandoning it because some market participants want to trade options di",
       "tags": [],
       "is_portfolio": false
     },
@@ -236,24 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-portfolio-arihant-capital-sees-over-90-upside-in-this-infra-stock-should-you-buy-11786952782416.html",
       "date": "Mon, 17 Aug 2026",
       "desc": "SPML Infra shares rose over 2% after Arihant Capital initiated a Buy rating with a target price of  \u20b9366, expecting revenue growth supported by a strong order book of  \u20b95,369 crore and improved financ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Baazar Style Retail shares hit 5% upper circuit on reports of Aditya Halwasia buying company shares worth  \u20b9163 crore",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/baazar-style-retail-shares-hit-5-upper-circuit-on-reports-of-aditya-halwasia-buying-company-shares-worth-163-crore-11786948034095.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Bazaar Style Retail shares opened at  \u20b9384.45 apiece today, as compared to previous close of  \u20b9366.15 on Friday last week.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Pramodini Medicare IPO allotment in focus today; latest GMP, 5 steps to check status",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "The Pramodini Medicare IPO allotment has been finalised today, 17 August. Investors can check their allotment status on Purva Sharegistry. Refunds for non-allottees begin on 18 August, with shares cre",
       "tags": [],
       "is_portfolio": false
     }
