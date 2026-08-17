@@ -1,6 +1,53 @@
 {
-  "updated_ist": "17 Aug 2026 10:19 IST",
+  "updated_ist": "17 Aug 2026 11:09 IST",
   "news": [
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "NMDC shares decline 4% after Q1 results. Should you buy, sell or hold the stock?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "NMDC shares fell 4% despite a 2% YoY rise in Q1FY27 profit to Rs 2,007 crore, while revenue increased 2% to Rs 6,795 crore. Iron ore production jumped 26% to 151.17 lakh tonnes, but sales rose just 2%",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "How India's digital infrastructure opened global markets to Indian investors",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-indias-digital-infrastructure-opened-global-markets-to-indian-investors/articleshow/133286982.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Indian residents' outward remittances have significantly increased, reaching a record USD 31.73 billion by FY2023-24.  Digital reforms and infrastructure upgrades have streamlined the process for inve",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PhysicsWallah shares rally 8% after Q1 loss narrows, revenue rises 24% YoY. Should you buy?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-shares-rally-8-after-q1-loss-narrows-revenue-rises-24-yoy-should-you-buy/articleshow/133287057.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "PhysicsWallah shares gained sharply after the edtech company reported improved Q1FY27 performance, with revenue rising and losses narrowing year-on-year. Brokerage JM Financial viewed the quarter posi",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US Stock Market: Tiger Global trims big tech bets, adds AMD and SpaceX in Q2",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-tiger-global-trims-big-tech-bets-adds-amd-and-spacex-in-q2/articleshow/133286709.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Tiger Global reshuffled its tech portfolio in Q2, cutting stakes in Alphabet, Nvidia, Microsoft, Amazon, Meta, Broadcom and TSMC while exiting Netflix. The fund more than doubled its Intel holding and",
+      "tags": [],
+      "is_portfolio": false
+    },
     {
       "title": "Top Nifty50 stocks analysts suggest buying in this volatile week",
       "source": "Economic Times",
@@ -38,110 +85,101 @@
       "is_portfolio": false
     },
     {
-      "title": "US Stock Market: Fed uncertainty, oil prices in focus as earnings sustain market optimism",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-uncertainty-oil-prices-in-focus-as-earnings-sustain-market-optimism/articleshow/133286178.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Investors enter the week focused on interest rates, inflation and geopolitical risks, while strong corporate earnings support equities. The Federal Reserve\u2019s Jackson Hole symposium and AI infrastructu",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Voltas shares in focus after Q1 profit surges 52%. Buy, Sell or Hold?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-after-q1-profit-surges-52-buy-sell-or-hold/articleshow/133286071.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": " Voltas reported a strong Q1 FY27, with consolidated net profit rising 52% YoY to \u20b9213 crore and revenue growing 19% to \u20b94,673 crore. However, the revenue miss and continued weakness in non-RAC busine",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Patanjali Foods shares in focus after Q1 profit jumps 86% YoY, revenue rises to Rs 11,337 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-shares-in-focus-after-q1-profit-jumps-86-yoy-revenue-rises-to-rs-11337-crore/articleshow/133286043.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Patanjali Foods reported a strong Q1FY27, with consolidated profit surging 86% YoY to Rs 335.7 crore and revenue rising 29% to Rs 11,337.5 crore. EBITDA jumped 69% to Rs 543.3 crore, while margins imp",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Max Healthcare among 4 F&amp;O stocks with sharp rise in futures OI",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/max-healthcare-among-4-fampo-stocks-with-sharp-rise-in-futures-oi/slideshow/133286127.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "A significant uptick in futures open interest indicates substantial growth in the number of active, unexpired futures contracts in a specific security.  ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shiprocket IPO ends with 99.38 times subscription",
+      "title": "Sensex slides 433 pts; PSU bank decline for 3rd day",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shiprocket-ipo-ends-with-99-38-times-subscription-126081700198_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-433-pts-psu-bank-decline-for-3rd-day-126081700279_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The offer received bids for 938.52 crore shares as against 9.44 crore shares on offer.",
+      "desc": "\nThe Nifty traded below the 24,300 level, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with dev",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Behari Lal Engineering (BLEL) IPO ends with 108.44 times subscription",
+      "title": "Sun Pharma receives favorable court ruling in Lipitor patent settlement case in US",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/behari-lal-engineering-blel-ipo-ends-with-108-44-times-subscription-126081700197_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharma-receives-favorable-court-ruling-in-lipitor-patent-settlement-case-in-us-126081700278_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The offer received bids for 80.38 crore shares as against 74.12 lakh shares on offer.",
+      "desc": "Sun Pharmaceutical Industries said that the company and certain subsidiaries have secured a favourable outcome in the long-running US antitrust litigation related to the 2008 Pfizer-Ranbaxy patent set",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "INR slips near two-week low as RBI shortens dollar deposit window",
+      "title": "Sembcorp plans to file IPO papers for Indian unit to raise $500 million",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-slips-near-two-week-low-as-rbi-shortens-dollar-deposit-window-126081700196_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/sembcorp-plans-to-file-ipo-papers-for-indian-unit-to-raise-500-million-126081700265_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe Indian rupee fell in opening trades on Monday, near a two-week low after the Reserve bank of India shortened the window for mobilising fresh Foreign Currency Non-Resident (Bank), or FCNR(B), depo",
+      "desc": "The Temasek Holdings Pte.-backed renewable energy company plans to submit draft documents as early as this month",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Solid debut! Molbio Diagnostics shares list at 21% premium over IPO price",
+      "title": "Hindustan Adhesives soars as Q1 PAT jumps 183.7% YoY",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/solid-debut-molbio-diagnostics-shares-list-at-21-premium-over-ipo-price-126081700195_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-adhesives-soars-as-q1-pat-jumps-183-7-yoy-126081700246_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The listing beat expectations as signalled by the grey market premium (GMP). Ahead of its debut today, Molbio Diagnostics IPO GMP was \u20b9120, suggesting 15 per cent listing pop.",
+      "desc": "Hindustan Adhesives hit the upper limit of 20% at Rs 335.55 after the company reported strong Q1 FY27 performance.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "DMR consortium bags PMA contract for 1500MW Tarali Pumped Storage Project",
+      "title": "Molbio Diagnostics gains on debut",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/dmr-consortium-bags-pma-contract-for-1500mw-tarali-pumped-storage-project-126081700182_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/molbio-diagnostics-gains-on-debut-126081700245_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "",
+      "desc": "Shares of Molbio Diagnostics were currently trading at Rs 946.25 at 10:07 IST on the BSE, representing a premium of 17.26% as compared with the issue price of Rs 807.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indices edge lower in early trade; breadth positive",
+      "title": "Dhoot Transmission climbs on debut",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indices-edge-lower-in-early-trade-breadth-positive-126081700181_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dhoot-transmission-climbs-on-debut-126081700243_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe Nifty traded near the 24,300 level, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with deve",
+      "desc": "Shares of Dhoot Transmission were currently trading at Rs 1,149 at 10:07 IST on the BSE, representing a premium of 31.92% as compared with the issue price of Rs 871.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems",
+      "title": "PhysicsWallah share price rallies 9% as Q1 loss narrows, revenue rises 24%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nibe-bags-rs-563-cr-indian-army-contract-for-loiter-munition-systems-126081700180_1.html",
+      "link": "https://www.business-standard.com/markets/news/physicswallah-share-price-rallies-9-as-q1-loss-narrows-revenue-rises-24-126081700219_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "NIBE has secured a supply contract worth Rs 563.35 crore from the Indian Army, Ministry of Defence, Government of India for the manufacture and supply of loiter munition systems.",
+      "desc": "JM Financial has upgraded PhysicsWallah to 'Buy' from 'Add' after the Q1 results for a target price of \u20b9140.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ashok Leyland gains 3% as Q1 revenue rises 12%; volumes hit record high",
+      "title": "Aurobindo Pharma slides after USFDA issues 11 observations",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ashok-leyland-gains-3-as-q1-revenue-rises-12-volumes-hit-record-high-126081700175_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/aurobindo-pharma-slides-after-usfda-issues-11-observations-126081700226_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The automaker's revenue from operations stood at \u20b913,069.59 crore during the April-June quarter, up 12 per cent year-on-year (Y-o-Y) from \u20b911,708.54 crore.",
+      "desc": "Aurobindo Pharma declined 1.03% to Rs 1,641 after the company announced that the US Food and Drug Administration (USFDA) has closed its inspection of the Raleigh plant in North Carolina, USA.",
       "tags": [],
       "is_portfolio": false
     },
@@ -159,7 +197,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Molbio Diagnostics share price was listed at  \u20b9980 on the BSE and the NSE, up 21.44% from the issue price of  \u20b9807.",
+      "desc": "Molbio Diagnostics share price was listed at  \u20b9980 on the BSE and the NSE, up 21.44% from the issue price of  \u20b9807. According to grey market sources, the last grey market premium (GMP) on Molbio Diagn",
       "tags": [],
       "is_portfolio": false
     },
