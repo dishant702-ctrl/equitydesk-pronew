@@ -1,6 +1,28 @@
 {
-  "updated_ist": "17 Aug 2026 16:13 IST",
+  "updated_ist": "17 Aug 2026 16:40 IST",
   "news": [
+    {
+      "title": "Bitcoin hovers near $63K ahead of Fed rate decision as investors assess liquidity outlook",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-hovers-near-63k-ahead-of-fed-rate-decision-as-investors-assess-liquidity-outlook/articleshow/133293649.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Bitcoin hovered near $63,000 as investors awaited Federal Reserve guidance, with weak ETF flows, geopolitical tensions and elevated oil prices pressuring risk appetite. Analysts highlighted $62,300 su",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "TCS launches new agentic AI to transform drug development at scale",
       "source": "Business Standard",
@@ -11,6 +33,42 @@
         "TCS"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Rupee slips as sentiment drags on RBI curtailing FX inflow window",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-sentiment-drags-on-rbi-curtailing-fx-inflow-window/articleshow/133294246.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The Indian rupee slipped against the US dollar on Monday as the central bank's surprise move to shorten its forex swap timeframe rattled the market. Importer demand for dollars continued to exert down",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tempsens Instruments' Rs 650 crore IPO opens on August 20, price band fixed at Rs 285-300 per share",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-instruments-rs-650-crore-ipo-opens-on-august-20-price-band-fixed-at-rs-285-300-per-share/articleshow/133294143.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Tempsens Instruments is preparing for its IPO launch on August 20, targeting an impressive Rs 650 crore in funding. Of this, Rs 18 crore will be allocated for capital investments while Rs 55 crore is ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Zepto IPO: Raamdeo Agrawal says it was premature for the quick-commerce firm to tap public market. Here\u2019s why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zepto-ipo-raamdeo-agrawal-says-it-was-premature-for-the-quick-commerce-firm-to-tap-public-market-heres-why/articleshow/133293788.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Market veteran Raamdeo Agrawal has called Zepto\u2019s IPO plans premature after the quick-commerce firm deferred its proposed listing amid valuation concerns. Zepto is reportedly discussing a valuation of",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Euro zone bond yields hover near 15-year highs as Middle East war fuels inflation fears",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-zone-bond-yields-hover-near-15-year-highs-as-middle-east-war-fuels-inflation-fears/articleshow/133293555.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Euro zone bond yields stayed near 15-year highs as Middle East conflict-driven energy inflation raised expectations for ECB rate hikes. Germany\u2019s 10-year Bund yield held around 3.20%, while widening I",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Yes Bank makes bond market comeback years after AT1 write-off",
@@ -40,47 +98,38 @@
       "is_portfolio": false
     },
     {
-      "title": "India\u2019s six listed REITs distribute Rs 3,136 crore in Q1 FY27",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-six-listed-reits-distribute-rs-3136-crore-in-q1-fy27/articleshow/133291635.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "India\u2019s six listed REITs distributed Rs 3,136 crore to over 4.85 lakh unitholders in Q1 FY27, reflecting strong rental collections, occupancy and stable cash flows. With Rs 3.17 lakh crore in assets, ",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE launches 3-day SLB contracts to boost short-term securities borrowing",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-3-day-slb-contracts-to-boost-short-term-securities-borrowing/articleshow/133290993.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "BSE Clearing has launched three-working-day securities lending and borrowing (SLB) contracts to give market participants greater flexibility for short-term borrowing and delivery needs. The new contra",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Markets: 5 big triggers to watch this week",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-big-triggers-to-watch-this-week/slideshow/133291128.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Global markets enter a quieter summer week with food inflation, US consumer spending, Japan\u2019s growth outlook, gold and UK inflation in focus. Investors will assess whether rising energy and food costs",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 23%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-picks-of-the-week-5-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-23/articleshow/133290598.cms",
+      "title": "Sensex, Nifty ends lower amid Q1 earnings, subdued global cues",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-ends-lower-amid-q1-earnings-subdued-global-cues-126081700884_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "There are currently too many variables that can move the markets in either direction. Oil prices may have settled into a range for now, but there is still no clarity on how the Gulf situation will dev",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Emerging markets defy global shocks as investors return to local assets",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/emerging-markets-defy-global-shocks-as-investors-return-to-local-assets/articleshow/133290588.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Emerging markets are seeing renewed investor interest despite geopolitical tensions, trade risks and AI-driven volatility, with debt attracting strong foreign inflows as deeper domestic capital market",
+      "desc": " \nThe Nifty settled below the 24,300 level, while market sentiment remained subdued in the absence of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, al",
       "tags": [],
       "is_portfolio": false
     },
@@ -135,15 +184,6 @@
       "link": "https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-ltd-leads-losers-in-a-group-126081700735_1.html",
       "date": "Mon, 17 Aug 2026",
       "desc": "Cupid Ltd, Schneider Electric Infrastructure Ltd, Belrise Industries Ltd and NMDC Steel Ltd are among the other losers in the BSE's 'A' group today, 17 August 2026.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rubicon Research zooms 166% in CY2026; hits new high post Q1 results",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/rubicon-research-zooms-166-in-cy2026-hits-new-high-post-q1-results-126081700692_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Rubicon's share price hit a new high of \u20b91,800 soaring 11 per cent on the BSE in Monday's intra-day deals amid heavy volume after reporting healthy earnings for Q1FY27.",
       "tags": [],
       "is_portfolio": false
     },
