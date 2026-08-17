@@ -1,160 +1,201 @@
 {
-  "updated_ist": "17 Aug 2026 09:24 IST",
+  "updated_ist": "17 Aug 2026 10:19 IST",
   "news": [
     {
-      "title": "Picture perfect quarter? Nifty profit growth hits a 10-quarter high, but 5 stocks do the heavy lifting",
+      "title": "Top Nifty50 stocks analysts suggest buying in this volatile week",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/picture-perfect-quarter-nifty-profit-growth-hits-a-10-quarter-high-but-5-stocks-do-the-heavy-lifting/articleshow/133285622.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/top-nifty50-stocks-analysts-suggest-buying-in-this-volatile-week/articleshow/133286274.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Nifty firms have recorded their most impressive profit growth in a decade, boasting significant contributions from five leading companies, ONGC and Reliance among them, which accounted for sixty perce",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "desc": "Stock Reports Plus, powered by Refinitiv, is a comprehensive report that evaluates five key components of 4,000+ listed stocks \u2013 earnings, fundamentals, relative valuation, risk, and price momentum \u2013 ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
-      "title": "Stocks to watch: Reliance Industries, Cochin Shipyard, NMDC among shares in focus today; check list here",
+      "title": "Global Market: German companies turn cautious on new US investments amid tariff risks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-german-companies-turn-cautious-on-new-us-investments-amid-tariff-risks/articleshow/133286369.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "German companies sharply cut investments in the US in the first half of 2026, with direct investment falling nearly two-thirds from a year earlier amid uncertainty over tariffs, trade and US economic ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Japan stocks edge lower after GDP growth misses forecasts",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-stocks-edge-lower-after-gdp-growth-misses-forecasts/articleshow/133286283.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": " Japanese equities traded mostly lower as weaker-than-expected economic growth and elevated oil prices weighed on investor sentiment. Concerns over Middle East tensions, inflation and rising bond yiel",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex falls over 300 pts, Nifty below 24,300 as oil hits $90; IT, PSU stocks lead the slide",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-300-pts-nifty-below-24300-as-oil-hits-90-it-psu-stocks-lead-the-slide/articleshow/133286171.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "In a troubling trend, Nifty and Sensex slipped for a fifth day on Monday, as escalating oil prices and struggling IT stocks soured investor confidence. The broader market followed suit, opening lower ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US Stock Market: Fed uncertainty, oil prices in focus as earnings sustain market optimism",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-uncertainty-oil-prices-in-focus-as-earnings-sustain-market-optimism/articleshow/133286178.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Investors enter the week focused on interest rates, inflation and geopolitical risks, while strong corporate earnings support equities. The Federal Reserve\u2019s Jackson Hole symposium and AI infrastructu",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Voltas shares in focus after Q1 profit surges 52%. Buy, Sell or Hold?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/voltas-shares-in-focus-after-q1-profit-surges-52-buy-sell-or-hold/articleshow/133286071.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": " Voltas reported a strong Q1 FY27, with consolidated net profit rising 52% YoY to \u20b9213 crore and revenue growing 19% to \u20b94,673 crore. However, the revenue miss and continued weakness in non-RAC busine",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Patanjali Foods shares in focus after Q1 profit jumps 86% YoY, revenue rises to Rs 11,337 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/patanjali-foods-shares-in-focus-after-q1-profit-jumps-86-yoy-revenue-rises-to-rs-11337-crore/articleshow/133286043.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Patanjali Foods reported a strong Q1FY27, with consolidated profit surging 86% YoY to Rs 335.7 crore and revenue rising 29% to Rs 11,337.5 crore. EBITDA jumped 69% to Rs 543.3 crore, while margins imp",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Max Healthcare among 4 F&amp;O stocks with sharp rise in futures OI",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/max-healthcare-among-4-fampo-stocks-with-sharp-rise-in-futures-oi/slideshow/133286127.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "A significant uptick in futures open interest indicates substantial growth in the number of active, unexpired futures contracts in a specific security.  ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shiprocket IPO ends with 99.38 times subscription",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/shiprocket-ipo-ends-with-99-38-times-subscription-126081700198_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The offer received bids for 938.52 crore shares as against 9.44 crore shares on offer.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Behari Lal Engineering (BLEL) IPO ends with 108.44 times subscription",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/behari-lal-engineering-blel-ipo-ends-with-108-44-times-subscription-126081700197_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The offer received bids for 80.38 crore shares as against 74.12 lakh shares on offer.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "INR slips near two-week low as RBI shortens dollar deposit window",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-slips-near-two-week-low-as-rbi-shortens-dollar-deposit-window-126081700196_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\nThe Indian rupee fell in opening trades on Monday, near a two-week low after the Reserve bank of India shortened the window for mobilising fresh Foreign Currency Non-Resident (Bank), or FCNR(B), depo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Solid debut! Molbio Diagnostics shares list at 21% premium over IPO price",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/solid-debut-molbio-diagnostics-shares-list-at-21-premium-over-ipo-price-126081700195_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The listing beat expectations as signalled by the grey market premium (GMP). Ahead of its debut today, Molbio Diagnostics IPO GMP was \u20b9120, suggesting 15 per cent listing pop.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "DMR consortium bags PMA contract for 1500MW Tarali Pumped Storage Project",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dmr-consortium-bags-pma-contract-for-1500mw-tarali-pumped-storage-project-126081700182_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indices edge lower in early trade; breadth positive",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-edge-lower-in-early-trade-breadth-positive-126081700181_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\nThe Nifty traded near the 24,300 level, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with deve",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NIBE bags Rs 563-cr Indian Army contract for loiter munition systems",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nibe-bags-rs-563-cr-indian-army-contract-for-loiter-munition-systems-126081700180_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "NIBE has secured a supply contract worth Rs 563.35 crore from the Indian Army, Ministry of Defence, Government of India for the manufacture and supply of loiter munition systems.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Ashok Leyland gains 3% as Q1 revenue rises 12%; volumes hit record high",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/ashok-leyland-gains-3-as-q1-revenue-rises-12-volumes-hit-record-high-126081700175_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The automaker's revenue from operations stood at \u20b913,069.59 crore during the April-June quarter, up 12 per cent year-on-year (Y-o-Y) from \u20b911,708.54 crore.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "LG Electronics India: turnaround or just a low-base bounce?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-reliance-industries-cochin-shipyard-nmdc-among-shares-in-focus-today-check-list-here-11786932151439.html",
+      "link": "https://www.livemint.com/market/mark-to-market/lg-electronics-india-q1-results-share-price-earnings-11786935091993.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Stock market today: Gift Nifty was trading near the 24,393.5 mark, down over 56 points from the previous close of Nifty futures.",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "LG Electronics among 6 stocks flashing bullish signals, hinting at a possible uptrend",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lg-electronics-among-6-stocks-flashing-bullish-signals-hinting-at-a-possible-uptrend/slideshow/133285969.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Six Nifty500 stocks flashed bullish White Marubozu signals on August 14, reflecting strong buying momentum and sustained investor interest. Gains exceeded 4%, highlighting notable price strength and p",
+      "desc": "A 26% Ebitda jump and stronger margins have revived optimism around LG Electronics India, but premiumization, mass-market gains and commodity costs will decide whether the recovery can hold.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/one-common-stock-across-6-top-performing-mutual-funds-is-mcx-a-signal-or-a-crowded-trade/articleshow/133285869.cms",
+      "title": "Molbio Diagnostics IPO listing: Shares debut at a 21% premium, defying weak stock market sentiment",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "MCX is the sole stock held by six top-performing mid and small-cap mutual funds. Analysts at UBS see a re-rating opportunity, upgrading the stock to Buy. JPMorgan also upgraded MCX, citing potential g",
+      "desc": "Molbio Diagnostics share price was listed at  \u20b9980 on the BSE and the NSE, up 21.44% from the issue price of  \u20b9807.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ashok Leyland shares in focus after Q1 results. What are Citi, Nomura analysts saying?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashok-leyland-shares-in-focus-after-q1-results-what-are-citi-nomura-analysts-saying/articleshow/133285845.cms",
+      "title": "Dhoot Transmission share price makes a bumper debut, stock opens with a 38% premium at  \u20b91,200 apiece on NSE",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-share-price-makes-a-bumper-debut-stock-opens-with-a-38-premium-at-rs-1-200-apiece-on-nse-11786939636120.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Ashok Leyland reported a 2% rise in Q1 consolidated profit to Rs 668 crore, while revenue grew 10% to Rs 10,750 crore. Margins declined amid higher material costs. Brokerages remain positive, citing s",
+      "desc": "Dhoot Transmission shares debuted strongly on 17 August, opening at  \u20b91,200, up 37.77% from the IPO price of  \u20b9871. The IPO was oversubscribed 74.21 times, raising  \u20b93,067 crore, with major backing fr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Horizon Industrial Parks IPO opens today: Check GMP, price band and key details",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/horizon-industrial-parks-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/133285783.cms",
+      "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Horizon Industrial Parks\u2019 Rs 2,600 crore IPO opens August 17 and closes August 19, with a Rs 57\u2013Rs 60 price band and Rs 4 GMP, implying a 6% premium. The company plans to use Rs 2,250 crore to reduce ",
+      "desc": "Market bets on Federal Reserve interest-rate hikes are still too aggressive given that inflation in the world\u2019s biggest economy is cooling, according to Goldman Sachs Group Inc.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Behari Lal Engineering allotment likely today; GMP at 30%. Here\u2019s how to check status",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-allotment-likely-today-gmp-at-30-heres-how-to-check-status/articleshow/133285794.cms",
+      "title": "Shiprocket IPO allotment date likely today. GMP, how to check application status online",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-before-shiprocket-ipo-listing-date-11786938586309.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Behari Lal Engineering's IPO allotment for its \u20b9302-crore issue is set to be finalized today. Investors can check status via the registrar's site or BSE/NSE portals. The stock's GMP is around 30%, sig",
+      "desc": "Shiprocket IPO GMP: According to market observers, the company shares are available at a premium of  \u20b932 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shiprocket IPO allotment likely today; GMP signals 33% listing gain. Here\u2019s how to check status",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-ipo-allotment-likely-today-gmp-signals-33-listing-gain-heres-how-to-check-status/articleshow/133285649.cms",
+      "title": "Lalithaa Jewellery Mart IPO: GMP hints 15% listing pop. Check key dates, review. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-lalithaa-jewellery-ipo-gmp-lalithaa-jewellery-ipo-review-lalithaa-jewellery-ipo-date-11786936827173.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Shiprocket IPO allotment is expected to be finalised today after the Rs 1,617.48-crore issue received a strong response, with overall subscription reaching 99.38 times. With the GMP at around Rs 32, o",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "ETMarkets Smart Talk | Dhawal Dalal\u2019s fixed-income playbook: Stagger bond bets, favour AAA debt",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-dhawal-dalals-fixed-income-playbook-stagger-bond-bets-favour-aaa-debt/articleshow/133284956.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "While the near-term rate outlook remains uncertain amid global inflation and energy price risks, the fixed-income landscape continues to offer opportunities across select segments. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Blackstone-backed Horizontal Industrial Parks IPO a long-term bet: Analysts",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/blackstone-backed-horizontal-industrial-parks-ipo-a-long-term-bet-analysts-126081700121_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Horizon Industrial Parks IPO price band is fixed at \u20b957 to \u20b960 per share. The lot size for an application is 250 shares.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sun Pharma update on Lipitor antitrust litigation in US court",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharma-update-on-lipitor-antitrust-litigation-in-us-court-126081700118_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sun Pharmaceutical Industries and certain of its subsidiaries have been defendants in antitrust litigation in the United States relating to a 2008 patent litigation settlement agreement with Pfizer co",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Aurolife Pharma's Raleigh Plant completes USFDA inspection",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aurolife-pharma-s-raleigh-plant-completes-usfda-inspection-126081700117_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Aurobindo Pharma announced that the United States Food and Drug Administration (USFDA) inspected Raleigh Plant, North Carolina, USA, owned by Aurolife Pharma LLC, a wholly owned step-down subsidiary o",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Earlysalary Services Pvt standalone net profit rises 180.95% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/earlysalary-services-pvt-standalone-net-profit-rises-180-95-in-the-june-2026-quarter-126081700116_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sales rise 83.74% to Rs 475.76 crore",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "JFC Finance (India) reports standalone net loss of Rs 3.41 crore in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/jfc-finance-india-reports-standalone-net-loss-of-rs-3-41-crore-in-the-june-2026-quarter-126081700115_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sales decline 11.11% to Rs 1.44 crore",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Aaron Industries standalone net profit rises 141.51% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aaron-industries-standalone-net-profit-rises-141-51-in-the-june-2026-quarter-126081700114_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sales rise 27.03% to Rs 24.44 crore",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nxtra Data standalone net profit declines 10.05% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nxtra-data-standalone-net-profit-declines-10-05-in-the-june-2026-quarter-126081700113_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sales rise 22.17% to Rs 699.90 crore",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Clix Capital Services Pvt standalone net profit rises 82.33% in the June 2026 quarter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/clix-capital-services-pvt-standalone-net-profit-rises-82-33-in-the-june-2026-quarter-126081700112_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sales rise 7.19% to Rs 263.75 crore",
+      "desc": "The Lalithaa Jewellery Mart IPO opens on 17 August and closes on 19 August, priced between  \u20b9190\u2013 \u20b9201 per share. The company aims to raise  \u20b91,700 crore, with  \u20b9508 crore already secured from anchor ",
       "tags": [],
       "is_portfolio": false
     },
@@ -172,52 +213,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-5-paise-lower-at-95-48-against-us-dollar-11786937803681.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Rupee opens 5 paise lower at 95.48 against US dollar",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nikkei-225-kospi-us-stocks-global-markets-equity-heatmap-stock-market-holidays-indian-stock-markets-opening-bell-11786933461146.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Global markets today: The US stock market closed lower on Friday, even after the S&amp;amp;P 500 briefly touched a fresh record high earlier in the session",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold Rises to Near $4,400 as Weak Retail Data Weighs on Dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/gold-rises-to-near-4-400-as-weak-retail-data-weighs-on-dollar-11786937454532.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Gold extended a two-week advance as weaker US retail sales data weighed on the US dollar, making bullion cheaper for most buyers.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bdl-bata-india-among-3-shares-anand-rathis-jigar-patel-recommends-for-the-next-1-2-weeks-11786934823182.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Anand Rathi's Jigar Patel recommends three stocks\u2014Aarti Industries, Bata India, and BDL\u2014as prime targets for investment over the next 1-2 weeks. With bullish setups emerging, Patel highlights key buyi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tempsens Instruments IPO: Price band set at  \u20b9285-300 per share; check key dates, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-price-band-set-at-rs-285-300-per-share-check-key-dates-issue-details-11786934351400.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Tempsens Instruments Limited sets its IPO price band between  \u20b9285 to  \u20b9300. Subscription opens on August 20 and closes on August 24. Allocation for anchor investors is on August 19, with shares liste",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stock market today: Gift Nifty hints a weak start; eight day trading stocks to buy on Monday, 17 August",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-weak-start-eight-day-trading-stocks-to-buy-on-monday-17-august-11786931771359.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Indian stock indices Sensex and Nifty 50 are set to open lower on August 17 due to weak global signals. The Gift Nifty indicated a subdued start, trading below previous closes. Geopolitical tensions a",
+      "desc": "The rupee opened lower at 95.48 against the US dollar, pressured by the RBI's early deadline for forex swap facilities. Despite weaker dollar expectations, geopolitical risks and domestic factors coul",
       "tags": [],
       "is_portfolio": false
     }
