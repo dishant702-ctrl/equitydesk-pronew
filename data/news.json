@@ -1,147 +1,205 @@
 {
-  "updated_ist": "17 Aug 2026 11:51 IST",
+  "updated_ist": "17 Aug 2026 13:03 IST",
   "news": [
     {
-      "title": "Sugar stocks Balrampur Chini, Triveni Engineering, Dhampur Sugar and others rally up to 7%. Here\u2019s why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-triveni-engineering-dhampur-sugar-and-others-rally-up-to-7-heres-why/articleshow/133288064.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sugar stocks rallied up to 7% as global sugar prices climbed to multi-month highs, with raw sugar touching 16.6 cents per pound and white sugar hitting a 15-month peak. Domestic prices have surged nea",
-      "tags": [],
-      "is_portfolio": false
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
     },
     {
-      "title": "Uflex shares surge 16% after Q1 profit zooms 630% YoY",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/uflex-shares-surge-16-after-q1-profit-zooms-630-yoy/articleshow/133287997.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Uflex shares rallied after the company reported a 630% YoY jump in Q1 FY27 net profit to Rs 423.3 crore. Revenue grew 38% to Rs 5,366 crore, while EBITDA surged 92% to Rs 919.8 crore. The EBITDA margi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Zaggle shares crash 20%, hit lower circuit after Q1 PAT declines 33% YoY",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/zaggle-shares-crash-20-hit-lower-circuit-after-q1-pat-declines-33-yoy/articleshow/133287705.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": " Zaggle Prepaid Ocean Services shares hit the lower circuit after the company reported a sharp year-on-year decline in Q1FY27 profit, despite strong revenue growth. Margin pressure from Dice acquisiti",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Puravankara shares rally up to 13% after Q1 revenue jumps 62% YoY; EBITDA margin expands to 25%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/puravankara-shares-rally-up-to-13-after-q1-revenue-jumps-62-yoy-ebitda-margin-expands-to-25/articleshow/133287561.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Puravankara shares rose sharply on Monday after Q1FY27 revenue jumped 63% YoY to Rs 877 crore, while PAT turned positive at Rs 25 crore and EBITDA margin expanded to 25%. Pre-sales rose 28% to Rs 1,43",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: China, Hong Kong stocks rise as chipmakers rally on strong earnings",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-stocks-rise-as-chipmakers-rally-on-strong-earnings/articleshow/133287452.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Chinese and Hong Kong equities advanced, led by technology and semiconductor stocks following strong corporate earnings, while consumer and liquor stocks weakened. Investors remained focused on key ec",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NMDC shares decline 4% after Q1 results. Should you buy, sell or hold the stock?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nmdc-shares-decline-4-after-q1-results-should-you-buy-sell-or-hold-the-stock/articleshow/133287154.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "NMDC shares fell 4% despite a 2% YoY rise in Q1FY27 profit to Rs 2,007 crore, while revenue increased 2% to Rs 6,795 crore. Iron ore production jumped 26% to 151.17 lakh tonnes, but sales rose just 2%",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "How India's digital infrastructure opened global markets to Indian investors",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-indias-digital-infrastructure-opened-global-markets-to-indian-investors/articleshow/133286982.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Indian residents' outward remittances have significantly increased, reaching a record USD 31.73 billion by FY2023-24.  Digital reforms and infrastructure upgrades have streamlined the process for inve",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "PhysicsWallah shares rally 8% after Q1 loss narrows, revenue rises 24% YoY. Should you buy?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/physicswallah-shares-rally-8-after-q1-loss-narrows-revenue-rises-24-yoy-should-you-buy/articleshow/133287057.cms",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "PhysicsWallah shares gained sharply after the edtech company reported improved Q1FY27 performance, with revenue rising and losses narrowing year-on-year. Brokerage JM Financial viewed the quarter posi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bond yields surge after RBI announces early dollar deposit window closure",
+      "title": "Bitcoin ETFs record largest outflow in six weeks as token stagnates",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bond-yields-surge-after-rbi-announces-early-dollar-deposit-window-closure-126081700363_1.html",
+      "link": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-etfs-record-largest-outflow-in-six-weeks-as-token-stagnates-126081700466_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The move, announced late Friday, surprised traders after Reserve Bank of India Governor Sanjay Malhotra had ruled out an early closure as recently as the Aug. 5 policy meeting",
+      "desc": "The 13 US-listed funds saw a net $389.7 million drained in the week of Aug. 10, after pulling in $853.5 million the previous week",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Molbio Diagnostics shares rally 6% after strong debut. What should investors do?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/molbio-diagnostics-shares-rally-6-after-strong-debut-what-should-investors-do/articleshow/133289856.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Molbio Diagnostics made a strong debut, beating grey market expectations. Experts remain positive on the company\u2019s molecular diagnostics leadership, expansion strategy and industry prospects, though t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ONGC receives OFAC license to continue full operations in Venezuela",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ongc-receives-ofac-license-to-continue-full-operations-in-venezuela-126081700361_1.html",
+      "title": "Sebi chief Tuhin Kanta Pandey says CAS here to stay, will study concerns over rollout",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chief-says-cas-here-to-stay-will-study-concerns-over-rollout/articleshow/133289575.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Oil and Natural Gas Corporation has reportedly secured a licence from the U.S. Treasury's Office of Foreign Assets Control (OFAC), allowing it to resume full operations in Venezuela after years of lim",
+      "desc": "Sebi Chairman Tuhin Kanta Pandey says the closing auction session (CAS) is here to stay, even as the regulator reviews concerns over its implementation. Launched on August 3, CAS has triggered sharp m",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Volumes soar at Lenskart Solutions Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-lenskart-solutions-ltd-counter-126081700359_1.html",
+      "title": "Dhoot Transmission makes strong debut at 38% premium. Should investors hold or buy on dips?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dhoot-transmission-makes-strong-debut-at-38-premium-should-investors-hold-or-buy-on-dips/articleshow/133289059.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Lenskart Solutions Ltd recorded volume of 63.52 lakh shares by 10:46 IST on BSE, a 15.35 times surge over two-week average daily volume of 4.14 lakh shares",
+      "desc": "Dhoot Transmission made a strong debut, with shares listing at a 38% premium to the \u20b9871 IPO price, comfortably beating the ~30% gain indicated by its grey market premium. Analysts remain positive on ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Defence index hits new high; Midhani, HAL, BEML rally up to 5%; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/defence-index-hits-new-high-midhani-hal-beml-rally-up-to-5-here-s-why-126081700326_1.html",
+      "title": "Schneider Electric Infrastructure shares tumble 12% after Q1 profit plunges 70% YoY",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/schneider-electric-infrastructure-shares-tumble-12-after-q1-profit-plunges-70-yoy/articleshow/133289103.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Nifty India Defence index hit a new high of 9,912.75, gaining 1% in Monday's intra-day deals. The index quoted higher for the fourth straight trading day.",
+      "desc": "Schneider Electric Infrastructure shares fell sharply on Monday after Q1FY27 net profit plunged 70% YoY to Rs 12 crore despite a 5% rise in revenue. EBIT also declined sharply, while record quarterly ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UFlex spurts as Q1 PAT zooms 630% YoY",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/uflex-spurts-as-q1-pat-zooms-630-yoy-126081700334_1.html",
+      "title": "RBI's heavy FX footprint revives memories of a tightly managed rupee",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbis-heavy-fx-footprint-revives-memories-of-a-tightly-managed-rupee/articleshow/133288323.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "UFlex soared 17.18% to Rs 572.30 after the company reported strong Q1 FY27 performance.",
+      "desc": "The Reserve Bank of India has stepped in, providing crucial support for the rupee amidst global economic uncertainties. State-run banks are actively engaging in dollar sales to ensure currency stabili",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Puravankara surges after reporting turnaround Q1 performance",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/puravankara-surges-after-reporting-turnaround-q1-performance-126081700333_1.html",
+      "title": "Global market: Japan Q2 GDP misses estimates, but BOJ rate hike bets remain intact",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-q2-gdp-misses-estimates-but-boj-rate-hike-bets-remain-intact/articleshow/133288124.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Puravankara jumped 10.76% to Rs 241.68 after the real estate developer reported a consolidated net profit of Rs 26.02 crore in Q1 FY27, compared with a net loss of Rs 68.55 crore in Q1 FY26.",
+      "desc": "Japan\u2019s second-quarter economic growth missed expectations as weaker household consumption and business investment offset resilient exports. Despite the softer GDP reading, economists expect the Bank ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Saatvik Solar signs MoU with Govt. of Odisha",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/saatvik-solar-signs-mou-with-govt-of-odisha-126081700296_1.html",
+      "title": "Rupee falls 17 paise to 95.59 against US dollar in early trade",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-17-paise-to-95-59-against-us-dollar-in-early-trade/articleshow/133288203.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "To set up 3.6 GW solar cell manufacturing unit in Gopalpur",
+      "desc": "In early trading, the rupee slipped by 17 paise against the US dollar as investor sentiment turned cautious following the Reserve Bank of India's announcement on its swap facility adjustment. The end ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Paisalo Digital successfully concludes Rs 300 cr NCD issuance",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/paisalo-digital-successfully-concludes-rs-300-cr-ncd-issuance-126081700280_1.html",
+      "title": "India bonds dip as RBI's diaspora swap move dents sentiment",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-dip-as-rbis-diaspora-swap-move-dents-sentiment/articleshow/133288178.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe issue, which opened on 7 August 2026 and was scheduled to close on 20 August 2026, witnessed strong investor participation and achieved full subscription ahead of schedule, accordingly, the Compa",
+      "desc": "Early Monday saw a dip in demand for Indian government bonds following the RBI's closure of its swap window. This decision caused the benchmark bond yield to surge, hindering a crucial source of deman",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "EFC leases entire A+ category building in Pune",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/efc-leases-entire-a-category-building-in-pune-126081700489_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Adding 2000+ seats to its managed office portfolio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "MTR launches new range of products with authentic North Karnataka flavours",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/mtr-launches-new-range-of-products-with-authentic-north-karnataka-flavours-126081700488_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "MTR announced the launch of a new range of North Karnataka offerings, comprising Groundnut Chutney Podi (Shenga), Nigerseed Chutney Podi (Gurellu), Flax Seed Chutney Podi (Agasi) and Masala Khara. Cra",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Market recovers from lows but trade lower; FMCG shares extend losses",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/market-recovers-from-lows-but-trade-lower-fmcg-shares-extend-losses-126081700486_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\nThe Nifty traded below the 24,300 level, while market sentiment remained subdued in the absence of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, alon",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Cochin Shipyard slips as Q1 PAT declines 19% YoY to Rs 151 cr",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/cochin-shipyard-slips-as-q1-pat-declines-19-yoy-to-rs-151-cr-126081700485_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Cochin Shipyard declined 2.05% to Rs 1,464.40 after it reported a 19.38% decline in consolidated net profit to Rs 151.45 crore on a 2.40% increase in revenue from operations to Rs 1,094.21 crore in Q1",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "L&T secures 'ultra-mega' order for strategic offshore development project in the Middle East",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/l-t-secures-ultra-mega-order-for-strategic-offshore-development-project-in-the-middle-east-126081700484_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Larsen & Toubro said that L&T Energy Hydrocarbon Offshore (LTEH Offshore) has secured an 'ultra-mega' order from a prestigious client in the Middle East.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Larsen & Toubro wins offshore development project in Middle East",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/larsen-toubro-wins-offshore-development-project-in-middle-east-126081700464_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "L&T Energy Hydrocarbon Offshore (LTEH Offshore) has secured an ultra mega order from a prestigious client in the Middle East. The project involves the development of multiple offshore facilities. Acco",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Knowledge Marine edges higher after recording over fivefold jump in Q1 PAT",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/knowledge-marine-edges-higher-after-recording-over-fivefold-jump-in-q1-pat-126081700462_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Knowledge Marine & Engineering Works added 3.03% to Rs 2814.30 after the company's consolidated net profit surged 447.7% to Rs 61.73 crore in Q1 FY27 from Rs 11.27 crore in Q1 FY26.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Pramodini Medicare IPO allotment in focus today; latest GMP, 5 steps to check status",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The Pramodini Medicare IPO allotment has been finalised today, 17 August. Investors can check their allotment status on Purva Sharegistry. Refunds for non-allottees begin on 18 August, with shares cre",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sunshine Pictures IPO: GMP signals 15% listing pop; dates, price band, other key details in 10 points",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Sunshine Pictures IPO is opening for subscription on Tuesday, 18 August, and will conclude on Thursday, 20 August. The issue's price band has been set at  \u20b9342 to  \u20b9360 per share.",
       "tags": [],
       "is_portfolio": false
     },
@@ -196,24 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/molbio-diagnostics-ipo-listing-shares-debut-at-a-21-premium-defying-weak-stock-market-sentiment-11786940515415.html",
       "date": "Mon, 17 Aug 2026",
       "desc": "Molbio Diagnostics share price was listed at  \u20b9980 on the BSE and the NSE, up 21.44% from the issue price of  \u20b9807. According to grey market sources, the last grey market premium (GMP) on Molbio Diagn",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dhoot Transmission share price makes a bumper debut, stock opens with a 38% premium at  \u20b91,200 apiece on NSE",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-share-price-makes-a-bumper-debut-stock-opens-with-a-38-premium-at-rs-1-200-apiece-on-nse-11786939636120.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Dhoot Transmission shares debuted strongly on 17 August, opening at  \u20b91,200, up 37.77% from the IPO price of  \u20b9871. The IPO was oversubscribed 74.21 times, raising  \u20b93,067 crore, with major backing fr",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Goldman Says Markets Too Hawkish on Betting Fed Will Hike Rates",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/goldman-says-markets-too-hawkish-on-betting-fed-will-hike-rates-11786940446270.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Market bets on Federal Reserve interest-rate hikes are still too aggressive given that inflation in the world\u2019s biggest economy is cooling, according to Goldman Sachs Group Inc.",
       "tags": [],
       "is_portfolio": false
     }
