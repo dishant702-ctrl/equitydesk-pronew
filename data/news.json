@@ -1,6 +1,17 @@
 {
-  "updated_ist": "17 Aug 2026 13:55 IST",
+  "updated_ist": "17 Aug 2026 14:41 IST",
   "news": [
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Reliance shares briefly slip below  \u20b91,300 amid volatility: Buy the dip or wait?",
       "source": "Mint",
@@ -11,6 +22,15 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "India\u2019s six listed REITs distribute Rs 3,136 crore in Q1 FY27",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-six-listed-reits-distribute-rs-3136-crore-in-q1-fy27/articleshow/133291635.cms",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "India\u2019s six listed REITs distributed Rs 3,136 crore to over 4.85 lakh unitholders in Q1 FY27, reflecting strong rental collections, occupancy and stable cash flows. With Rs 3.17 lakh crore in assets, ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "BSE launches 3-day SLB contracts to boost short-term securities borrowing",
@@ -76,11 +96,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Emerging Asian currencies rise as softer dollar supports regional markets",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emerging-asian-currencies-rise-as-softer-dollar-supports-regional-markets/articleshow/133290081.cms",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Schneider Electric Infrastructure slumps after dismal Q1 performance",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/schneider-electric-infrastructure-slumps-after-dismal-q1-performance-126081700618_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Emerging Asian currencies gained on Monday as a weaker US dollar supported regional markets, with Taiwan and Thailand leading gains. Investors also assessed Japan\u2019s slower growth, Malaysia\u2019s inflation",
+      "desc": "Schneider Electric Infrastructure tumbled 11.18% to Rs 1215.40 after the company reported 69.8% drop in net profit to Rs 12.4 crore in Q1 FY27 from Rs 41.2 crore in Q1 FY26.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "$115/bbl: CareEdge pegs oil level seen turning OMCs' operating profit red",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/oil-prices-at-115-bbl-careedge-pegs-level-that-could-turn-omcs-operating-profit-negative-126081700591_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "The ratings agency estimates that an integrated OMC's operating profit would turn negative at around $115 a barrel, assuming no further increase in petrol and diesel retail prices.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "EMS rises after securing work contract worth Rs 129 crore from Municipal Corporation Jodhpur",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ems-rises-after-securing-work-contract-worth-rs-129-crore-from-municipal-corporation-jodhpur-126081700598_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "EMS added 2.50% to Rs 370.90 after the company announced the receipt of the lowest bidder (L-1) status awarded by Municipal Corporation Jodhpur for sewerage work.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Adani Power Ltd slips for fifth straight session",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-ltd-slips-for-fifth-straight-session-126081700597_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Adani Power Ltd is quoting at Rs 203.3, down 0.95% on the day as on 13:19 IST on the NSE. The stock jumped 69.77% in last one year as compared to a 2.12% slide in NIFTY and a 12.23% spurt in the Nifty",
       "tags": [],
       "is_portfolio": false
     },
@@ -121,38 +195,38 @@
       "is_portfolio": false
     },
     {
-      "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
+      "title": "Shankesh Jewellers IPO opens tomorrow. GMP, size, review, other details about  \u20b9367 crore public issue in 10 points",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-opens-tomorrow-gmp-size-review-other-details-about-rs-367-crore-public-issue-in-10-points-11786955563602.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "The Incident Reporting Portal will streamline cybersecurity incident reporting, while the Cyber Suraksha Portal will serve as a central hub for information sharing",
+      "desc": "Shankesh Jewellers IPO GMP today: According to Investorgain, the company shares are available at a premium of  \u20b95 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Greaves Cotton acquires balance 20% stake in Excel Controlinkage",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/greaves-cotton-acquires-balance-20-stake-in-excel-controlinkage-126081700505_1.html",
+      "title": "Cochin Shipyard shares extend losing streak, drop 4% after Q1 net profit falls 19%",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-extend-losing-streak-drop-4-after-q1-net-profit-falls-19-11786956032258.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Greaves Cotton has acquired the remaining 20% shareholding in Excel Controlinkage through the secondary route, taking its aggregate shareholding in the company to 100%. ",
+      "desc": "Cochin Shipyard shares fell 4% to  \u20b91,435 amidst a 19.4% YoY net profit decline to  \u20b9151.45 crore. Despite a 2.4% revenue increase, expenses rose significantly. The shipbuilding segment thrived, while",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lupin receives USFDA approval for Pitolisant Tablets, 4.45 mg and 17.8 mg",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lupin-receives-usfda-approval-for-pitolisant-tablets-4-45-mg-and-17-8-mg-126081700504_1.html",
+      "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/hal-vs-bel-vs-bdl-vs-mazagon-dock-shipbuilders-which-defence-stock-to-buy-after-q1-results-2026-11786954170289.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe U.S. FDA has approved Lupin's Pitolisant Tablets, 4.45 mg and 17.8 mg, as bioequivalent to Wakix for the indications in the approved labeling.",
+      "desc": "On Monday, Defence shares across both private and public sector companies extended their gains, with the Nifty India Defence Index climbing 1% to a fresh high of 9,912.75 during Monday\u2019s intraday trad",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sky Gold enters MSCI India Domestic Small Cap Index",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sky-gold-enters-msci-india-domestic-small-cap-index-126081700503_1.html",
+      "title": "India's steel pipe makers tap West Asia as all eyes on energy transport",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/steel-pipe-stocks-west-asia-oil-gas-pipeline-demand-welspun-corp-jindal-saw-man-industries-ratnamani-11786944806720.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Sky Gold & Diamonds has been added to the MSCI India Domestic Small Cap Index, as part of the latest index review announced by MSCI. ",
+      "desc": "Geopolitical tensions are pushing West Asian countries to invest in new pipelines and safer overland energy routes, opening up a growth opportunity for Indian pipe makers. Welspun Corp, Jindal Saw, Ma",
       "tags": [],
       "is_portfolio": false
     },
@@ -180,42 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
       "date": "Mon, 17 Aug 2026",
       "desc": "The Pramodini Medicare IPO allotment has been finalised today, 17 August. Investors can check their allotment status on Purva Sharegistry. Refunds for non-allottees begin on 18 August, with shares cre",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sunshine Pictures IPO: GMP signals 15% listing pop; dates, price band, other key details in 10 points",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Sunshine Pictures IPO is opening for subscription on Tuesday, 18 August, and will conclude on Thursday, 20 August. The issue's price band has been set at  \u20b9342 to  \u20b9360 per share.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering IPO allotment today. GMP signals 29% listing pop. How to check status online?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-today-gmp-signals-29-listing-pop-how-to-check-status-online-11786943306004.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "The shares of Behari Lal Engineering is commanding a strong premium of  \u20b984 in the grey market, as per websites tracking the unlisted market.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Horizon Industrial Parks IPO Day 1 LIVE: GMP, review, subscription, other details of Blackstone-backe  \u20b92600 crore IPO",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-1-live-gmp-review-subscription-other-details-of-blackstone-backe-rs-2600-crore-ipo-11786940478449.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Horizon Industrial Parks IPO GMP: According to market observers, the company shares are available at a premium of  \u20b94 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Q&amp;T Foods IPO share allotment in focus today: GMP, steps to check allotment status online",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/qt-foods-ipo-share-allotment-in-focus-today-gmp-steps-to-check-allotment-status-online-11786942257421.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Share allotment of the Q&amp;amp;T Foods IPO is expected to be finalised on Monday, 17 August. The IPO of bakery products manufacturer and seller concluded with an overall subscription of 1.42 times o",
       "tags": [],
       "is_portfolio": false
     }
