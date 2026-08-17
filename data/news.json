@@ -1,27 +1,25 @@
 {
-  "updated_ist": "17 Aug 2026 15:29 IST",
+  "updated_ist": "17 Aug 2026 16:13 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "title": "TCS launches new agentic AI to transform drug development at scale",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tcs-launches-new-agentic-ai-to-transform-drug-development-at-scale-126081700767_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "Tata Consultancy Services (TCS) has launched TCS ADD AgentHub, a role-based, enterprise ready, and trusted AI platform that enables the use of agentic AI in drug development at scale. This new agentic",
       "tags": [
-        "RELIANCE"
+        "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Reliance shares briefly slip below  \u20b91,300 amid volatility: Buy the dip or wait?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-briefly-slip-below-1-300-amid-volatility-buy-the-dip-or-wait-11786950918125.html",
+      "title": "Yes Bank makes bond market comeback years after AT1 write-off",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-makes-bond-market-comeback-years-after-at1-write-off/articleshow/133291828.cms",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Year-to-date, Reliance share price is down over 16% compared to a nearly 9% decline in the benchmark Sensex. The heavyweight stock hit a 52-week low of  \u20b91,250.55 on 24 July after hitting a 52-week hi",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "desc": "Yes Bank is preparing its first dollar bond issuance since its 2020 AT1 debt write-off, planning a benchmark-sized three-year note. The move follows a turnaround, ratings upgrades and Sumitomo Mitsui ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: European shares climb despite geopolitical risks; miners lead gains",
@@ -87,38 +85,38 @@
       "is_portfolio": false
     },
     {
-      "title": "BSE shares tumble 5% after Jefferies downgrades stock to 'underperform'. Here\u2019s why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-tumble-5-after-jefferies-downgrades-stock-to-underperform-heres-why/articleshow/133290430.cms",
+      "title": "Japanese stocks rise as AI shares offset economic concerns",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-rise-as-ai-shares-offset-economic-concerns-126081700825_1.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "BSE shares fell sharply on Monday after Jefferies downgraded the stock and cut its target price to Rs 2,940, citing risks from proprietary trading activity, STT changes, RBI bank guarantee norms and t",
+      "desc": "\n\nChip and AI-related stocks led the gains, with Kioxia Holdings, Fujikura, Advantest, Furukawa Electric, and Tokyo Electron all rising. Financial and consumer stocks mostly fell. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "title": "Chinese stocks rise as technology shares lead gains",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-rise-as-technology-shares-lead-gains-126081700822_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\n\nCambricon Technologies, Zhongji Innolight, Eoptolink Technology, NAURA Technology, SMIC, and Hygon Information Technology were among the top performers. SMIC surged after reporting that its second-q",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "title": "Euro currency speculators slightly add to net short position",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/euro-currency-speculators-slightly-add-to-net-short-position-126081700795_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\nLarge currency speculators slightly increased net short in the Euro futures market, according to the latest Commitment of Traders (COT) data released by the Commodity Futures Trading Commission (CFTC",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "title": "NITI Aayog report outlines a four-pronged strategy to improve the efficiency and output of India's professional services sector",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/niti-aayog-report-outlines-a-four-pronged-strategy-to-improve-the-efficiency-and-output-of-india-s-professional-services-sector-126081700763_1.html",
+      "date": "Mon, 17 Aug 2026",
+      "desc": "\nNITI Aayog has released a report assessing Indias regulatory framework for professional services and benchmarking it against select foreign jurisdictions, with the aim of identifying challenges and p",
       "tags": [],
       "is_portfolio": false
     },
@@ -150,47 +148,20 @@
       "is_portfolio": false
     },
     {
-      "title": "Thomas Cook and SOTC launch curated ocean and expedition voyages",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/thomas-cook-and-sotc-launch-curated-ocean-and-expedition-voyages-126081700704_1.html",
+      "title": "Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-falls-281-points-nifty-50-ends-at-24-288-mid-small-caps-outperform-11786962054954.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Across Europe, the Mediterranean, Antarctica and the Arctic",
+      "desc": "The Sensex closed 281 points, or 0.36%, lower at 77,728.16, while the Nifty 50 settled at 24,287.65, down 78 points, or 0.32%. The Nifty Midcap 100 index climbed by 0.05%, while the Nifty Smallcap 100",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Turtlemint Fintech climbs after Q1 net loss narrows to Rs 38 cr",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/turtlemint-fintech-climbs-after-q1-net-loss-narrows-to-rs-38-cr-126081700700_1.html",
+      "title": "Top Gainers &amp; Losers on 17 August: NMDC Steel, LG Electronics, BSE, Tata Tech, Infosys, Voltas among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-17-august-nmdc-steel-lg-electronics-bse-tata-tech-infosys-voltas-among-top-losers-11786961037869.html",
       "date": "Mon, 17 Aug 2026",
-      "desc": "Turtlemint Fintech Solutions rallied 8.01% to Rs 148.30 after the company's consolidated net loss narrowed to Rs 37.78 crore in Q1 FY27 compared with net loss of Rs 46.69 crore recorded in Q1 FY26.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Volumes jump at Physicswallah Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-physicswallah-ltd-counter-126081700699_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "Physicswallah Ltd witnessed volume of 808.08 lakh shares by 14:14 IST on NSE, a 16.2 times surge over two-week average daily volume of 49.89 lakh shares",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ritesh International plans capacity expansion of 50% at its Ahmedgarh facility",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ritesh-international-plans-capacity-expansion-of-50-at-its-ahmedgarh-facility-126081700662_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "\nThe project involves an estimated total capital expenditure of Rs 7 crore, which will be financed through a balanced mix of long-term bank loans of about Rs. 1 crore and balance of about Rs. 6 crore ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nifty trades below 24,350; consumer durables share decline",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-350-consumer-durables-share-decline-126081700661_1.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex tanked 212.72 points or 0.27% to 77,797.27. The Nifty 50 index lost 37 points or 0.15% to 24,329.\n",
+      "desc": "Indian stocks remained subdued on August 17, with the Nifty down 0.11% and the Sensex down 0.19% due to ongoing Middle East conflicts and high crude oil prices. Despite this, midcap and small-cap indi",
       "tags": [],
       "is_portfolio": false
     },
@@ -245,15 +216,6 @@
       "link": "https://www.livemint.com/market/steel-pipe-stocks-west-asia-oil-gas-pipeline-demand-welspun-corp-jindal-saw-man-industries-ratnamani-11786944806720.html",
       "date": "Mon, 17 Aug 2026",
       "desc": "Geopolitical tensions are pushing West Asian countries to invest in new pipelines and safer overland energy routes, opening up a growth opportunity for Indian pipe makers. Welspun Corp, Jindal Saw, Ma",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Vijay Kedia portfolio: Arihant Capital sees over 90% upside in this infra stock. Should you buy?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-portfolio-arihant-capital-sees-over-90-upside-in-this-infra-stock-should-you-buy-11786952782416.html",
-      "date": "Mon, 17 Aug 2026",
-      "desc": "SPML Infra shares rose over 2% after Arihant Capital initiated a Buy rating with a target price of  \u20b9366, expecting revenue growth supported by a strong order book of  \u20b95,369 crore and improved financ",
       "tags": [],
       "is_portfolio": false
     }
