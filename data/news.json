@@ -1,6 +1,17 @@
 {
-  "updated_ist": "18 Aug 2026 15:20 IST",
+  "updated_ist": "18 Aug 2026 16:04 IST",
   "news": [
+    {
+      "title": "Bitcoin climbs towards $64,000 as cooling inflation and falling treasury yields aid recovery",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-climbs-towards-64000-as-cooling-inflation-and-falling-treasury-yields-aid-recovery/articleshow/133318408.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Bitcoin hovered near $64,000 as cooling inflation, lower Treasury yields and reduced expectations of further US monetary tightening supported crypto markets. Ethereum and select altcoins also gained, ",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -11,6 +22,42 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Following smart money: Where are India\u2019s top investors betting next?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/following-smart-money-where-are-indias-top-investors-betting-next/articleshow/133317828.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "As private credit, venture debt and co-investments gain traction, India\u2019s family offices and institutional investors are increasingly diversifying portfolios in search of differentiated sources of alp",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global bond yields rise to multi-year highs as inflation and fiscal concerns intensify",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-yields-rise-to-multi-year-highs-as-inflation-and-fiscal-concerns-intensify/articleshow/133317680.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Global bond yields surged on Tuesday, with US, Japanese and German government borrowing costs hitting multi-year or multi-decade highs. Rising oil prices, inflation concerns, tighter Japanese monetary",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "VFS Global launches Maha's first Model SRO in Pune to streamline property registration",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/vfs-global-launches-mahas-first-model-sro-in-pune-to-streamline-property-registration/articleshow/133317646.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "VFS Global has unveiled Maharashtra's inaugural Model Sub-Registrar Office in Pune, aiming to revolutionize property registration. This venture includes a five-year agreement to set up sixty similar c",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Multibagger IPOs of 2026: These 3 stocks have fattened investors\u2019 portfolios; do you own any",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/multibagger-ipos-of-2026-these-3-stocks-have-fattened-investors-portfolios-do-you-own-any/articleshow/133316208.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Three mainboard IPOs from 2026, Omnitech Engineering, SEDEMAC Mechatronics and Shadowfax Technologies, have emerged as multibaggers, gaining over 100 per cent from issue prices. With 44 mainboard debu",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: European shares slip as rising oil prices, bond yields weigh on sentiment",
@@ -40,51 +87,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Unique Picks: 10 stocks held by a single MF scheme in July; rally up to 125% in 6 months",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-10-stocks-held-by-a-single-mf-scheme-in-july-rally-up-to-125-in-6-months/slideshow/133316871.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "ETMarkets identified 37 stocks held exclusively by one mutual fund scheme, each with over Rs 10 crore in holdings. Performance was mixed, with select stocks surging up to 126%, while four declined 25\u2013",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Emerging Asian currencies rise as softer dollar, rate-hike bets support sentiment",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emerging-asian-currencies-rise-as-softer-dollar-rate-hike-bets-support-sentiment/articleshow/133315978.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Asian currencies strengthened modestly as a weaker US dollar and fading expectations of a September Federal Reserve rate hike supported emerging markets. However, rising oil prices amid Middle East te",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US Stock Market |  Fed policy may be accommodative under medium-term neutral rate estimate: Reports",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-policy-may-be-accommodative-under-medium-term-neutral-rate-estimate-reports/articleshow/133315987.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "A San Francisco Fed research paper suggests that US monetary policy may be more accommodative than commonly assessed when measured against a medium-term estimate of the neutral interest rate. The find",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-of-india-shares-surge-8-after-q1-earnings-what-motilal-oswal-is-saying/articleshow/133315012.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Tube Investments of India shares surged after the company reported a 5% year-on-year decline in Q1FY27 profit to Rs 158.62 crore, despite a 17.7% rise in revenue to Rs 2,227.63 crore. Motilal Oswal re",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Welspun Living shares surge 8%; stock gains 14% in 3 days. What\u2019s driving the rally?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-living-shares-surge-8-stock-gains-14-in-3-days-whats-driving-the-rally/articleshow/133314860.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Welspun Living shares surged nearly 8% on Tuesday, extending gains to nearly 14% over three sessions after the company reported a strong Q1FY27 performance. Brokerages Motilal Oswal and JM Financial r",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -108,6 +110,42 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PCBL Chemical receives ECMS approval for Acetylene Black Project",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/pcbl-chemical-receives-ecms-approval-for-acetylene-black-project-126081800813_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "\nAcetylene Black is a critical conductive material used in lithium-ion batteries and various advanced industrial applications. The proposed project is expected to support the development of the domest",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India's coconut product exports explode in FY26, mark a spurt of 62% on year",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/india-s-coconut-product-exports-explode-in-fy26-mark-a-spurt-of-62-on-year-126081800810_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Powered by Capital Market - Live News",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Currency in circulation continues to grow at double-digit rates even as cash's share of individual transactions declines",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/currency-in-circulation-continues-to-grow-at-double-digit-rates-even-as-cash-s-share-of-individual-transactions-declines-126081800778_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Powered by Capital Market - Live News",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BSE stock hammered after back-to-back downgrades, down 10% in 5 sessions",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bse-stock-hammered-after-back-to-back-downgrades-down-10-in-5-sessions-126081800710_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "BSE share price today: Today's decline marked the fifth straight session of losses for BSE, during which the stock has fallen 10 per cent.",
       "tags": [],
       "is_portfolio": false
     },
@@ -148,38 +186,29 @@
       "is_portfolio": false
     },
     {
-      "title": "Protean eGov Technologies bags Rs 6-cr order from Arunachal Pradesh govt",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/protean-egov-technologies-bags-rs-6-cr-order-from-arunachal-pradesh-govt-126081800694_1.html",
+      "title": "Top Gainers &amp; Losers on 18 August: PTC Industries, Inox Wind, Mphasis, Tata Elxsi, Suzlon Energy among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-18-august-ptc-industries-inox-wind-mphasis-tata-elxsi-suzlon-energy-among-top-losers-11787047296067.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Protean eGov Technologies has received a work order worth Rs 5.99 crore from the Government of Arunachal Pradesh for the design, development, implementation and maintenance of the Arun Parivar Patra (",
+      "desc": "Indian stock indices faced losses for the sixth session on August 18, closing 0.50% lower amid ongoing foreign selling and hesitant market sentiment influenced by renewed Middle East tensions.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Volumes jump at Tube Investments of India Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-tube-investments-of-india-ltd-counter-126081800693_1.html",
+      "title": "Sensex crashes almost 500 points, Nifty 50 extends losses for 6th consecutive session",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-almost-500-points-nifty-50-extends-losses-for-6th-consecutive-session-11787037197745.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Tube Investments of India Ltd witnessed volume of 36.19 lakh shares by 14:14 IST on NSE, a 11.36 times surge over two-week average daily volume of 3.18 lakh shares",
+      "desc": "The Sensex crashed 493 points, or 0.63%, to end at 77,235.46 on Tuesday, 18 August, while the NSE barometer Nifty 50 extended losses for the sixth consecutive session, ending with a loss of 133 points",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Airfloa Rail Technology rises after Rs 70.56 lakh order from Modern Coach Factory",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/airfloa-rail-technology-rises-after-rs-70-56-lakh-order-from-modern-coach-factory-126081800692_1.html",
+      "title": "IPO GMPs: Lalitha Jewellery IPO, Horizon Industrial Parks IPO to Shankesh Jewellers IPO \u2014what grey market premium hints",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-lalitha-jewellery-ipo-gmp-vs-horizon-industrial-parks-ipo-gmp-vs-sunshine-pictures-ipo-gmp-11787036925581.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Airfloa Rail Technology rose 2.95% to Rs 358.95 after the company received a new order worth Rs 70.56 lakh from Modern Coach Factory (MCF), Lalganj, Raebareli.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Infosys Ltd slips for fifth straight session",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/infosys-ltd-slips-for-fifth-straight-session-126081800691_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Infosys Ltd is quoting at Rs 1116.1, down 2.09% on the day as on 13:19 IST on the NSE. The stock tumbled 22.49% in last one year as compared to a 3.1% slide in NIFTY and a 12.84% fall  in the Nifty IT",
+      "desc": "Four IPOs are open for subscription, with varying levels of investor interest. Sunshine Pictures and Lalithaa Jewellery Mart see higher demand, while Shankesh Jewellers and Horizon Industrial Parks sh",
       "tags": [],
       "is_portfolio": false
     },
@@ -225,33 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Manage",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-cap stock trades green despite tepid stock market trends",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/logistics-stock-elitecon-international-trades-green-despite-tepid-stock-market-trends-11787036232174.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Elitecon International share price opened at  \u20b916.73 today. The stock touched an intraday high of  \u20b917.12 on NSE on 18 August.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Credent Connect N Care IPO allotment in focus. GMP signals 23% listing pop for Ashish Kacholia-owned company",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Credent Connect N Care IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b945 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gaja Alternative Asset Management IPO to open on Wednesday: GMP, price band, other key details in 10 points",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-to-open-on-wednesday-gmp-price-band-other-key-details-in-10-points-11787031888671.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Gaja Alternative Asset Management IPO is opening for subscription on Wednesday, 19 August, and will conclude on Friday, 21 August. It is a fresh issue of 2.81 crore shares to raise  \u20b9450 crore, and an",
       "tags": [],
       "is_portfolio": false
     }
