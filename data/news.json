@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 10:11 IST",
+  "updated_ist": "18 Aug 2026 10:44 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,15 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Gold slips below Rs 1.55 lakh/10 gm on MCX, but global prices extend gains. What\u2019s next?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-below-rs-1-55-lakh/10-gm-on-mcx-but-global-prices-extend-gains-whats-next/articleshow/133311524.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Gold prices slipped on the MCX but extended gains in international markets on Tuesday as expectations of a US Federal Reserve rate hike eased. Gold futures for October delivery fell 0.6% to Rs 1,54,99",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "US Stock Market: Citadel Securities warns SEC rule change could hurt retail investors, market liquidity",
@@ -58,29 +67,20 @@
       "is_portfolio": false
     },
     {
+      "title": "HCL Tech Share Price Live Updates: HCL Tech Stock Details",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-18-aug-2026/liveblog/133310807.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": " ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Paytm\u2019s Vijay Shekhar Sharma sets $1 billion free cash goal, sees fintechs gaining lending share",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytms-vijay-shekhar-sharma-sets-1-billion-free-cash-goal-sees-fintechs-gaining-lending-share/articleshow/133310762.cms",
       "date": "Tue, 18 Aug 2026",
       "desc": "Vijay Shekhar Sharma, the founder of Paytm, has set an ambitious target of generating one billion dollars in free cash flow. He envisions that fintech companies will capture a larger share of the grow",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Paytm block deal: Vijay Shekhar Sharma\u2019s Resilient Asset likely sells nearly 2 crore shares worth Rs 2,949 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-in-focus-as-vijay-shekhar-sharmas-resilient-asset-to-sell-up-to-rs-4895-crore-stake-via-block-deal/articleshow/133310696.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Shares of One 97 Communications faced a downturn following a notable block deal involving Resilient Asset Management, a firm linked to Paytm\u2019s founder. It\u2019s estimated that shares worth around Rs 2,949",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Kospi extends winning streak to six sessions, jumps over 2% on chip gains",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-extends-winning-streak-to-six-sessions-jumps-over-2-on-chip-gains/articleshow/133310690.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "South Korean shares surged 2.73%, extending gains for a sixth session as chipmakers rallied on optimism over AI demand. Samsung Electronics and SK Hynix led advances, while foreign investors bought Rs",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +112,119 @@
       "is_portfolio": false
     },
     {
-      "title": "Biocon gets supplemental US FDA nod for Yesintek prefilled autoinjector",
+      "title": "Indrajaal-Sigma consortium wins orders worth Rs 155 cr for Indrajaal Ranger",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/biocon-gets-supplemental-us-fda-nod-for-yesintek-prefilled-autoinjector-126081800175_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indrajaal-sigma-consortium-wins-orders-worth-rs-155-cr-for-indrajaal-ranger-126081800248_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Biocon said that its US subsidiary has received supplemental U.S. Food and Drug Administration (FDA) approval for Yesintek (ustekinumab-kfce) single-dose prefilled autoinjector in various strengths.",
+      "desc": "From Ministry of Home Affairs, Govt. of India",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zaggle Prepaid Ocean Services Ltd Slips 3.09%",
+      "title": "Adani Power gains after CARE Ratings upgrades LT ratings to 'AA+' with 'stable' outlook",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-ltd-slips-3-09-126081800174_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-gains-after-care-ratings-upgrades-lt-ratings-to-aa-with-stable-outlook-126081800247_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Zaggle Prepaid Ocean Services Ltd has lost 25.81% over last one month compared to 3.95% gain in BSE Information Technology index and 0.94% drop in the SENSEX",
+      "desc": "Adani Power (APL) added 1.62% to Rs 207.20 after the company said that the credit rating agency CARE Ratings has upgraded the long-term (LT) rating of APL to 'CARE AA+' from 'CARE AA' with 'stable' ou",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Apar Industries Ltd Spikes 2.54%",
+      "title": "Milky Mist Dairy Food gains on market debut",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/apar-industries-ltd-spikes-2-54-126081800173_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/milky-mist-dairy-food-gains-on-market-debut-126081800246_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Apar Industries Ltd has added 22.52% over last one month compared to 3.62% gain in BSE Capital Goods index and 0.94% drop in the SENSEX",
+      "desc": "Shares of Milky Mist Dairy Food were currently trading at Rs 181.45 at 10:19 IST on the BSE, representing a premium of 29.61% as compared with the issue price of Rs 140.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indo-MIM spurts after PAT jumps nearly 32% YoY to Rs 240 crore",
+      "title": "BSE SME Sham Foam loses its bounce, trades below IPO price",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indo-mim-spurts-after-pat-jumps-nearly-32-yoy-to-rs-240-crore-126081800172_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-sham-foam-loses-its-bounce-trades-below-ipo-price-126081800245_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Indo-MIM jumped 8.22% to Rs 935.95 after the company reported 31.6% rise in consolidated net profit to Rs 240.12 crore in Q1 FY27 from Rs 182.41 crore in Q1 FY26.",
+      "desc": "Sham Foam traded at Rs 100.25 on the BSE, representing a 22.88% discount to its issue price of Rs 130.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kharif sowing down marginally on year",
+      "title": "Netweb Tech gains after launching QIP; floor price set at Rs 4,885.90/share",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kharif-sowing-down-marginally-on-year-126081800171_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/netweb-tech-gains-after-launching-qip-floor-price-set-at-rs-4-885-90-share-126081800244_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Powered by Capital Market - Live News",
+      "desc": "Netweb Technologies India rose 3.19% to Rs 5,379.65 after the company announced the opening of its qualified institutional placement (QIP) issue and fixed the floor price at Rs 4,885.90 per equity sha",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shankesh Jewellers IPO opens today: Can it add shine to your portfolio?",
+      "title": "PVR Inox rallies 23% in month, nears 52-week high; what's driving stock?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/shankesh-jewellers-ipo-gmp-at-2-offer-opens-today-can-it-add-shine-to-your-portfolio-126081800143_1.html",
+      "link": "https://www.business-standard.com/markets/news/pvr-inox-share-price-rallies-23-in-month-nears-52-week-high-what-s-driving-stock-126081800189_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Shankesh Jewellers IPO: Analysts hailed its strong customer relations, asset-light business model and reasonable valuations, but flagged the inventory gains-led profitability amid high gold prices.",
+      "desc": "Looking ahead, the content pipeline for the remainder of FY27 remains highly encouraging, with a strong mix of franchise films, star-led tent poles and content-driven titles, says PVR Inox.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Protean eGov Technologies bags digital family registry project",
+      "title": "Indo-MIM shares surge 10% post Q1 show, nearly double IPO investors' gains",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/protean-egov-technologies-bags-digital-family-registry-project-126081800153_1.html",
+      "link": "https://www.business-standard.com/markets/news/indo-mim-shares-surge-10-post-q1-show-nearly-double-investors-ipo-gains-126081800230_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "From Govt. of Arunachal Pradesh",
+      "desc": "Today's rally has pushed Indo-MIM's share price 96 per cent above the issue price of Rs 485, nearly doubling investors' wealth who were allotted IPO shares.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Digilogic Systems receives order of Rs 3.91 cr from Ministry of Defence",
+      "title": "Denta Water & Infra Solutions update on its flagship Mukkumpi lift irrigation project",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/digilogic-systems-receives-order-of-rs-3-91-cr-from-ministry-of-defence-126081800145_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/denta-water-infra-solutions-update-on-its-flagship-mukkumpi-lift-irrigation-project-126081800229_1.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Lalithaa Jewellery Mart IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b930 in the grey market today",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sham Foam SME IPO listing: Shares debut at 20% discount, hit lower circuit; details here",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Sham Foam's share price was listed at  \u20b9104, a 20% discount to the issue price of  \u20b9130. After a weak debut, the SME stock extended losses and hit its lower price band of  \u20b998.80, down 24% from the is",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stocks to buy for short term: Grasim, Quess Corp among 6 stocks experts recommend buying today for next 1-2 weeks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-grasim-quess-corp-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11787027051128.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Experts suggest capitalising on bullish momentum by targeting six stocks poised for growth over the next 1-2 weeks. With a focus on disciplined risk management, this article reveals key levels and pot",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sunshine Pictures IPO Day 1: Issue booked 45% so far. GMP hints 21% listing pop. Should you apply or skip?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-so-far-gmp-hints-21-listing-pop-should-you-apply-or-skip-11787026498490.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Sunshine Pictures IPO, led by Vipul Shah, opened on August 18 with a price band of  \u20b9342-360 per share. It raised  \u20b984.64 crore from nine anchor investors. The issue closes on August 20, with estimate",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "GIC\u2019s attractive dividend yield and cheap valuation face a regulatory overhang",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/gic-q1fy27-earnings-premium-growth-slowing-regulatory-risks-underwriting-11787023130851.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "GIC\u2019s domestic premium growth remains healthy, even as share of obligatory business has come off. Lower underwriting losses and investment gains offer support, even as potential regulatory changes cou",
       "tags": [],
       "is_portfolio": false
     },
@@ -207,51 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-today-11787022404352.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "Global markets today: US stock market ended lower on Monday as renewed enthusiasm surrounding artificial intelligence was offset by rising oil prices and broader macroeconomic concerns",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Horizon Industrial Parks IPO Day 2: Issue subscribed 14% so far. Here's GMP, review &amp; other details - Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-day-2-issue-subscribed-14-so-far-heres-gmp-review-other-details-apply-or-not-11787023897231.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "According to Investorgain, Horizon Industrial Parks shares are commanding a  \u20b91.7 premium in the grey market today.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nasdaq plans 23-hour trading sessions from December 2026 to meet rising global demand for US stocks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nasdaq-plans-23-hour-trading-sessions-from-december-2026-to-meet-rising-global-demand-for-us-stocks-11787024433564.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Nasdaq plans to extend trading hours to 23 hours a day, five days a week, beginning in December 2026. This initiative aims to meet the growing global interest in US stocks while enhancing access to ca",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 6 paise lower at 95.66 against US dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-6-paise-lower-at-95-66-against-us-dollar-11787024218026.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "The rupee fell 6 paise to 95.66 against the US dollar due to rising crude prices and US bond yields. The RBI's decision to shorten the foreign-currency deposit swap facility also pressured the currenc",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Five AI infrastructure stocks riding the data centre boom",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ai-infrastructure-stocks-india-data-center-stocks-india-11786965314391.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "From servers to power, five listed firms building the backbone of India's AI boom.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Augmont Enterprises IPO: Price band set at  \u20b9750-788 per share; check key dates, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-price-band-set-at-rs-750-788-per-share-check-key-dates-issue-details-11787021673763.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Augmont Enterprises IPO offers shares priced from  \u20b9750 to  \u20b9788, with subscription open from 21 to 25 August. 50% of shares are allocated for QIBs, and listings on BSE and NSE are expected on 31 Augu",
       "tags": [],
       "is_portfolio": false
     }
