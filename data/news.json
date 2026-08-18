@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 10:44 IST",
+  "updated_ist": "18 Aug 2026 11:19 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,51 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "NSE to seek up to Rs 5.26 lakh crore valuation in record IPO: Report",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "The National Stock Exchange of India is eyeing a valuation nearing fifty-five billion dollars for its upcoming initial public offering. Shares are being promoted to investors at a price range between ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Augmont Enterprises to launch Rs 825-cr IPO on Aug 21; price band set at Rs 750-788",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-to-launch-rs-825-cr-ipo-on-aug-21-price-band-set-at-rs-750-788/articleshow/133312434.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Augmont Enterprises Ltd is set to unveil its initial public offering (IPO) on August 21, with a target to raise Rs 825 crore. The IPO will comprise both a new issue and an offer for sale from promoter",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "INDO-MIM shares hit 10% upper circuit as Q1 net profit rises 32% YoY",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-hit-10-upper-circuit-as-q1-net-profit-rises-32-yoy/articleshow/133312384.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Indo-MIM shares surged after the newly listed precision components maker reported a 31.6% year-on-year rise in Q1FY27 consolidated net profit to Rs 240.12 crore. The stock also touched a fresh 52-week",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Chinese, Hong Kong stocks slip as AI shares retreat; energy stocks gain",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-hong-kong-stocks-slip-as-ai-shares-retreat-energy-stocks-gain/articleshow/133312183.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Chinese and Hong Kong stocks declined as investors booked profits in AI and technology shares, while energy stocks gained amid rising Middle East tensions and higher oil prices. Weakening economic ind",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sigma Advanced Systems shares rally 5% on Rs 155 crore anti-drone orders; stock up 105% in 3 months",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sigma-advanced-systems-shares-rally-5-on-rs-155-crore-anti-drone-orders-stock-up-105-in-3-months/articleshow/133311814.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Sigma Advanced Systems shares gained nearly 5% after the defence technology company announced orders worth around Rs 155 crore for its Indrajaal Ranger anti-drone system. The stock has surged 105% in ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Gold slips below Rs 1.55 lakh/10 gm on MCX, but global prices extend gains. What\u2019s next?",
@@ -36,51 +81,6 @@
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-10-year-jgb-yield-hits-three-decade-high-on-boj-rate-hike-bets/articleshow/133311165.cms",
       "date": "Tue, 18 Aug 2026",
       "desc": "Japan\u2019s 10-year government bond yield climbed to its highest level since 1996, driven by rising global bond yields, renewed inflation concerns and growing expectations of a Bank of Japan rate hike as ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex falls over 250 points, Nifty below 24,250 as Mideast peace hopes fade. More pain ahead?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-250-points-nifty-below-24250-as-mideast-peace-hopes-fade-more-pain-ahead/articleshow/133310897.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Indian stock markets saw a troubling trend as they recorded declines for several days in a row. On the third straight day, the Sensex dropped significantly, and the Nifty 50 fell for the sixth consecu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "ICICI Bank dollar debt fundraising tops $2 billion in a month: Bankers",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-dollar-debt-fundraising-tops-2-billion-in-a-month-bankers/articleshow/133310849.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "ICICI Bank triumphantly secured $750 million through a fresh dollar bond issuance, making it the bank's third successful fundraising attempt in just one month. The bond was priced at a tighter spread ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sham Foam shares to list today: Check GMP ahead of BSE SME debut",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sham-foam-shares-to-list-today-check-gmp-ahead-of-bse-sme-debut/articleshow/133310811.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Sham Foam shares are set to list on the BSE SME platform on August 18, with grey market trends pointing to a largely flat debut. The Rs 40.48-crore IPO was subscribed 2.40 times overall, while the iss",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "HCL Tech Share Price Live Updates: HCL Tech Stock Details",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-stock-price-today-live-18-aug-2026/liveblog/133310807.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": " ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Paytm\u2019s Vijay Shekhar Sharma sets $1 billion free cash goal, sees fintechs gaining lending share",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytms-vijay-shekhar-sharma-sets-1-billion-free-cash-goal-sees-fintechs-gaining-lending-share/articleshow/133310762.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Vijay Shekhar Sharma, the founder of Paytm, has set an ambitious target of generating one billion dollars in free cash flow. He envisions that fintech companies will capture a larger share of the grow",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +112,83 @@
       "is_portfolio": false
     },
     {
-      "title": "Indrajaal-Sigma consortium wins orders worth Rs 155 cr for Indrajaal Ranger",
+      "title": "Veefin Solutions announces strategic partnership with NSIA Group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indrajaal-sigma-consortium-wins-orders-worth-rs-155-cr-for-indrajaal-ranger-126081800248_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/veefin-solutions-announces-strategic-partnership-with-nsia-group-126081800354_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "From Ministry of Home Affairs, Govt. of India",
+      "desc": "To expand supply chain finance capabilities across West Africa",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Power gains after CARE Ratings upgrades LT ratings to 'AA+' with 'stable' outlook",
+      "title": "INR extends losing streak as oil prices stay elevated",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-gains-after-care-ratings-upgrades-lt-ratings-to-aa-with-stable-outlook-126081800247_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-extends-losing-streak-as-oil-prices-stay-elevated-126081800353_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Adani Power (APL) added 1.62% to Rs 207.20 after the company said that the credit rating agency CARE Ratings has upgraded the long-term (LT) rating of APL to 'CARE AA+' from 'CARE AA' with 'stable' ou",
+      "desc": "\nThe Indian rupee extends losing streak in opening trades on Tuesday, weighed down by elevated crude oil prices and persistent demand for greenback. INR opened at Rs 95.68 per dollar and recovered sli",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Milky Mist Dairy Food gains on market debut",
+      "title": "Volumes spurt at Billionbrains Garage Ventures Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/milky-mist-dairy-food-gains-on-market-debut-126081800246_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-billionbrains-garage-ventures-ltd-counter-126081800352_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Shares of Milky Mist Dairy Food were currently trading at Rs 181.45 at 10:19 IST on the BSE, representing a premium of 29.61% as compared with the issue price of Rs 140.",
+      "desc": "Billionbrains Garage Ventures Ltd notched up volume of 819.05 lakh shares by 10:46 IST on BSE, a 44.78 fold spurt over two-week average daily volume of 18.29 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE SME Sham Foam loses its bounce, trades below IPO price",
+      "title": "SPR Auto Technologies India gains on launching QIP",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-sham-foam-loses-its-bounce-trades-below-ipo-price-126081800245_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/spr-auto-technologies-india-gains-on-launching-qip-126081800351_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Sham Foam traded at Rs 100.25 on the BSE, representing a 22.88% discount to its issue price of Rs 130.",
+      "desc": "SPR Auto Technologies rose 1.42% to Rs 4,507.40 after the company announced the opening of its qualified institutional placement (QIP) issue and fixed the floor price at Rs 4,438.20 per equity share.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Netweb Tech gains after launching QIP; floor price set at Rs 4,885.90/share",
+      "title": "BJP unveils new national team under Nitin Nabin",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/netweb-tech-gains-after-launching-qip-floor-price-set-at-rs-4-885-90-share-126081800244_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bjp-unveils-new-national-team-under-nitin-nabin-126081800350_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Netweb Technologies India rose 3.19% to Rs 5,379.65 after the company announced the opening of its qualified institutional placement (QIP) issue and fixed the floor price at Rs 4,885.90 per equity sha",
+      "desc": "\nNabin appointed 13 national vice presidents, including Vasundhara Raje Scindia, Tirath Singh Rawat, Ram Madhav, Baijayant Jay Panda, D Purandeshwari, Manpreet Singh Badal and Rekha Verma. Piyush Goya",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PVR Inox rallies 23% in month, nears 52-week high; what's driving stock?",
+      "title": "Colgate India falls 3% despite Jefferies' bullish outlook; margins in focus",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/pvr-inox-share-price-rallies-23-in-month-nears-52-week-high-what-s-driving-stock-126081800189_1.html",
+      "link": "https://www.business-standard.com/markets/news/colgate-india-falls-3-despite-jefferies-bullish-outlook-margins-in-focus-126081800345_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Looking ahead, the content pipeline for the remainder of FY27 remains highly encouraging, with a strong mix of franchise films, star-led tent poles and content-driven titles, says PVR Inox.",
+      "desc": "Jefferies noted that the company's premium portfolio is growing 6 times faster than the overall portfolio, with revenue share now at 2.5 times versus CY21.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indo-MIM shares surge 10% post Q1 show, nearly double IPO investors' gains",
+      "title": "Sonata Software appoints Hariprasad Rebala as Chief AI Officer",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/indo-mim-shares-surge-10-post-q1-show-nearly-double-investors-ipo-gains-126081800230_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sonata-software-appoints-hariprasad-rebala-as-chief-ai-officer-126081800311_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Today's rally has pushed Indo-MIM's share price 96 per cent above the issue price of Rs 485, nearly doubling investors' wealth who were allotted IPO shares.",
+      "desc": "Sonata Software today announced the appointment of Hariprasad Rebala (Hari) as Chief AI Officer. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Denta Water & Infra Solutions update on its flagship Mukkumpi lift irrigation project",
+      "title": "Nelco announces partnership with Elveo",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/denta-water-infra-solutions-update-on-its-flagship-mukkumpi-lift-irrigation-project-126081800229_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nelco-announces-partnership-with-elveo-126081800284_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "",
+      "desc": "For delivering satellite mobile connectivity and compute solutions in India and South Asian markets",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Institutional demand is expected to drive the price to  \u20b92,500-2,800 per share for the NSE IPO.",
       "tags": [],
       "is_portfolio": false
     },
@@ -229,7 +238,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Milky Mist Diary Food IPO listing: Shares make strong debut, lists at 18% premium over the IPO price",
+      "title": "Milky Mist Diary Food share price hits 10% upper circuit after strong listing. Details here",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/milky-mist-diary-food-ipo-listing-shares-make-strong-debut-lists-at-18-premium-over-the-ipo-price-11787027363705.html",
       "date": "Tue, 18 Aug 2026",
@@ -243,15 +252,6 @@
       "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-drop-by-up-to-1-on-the-mcx-as-rising-oil-prices-stoke-rate-hike-fears-11787025060554.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "MCX gold October futures were 0.55% down at  \u20b91,55,090 per 10 grams, while MCX silver September contracts were 1% down at  \u20b92,35,655 per kg around 9:25 AM.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nikkei, KOSPI to US stocks: Global equity heatmap before the opening bell of the Indian stock market on Tuesday \u2014 Aug 18",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-markets-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-today-11787022404352.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Global markets today: US stock market ended lower on Monday as renewed enthusiasm surrounding artificial intelligence was offset by rising oil prices and broader macroeconomic concerns",
       "tags": [],
       "is_portfolio": false
     }
