@@ -1,6 +1,62 @@
 {
-  "updated_ist": "18 Aug 2026 12:23 IST",
+  "updated_ist": "18 Aug 2026 13:13 IST",
   "news": [
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Welspun Living shares surge 8%; stock gains 14% in 3 days. What\u2019s driving the rally?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/welspun-living-shares-surge-8-stock-gains-14-in-3-days-whats-driving-the-rally/articleshow/133314860.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Welspun Living shares surged nearly 8% on Tuesday, extending gains to nearly 14% over three sessions after the company reported a strong Q1FY27 performance. Brokerages Motilal Oswal and JM Financial r",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Trump-backed World Liberty partners with platform offering Chinese AI models",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-trump-backed-world-liberty-partners-with-platform-offering-chinese-ai-models/articleshow/133314541.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Trump-backed World Liberty Financial is collaborating with Hong Kong-based WorldClaw, which offers access to Chinese and US AI models. The partnership has drawn scrutiny because several Chinese develo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Biocon shares rise 2% after USFDA approval for Yesintek single-dose prefilled autoinjector",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-after-usfda-approval-for-yesintek-single-dose-prefilled-autoinjector/articleshow/133314327.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Biocon shares rose after its US subsidiary received supplemental FDA approval for Yesintek single-dose prefilled autoinjectors in two strengths. The approval expands Biocon\u2019s US immunology portfolio, ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Milky Mist shares hit 10% upper circuit after market debut, rally 30% from IPO price. Should you buy, sell or hold?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-shares-hit-10-upper-circuit-after-market-debut-rally-30-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133314164.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Milky Mist Dairy Food shares surged 10 per cent to hit the upper circuit at Rs 181.50 post-debut, marking a 30 per cent gain over its issue price. Despite strong fundamentals and premium valuation dri",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are saying",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/colgate-palmolive-shares-fall-over-2-after-investor-day-what-goldman-sachs-and-other-brokerages-are-saying/articleshow/133314060.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Colgate-Palmolive shares slipped after the company\u2019s Investor Day 2026, as investors weighed higher brand investments against its long-term growth and profitability strategy. While Goldman Sachs retai",
+      "tags": [],
+      "is_portfolio": false
+    },
     {
       "title": "Hindustan Copper, Vedanta, other metal stocks slip up to 2% after sharp gains. Should you buy the dip or avoid?",
       "source": "Economic Times",
@@ -29,119 +85,119 @@
       "is_portfolio": false
     },
     {
-      "title": "BSE shares drop 3% after second downgrade in two days. Nuvama lists CAS among 3 key headwinds",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-drop-3-after-second-downgrade-in-two-days-nuvama-lists-cas-among-3-key-headwinds/articleshow/133313313.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "BSE shares extended their losing streak after Nuvama downgraded the stock to Hold and cut its target price, citing three key concerns: the impact of CAS on trading volumes, tighter bank guarantee norm",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-backed-ptc-industries-shares-slip-4-despite-466-surge-in-q1-profit-and-180-ebitda-growth/articleshow/133312725.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "PTC Industries shares fell 4% despite a strong Q1 FY27 performance, with profit surging 466% and EBITDA rising 180%. Revenue grew 83% year-on-year to \u20b9197.1 crore, supported by aerospace and defence p",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Cerebras Stock Outlook: Can CBRS extend its rally?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cerebras-stock-outlook-can-cbrs-extend-its-rally/slideshow/133313722.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Cerebras shares surged 15% amid strong AI infrastructure demand, rapid cloud revenue growth and its major OpenAI partnership. Despite bullish momentum and rising revenue guidance, ongoing losses, high",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NSE to seek up to Rs 5.26 lakh crore valuation in record IPO: Report",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "The National Stock Exchange of India is eyeing a valuation nearing fifty-five billion dollars for its upcoming initial public offering. Shares are being promoted to investors at a price range between ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Microsoft stock under pressure: AI capex math faces investor scrutiny",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-stock-under-pressure-ai-capex-math-faces-investor-scrutiny/slideshow/133312682.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Microsoft shares came under pressure as investors scrutinised the company\u2019s heavy AI infrastructure spending and questioned whether future AI revenue can justify the scale of capital expenditure. The ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Yen weakens toward 160 as BoJ hike bets gather momentum",
+      "title": "ICICI Bank announces issuance of USD 750M Senior Notes",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/yen-weakens-toward-160-as-boj-hike-bets-gather-momentum-126081800427_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-announces-issuance-of-usd-750m-senior-notes-126081800514_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Powered by Capital Market - Live News",
+      "desc": "Under its Global Medium Term Note Programme",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indo Count Industries Ltd leads gainers in 'A' group",
+      "title": "Ceigall - Sushee Infra JV receives LOA for road projects worth Rs 2,149 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indo-count-industries-ltd-leads-gainers-in-a-group-126081800426_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-sushee-infra-jv-receives-loa-for-road-projects-worth-rs-2-149-cr-126081800513_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Tube Investments of India Ltd, Welspun Living Ltd, Paras Defence and Space Technologies Ltd and Parag Milk Foods Ltd are among the other gainers in the BSE's 'A' group today, 18 August 2026.",
+      "desc": "",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "One 97 Communications slides after block deal",
+      "title": "Dollar index lingers around 2-month low",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/one-97-communications-slides-after-block-deal-126081800425_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dollar-index-lingers-around-2-month-low-126081800512_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "One 97 Communications fell 1.09% to Rs 1,565.75 after a large block deal in the stock was executed in early trade.",
+      "desc": "\nThe dollar index is staying largely steady on Tuesday morning in Asia amid fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Data released last week sho",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Crisil Ratings upgrades LT ratings of Premier Energies to 'A+' with 'positive' outlook",
+      "title": "RIL, Airtel or Vi: Tariff hike ahead for telcos; which is a better play?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-upgrades-lt-ratings-of-premier-energies-to-a-with-positive-outlook-126081800404_1.html",
+      "link": "https://www.business-standard.com/markets/news/ril-airtel-or-vi-tariff-hike-ahead-for-telcos-which-is-a-better-play-126081800510_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Premier Energies (PEL) said that Crisil Ratings has upgraded its rating on the long-term bank facilities of the company to 'Crisil A+/Positive' from 'Crisil A/Positive'.",
+      "desc": "Pravesh Gour of Swastika Investmart believes the industry's growth model is shifting from cheap data and aggressive subscriber addition towards premiumisation, higher ARPU & better cash generation.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades below 24,200 level; IT shares decline",
+      "title": "Goldiam International bags export order for supplying lab-grown diamond jewellery",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-200-level-it-shares-decline-126081800403_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/goldiam-international-bags-export-order-for-supplying-lab-grown-diamond-jewellery-126081800498_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "\nAt 11:25 IST, the barometer index, the S&P BSE Sensex declined 387.26 points or 0.50% to 77,340.90. The Nifty 50 index fell 94.75 points or 0.39% to 24,191.70.\n",
+      "desc": "Goldiam International said that it has secured export orders worth Rs 50 crore from US-based international clients.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Powai Lake Residential Pvt reports standalone net loss of Rs 0.79 crore in the June 2026 quarter",
+      "title": "Ceigall India secures four LoAs from Ministry of Road Transport worth Rs 2,149 crore",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/powai-lake-residential-pvt-reports-standalone-net-loss-of-rs-0-79-crore-in-the-june-2026-quarter-126081800402_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-four-loas-from-ministry-of-road-transport-worth-rs-2-149-crore-126081800497_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Reported sales  nil",
+      "desc": "Ceigall India, jointly with Sushee Infra Mining, has received four letters of acceptance from the Ministry of Road Transport & Highways (MoRTH) for undertaking the EPC construction of 204 km of interm",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ambium Finserve Pvt standalone net profit rises 150.00% in the June 2026 quarter",
+      "title": "Sensex slides 326 pts; PSU bank shares decline",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ambium-finserve-pvt-standalone-net-profit-rises-150-00-in-the-june-2026-quarter-126081800401_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-326-pts-psu-bank-shares-decline-126081800496_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Sales rise 28.28% to Rs 17.87 crore",
+      "desc": "\nAt 12:30 IST, the barometer index, the S&P BSE Sensex, declined 325.69 points or 0.42% to 77,402.47. The Nifty 50 index lost 72.15 points or 0.30% to 24,216.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lark Trading & Finance standalone net profit rises 350.00% in the June 2026 quarter",
+      "title": "Nifty IT index slips nearly 2% for second straight day; here's why",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lark-trading-finance-standalone-net-profit-rises-350-00-in-the-june-2026-quarter-126081800400_1.html",
+      "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-nearly-2-for-second-straight-day-here-s-why-126081800430_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Sales rise 388.24% to Rs 0.83 crore",
+      "desc": "In the past one week, Nifty IT index has corrected 4.8 per cent, compared to 1.2 per cent decline in the Nifty 50.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Credent Connect N Care IPO allotment in focus. GMP signals 23% listing pop for Ashish Kacholia-owned company",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/credent-connect-n-care-ipo-allotment-in-focus-gmp-signals-23-listing-pop-by-ashish-kacholia-owned-company-11787033970493.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Credent Connect N Care IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b945 in the grey market today",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gaja Alternative Asset Management IPO to open on Wednesday: GMP, price band, other key details in 10 points",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-to-open-on-wednesday-gmp-price-band-other-key-details-in-10-points-11787031888671.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Gaja Alternative Asset Management IPO is opening for subscription on Wednesday, 19 August, and will conclude on Friday, 21 August. It is a fresh issue of 2.81 crore shares to raise  \u20b9450 crore, and an",
       "tags": [],
       "is_portfolio": false
     },
@@ -196,24 +252,6 @@
       "link": "https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "Sham Foam's share price was listed at  \u20b9104, a 20% discount to the issue price of  \u20b9130. After a weak debut, the SME stock extended losses and hit its lower price band of  \u20b998.80, down 24% from the is",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy for short term: Grasim, Quess Corp among 6 stocks experts recommend buying today for next 1-2 weeks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-grasim-quess-corp-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11787027051128.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Experts suggest capitalising on bullish momentum by targeting six stocks poised for growth over the next 1-2 weeks. With a focus on disciplined risk management, this article reveals key levels and pot",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sunshine Pictures IPO Day 1 LIVE: Issue booked 1.28x so far. GMP hints 21% listing pop. Should you apply or skip?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-so-far-gmp-hints-21-listing-pop-should-you-apply-or-skip-11787026498490.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Sunshine Pictures IPO, led by Vipul Shah, opened on August 18 with a price band of  \u20b9342-360 per share. It raised  \u20b984.64 crore from nine anchor investors. The issue closes on August 20, with estimate",
       "tags": [],
       "is_portfolio": false
     }
