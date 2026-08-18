@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 13:13 IST",
+  "updated_ist": "18 Aug 2026 13:46 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,15 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tube-investments-of-india-shares-surge-8-after-q1-earnings-what-motilal-oswal-is-saying/articleshow/133315012.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Tube Investments of India shares surged after the company reported a 5% year-on-year decline in Q1FY27 profit to Rs 158.62 crore, despite a 17.7% rise in revenue to Rs 2,227.63 crore. Motilal Oswal re",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Welspun Living shares surge 8%; stock gains 14% in 3 days. What\u2019s driving the rally?",
@@ -76,15 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Indian bonds wobble on oil strain, RBI swap pullback",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "On Tuesday morning, Indian government bonds faced a downturn as oil prices spiked beyond ninety dollars. Concerns escalated after the central bank prematurely ended a diaspora deposit scheme, leading ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -108,6 +108,51 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Trident receives ESG score of 58",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/trident-receives-esg-score-of-58-126081800555_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India Ratings and Research upgrades LT rating of Onesource Specialty Pharma to 'A'",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/india-ratings-and-research-upgrades-lt-rating-of-onesource-specialty-pharma-to-a-126081800551_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Onesource Specialty Pharma (OSPL) said that India Ratings and Research has upgraded the company's long-term rating to 'IND A' from 'IND A-' with a 'positive' outlook.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Zee Entertainment Enterprises Ltd gains for third consecutive session",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zee-entertainment-enterprises-ltd-gains-for-third-consecutive-session-126081800550_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Zee Entertainment Enterprises Ltd is quoting at Rs 105.99, up 1.07% on the day as on 12:49 IST on the NSE. The stock is down 10.17% in last one year as compared to a 3.1% drop in NIFTY and a 4.15% dro",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Aegis Logistics Ltd rises for third consecutive session",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/aegis-logistics-ltd-rises-for-third-consecutive-session-126081800549_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Aegis Logistics Ltd is quoting at Rs 1352, up 5.03% on the day as on 12:49 IST on the NSE. The stock is up 93.84% in last one year as compared to a 3.1% spurt in NIFTY and a 11.22% spurt in the Nifty ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Baazar Style Retail locked at 5% upper circuit for 3rd day; here's why",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/baazar-style-retail-locked-at-5-upper-circuit-for-3rd-day-here-s-why-126081800533_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Established in 2013, Baazar Style Retail is a value fashion retailer, based out of Kolkata. It has a strong retail footprint across Eastern India, with a dominant presence in West Bengal.",
       "tags": [],
       "is_portfolio": false
     },
@@ -139,47 +184,20 @@
       "is_portfolio": false
     },
     {
-      "title": "RIL, Airtel or Vi: Tariff hike ahead for telcos; which is a better play?",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ril-airtel-or-vi-tariff-hike-ahead-for-telcos-which-is-a-better-play-126081800510_1.html",
+      "title": "Small-cap stock under  \u20b950 Tiger Logistics jumps 4% after RBI compounding order",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-50-tiger-logistics-jumps-4-after-rbi-compounding-order-11787038734049.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Pravesh Gour of Swastika Investmart believes the industry's growth model is shifting from cheap data and aggressive subscriber addition towards premiumisation, higher ARPU & better cash generation.",
+      "desc": "In an exchange filing on 17 August, Tiger Logistics said it had received a compounding order from the RBI Foreign Exchange Department regarding a non-compliance issue under the Foreign Exchange Manage",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Goldiam International bags export order for supplying lab-grown diamond jewellery",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/goldiam-international-bags-export-order-for-supplying-lab-grown-diamond-jewellery-126081800498_1.html",
+      "title": "Logistics stock trades green despite tepid stock market trends",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/logistics-stock-elitecon-international-trades-green-despite-tepid-stock-market-trends-11787036232174.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Goldiam International said that it has secured export orders worth Rs 50 crore from US-based international clients.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ceigall India secures four LoAs from Ministry of Road Transport worth Rs 2,149 crore",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-four-loas-from-ministry-of-road-transport-worth-rs-2-149-crore-126081800497_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Ceigall India, jointly with Sushee Infra Mining, has received four letters of acceptance from the Ministry of Road Transport & Highways (MoRTH) for undertaking the EPC construction of 204 km of interm",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex slides 326 pts; PSU bank shares decline",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-326-pts-psu-bank-shares-decline-126081800496_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "\nAt 12:30 IST, the barometer index, the S&P BSE Sensex, declined 325.69 points or 0.42% to 77,402.47. The Nifty 50 index lost 72.15 points or 0.30% to 24,216.\n",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nifty IT index slips nearly 2% for second straight day; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/nifty-it-index-slips-nearly-2-for-second-straight-day-here-s-why-126081800430_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "In the past one week, Nifty IT index has corrected 4.8 per cent, compared to 1.2 per cent decline in the Nifty 50.",
+      "desc": "Elitecon International share price opened at  \u20b916.73 today. The stock touched an intraday high of  \u20b917.12 on NSE on 18 August.",
       "tags": [],
       "is_portfolio": false
     },
@@ -234,24 +252,6 @@
       "link": "https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "Institutional demand is expected to drive the price to  \u20b92,500-2,800 per share for the NSE IPO.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Lalithaa Jewellery Mart IPO Day 2 LIVE: GMP, subscription status to review. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Lalithaa Jewellery Mart IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b930 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sham Foam SME IPO listing: Shares debut at 20% discount, hit lower circuit; details here",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sham-foam-sme-ipo-listing-shares-debut-at-20-discount-hit-lower-circuit-details-here-11787028849464.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Sham Foam's share price was listed at  \u20b9104, a 20% discount to the issue price of  \u20b9130. After a weak debut, the SME stock extended losses and hit its lower price band of  \u20b998.80, down 24% from the is",
       "tags": [],
       "is_portfolio": false
     }
