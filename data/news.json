@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 14:35 IST",
+  "updated_ist": "18 Aug 2026 15:20 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,15 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Global Market: European shares slip as rising oil prices, bond yields weigh on sentiment",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "European shares edged lower on Tuesday as rising crude prices and euro zone bond yields heightened inflation concerns. The STOXX 600 fell 0.2%, while energy stocks gained 0.6% as Brent crude rose to $",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "US 30-year yields hit highest level since 2007 as war and oil worries fester",
@@ -76,15 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Trump-backed World Liberty partners with platform offering Chinese AI models",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-trump-backed-world-liberty-partners-with-platform-offering-chinese-ai-models/articleshow/133314541.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Trump-backed World Liberty Financial is collaborating with Hong Kong-based WorldClaw, which offers access to Chinese and US AI models. The partnership has drawn scrutiny because several Chinese develo",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -112,74 +112,101 @@
       "is_portfolio": false
     },
     {
-      "title": "Piramal Pharma hikes stake in Yapan Bio",
+      "title": "Bihari Lal Engineering IPO debut in focus: GMP hints at 40% listing pop",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/piramal-pharma-hikes-stake-in-yapan-bio-126081800644_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/bihari-lal-engineering-ipo-debut-in-focus-gmp-hints-at-40-listing-pop-126081800723_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "From 33.33% to 74% of the paid up share capital of Yapan Bio",
+      "desc": "Bihari Lal Engineering IPO shares are set to list on Dalal Street on Wednesday, August 19. The offer opened for bidding on August 12 and closed on August 14.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bosch share price soars 18% so far in August; hits new high in weak market",
+      "title": "Ahluwalia Contracts (India) Ltd leads losers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bosch-share-price-soars-18-so-far-in-august-hits-new-high-in-weak-market-126081800558_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ahluwalia-contracts-india-ltd-leads-losers-in-a-group-126081800727_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Bosch share price hit a new high of \u20b948,450 gaining 3 per cent on the BSE in Tuesday's intra-day deals, against a 0.44 per cent decline in the BSE Sensex.",
+      "desc": "MOIL Ltd, Mastek Ltd, Arvind Ltd and Jai Balaji Industries Ltd are among the other losers in the BSE's 'A' group today, 18 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades tad above 24,200 level; European shares decline",
+      "title": "Hardwyn India Ltd leads losers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-tad-above-24-200-level-european-shares-decline-126081800580_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hardwyn-india-ltd-leads-losers-in-b-group-126081800696_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "\nThe benchmark indices continued to trade with limited losses in afternoon trade, weighed down by a rise in crude oil prices following the expiry of the US-Iran ceasefire and growing uncertainty over ",
+      "desc": "NELCO Ltd, Krishival Foods Ltd, Karma Energy Ltd and Growington Ventures India Ltd are among the other losers in the BSE's 'B' group today, 18 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Trident receives ESG score of 58",
+      "title": "Sigma Advanced hits the roof after securing Rs 155-cr orders from Govt of India",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/trident-receives-esg-score-of-58-126081800555_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sigma-advanced-hits-the-roof-after-securing-rs-155-cr-orders-from-govt-of-india-126081800695_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "",
+      "desc": "Sigma Advanced Systems hit the upper circuit of 5% at Rs 658.15 after the company secured orders worth approximately Rs 155 crore from the Government of India for its Indrajaal Ranger anti-drone patro",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India Ratings and Research upgrades LT rating of Onesource Specialty Pharma to 'A'",
+      "title": "Protean eGov Technologies bags Rs 6-cr order from Arunachal Pradesh govt",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/india-ratings-and-research-upgrades-lt-rating-of-onesource-specialty-pharma-to-a-126081800551_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/protean-egov-technologies-bags-rs-6-cr-order-from-arunachal-pradesh-govt-126081800694_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Onesource Specialty Pharma (OSPL) said that India Ratings and Research has upgraded the company's long-term rating to 'IND A' from 'IND A-' with a 'positive' outlook.",
+      "desc": "Protean eGov Technologies has received a work order worth Rs 5.99 crore from the Government of Arunachal Pradesh for the design, development, implementation and maintenance of the Arun Parivar Patra (",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zee Entertainment Enterprises Ltd gains for third consecutive session",
+      "title": "Volumes jump at Tube Investments of India Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zee-entertainment-enterprises-ltd-gains-for-third-consecutive-session-126081800550_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-tube-investments-of-india-ltd-counter-126081800693_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Zee Entertainment Enterprises Ltd is quoting at Rs 105.99, up 1.07% on the day as on 12:49 IST on the NSE. The stock is down 10.17% in last one year as compared to a 3.1% drop in NIFTY and a 4.15% dro",
+      "desc": "Tube Investments of India Ltd witnessed volume of 36.19 lakh shares by 14:14 IST on NSE, a 11.36 times surge over two-week average daily volume of 3.18 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aegis Logistics Ltd rises for third consecutive session",
+      "title": "Airfloa Rail Technology rises after Rs 70.56 lakh order from Modern Coach Factory",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aegis-logistics-ltd-rises-for-third-consecutive-session-126081800549_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/airfloa-rail-technology-rises-after-rs-70-56-lakh-order-from-modern-coach-factory-126081800692_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Aegis Logistics Ltd is quoting at Rs 1352, up 5.03% on the day as on 12:49 IST on the NSE. The stock is up 93.84% in last one year as compared to a 3.1% spurt in NIFTY and a 11.22% spurt in the Nifty ",
+      "desc": "Airfloa Rail Technology rose 2.95% to Rs 358.95 after the company received a new order worth Rs 70.56 lakh from Modern Coach Factory (MCF), Lalganj, Raebareli.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Baazar Style Retail locked at 5% upper circuit for 3rd day; here's why",
+      "title": "Infosys Ltd slips for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/baazar-style-retail-locked-at-5-upper-circuit-for-3rd-day-here-s-why-126081800533_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/infosys-ltd-slips-for-fifth-straight-session-126081800691_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Established in 2013, Baazar Style Retail is a value fashion retailer, based out of Kolkata. It has a strong retail footprint across Eastern India, with a dominant presence in West Bengal.",
+      "desc": "Infosys Ltd is quoting at Rs 1116.1, down 2.09% on the day as on 13:19 IST on the NSE. The stock tumbled 22.49% in last one year as compared to a 3.1% slide in NIFTY and a 12.84% fall  in the Nifty IT",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Govt may scrap 100% import duty on sugar to lower domestic prices, boost supply ahead of festive season \u2014 All we know",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/commodities/govt-may-lower-scrap-100-pc-duty-sugar-import-cut-domestic-price-boost-supply-commodity-market-festive-season-sweet-food-11787043036779.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "The Centre is reportedly considering lowering or scrapping its 100% import duty on sugar to reduce price of the commodity in the domestic market and boost local supply ahead of the large festive seaso",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lenskart shares gain over 5% to record high after incorporating new step-down subsidiary in China",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/lenskart-shares-gain-over-5-to-record-high-after-incorporating-new-step-down-subsidiary-in-china-11787043990119.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Lenskart Solutions' shares rose 4% after incorporating Wenzhou Framekart Trade Co., Ltd. in China. The new subsidiary focuses on eyewear products, with BFT holding a 95% interest.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shiprocket IPO allotment out. GMP signals 34% premium ahead of share listing date",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shiprocket-ipo-allotment-out-gmp-signals-34-premium-ahead-of-share-listing-date-11787038746023.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Shiprocket IPO GMP today: According to market observers, the company shares are available at a premium of  \u20b933 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
@@ -202,7 +229,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Logistics stock trades green despite tepid stock market trends",
+      "title": "Small-cap stock trades green despite tepid stock market trends",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/logistics-stock-elitecon-international-trades-green-despite-tepid-stock-market-trends-11787036232174.html",
       "date": "Tue, 18 Aug 2026",
@@ -225,33 +252,6 @@
       "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-to-open-on-wednesday-gmp-price-band-other-key-details-in-10-points-11787031888671.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "Gaja Alternative Asset Management IPO is opening for subscription on Wednesday, 19 August, and will conclude on Friday, 21 August. It is a fresh issue of 2.81 crore shares to raise  \u20b9450 crore, and an",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Voltas reported strong growth in June quarter, but failed to impress",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/voltas-strong-growth-fails-to-impress-operating-revenue-acs-home-appliances-other-businesses-engineering-products-11787031152020.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Operating revenue, which rose 19%, was 9% below Nirmal Bang Institutional Equities\u2019 estimates.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering IPO listing tomorrow: Here\u2019s what GMP hints ahead of debut",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-listing-behari-lal-ipo-11787029898525.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Behari Lal Engineering IPO is set to list on the Indian stock market tomorrow, with shares allocated and refunds processed today. The IPO attracted significant interest, with strong subscriptions from",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-cap IT stock under  \u20b950 jumps 3% despite muted trends on Dalal Street",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-3-despite-muted-trends-on-dalal-street-11787031047346.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Blue Cloud Softech Solutions shares opened at  \u20b921.90 apiece today, as compared to previous close of  \u20b921.86 on Monday. The small-cap IT stock touched an intraday high of  \u20b922.68 on BSE on 18 August.",
       "tags": [],
       "is_portfolio": false
     }
