@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 13:46 IST",
+  "updated_ist": "18 Aug 2026 14:35 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,51 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "US 30-year yields hit highest level since 2007 as war and oil worries fester",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-yields-hit-highest-level-since-2007-as-war-and-oil-worries-fester/articleshow/133316317.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "U.S. Treasury yields reached multi-year highs amid inflation worries. Geopolitical tensions and increased oil prices fueled market anxieties. Concerns over growing U.S. debt and fiscal spending also w",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predicts",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "The European Central Bank warns that an AI market correction on Wall Street is likely, citing historical tech bubbles like the dot-com era. Even if AI succeeds, overstretched valuations, shifting macr",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Unique Picks: 10 stocks held by a single MF scheme in July; rally up to 125% in 6 months",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-10-stocks-held-by-a-single-mf-scheme-in-july-rally-up-to-125-in-6-months/slideshow/133316871.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "ETMarkets identified 37 stocks held exclusively by one mutual fund scheme, each with over Rs 10 crore in holdings. Performance was mixed, with select stocks surging up to 126%, while four declined 25\u2013",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Emerging Asian currencies rise as softer dollar, rate-hike bets support sentiment",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-emerging-asian-currencies-rise-as-softer-dollar-rate-hike-bets-support-sentiment/articleshow/133315978.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Asian currencies strengthened modestly as a weaker US dollar and fading expectations of a September Federal Reserve rate hike supported emerging markets. However, rising oil prices amid Middle East te",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US Stock Market |  Fed policy may be accommodative under medium-term neutral rate estimate: Reports",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-fed-policy-may-be-accommodative-under-medium-term-neutral-rate-estimate-reports/articleshow/133315987.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "A San Francisco Fed research paper suggests that US monetary policy may be more accommodative than commonly assessed when measured against a medium-term estimate of the neutral interest rate. The find",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Tube Investments of India shares surge 8% after Q1 earnings. What Motilal Oswal is saying",
@@ -40,51 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Biocon shares rise 2% after USFDA approval for Yesintek single-dose prefilled autoinjector",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/biocon-shares-rise-2-after-usfda-approval-for-yesintek-single-dose-prefilled-autoinjector/articleshow/133314327.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Biocon shares rose after its US subsidiary received supplemental FDA approval for Yesintek single-dose prefilled autoinjectors in two strengths. The approval expands Biocon\u2019s US immunology portfolio, ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Milky Mist shares hit 10% upper circuit after market debut, rally 30% from IPO price. Should you buy, sell or hold?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-shares-hit-10-upper-circuit-after-market-debut-rally-30-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133314164.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Milky Mist Dairy Food shares surged 10 per cent to hit the upper circuit at Rs 181.50 post-debut, marking a 30 per cent gain over its issue price. Despite strong fundamentals and premium valuation dri",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Colgate-Palmolive shares fall over 2% after Investor Day. What Goldman Sachs and other brokerages are saying",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/colgate-palmolive-shares-fall-over-2-after-investor-day-what-goldman-sachs-and-other-brokerages-are-saying/articleshow/133314060.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Colgate-Palmolive shares slipped after the company\u2019s Investor Day 2026, as investors weighed higher brand investments against its long-term growth and profitability strategy. While Goldman Sachs retai",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hindustan Copper, Vedanta, other metal stocks slip up to 2% after sharp gains. Should you buy the dip or avoid?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-vedanta-other-metal-stocks-slip-up-to-2-after-sharp-gains-should-you-buy-the-dip-or-avoid/articleshow/133313559.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Metal stocks came under pressure after a sharp rally in the previous session, as global metal prices corrected amid concerns over China\u2019s economic data and geopolitical developments. Analysts, however",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee falls 7 paise to 95.68 against US dollar in early trade",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-7-paise-to-95-68-against-us-dollar-in-early-trade/articleshow/133313508.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "In early trading, the rupee slipped by seven paise, settling at 95.68 against the US dollar. Factors such as soaring crude oil prices and heightened demand for dollars pressured the currency. Forex an",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -108,6 +108,33 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Piramal Pharma hikes stake in Yapan Bio",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/piramal-pharma-hikes-stake-in-yapan-bio-126081800644_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "From 33.33% to 74% of the paid up share capital of Yapan Bio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bosch share price soars 18% so far in August; hits new high in weak market",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bosch-share-price-soars-18-so-far-in-august-hits-new-high-in-weak-market-126081800558_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Bosch share price hit a new high of \u20b948,450 gaining 3 per cent on the BSE in Tuesday's intra-day deals, against a 0.44 per cent decline in the BSE Sensex.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty trades tad above 24,200 level; European shares decline",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-tad-above-24-200-level-european-shares-decline-126081800580_1.html",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "\nThe benchmark indices continued to trade with limited losses in afternoon trade, weighed down by a rise in crude oil prices following the expiry of the US-Iran ceasefire and growing uncertainty over ",
       "tags": [],
       "is_portfolio": false
     },
@@ -157,29 +184,11 @@
       "is_portfolio": false
     },
     {
-      "title": "ICICI Bank announces issuance of USD 750M Senior Notes",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-announces-issuance-of-usd-750m-senior-notes-126081800514_1.html",
+      "title": "Low PE stock Felix Industries jumps over 3% despite muted trends on Dalal Street",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/low-pe-stock-felix-industries-jumps-over-3-despite-muted-trends-on-dalal-street-11787039457165.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "Under its Global Medium Term Note Programme",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ceigall - Sushee Infra JV receives LOA for road projects worth Rs 2,149 cr",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-sushee-infra-jv-receives-loa-for-road-projects-worth-rs-2-149-cr-126081800513_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dollar index lingers around 2-month low",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/dollar-index-lingers-around-2-month-low-126081800512_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "\nThe dollar index is staying largely steady on Tuesday morning in Asia amid fading expectations for a Federal Reserve rate hike following a string of weak US economic data. Data released last week sho",
+      "desc": "Felix Industries shares rose over 3% on August 18 after strong Q1 FY27 results, showing a 37.8% revenue increase to  \u20b928.97 crore. Profit also surged, with PAT up 54.51% to  \u20b95.51 crore, driven by imp",
       "tags": [],
       "is_portfolio": false
     },
@@ -243,15 +252,6 @@
       "link": "https://www.livemint.com/market/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-3-despite-muted-trends-on-dalal-street-11787031047346.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "Blue Cloud Softech Solutions shares opened at  \u20b921.90 apiece today, as compared to previous close of  \u20b921.86 on Monday. The small-cap IT stock touched an intraday high of  \u20b922.68 on BSE on 18 August.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Institutional demand is expected to drive the price to  \u20b92,500-2,800 per share for the NSE IPO.",
       "tags": [],
       "is_portfolio": false
     }
