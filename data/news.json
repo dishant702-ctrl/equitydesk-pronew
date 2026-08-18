@@ -1,5 +1,5 @@
 {
-  "updated_ist": "18 Aug 2026 16:04 IST",
+  "updated_ist": "18 Aug 2026 16:34 IST",
   "news": [
     {
       "title": "Bitcoin climbs towards $64,000 as cooling inflation and falling treasury yields aid recovery",
@@ -13,15 +13,31 @@
       "is_portfolio": true
     },
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Jefferies raises Belrise Industries target price, sees 18% upside on strong demand, business expansion",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-raises-belrise-industries-target-price-sees-18-upside-on-strong-demand-business-expansion/articleshow/133319608.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Jefferies retained its Buy rating on Belrise Industries and raised its target price to Rs 280, citing strong automotive orders, two-wheeler demand and expanding renewable energy and aerospace business",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee ends marginally lower as central bank shields from oil, yield strain",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-marginally-lower-as-central-bank-shields-from-oil-yield-strain/articleshow/133318793.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "The Indian rupee experienced a minor decline on Tuesday, with speculation that the Reserve Bank of India intervened to bolster its position. Contributing factors included high oil prices and climbing ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Defence stocks fire up! Paras Defence, GRSE, other stocks jump up to 10% as govt notifies 6th indigenisation list",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/defence-stocks-fire-up-paras-defence-grse-other-stocks-jump-up-to-10-as-govt-notifies-6th-indigenisation-list/articleshow/133318729.cms",
+      "date": "Tue, 18 Aug 2026",
+      "desc": "Defence stocks surged up to 10% after the Defence Ministry unveiled its sixth Positive Indigenisation List covering 405 items with Rs 3,070 crore business potential. The move aims to boost domestic ma",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Following smart money: Where are India\u2019s top investors betting next?",
@@ -60,56 +76,11 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares slip as rising oil prices, bond yields weigh on sentiment",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slip-as-rising-oil-prices-bond-yields-weigh-on-sentiment/articleshow/133316942.cms",
+      "title": "Sensex, Nifty tumble as crude surge, geopolitical concerns weigh",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-tumble-as-crude-surge-geopolitical-concerns-weigh-126081800849_1.html",
       "date": "Tue, 18 Aug 2026",
-      "desc": "European shares edged lower on Tuesday as rising crude prices and euro zone bond yields heightened inflation concerns. The STOXX 600 fell 0.2%, while energy stocks gained 0.6% as Brent crude rose to $",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US 30-year yields hit highest level since 2007 as war and oil worries fester",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-yields-hit-highest-level-since-2007-as-war-and-oil-worries-fester/articleshow/133316317.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "U.S. Treasury yields reached multi-year highs amid inflation worries. Geopolitical tensions and increased oil prices fueled market anxieties. Concerns over growing U.S. debt and fiscal spending also w",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Is market heading towards a big AI crash like the dot-com crisis? Here's what European Central Bank predicts",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/is-market-heading-towards-a-big-ai-crash-like-the-dot-com-crisis-heres-what-european-central-bank-predicts/articleshow/133316314.cms",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "The European Central Bank warns that an AI market correction on Wall Street is likely, citing historical tech bubbles like the dot-com era. Even if AI succeeds, overstretched valuations, shifting macr",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "desc": "\nAs per provisional closing data, the barometer index, the S&P BSE Sensex dropped 492.70 points or 0.63% to 77,235.46. The Nifty 50 index lost 132.75 points or 0.55% to 24,154.90. The Sensex declined ",
       "tags": [],
       "is_portfolio": false
     },
@@ -173,15 +144,6 @@
       "link": "https://www.business-standard.com/markets/capital-market-news/hardwyn-india-ltd-leads-losers-in-b-group-126081800696_1.html",
       "date": "Tue, 18 Aug 2026",
       "desc": "NELCO Ltd, Krishival Foods Ltd, Karma Energy Ltd and Growington Ventures India Ltd are among the other losers in the BSE's 'B' group today, 18 August 2026.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sigma Advanced hits the roof after securing Rs 155-cr orders from Govt of India",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sigma-advanced-hits-the-roof-after-securing-rs-155-cr-orders-from-govt-of-india-126081800695_1.html",
-      "date": "Tue, 18 Aug 2026",
-      "desc": "Sigma Advanced Systems hit the upper circuit of 5% at Rs 658.15 after the company secured orders worth approximately Rs 155 crore from the Government of India for its Indrajaal Ranger anti-drone patro",
       "tags": [],
       "is_portfolio": false
     },
