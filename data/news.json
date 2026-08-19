@@ -1,5 +1,5 @@
 {
-  "updated_ist": "19 Aug 2026 16:04 IST",
+  "updated_ist": "19 Aug 2026 16:34 IST",
   "news": [
     {
       "title": "Bitcoin near $64,350 as weak liquidity and subdued on-chain activity signal caution",
@@ -7,17 +7,6 @@
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64350-as-weak-liquidity-and-subdued-on-chain-activity-signal-caution/articleshow/133344028.cms",
       "date": "Wed, 19 Aug 2026",
       "desc": "Bitcoin remained near the $64,000 mark as analysts flagged caution amid weak spot liquidity and subdued on-chain activity, despite signs of stabilising capital flows. Short covering and improving spot",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Sebi to soon roll out AI rules with a \u2018kill switch\u2019 for stock market",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Sebi will soon issue guidelines for responsible AI and machine learning use in India\u2019s securities market, with mandatory safeguards including a \u201ckill switch\u201d, human oversight and data controls. Chairm",
       "tags": [
         "ITC"
       ],
@@ -57,6 +46,33 @@
       "is_portfolio": true
     },
     {
+      "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96/usd-as-rbi-stands-guard/articleshow/133344824.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "On Wednesday, the Indian rupee hit its lowest point since late July, primarily due to high oil prices and sustained demand for the dollar. Despite this, the Reserve Bank of India's interventions helpe",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oil India vs ONGC vs OMCs: What JM Financial\u2019s $80 Brent call means for oil stocks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-vs-ongc-vs-omcs-what-jm-financials-80-brent-call-means-for-oil-stocks/articleshow/133344751.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Brent crude may stay near eighty dollars a barrel for twelve months.  Analysts favor Oil India and ONGC due to expected earnings growth.  Oil India's refinery capacity expansion will drive future outp",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Why rising Treasury yields are becoming a growing risk for the US economy",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-rising-treasury-yields-are-becoming-a-growing-risk-for-the-us-economy/articleshow/133344713.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "A sell-off in U.S. Treasuries has pushed yields higher, raising borrowing costs for households, companies and the federal government. Higher yields could pressure mortgages, corporate investment, asse",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "South Korea\u2019s SK Hynix announces buyback after stock crashes 50% in two months, wipes off massive retail wealth",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-koreas-sk-hynix-announces-buyback-after-stock-crashes-50-in-two-months-wipes-off-massive-retail-wealth/articleshow/133344672.cms",
@@ -93,24 +109,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valua",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "BlackRock, Capital Group anchor IDFC FIRST Bank\u2019s maiden $500 million global bond",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "IDFC FIRST Bank raised $500 million through its maiden international bond issuance, marking its entry into global debt markets. The three-year senior notes, due in 2029, carry a 5.625% coupon and attr",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -134,6 +132,24 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Market ends lower; Nifty settles below 24,100 level",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/market-ends-lower-nifty-settles-below-24-100-level-126081900836_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "\nAs per provisional closing data, the barometer index, the S&P BSE Sensex dropped 325.78 points or 0.42% to 76,909.68. The Nifty 50 index lost 76.60 points or 0.32% to 24,078.30. The Sensex declined 1",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Govt eyes foreign capital inflows, deeper corporate bond mkt: Alok Tiwari",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/govt-eyes-foreign-capital-inflows-deeper-corporate-bond-mkt-alok-tiwari-126081900817_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "DEA Joint Secretary Alok Tiwari says the government is working to attract overseas capital and improve depth, liquidity and participation in corporate bonds",
       "tags": [],
       "is_portfolio": false
     },
@@ -192,29 +208,20 @@
       "is_portfolio": false
     },
     {
-      "title": "Supreme Infrastructure India Ltd leads losers in 'B' group",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/supreme-infrastructure-india-ltd-leads-losers-in-b-group-126081900693_1.html",
+      "title": "Sebi asks brokers to accept orders in first five minutes of closing auction",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Yasho Industries Ltd, SEL Manufacturing Company Ltd, Finkurve Financial Services Ltd and Modern Threads (I) Ltd are among the other losers in the BSE's 'B' group today, 19 August 2026.",
+      "desc": "The acceptance of after-market orders will help discover prices more accurately as liquidity improves.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Arkade Developers adds 4 cluster redevelopment projects in Western Mumbai",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/arkade-developers-adds-4-cluster-redevelopment-projects-in-western-mumbai-126081900692_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Arkade Developers said that it has added four redevelopment projects across Malad West, Kandivali West, Kandivali East and Borivali West, covering a combined area of around 45,204 square meters or 11.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Indian stock market replaces Indonesia as Asia\u2019s least-preferred market in BofA survey",
+      "title": "India replaces Indonesia as Asia\u2019s least preferred stock market in BofA survey",
       "source": "Mint",
       "link": "https://www.livemint.com/market/indian-stock-market-replaces-indonesia-as-asia-s-least-preferred-market-in-bofa-survey-11787132370080.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "The Indian stock market, experiencing its first struggle in over a decade, faces challenges due to foreign selling, high crude oil prices, geopolitical tensions, and weak AI exposure.&amp;nbsp;",
+      "desc": "Despite a strong start to 2026, the Indian stock market is faltering under pressure from global uncertainties and weak domestic growth. Fund managers indicate it is the least preferred market, with ri",
       "tags": [],
       "is_portfolio": false
     },
@@ -251,15 +258,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-after-receipt-of-134-crore-order-from-maharashtra-road-transport-11787126659032.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Krystal Integrated Services share price opened at  \u20b9635 apiece today, as compared to previous close of  \u20b9620 on Tuesday.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Q1 earnings beat expectations, but Indian stock market remains rangebound: What could change the trend?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/q1-earnings-beat-expectations-but-indian-stock-market-remains-rangebound-what-could-change-the-trend-11787041302294.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Despite strong Q1 earnings beating expectations, the Indian stock market struggles to break free from a downward trend. Factors like elevated crude oil prices and geopolitical tensions play a crucial ",
       "tags": [],
       "is_portfolio": false
     }
