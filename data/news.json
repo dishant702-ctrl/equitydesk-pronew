@@ -1,16 +1,43 @@
 {
-  "updated_ist": "19 Aug 2026 14:36 IST",
+  "updated_ist": "19 Aug 2026 15:20 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "title": "Sebi to soon roll out AI rules with a \u2018kill switch\u2019 for stock market",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-roll-out-ai-rules-with-a-kill-switch-for-stock-market/articleshow/133343252.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Sebi will soon issue guidelines for responsible AI and machine learning use in India\u2019s securities market, with mandatory safeguards including a \u201ckill switch\u201d, human oversight and data controls. Chairm",
       "tags": [
-        "RELIANCE"
+        "ITC"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/swiggy-to-see-400-million-outflows-after-indian-owned-status-jefferies-explains-why/articleshow/133343604.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Swiggy is moving closer to becoming an Indian-owned and controlled company (IOCC), a move that could enable an inventory-led model for Instamart and potentially improve margins. However, Jefferies exp",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Behari Lal Engineering shares rally 14% after stellar debut. What are brokerages saying?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/behari-lal-engineering-shares-rally-14-after-stellar-debut-what-are-brokerages-saying/articleshow/133343201.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Behari Lal Engineering shares surged 14% after making a strong market debut, listing at a 63% premium to the IPO price. Brokerages remain positive, citing strong investor appetite and reasonable valua",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BlackRock, Capital Group anchor IDFC FIRST Bank\u2019s maiden $500 million global bond",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-capital-group-anchor-idfc-first-banks-maiden-500-million-global-bond/articleshow/133342921.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "IDFC FIRST Bank raised $500 million through its maiden international bond issuance, marking its entry into global debt markets. The three-year senior notes, due in 2029, carry a 5.625% coupon and attr",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Indian Bank raises $400 million for four years",
@@ -49,137 +76,101 @@
       "is_portfolio": false
     },
     {
-      "title": "Volume Shocker: MFs added 1 crore+ shares to 8 stocks in July '26; rally up to 76%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-july-26-rally-up-to-76/slideshow/133342058.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Mutual funds aggressively bought shares in 58 companies in July 2026. A secondary filter highlights eight top-performing stocks that saw additions of over one crore shares alongside gains between 9% a",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Foreign investment in major Asian bond markets fell to a four-month low in July as investors turned more selective amid geopolitical risks and higher oil prices. India stood out with $3.04 billion in ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Fabrinet stock plunges 19%: Why investors are selling after Q4 beat",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fabrinet-stock-plunges-19-why-investors-are-selling-after-q4-beat/slideshow/133341895.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": " ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "McDonald\u2019s nears elite dividend king status as next hike looms",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "McDonald\u2019s is one dividend increase away from becoming a Dividend King after 49 consecutive years of dividend growth. Its franchise-driven model, global reach and consistent cash generation support sh",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IPO index hits new high; Dhoot Transmission, Juniper Green soar up to 10%",
+      "title": "Pound near three month high, GBP/INR approaches 130 mark",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ipo-index-hits-new-high-dhoot-transmission-juniper-green-soar-up-to-10-126081900598_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/pound-near-three-month-high-gbp-inr-approaches-130-mark-126081900732_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "In the past six months, the BSE IPO index outperformed the market by soaring 21 per cent, against a 6.8 per cent decline in the BSE Sensex.",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bharat Coking Coal directed to stop blasting operations at New Akashkinaree Colliery",
+      "title": "INR seen lingering near a three-week low amid weak global cues",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-coking-coal-directed-to-stop-blasting-operations-at-new-akashkinaree-colliery-126081900605_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-seen-lingering-near-a-three-week-low-amid-weak-global-cues-126081900731_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "By Directorate General of Mines Safety",
+      "desc": "\nThe Indian rupee is seen extending slide near a three-week low in opening trades on Wednesday, as global sentiments stay bleak amid ongoing geopolitical tensions and lack of clarity surrounding the c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Key benchmarks trade near the day's low; Europe opens lower as bond yields spike",
+      "title": "Supreme Infrastructure India Ltd leads losers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/key-benchmarks-trade-near-the-day-s-low-europe-opens-lower-as-bond-yields-spike-126081900588_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/supreme-infrastructure-india-ltd-leads-losers-in-b-group-126081900693_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "\nThe domestic equity benchmarks traded near the day's low in afternoon trade, weighed down by weak global cues. Renewed strength in crude oil prices and a sharp rise in global bond yields dampened inv",
+      "desc": "Yasho Industries Ltd, SEL Manufacturing Company Ltd, Finkurve Financial Services Ltd and Modern Threads (I) Ltd are among the other losers in the BSE's 'B' group today, 19 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tiger Global-backed Upstox begins talks for potential $400 million IPO",
+      "title": "Arkade Developers adds 4 cluster redevelopment projects in Western Mumbai",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/tiger-global-backed-upstox-begins-talks-for-potential-400-million-ipo-126081900561_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/arkade-developers-adds-4-cluster-redevelopment-projects-in-western-mumbai-126081900692_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Discussions are at an early stage and details including the size and timing of the offering, could still change",
+      "desc": "Arkade Developers said that it has added four redevelopment projects across Malad West, Kandivali West, Kandivali East and Borivali West, covering a combined area of around 45,204 square meters or 11.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India replaces Indonesia as Asia's least-preferred stock market: BofA poll",
+      "title": "Volumes spurt at Aster DM Quality Care Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/india-replaces-indonesia-as-asia-s-least-preferred-stock-market-bofa-poll-126081900560_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-aster-dm-quality-care-ltd-counter-126081900691_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "The lack of a clear AI exposure remains the key concern for Indian equities, with weak growth emerging as the next most important risk, according to the survey",
+      "desc": "Aster DM Quality Care Ltd registered volume of 718.26 lakh shares by 14:14 IST on NSE, a 71.76 fold spurt over two-week average daily volume of 10.01 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi reviewing small-company IPO, delisting rules: Chairman Tuhin Kanta",
+      "title": "Bandhan Bank Ltd eases for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-reviewing-small-company-ipo-delisting-rules-chairman-tuhin-kanta-126081900490_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bandhan-bank-ltd-eases-for-fifth-straight-session-126081900690_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Sebi is also looking to support global fund management activity from India, Pandey said",
+      "desc": "Bandhan Bank Ltd is quoting at Rs 169.47, down 0.6% on the day as on 13:19 IST on the NSE. The stock tumbled 2.76% in last one year as compared to a 4.02% slide in NIFTY and a 0.59% spurt in the Nifty",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ITI rises as 44-acre Bengaluru land parcel put up for Rs 1,685 crore e-auction",
+      "title": "Bank of India eases for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/iti-rises-as-44-acre-bengaluru-land-parcel-put-up-for-rs-1-685-crore-e-auction-126081900539_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-india-eases-for-fifth-straight-session-126081900689_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "ITI rose 1.95% to Rs 285.40 after the company said the National Land Monetization Corporation (NLMC) has invited bids for the e-auction of its 44.03-acre land parcel at Krishnarajapuram, Bengaluru, at",
+      "desc": "Bank of India is quoting at Rs 142, down 0.07% on the day as on 13:19 IST on the NSE. The stock jumped 22.07% in last one year as compared to a 4.02% slide in NIFTY and a 21.04% spurt in the Nifty PSU",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Welspun Corp Ltd soars 2.49%, rises for third straight session",
+      "title": "Abbott India Ltd down for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-ltd-soars-2-49-rises-for-third-straight-session-126081900538_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/abbott-india-ltd-down-for-fifth-straight-session-126081900688_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Welspun Corp Ltd is quoting at Rs 1964.9, up 2.49% on the day as on 12:49 IST on the NSE. The stock is up 125.15% in last one year as compared to a 3.99% gain in NIFTY and a 36.64% gain in the Nifty M",
+      "desc": "Abbott India Ltd is quoting at Rs 26325, down 0.96% on the day as on 13:19 IST on the NSE. The stock jumped 12.53% in last one year as compared to a 4.02% slide in NIFTY and a 19.36% spurt in the Nift",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stock to buy for long-term: Angel One sees 39% upside in this Gujarat-based pharma stock. Should you buy?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-to-buy-for-long-term-angel-one-sees-39-upside-in-this-gujarat-based-pharma-stock-lincoln-pharma-should-you-buy-11787127425509.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Stock to buy for long-term: Shares of Lincoln Pharmaceuticals Ltd have remained under profit-booking pressure after hitting a 52-week high at the end of May 2026",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "RailTel Corporation shares jump over 7% on  \u20b9167 crore EPFO order",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/railtel-corporation-shares-jump-over-7-on-rs-167-crore-epfo-order-11787130223057.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "RailTel Corporation of India shares surged 7.5% to  \u20b9297.60 following a new work order extension from EPFO worth  \u20b9166.80 crore. Despite recent gains, the stock remains down 22% in 2026 and 8% in 2025",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap stock jumps after receipt of  \u20b9134 crore order from Maharashtra Road Transport",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-krystal-integrated-services-jumps-after-receipt-of-134-crore-order-from-maharashtra-road-transport-11787126659032.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Krystal Integrated Services share price opened at  \u20b9635 apiece today, as compared to previous close of  \u20b9620 on Tuesday.",
       "tags": [],
       "is_portfolio": false
     },
@@ -225,33 +216,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-india-glycols-drops-3-after-4-days-of-gains-should-you-buy-the-stock-as-it-readies-for-a-demerger-11787123636843.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "After a four-day winning streak, India Glycols shares decline by 3% amidst exciting plans for a demerger into three focused entities. Will this strategic move unlock value for investors? Discover expe",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NMDC faces twin challenges of weaker offtake and prices after a muted Q1",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/nmdc-share-price-stock-outlook-q1-results-iron-ore-sales-11787121576124.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "The divergence in the company's sales and production growthcould continue in the monsoon-driven seasonally weak Q2.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shalimar Paints' 20% spike days before Hella Infra share-swap disclosure risks regulatory scrutiny",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/shalimar-paints-share-price-rises-20-percent-before-hella-infra-market-deal-11787112928681.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Shalimar Paint shares surged 20% on unusually high volumes on 3 August, nine days before the share-swap deal with Hella Market Infra was announced.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Brigade Enterprises: One eye on residential launches, another on annuity capex",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/brigade-enterprises-share-price-stock-outlook-fy27-residential-launches-11787117900532.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Brigade re-iterated its ambitious 20% pre-sales growth target of  \u20b99,000 crore in FY27, banking on timely launches of residential projects spanning about 12 msf in the next year.",
       "tags": [],
       "is_portfolio": false
     }
