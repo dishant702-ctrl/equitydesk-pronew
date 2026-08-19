@@ -1,6 +1,17 @@
 {
-  "updated_ist": "19 Aug 2026 15:20 IST",
+  "updated_ist": "19 Aug 2026 16:04 IST",
   "news": [
+    {
+      "title": "Bitcoin near $64,350 as weak liquidity and subdued on-chain activity signal caution",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-near-64350-as-weak-liquidity-and-subdued-on-chain-activity-signal-caution/articleshow/133344028.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Bitcoin remained near the $64,000 mark as analysts flagged caution amid weak spot liquidity and subdued on-chain activity, despite signs of stabilising capital flows. Short covering and improving spot",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Sebi to soon roll out AI rules with a \u2018kill switch\u2019 for stock market",
       "source": "Economic Times",
@@ -11,6 +22,66 @@
         "ITC"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 19 Aug: Netweb Tech, Bata, Reliance Power, Bharat Dynamics, Tata Chemicals among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-19-aug-netweb-tech-bata-reliance-power-bharat-dynamics-tata-chemicals-among-top-losers-11787134391057.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Continuing its decline, the Indian stock market fell for the seventh consecutive session, driven by high crude prices and increased bond yields. The Nifty dropped to 24,078, while the Sensex closed at",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Investors ditch semiconductor bets as AI bubble fears rise: Where\u2019s the money moving now? BofA survey reveals",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/investors-ditch-semiconductor-bets-as-ai-bubble-fears-rise-where-s-the-money-moving-now-bofa-survey-reveals-11787131735269.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Bank of America's August survey reveals increasing fears of an AI bubble among fund managers, with 32% citing it as the biggest market risk. Investors are shifting towards defensive and cyclical stock",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "South Korea\u2019s SK Hynix announces buyback after stock crashes 50% in two months, wipes off massive retail wealth",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-koreas-sk-hynix-announces-buyback-after-stock-crashes-50-in-two-months-wipes-off-massive-retail-wealth/articleshow/133344672.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "SK Hynix announced a record 40 trillion won share buyback and cancellation after its stock plunged nearly 50%. South Korea\u2019s Kospi also tumbled amid chipmaker concentration, leveraged ETF risks and ri",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: European shares flat as Middle East risks weigh; Fed Minutes in focus",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-middle-east-risks-weigh-fed-minutes-in-focus/articleshow/133344247.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "European shares were largely flat as Middle East tensions kept investors cautious ahead of the Federal Reserve\u2019s July meeting minutes. Gains in basic resources stocks, supported by higher gold prices,",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Eurozone bond rout loses steam, but rising oil prices keep investors wary",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-rout-loses-steam-but-rising-oil-prices-keep-investors-wary/articleshow/133344103.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "On Wednesday, yields on Eurozone government bonds saw a slight decline as the U.S. Treasury markets regained stability. However, high oil prices are ongoing concerns, heightening inflation and borrowi",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Swiggy to see $400 million outflows after Indian-owned status? Jefferies explains why",
@@ -40,38 +111,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Indian Bank raises $400 million for four years",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuance",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IDFC First Bank raises $500 million through maiden overseas bond issue",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/idfc-first-bank-raises-500-million-through-maiden-overseas-bond-issue/articleshow/133342583.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "IDFC First Bank raised $500 million through its first international bond issuance, marking its entry into global debt markets. The three-year bonds carry a 5.625% coupon and mature in 2029. Backed by ",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here\u2019s why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hong Kong Exchange posts record profit as AI, tech IPO boom drives fundraising",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms",
+      "title": "Infosys Aster recognized as Leader in Everest Group's Marketing Transformation Services PEAK Matrix",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/infosys-aster-recognized-as-leader-in-everest-group-s-marketing-transformation-services-peak-matrix-126081900804_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Hong Kong Exchanges and Clearing posted record first-half 2026 results, with profit rising 24% to HK$10.6 billion. Strong IPO activity, particularly among technology and AI firms, and record trading v",
+      "desc": "\nIn this assessment, Everest Group evaluated and categorized 29 service providers based on their vision, capabilities, and market impact. Infosys Aster is recognized for bringing strong proprietary IP",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Kalyani receives nod for private freight terminal project at Shivlakha, Gujarat",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kalyani-receives-nod-for-private-freight-terminal-project-at-shivlakha-gujarat-126081900777_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "\nThe proposed project has a total project cost of Rs 110 crore, with an eligible project cost of Rs 80 crore.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indegene's US arm settles TCPA class-action litigation for $4.72 million",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indegene-s-us-arm-settles-tcpa-class-action-litigation-for-4-72-million-126081900751_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Indegene said its wholly owned US subsidiary, Indegene Inc., has substantially concluded settlement negotiations in the TCPA class-action litigation filed by Progressive Health and Rehab Corp.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "AMC stocks ICICI Prudential, NAM India surge up to 5% in weak market",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/amc-stocks-icici-prudential-nam-india-surge-up-to-5-in-weak-market-126081900708_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "According to MOFSL, ICICI AMC continues to strengthen its leadership position across active MFs while steadily expanding its presence in high-growth segments such as passives, SIFs, and alternatives.",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,38 +210,20 @@
       "is_portfolio": false
     },
     {
-      "title": "Volumes spurt at Aster DM Quality Care Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-aster-dm-quality-care-ltd-counter-126081900691_1.html",
+      "title": "Indian stock market replaces Indonesia as Asia\u2019s least-preferred market in BofA survey",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/indian-stock-market-replaces-indonesia-as-asia-s-least-preferred-market-in-bofa-survey-11787132370080.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Aster DM Quality Care Ltd registered volume of 718.26 lakh shares by 14:14 IST on NSE, a 71.76 fold spurt over two-week average daily volume of 10.01 lakh shares",
+      "desc": "The Indian stock market, experiencing its first struggle in over a decade, faces challenges due to foreign selling, high crude oil prices, geopolitical tensions, and weak AI exposure.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bandhan Bank Ltd eases for fifth straight session",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bandhan-bank-ltd-eases-for-fifth-straight-session-126081900690_1.html",
+      "title": "Nifty 50 falls for 7th straight session, longest losing streak since Sept 2025; what keeps stock market under pressure?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-falls-for-7th-straight-session-longest-since-september-2025-what-keeps-stock-market-sensex-under-pressure-11787133417369.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Bandhan Bank Ltd is quoting at Rs 169.47, down 0.6% on the day as on 13:19 IST on the NSE. The stock tumbled 2.76% in last one year as compared to a 4.02% slide in NIFTY and a 0.59% spurt in the Nifty",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bank of India eases for fifth straight session",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-india-eases-for-fifth-straight-session-126081900689_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Bank of India is quoting at Rs 142, down 0.07% on the day as on 13:19 IST on the NSE. The stock jumped 22.07% in last one year as compared to a 4.02% slide in NIFTY and a 21.04% spurt in the Nifty PSU",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Abbott India Ltd down for fifth straight session",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/abbott-india-ltd-down-for-fifth-straight-session-126081900688_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Abbott India Ltd is quoting at Rs 26325, down 0.96% on the day as on 13:19 IST on the NSE. The stock jumped 12.53% in last one year as compared to a 4.02% slide in NIFTY and a 19.36% spurt in the Nift",
+      "desc": "The Nifty closed at 24,078.30, down 77 points, or 0.32%, while the 30-share pack Sensex ended with a loss of 326 points, or 0.42%, at 76,909.68.",
       "tags": [],
       "is_portfolio": false
     },
@@ -180,42 +260,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/q1-earnings-beat-expectations-but-indian-stock-market-remains-rangebound-what-could-change-the-trend-11787041302294.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Despite strong Q1 earnings beating expectations, the Indian stock market struggles to break free from a downward trend. Factors like elevated crude oil prices and geopolitical tensions play a crucial ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b910 trades green despite stock market sell-off",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-pc-jeweller-trades-green-despite-stock-market-selloff-11787125454819.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Penny stock under  \u20b910 informed Indian exchanges on Tuesday about repaying all the outstanding debt of 8 out of the 14 consortium banks, with all repayments completed ahead of scheduled due dates&amp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi may ease SME trading, market-making rules as costs and liquidity under scrutiny",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-may-ease-sme-trading-market-making-rules-as-costs-and-liquidity-under-scrutiny-11787123510521.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Sebi is weighing a broader overhaul of the SME market as costly market-making, illiquid odd lots and rules linked to paid-up capital come under review.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Penny stock under  \u20b95 hits upper circuit for 10 day in a row",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-5-nhc-foods-hits-upper-circuit-for-10-day-in-a-row-11787124431237.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "NHC Foods share price opened at  \u20b91.61 apiece today, as compared to previous close of  \u20b91.56 on Wednesday. The penny stock touched an intraday high of  \u20b91.63 on 19 August.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Multibagger stock India Glycols drops 3% after 4 days of gains; should you buy the stock as it readies for a demerger?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-india-glycols-drops-3-after-4-days-of-gains-should-you-buy-the-stock-as-it-readies-for-a-demerger-11787123636843.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "After a four-day winning streak, India Glycols shares decline by 3% amidst exciting plans for a demerger into three focused entities. Will this strategic move unlock value for investors? Discover expe",
       "tags": [],
       "is_portfolio": false
     }
