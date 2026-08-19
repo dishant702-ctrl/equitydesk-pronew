@@ -1,5 +1,5 @@
 {
-  "updated_ist": "19 Aug 2026 12:23 IST",
+  "updated_ist": "19 Aug 2026 13:13 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,26 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-itc-hindustan-unilever-dabur-india-irfc-upl-hit-52-week-lows-126081900482_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Analysts said, brent crude and palm oil respectively remained elevated by 47% and 13% on year-to-date (YTD) basis, which might keep margins under pressure for FMCG sector.",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Sebi reviewing IPO rules for smaller companies and delisting norms: Tuhin Kanta Pandey",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "The Securities and Exchange Board of India (SEBI) is actively analyzing new frameworks for small company IPOs and delisting procedures. In a move to bolster global fund management operations from Indi",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Shiprocket shares soar 10% after bumper market debut, rally 48% from IPO price. Time to buy or sell?",
@@ -76,15 +96,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Vijay Kedia buys Rs 33 crore stake in Zaggle Prepaid Ocean Services via bulk deal, stock skyrockets 17%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vijay-kedia-buys-rs-33-crore-stake-in-zaggle-prepaid-ocean-services-via-bulk-deal-stock-skyrockets-17/articleshow/133338421.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Zaggle Prepaid Ocean Services shares surged after Kedia Securities, owned by investor Vijay Kedia, acquired 20 lakh shares, or a 1.48% stake, through a bulk deal at Rs 164.72 apiece. The purchase came",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -112,74 +123,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Zaggle Prepaid Ocean Services Ltd leads gainers in 'A' group",
+      "title": "SEBI proposes easing KYC process for individual Persons Resident Outside India",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zaggle-prepaid-ocean-services-ltd-leads-gainers-in-a-group-126081900424_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sebi-proposes-easing-kyc-process-for-individual-persons-resident-outside-india-126081900497_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Blackbuck Ltd, Shree Renuka Sugars Ltd, Chennai Petroleum Corporation Ltd and Tourism Finance Corporation of India Ltd are among the other gainers in the BSE's 'A' group today, 19 August 2026.",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NSE SME Q&T Foods treads water on market debut",
+      "title": "Sensex slides 313 pts; private bank shares decline",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-q-t-foods-treads-water-on-market-debut-126081900423_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-313-pts-private-bank-shares-decline-126081900496_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Q&T Foods traded at Rs 115 on the NSE, matching the issue price of Rs 115.",
+      "desc": "\nAt 12:30 IST, the barometer index, the S&P BSE Sensex, declined 313.19 points or 0.41% to 76,904.66. The Nifty 50 index lost 100.95 points or 0.42% to 24,054.75.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lalithaa Jewellery vs Horizon IPO: Analysts decode better bet for investors",
+      "title": "Euro scales to two-month high above $1.16 mark; ECB Lagarde's speech awaited",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/lalithaa-jewellery-vs-horizon-ipo-analysts-decode-better-bet-for-investors-126081900417_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/euro-scales-to-two-month-high-above-1-16-mark-ecb-lagarde-s-speech-awaited-126081900473_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Lalithaa Jewellery Mart's \u20b91,700 crore IPO opened for subscription on August 17 and will conclude on August 19.",
+      "desc": "\nEuro jumped to a two-month high against the dollar on Wednesday on expectation of rate hike by the European central bank, at a time when the Fed is seen holding rates steady. Elevated energy prices r",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aster DM block deal: 65.6mn shares change hands; stock up 8% from day's low",
+      "title": "Refex Industries bags Rs 40.42 cr order for ash transportation",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/aster-dm-quality-care-block-deal-65-6mn-shares-change-hands-stock-up-8-from-day-s-low-126081900415_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/refex-industries-bags-rs-40-42-cr-order-for-ash-transportation-126081900472_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Aster DM Quality Care was formed by the merger of Aster DM Healthcare and Quality Care India Limited (QCIL). The merger brought together four healthcare brands.",
+      "desc": "Refex Industries has received a domestic work order worth approximately Rs 40.42 crore from an entity based in Maharashtra.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FY27 to be challenging for PSU banks, limited room for upside: Seshadri Sen",
+      "title": "Ceigall India rises after securing LoA for Rs 274 crore project from Ministry of Road Transport",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/interviews/fy27-to-be-challenging-for-psu-banks-limited-room-for-upside-seshadri-sen-126081900391_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-rises-after-securing-loa-for-rs-274-crore-project-from-ministry-of-road-transport-126081900471_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "With limited RoA levers left and a risk of credit costs normalising, we see limited room for further upside in PSU bank stocks, said Seshadri Sen of Emkay Global.",
+      "desc": "Ceigall India added 1.60% to Rs 313.60 after the company, jointly with Rajinder Infrastructure, announced the receipt of letter of acceptance (LoA) from the Ministry of Road Transport & Highways (MoRT",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "CG Power slips after reporting suspected cybersecurity incident on IT systems",
+      "title": "Cressanda Railway Solutions Ltd leads gainers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cg-power-slips-after-reporting-suspected-cybersecurity-incident-on-it-systems-126081900402_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/cressanda-railway-solutions-ltd-leads-gainers-in-b-group-126081900470_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "CG Power and Industrial Solutions slipped 3.20% to Rs 865.30 after the company informed about the occurrence of a suspected cyber event on its IT systems.",
+      "desc": "Mysore Petro Chemicals Ltd, TECIL Chemical & Hydro Power Ltd, Kohinoor Foods Ltd and Karma Energy Ltd are among the other gainers in the BSE's 'B' group today, 19 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades below 24,100 level; consumer durables shares underpressure",
+      "title": "Arkade Developers adds four redevelopment project in Mumbai suburbs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-100-level-consumer-durables-shares-underpressure-126081900401_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/arkade-developers-adds-four-redevelopment-project-in-mumbai-suburbs-126081900469_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "\nAt 11:30 IST, the barometer index, the S&P BSE Sensex slipped 345.62 points or 0.45% to 76,889.84. The Nifty 50 index lost 99.35 points or 0.41% to 24,056.05.\n",
+      "desc": "With estimated gross development value of about Rs 5,000 cr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "TI India seeing 'Inverse Head & Shoulders' pattern; what it means, strategy",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/tube-investments-stock-inverse-head-and-shoulders-pattern-what-it-means-trading-strategy-126081900383_1.html",
+      "title": "Shalimar Paints' 20% spike days before Hella Infra share-swap disclosure risks regulatory scrutiny",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/shalimar-paints-share-price-rises-20-percent-before-hella-infra-market-deal-11787112928681.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Anand James, chief market strategist at Geojit Investments, flags the formation of an 'Inverse Head & Shoulders' pattern on Tube Investments of India weekly chart.",
+      "desc": "Shalimar Paint shares surged 20% on unusually high volumes on 3 August, nine days before the share-swap deal with Hella Market Infra was announced.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Brigade Enterprises: One eye on residential launches, another on annuity capex",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/brigade-enterprises-share-price-stock-outlook-fy27-residential-launches-11787117900532.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Brigade re-iterated its ambitious 20% pre-sales growth target of  \u20b99,000 crore in FY27, banking on timely launches of residential projects spanning about 12 msf in the next year.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mopshop Distribution IPO Day 1: Issue booked 29% so far. Check GMP, issue details",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mopshop-distribution-ipo-day-1-issue-booked-29-so-far-check-gmp-issue-details-11787121388613.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "The Mopshop Distribution IPO launched on 19 August and will close on 21 August at  \u20b9138 per share. The firm aims to raise funds for loan repayment, vehicle purchase, and renewable energy initiatives, ",
       "tags": [],
       "is_portfolio": false
     },
@@ -225,33 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-day-2-issue-sees-decent-buying-gmp-signals-modest-listing-gains-should-you-apply-11787116812914.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Shankesh Jewellers IPO opened for public subscription on Tuesday, 18 August, and will remain open until Thursday, 20 August. The issue price band is fixed at  \u20b988 to  \u20b993 per share.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Sunshine Pictures IPO GMP today: According to market observers, shares of the film producer Vipul Shah-promoted company are available at a premium of  \u20b977 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India's Closing Auction Session turmoil clouds BSE\u2019s growth outlook",
-      "source": "Mint",
-      "link": "https://www.livemint.com/global/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook-11787113868604.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "BSE share price has fallen 9% in August so far, on concerns about the impact of the so-called Closing Auction Session on Asia's oldest exchange operator.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering IPO listing: Shares debut at a 60% premium on the BSE despite weak stock market sentiment",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-listing-shares-debut-at-a-60-premium-on-the-bse-despite-weak-stock-market-sentiment-11787113487403.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Behari Lal Engineering shares were listed at  \u20b9458 on the BSE, a premium of nearly 61% over the issue price of  \u20b9285. On the NSE, the stock debuted at  \u20b9465, up over 63% from the issue price.",
       "tags": [],
       "is_portfolio": false
     }
