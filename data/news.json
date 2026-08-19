@@ -1,16 +1,23 @@
 {
-  "updated_ist": "19 Aug 2026 10:12 IST",
+  "updated_ist": "19 Aug 2026 10:45 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Gold extends losses, falls to nearly Rs 1.54 lakh/10 gm. Time to buy?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-losses-falls-to-nearly-rs-1-54-lakh/10-gm-time-to-buy/articleshow/133337692.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Gold prices slipped on the MCX but edged higher internationally as easing Treasury yields supported demand. However, rising oil prices and renewed inflation concerns could limit the scope for US rate ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "RailTel Corporation shares rally 5% after bagging Rs 166.8 crore EPFO order",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-corporation-shares-rally-5-after-bagging-rs-166-8-crore-epfo-order/articleshow/133337593.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "RailTel shares gained nearly 5% after the company received a Rs 166.80 crore work order from EPFO for a one-year extension of its Infrastructure-as-a-Service engagement. While the order strengthens re",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "High Treasury yields put US fiscal outlook under spotlight",
@@ -40,7 +47,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Sensex falls 100 points, Nifty below 23,150 as market bleeds for 7th session. What lies ahead?",
+      "title": "Sensex falls 200 points, Nifty below 23,100 as market bleeds for 7th session. What lies ahead?",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-points-nifty-below-23150-as-market-bleeds-for-7th-session-what-lies-ahead/articleshow/133336722.cms",
       "date": "Wed, 19 Aug 2026",
@@ -67,47 +74,56 @@
       "is_portfolio": false
     },
     {
-      "title": "Sunshine Pictures IPO Day 2: GMP signals 21% listing gain, issue subscribed 4.33x. Should you apply",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-day-2-gmp-signals-21-listing-gain-issue-subscribed-4-33x-should-you-apply/articleshow/133336728.cms",
+      "title": "Milky Mist share price extends post-listing gains, hits 10% upper circuit",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/milky-mist-share-price-extends-post-listing-gains-hits-10-upper-circuit-126081900322_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Sunshine Pictures IPO has captured the attention of investors on its second bidding day, showcasing impressive demand. Reports indicate it is trading at a notable premium in the grey market. The initi",
+      "desc": "Analysts believe Milky Mist IPO shares offer long-term value given its strong market position and a robust industry outlook.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US in no talks with Iran. What lies ahead?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-in-no-talks-with-iran-what-lies-ahead/articleshow/133336672.cms",
+      "title": "Shiprocket makes strong debut; lists at 33.51% premium",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/shiprocket-makes-strong-debut-lists-at-33-51-premium-126081900321_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Crude oil prices edged closer to $92 a barrel on August 19 as escalating Middle East tensions and diplomatic stalemates between the US and Iran stoked global supply worries. Analysts at Goldman Sachs ",
+      "desc": "Shares of Shiprocket were currently trading at Rs 135.35 at 10:11 IST on the BSE, representing a premium of 39.70% as compared with the issue price of Rs 97.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "title": "Behari Lal Engineering makes a solid debut on Dalal Street",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/behari-lal-engineering-makes-a-solid-debut-on-dalal-street-126081900320_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Shares of Behari Lal Engineering were currently trading at Rs 474 at 10:10 IST on the BSE, representing a premium of 66.32% as compared with the issue price of Rs 285.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "title": "NIBE Space secures order of Rs 12.14 cr from MSEDCL",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nibe-space-secures-order-of-rs-12-14-cr-from-msedcl-126081900312_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "title": "Interarch Building gains after bagging Rs 128-cr contract from FMCG player",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/interarch-building-gains-after-bagging-rs-128-cr-contract-from-fmcg-player-126081900292_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Interarch Building Solutions jumped 1.85% to Rs 1,752 after the company received Rs 128 crore contract from a domestic FMCG player of international repute to construct a manufacturing facility for hom",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Zaggle rebounds 26% from Tuesday's low on heavy volumes; here's why",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/zaggle-rebounds-26-from-tuesday-s-low-on-heavy-volumes-here-s-why-126081900247_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Vijay Kedia-led Kedia Securities purchased 2 million equity shares representing 1.5% equity of Zaggle at an average price of \u20b9164.72 per share on Tuesday, August 18 via open market deals on the NSE.",
       "tags": [],
       "is_portfolio": false
     },
@@ -116,7 +132,7 @@
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/news/behari-lal-engineering-shares-make-a-blockbuster-debut-list-at-63-premium-126081900250_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Behari Lal Engineering shares opened at \u20b9465 on the National Stock Exchange (NSE), up \u20b9180 or 63.16 per cent versus the issue price of \u20b9285. On the BSE, the stock debuted with a premium of \u20b9173 or 60.",
+      "desc": "Behari Lal Engineering shares opened at \u20b9465 on the National Stock Exchange (NSE), up \u20b9180 or 63.16 per cent versus the issue price of \u20b9285.",
       "tags": [],
       "is_portfolio": false
     },
@@ -130,56 +146,20 @@
       "is_portfolio": false
     },
     {
-      "title": "National Aluminium Company Ltd Slides 1.68%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/national-aluminium-company-ltd-slides-1-68-126081900259_1.html",
+      "title": "Sunshine Pictures IPO day 2 LIVE: GMP, subscription status to review. Should you apply for Vipul Shah's company shares?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-2-live-gmp-subscription-status-to-review-should-you-apply-for-vipul-shahs-company-shares-11787112130407.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "National Aluminium Company Ltd has added 11.24% over last one month compared to 2.42% gain in BSE Metal index and 0.63% drop in the SENSEX",
+      "desc": "Sunshine Pictures IPO GMP today: According to market observers, shares of the film producer Vipul Shah-promoted company are available at a premium of  \u20b977 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Innovana Thinklabs Ltd Spikes 17.16%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/innovana-thinklabs-ltd-spikes-17-16-126081900258_1.html",
+      "title": "India's Closing Auction Session turmoil clouds BSE\u2019s growth outlook",
+      "source": "Mint",
+      "link": "https://www.livemint.com/global/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook-11787113868604.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Innovana Thinklabs Ltd has added 7.19% over last one month compared to 4.1% gain in BSE Information Technology index and 0.63% drop in the SENSEX",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shiprocket shares make a solid debut, list at 35% premium over IPO price",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/shiprocket-shares-make-a-solid-debut-list-at-35-premium-over-ipo-price-126081900245_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Shares of Shiprocket listed at \u20b9131 on the NSE, a premium of \u20b934, or 35.05 per cent, over the issue price of \u20b997 per share. On the BSE, the stock debuted at \u20b9129, up \u20b932, or 33.5 per cent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Finance Minister has called upon PSBs and PFIs to build on their institutional strength",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/finance-minister-has-called-upon-psbs-and-pfis-to-build-on-their-institutional-strength-126081900237_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Powered by Capital Market - Live News",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market opens lower amid weak global cues",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/market-opens-lower-amid-weak-global-cues-126081900236_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "\nAt 09:30 IST, the barometer index, the S&P BSE Sensex declined 159.90 points or 0.20% to 77,078.56. The Nifty 50 index lost 56 points or 0.23% to 24,099.05.\n",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Axis Bank allots 1.23 lakh equity shares under ESOP",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/axis-bank-allots-1-23-lakh-equity-shares-under-esop-126081900232_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "\nThe paid-up share capital of the Bank has accordingly increased from Rs. 6,225,564,486 (3,112,782,243 equity shares of Rs. 2/- each) to Rs. 6,225,810,834 (3,112,905,417 equity shares of Rs. 2/- each)",
+      "desc": "BSE share price has fallen 9% in August so far, on concerns about the impact of the so-called Closing Auction Session on Asia's oldest exchange operator.",
       "tags": [],
       "is_portfolio": false
     },
@@ -202,7 +182,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Bumper listing! Shiprocket share price lists at 35% premium over the IPO price",
+      "title": "Shiprocket IPO: Shares list at 35% premium over the IPO price. Details here",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/bumper-listing-shiprocket-share-price-lists-at-35-premium-over-the-ipo-price-11787112874460.html",
       "date": "Wed, 19 Aug 2026",
@@ -211,7 +191,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Horizon Industrial IPO Day 3: Issue subscribed 24% so far. Check GMP, review - apply or not?",
+      "title": "Horizon Industrial IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribed-24-so-far-check-gmp-review-apply-or-not-11787112296810.html",
       "date": "Wed, 19 Aug 2026",
@@ -234,24 +214,6 @@
       "link": "https://www.livemint.com/market/commodities/gold-and-silver-price-today-rates-drop-on-mcx-as-rising-oil-prices-amid-stalled-us-iran-talks-fuel-fed-rate-hike-bets-11787109899918.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Gold and silver prices today: Rates of gold and silver dropped in the morning trade on Wednesday, 19 August, on MCX as elevated crude oil prices, amid stalled US-Iran talks, fuelled bets on a US Fed i",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nikkei, KOSPI to US stocks: Global equity heatmap you must know before the opening bell of the Indian stock market",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nikkei-kospi-to-us-stocks-global-equity-heatmap-you-must-know-before-the-opening-bell-of-the-indian-stock-market-11787108646892.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Global markets today: US equities fell for a third straight session on Tuesday as a sharp selloff in semiconductor stocks and surging bond yields rattled markets.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gaja Alternative Asset Management IPO Day 1: GMP hints 19% listing pop. Check key dates, review. Apply or skip?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-gmp-gaja-capital-ipo-gmp-gaja-alternative-asset-management-ipo-subscription-11787108557345.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "The Gaja Capital IPO launches on 19 August with a price band of  \u20b9152-160 per share. It aims for a listing at  \u20b9190. The IPO features a fresh issue of  \u20b9450 crore and an  \u20b9100 crore offer for sale fro",
       "tags": [],
       "is_portfolio": false
     }
