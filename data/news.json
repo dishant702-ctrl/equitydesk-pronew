@@ -1,6 +1,26 @@
 {
-  "updated_ist": "19 Aug 2026 10:45 IST",
+  "updated_ist": "19 Aug 2026 11:20 IST",
   "news": [
+    {
+      "title": "IT crash ahead? CLSA downgrades TCS, Infosys, Wipro, other stocks; revises target prices. Here's why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-crash-ahead-clsa-downgrades-tcs-infosys-wipro-other-stocks-revises-target-prices-heres-why/articleshow/133337948.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "CLSA downgraded several large IT stocks and cut their target prices amid continued AI-related concerns, while retaining a bullish view on select mid-tier IT companies. The brokerage said Q1 earnings w",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Milky Mist shares hit another 10% upper circuit, rallying 43% from IPO price. Should you buy, sell or hold?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/milky-mist-shares-hit-another-10-upper-circuit-rallying-43-from-ipo-price-should-you-buy-sell-or-hold/articleshow/133338174.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Milky Mist shares hit another 10% upper circuit on Wednesday, taking their gains to 42.5% from the IPO price of Rs 140. Analysts remain positive on the company\u2019s strong foothold in value-added dairy p",
+      "tags": [],
+      "is_portfolio": false
+    },
     {
       "title": "Gold extends losses, falls to nearly Rs 1.54 lakh/10 gm. Time to buy?",
       "source": "Economic Times",
@@ -47,7 +67,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Sensex falls 200 points, Nifty below 23,100 as market bleeds for 7th session. What lies ahead?",
+      "title": "Sensex falls 300 points, Nifty below 23,100 as market bleeds for 7th session. What lies ahead?",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-100-points-nifty-below-23150-as-market-bleeds-for-7th-session-what-lies-ahead/articleshow/133336722.cms",
       "date": "Wed, 19 Aug 2026",
@@ -56,20 +76,56 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan shares slide as chip stocks tumble on global tech rout",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-shares-slide-as-chip-stocks-tumble-on-global-tech-rout/articleshow/133336887.cms",
+      "title": "LTTS secures $75 million contract for providing engineering intelligence to global technology major",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ltts-secures-75-million-contract-for-providing-engineering-intelligence-to-global-technology-major-126081900356_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Japan\u2019s Nikkei plunged 2.97%, tracking Wall Street\u2019s technology sell-off as rising global bond yields and renewed Middle East uncertainty dampened risk appetite. Semiconductor stocks led declines, wit",
+      "desc": "L&T Technology Services (LTTS) said that it has secured a five-year engagement worth over $75 million from a leading global technology enterprise.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lalithaa Jewellery Mart IPO Day 3: GMP indicates 20% premium, Subscribed 3.07x; should you subscribe?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribe/articleshow/133336766.cms",
+      "title": "Prism Johnson spurts after securing additional coal linkages worth Rs 70.49 crore annually",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/prism-johnson-spurts-after-securing-additional-coal-linkages-worth-rs-70-49-crore-annually-126081900355_1.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Lalithaa Jewellery Mart IPO enters its third and final day of bidding on August 19, 2026, commanding a 20 per cent grey market premium. Subscribed 3.07 times on Day 2, analysts highlight its strong So",
+      "desc": "Prism Johnson rose 7.05% to Rs 112.40 after the company was declared the successful bidder for supply of 1,28,000 metric tonnes (MT) of coal per annum by subsidiaries of Coal India.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "EKI registers its first plastic waste reduction project in Bangladesh",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/eki-registers-its-first-plastic-waste-reduction-project-in-bangladesh-126081900354_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "EKI Energy Services has successfully registered its plastic waste reduction project in Bangladesh, Phase I, with Verra. Notably, this marks the first registered plastic waste reduction project in Bang",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bajaj Hind, Dwarikesh, Renuka rally up to 14%; what's driving sugar stocks?",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bajaj-hindusthan-dwarikesh-renuka-rally-up-to-14-why-sugar-stocks-are-rising-126081900329_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Sugar Stocks Today: Thus far in August 2026, the market price of Avadh Sugar zoomed 51%, while Uttam Sugar, Dalmia Bharat, Dwarikesh, Dhampur, Triveni and Bajaj Hind soared in the range of 26-38%.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bernstein shuffles India portfolio as Q1 earnings offer stock-specific bets",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bernstein-shuffles-india-portfolio-as-q1-earnings-offer-stock-specific-bets-126081900346_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Bernstein has, however, held on to some of the stocks in its earlier focus list - Larsen & Toubro (L&T), NTPC Axis Bank, HDFC Bank, Nuvama and HomeFirst.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IGL, MGL, Adani Total rally up to 6% on PNG incentive scheme approval",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/igl-mgl-adani-total-rally-up-to-6-on-png-incentive-scheme-approval-126081900341_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "At intraday, Mahanagar Gas was up 5.5 per cent, Indraprastha Gas was up 5.3 per cent and Adani Total Gas was up 4.9 per cent",
       "tags": [],
       "is_portfolio": false
     },
@@ -88,60 +144,6 @@
       "link": "https://www.business-standard.com/markets/capital-market-news/shiprocket-makes-strong-debut-lists-at-33-51-premium-126081900321_1.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Shares of Shiprocket were currently trading at Rs 135.35 at 10:11 IST on the BSE, representing a premium of 39.70% as compared with the issue price of Rs 97.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering makes a solid debut on Dalal Street",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/behari-lal-engineering-makes-a-solid-debut-on-dalal-street-126081900320_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Shares of Behari Lal Engineering were currently trading at Rs 474 at 10:10 IST on the BSE, representing a premium of 66.32% as compared with the issue price of Rs 285.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NIBE Space secures order of Rs 12.14 cr from MSEDCL",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nibe-space-secures-order-of-rs-12-14-cr-from-msedcl-126081900312_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Interarch Building gains after bagging Rs 128-cr contract from FMCG player",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/interarch-building-gains-after-bagging-rs-128-cr-contract-from-fmcg-player-126081900292_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Interarch Building Solutions jumped 1.85% to Rs 1,752 after the company received Rs 128 crore contract from a domestic FMCG player of international repute to construct a manufacturing facility for hom",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Zaggle rebounds 26% from Tuesday's low on heavy volumes; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/zaggle-rebounds-26-from-tuesday-s-low-on-heavy-volumes-here-s-why-126081900247_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Vijay Kedia-led Kedia Securities purchased 2 million equity shares representing 1.5% equity of Zaggle at an average price of \u20b9164.72 per share on Tuesday, August 18 via open market deals on the NSE.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Behari Lal Engineering shares make a blockbuster debut, list at 63% premium",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/behari-lal-engineering-shares-make-a-blockbuster-debut-list-at-63-premium-126081900250_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Behari Lal Engineering shares opened at \u20b9465 on the National Stock Exchange (NSE), up \u20b9180 or 63.16 per cent versus the issue price of \u20b9285.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "RailTel rises after bagging Rs 167-cr work order from EPFO",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/railtel-rises-after-bagging-rs-167-cr-work-order-from-epfo-126081900260_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "RailTel Corporation of India rose 3.37% to Rs 286.50 after the company received a work order worth Rs 166.80 crore from the Employees Provident Fund Organisation (EPFO).",
       "tags": [],
       "is_portfolio": false
     },
@@ -182,7 +184,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Shiprocket IPO: Shares list at 35% premium over the IPO price. Details here",
+      "title": "Shiprocket IPO listing: Shares list at 35% premium over the IPO price. Details here",
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/bumper-listing-shiprocket-share-price-lists-at-35-premium-over-the-ipo-price-11787112874460.html",
       "date": "Wed, 19 Aug 2026",
@@ -191,7 +193,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Horizon Industrial IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
+      "title": "Horizon Industrial Parks IPO Day 3: Issue subscribed 27% so far. Check GMP, review - apply or not?",
       "source": "Mint",
       "link": "https://www.livemint.com/market/ipo/horizon-industrial-ipo-day-3-issue-subscribed-24-so-far-check-gmp-review-apply-or-not-11787112296810.html",
       "date": "Wed, 19 Aug 2026",
