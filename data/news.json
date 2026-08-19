@@ -1,5 +1,5 @@
 {
-  "updated_ist": "19 Aug 2026 13:47 IST",
+  "updated_ist": "19 Aug 2026 14:36 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -13,15 +13,67 @@
       "is_portfolio": true
     },
     {
-      "title": "HDFC Bank, ITC, Hindustan Unilever, Dabur India, IRFC, UPL hit 52-week lows",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/hdfc-bank-itc-hindustan-unilever-dabur-india-irfc-upl-hit-52-week-lows-126081900482_1.html",
+      "title": "Indian Bank raises $400 million for four years",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-raises-400-million-for-four-years/articleshow/133342708.cms",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Analysts said, brent crude and palm oil respectively remained elevated by 47% and 13% on year-to-date (YTD) basis, which might keep margins under pressure for FMCG sector.",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
+      "desc": "Indian Bank raised $400 million through a four-year overseas funding programme via its GIFT City branch, joining Indian lenders tapping global debt markets. Banks are accelerating dollar bond issuance",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IDFC First Bank raises $500 million through maiden overseas bond issue",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/idfc-first-bank-raises-500-million-through-maiden-overseas-bond-issue/articleshow/133342583.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "IDFC First Bank raised $500 million through its first international bond issuance, marking its entry into global debt markets. The three-year bonds carry a 5.625% coupon and mature in 2029. Backed by ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jefferies cuts target price for Jupiter Wagons, maintains Underperform after Q1 earnings. Here\u2019s why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-target-price-for-jupiter-wagons-maintains-underperform-after-q1-earnings-heres-why/articleshow/133341991.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Jefferies has cut its target price for Jupiter Wagons to Rs 185 from Rs 210 and retained its Underperform rating after weak Q1 earnings. The brokerage lowered FY27E-29E EPS estimates by 6%-20%, citing",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Hong Kong Exchange posts record profit as AI, tech IPO boom drives fundraising",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hong-kong-exchange-posts-record-profit-as-ai-tech-ipo-boom-drives-fundraising/articleshow/133341994.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Hong Kong Exchanges and Clearing posted record first-half 2026 results, with profit rising 24% to HK$10.6 billion. Strong IPO activity, particularly among technology and AI firms, and record trading v",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Volume Shocker: MFs added 1 crore+ shares to 8 stocks in July '26; rally up to 76%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-july-26-rally-up-to-76/slideshow/133342058.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Mutual funds aggressively bought shares in 58 companies in July 2026. A secondary filter highlights eight top-performing stocks that saw additions of over one crore shares alongside gains between 9% a",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Foreign inflows into major Asian bond markets fall to four-month low in July",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-inflows-into-major-asian-bond-markets-fall-to-four-month-low-in-july/articleshow/133341777.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Foreign investment in major Asian bond markets fell to a four-month low in July as investors turned more selective amid geopolitical risks and higher oil prices. India stood out with $3.04 billion in ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Fabrinet stock plunges 19%: Why investors are selling after Q4 beat",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fabrinet-stock-plunges-19-why-investors-are-selling-after-q4-beat/slideshow/133341895.cms",
+      "date": "Wed, 19 Aug 2026",
+      "desc": " ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "McDonald\u2019s nears elite dividend king status as next hike looms",
@@ -29,69 +81,6 @@
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mcdonalds-nears-elite-dividend-king-status-as-next-hike-looms/articleshow/133341490.cms",
       "date": "Wed, 19 Aug 2026",
       "desc": "McDonald\u2019s is one dividend increase away from becoming a Dividend King after 49 consecutive years of dividend growth. Its franchise-driven model, global reach and consistent cash generation support sh",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Asia bond foreign inflows hit four-month low in July on oil shock",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/asia-bond-foreign-inflows-hit-four-month-low-in-july-on-oil-shock/articleshow/133341577.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "In July, foreign investment in local bonds throughout Asia waned, despite a broader global appetite for emerging market debt. Elevated energy prices and economic downturns rendered the region less app",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tiger Global-backed broking firm Upstox said to plan India IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tiger-global-backed-broking-firm-upstox-said-to-plan-india-ipo/articleshow/133341193.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Upstox is currently in talks with investment banks regarding a possible initial public offering. Backed by Tiger Global, the company plans to hire advisers shortly for the imminent listing. This IPO c",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India bonds cling to range as traders parse oil risk",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-cling-to-range-as-traders-parse-oil-risk/articleshow/133341539.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Indian government bonds experienced restrained trading on Wednesday, influenced by softer U.S. Treasury yields which offered some stability. Nevertheless, rising oil prices dampened domestic morale, i",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Selloff in euro zone bonds pauses but oil prices keep up pressure",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/selloff-in-euro-zone-bonds-pauses-but-oil-prices-keep-up-pressure/articleshow/133341510.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Government bond yields across the euro zone halted their upward trend on Wednesday, with the U.S. Treasury market finding stability and contributing positively to global sentiment. However, the ongoin",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "BSE shares bounce 2% after 5-session losing streak. Here\u2019s why Jefferies, Nuvama advise caution",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-bounce-2-after-5-session-losing-streak-heres-why-jefferies-nuvama-advise-caution/articleshow/133341155.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "BSE shares face fresh pressure after Nuvama and Jefferies downgraded the stock, citing headwinds from the Closing Auction Session, RBI\u2019s bank guarantee norms and limited scope for further market share",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India stocks top Indonesia as Asia\u2019s least-favoured in BofA poll",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "India has replaced Indonesia as Asia\u2019s least-preferred stock market among fund managers surveyed by Bank of America, with 32% of respondents net underweight on Indian equities. Lack of clear AI exposu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi reviewing IPO rules for smaller companies and delisting norms: Tuhin Kanta Pandey",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sebi-reviewing-ipo-rules-for-smaller-companies-and-delisting-norms-tuhin-kanta-pandey/articleshow/133340819.cms",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "The Securities and Exchange Board of India (SEBI) is actively analyzing new frameworks for small company IPOs and delisting procedures. In a move to bolster global fund management operations from Indi",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,6 +112,51 @@
       "is_portfolio": false
     },
     {
+      "title": "IPO index hits new high; Dhoot Transmission, Juniper Green soar up to 10%",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/ipo-index-hits-new-high-dhoot-transmission-juniper-green-soar-up-to-10-126081900598_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "In the past six months, the BSE IPO index outperformed the market by soaring 21 per cent, against a 6.8 per cent decline in the BSE Sensex.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bharat Coking Coal directed to stop blasting operations at New Akashkinaree Colliery",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-coking-coal-directed-to-stop-blasting-operations-at-new-akashkinaree-colliery-126081900605_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "By Directorate General of Mines Safety",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Key benchmarks trade near the day's low; Europe opens lower as bond yields spike",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/key-benchmarks-trade-near-the-day-s-low-europe-opens-lower-as-bond-yields-spike-126081900588_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "\nThe domestic equity benchmarks traded near the day's low in afternoon trade, weighed down by weak global cues. Renewed strength in crude oil prices and a sharp rise in global bond yields dampened inv",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tiger Global-backed Upstox begins talks for potential $400 million IPO",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/tiger-global-backed-upstox-begins-talks-for-potential-400-million-ipo-126081900561_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "Discussions are at an early stage and details including the size and timing of the offering, could still change",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India replaces Indonesia as Asia's least-preferred stock market: BofA poll",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/india-replaces-indonesia-as-asia-s-least-preferred-stock-market-bofa-poll-126081900560_1.html",
+      "date": "Wed, 19 Aug 2026",
+      "desc": "The lack of a clear AI exposure remains the key concern for Indian equities, with weak growth emerging as the next most important risk, according to the survey",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Sebi reviewing small-company IPO, delisting rules: Chairman Tuhin Kanta",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/news/sebi-reviewing-small-company-ipo-delisting-rules-chairman-tuhin-kanta-126081900490_1.html",
@@ -150,38 +184,11 @@
       "is_portfolio": false
     },
     {
-      "title": "SEBI proposes easing KYC process for individual Persons Resident Outside India",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sebi-proposes-easing-kyc-process-for-individual-persons-resident-outside-india-126081900497_1.html",
+      "title": "Q1 earnings beat expectations, but Indian stock market remains rangebound: What could change the trend?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-earnings-beat-expectations-but-indian-stock-market-remains-rangebound-what-could-change-the-trend-11787041302294.html",
       "date": "Wed, 19 Aug 2026",
-      "desc": "Powered by Capital Market - Live News",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex slides 313 pts; private bank shares decline",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-313-pts-private-bank-shares-decline-126081900496_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "\nAt 12:30 IST, the barometer index, the S&P BSE Sensex, declined 313.19 points or 0.41% to 76,904.66. The Nifty 50 index lost 100.95 points or 0.42% to 24,054.75.\n",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Euro scales to two-month high above $1.16 mark; ECB Lagarde's speech awaited",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/euro-scales-to-two-month-high-above-1-16-mark-ecb-lagarde-s-speech-awaited-126081900473_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "\nEuro jumped to a two-month high against the dollar on Wednesday on expectation of rate hike by the European central bank, at a time when the Fed is seen holding rates steady. Elevated energy prices r",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Refex Industries bags Rs 40.42 cr order for ash transportation",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/refex-industries-bags-rs-40-42-cr-order-for-ash-transportation-126081900472_1.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "Refex Industries has received a domestic work order worth approximately Rs 40.42 crore from an entity based in Maharashtra.",
+      "desc": "Despite strong Q1 earnings beating expectations, the Indian stock market struggles to break free from a downward trend. Factors like elevated crude oil prices and geopolitical tensions play a crucial ",
       "tags": [],
       "is_portfolio": false
     },
@@ -245,15 +252,6 @@
       "link": "https://www.livemint.com/market/mark-to-market/brigade-enterprises-share-price-stock-outlook-fy27-residential-launches-11787117900532.html",
       "date": "Wed, 19 Aug 2026",
       "desc": "Brigade re-iterated its ambitious 20% pre-sales growth target of  \u20b99,000 crore in FY27, banking on timely launches of residential projects spanning about 12 msf in the next year.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mopshop Distribution IPO Day 1: Issue booked 29% so far. Check GMP, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mopshop-distribution-ipo-day-1-issue-booked-29-so-far-check-gmp-issue-details-11787121388613.html",
-      "date": "Wed, 19 Aug 2026",
-      "desc": "The Mopshop Distribution IPO launched on 19 August and will close on 21 August at  \u20b9138 per share. The firm aims to raise funds for loan repayment, vehicle purchase, and renewable energy initiatives, ",
       "tags": [],
       "is_portfolio": false
     }
