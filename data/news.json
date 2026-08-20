@@ -1,5 +1,5 @@
 {
-  "updated_ist": "20 Aug 2026 15:42 IST",
+  "updated_ist": "20 Aug 2026 16:20 IST",
   "news": [
     {
       "title": "Bitcoin jumps 11% to $71K, hits 2-month high; $190 billion added to crypto market cap after Trump\u2019s crypto push",
@@ -7,17 +7,6 @@
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-jumps-11-to-71k-hits-2-month-high-190-billion-added-to-crypto-market-cap-after-trumps-crypto-push/articleshow/133373099.cms",
       "date": "Thu, 20 Aug 2026",
       "desc": "Bitcoin surged 11% to a two-month high above $71,000, adding nearly $190 billion to the crypto market capitalisation. The rally followed renewed crypto support from Donald Trump, while strong ETF infl",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Young crypto investors sell more, while older investors buy and diversify portfolios : CoinSwitch Report",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/young-crypto-investors-sell-more-while-older-investors-buy-and-diversify-portfolios-coinswitch-report/articleshow/133372934.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Younger Indians are driving crypto adoption, while older investors display stronger buying conviction and more diversified portfolios, CoinSwitch\u2019s Q2 2026 report shows. Bitcoin remains the dominant c",
       "tags": [
         "ITC"
       ],
@@ -33,6 +22,42 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Mom\u2019s Belief operator files IPO papers with Sebi, to fund 319 new child therapy centres",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moms-belief-operator-files-ipo-papers-with-sebi-to-fund-319-new-child-therapy-centres/articleshow/133373902.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Rays of Belief, operating under the Mom\u2019s Belief brand, has filed its DRHP with Sebi for an IPO comprising a fresh issue of up to 52.30 lakh shares. The company provides personalised intervention plan",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Treasury bond buybacks complicate Fed\u2019s path to price stability",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-treasury-bond-buybacks-complicate-feds-path-to-price-stability/articleshow/133373763.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "The U.S. Treasury has doubled its planned buybacks of longer-dated government debt to at least $4 billion per operation, easing pressure on long-term bond yields but raising questions over its growing",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: SK Hynix unveils stock-based bonus plan for South Korean workers",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-unveils-stock-based-bonus-plan-for-south-korean-workers/articleshow/133373506.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "SK Hynix has reached a tentative wage agreement that would shift 60% of employee bonuses into company shares and deferred stock compensation, as the chipmaker balances rising payouts with cash preserv",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Why Zerodha\u2019s Nithin Kamath wants fintech founders to rethink trading in the age of AI",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-zerodhas-nithin-kamath-wants-fintech-founders-to-rethink-trading-in-the-age-of-ai/articleshow/133373513.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Zerodha founder Nithin Kamath has urged fintech founders to rethink the future of trading and investing as AI, evolving market structures, regulations and emerging technologies reshape financial marke",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "BSE shares fall over 3% from day\u2019s high after report says NSE weighs trading shares on own platform",
@@ -62,33 +87,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares flat as oil prices offset bond market relief",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-flat-as-oil-prices-offset-bond-market-relief/articleshow/133372637.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "European shares remained flat on Thursday as rising crude oil prices and inflation worries counteracted a recovery in global bond markets following US Treasury intervention. German bond yields hit 15-",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Eurozone bond yields ease as US Treasury moves to support long-dated debt",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-ease-as-us-treasury-moves-to-support-long-dated-debt/articleshow/133372530.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Eurozone government bond yields edged lower as markets took cues from the US Treasury\u2019s decision to expand liquidity operations for longer-dated debt. German bond yields also declined, while investors",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India\u2019s family office wealth to grow 1.5x in three years as ultra-rich shift strategies: Report",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-family-office-wealth-to-grow-1-5x-in-three-years-as-ultra-rich-shift-strategies-report/articleshow/133371820.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Wealthy families in India are shifting their fortunes into advanced investment mechanisms, with family office assets expected to rise markedly in the coming three years. This growth is fueled by risin",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -112,6 +110,24 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Japanese stocks rebound as bond yields ease",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-rebound-as-bond-yields-ease-126082000793_1.html",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "\n\nBond market concerns eased after the US Treasury said it would more than double its purchases of 10-, 20- and 30-year debt in the coming months. The move came after the US 30-year Treasury yield rea",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Chinese stocks rebound as policy hopes build",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-rebound-as-policy-hopes-build-126082000792_1.html",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "\n\nThe rebound came after the Peoples Bank of China kept its key lending rates unchanged. The one-year loan prime rate stayed at 3%, while the five-year rate remained at 3.5%. The move suggests policym",
       "tags": [],
       "is_portfolio": false
     },
@@ -170,20 +186,11 @@
       "is_portfolio": false
     },
     {
-      "title": "Volumes spurt at MMTC Ltd counter",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-mmtc-ltd-counter-126082000669_1.html",
+      "title": "Top Gainers &amp; Losers on 20 Aug: Balrampur Chini Mills, Meesho, MCX, Redington, Muthoot Finance among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-20-aug-balrampur-chini-mills-meesho-mcx-redington-muthoot-finance-among-top-gainers-11787220431554.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "MMTC Ltd notched up volume of 373.46 lakh shares by 14:14 IST on NSE, a 29.12 fold spurt over two-week average daily volume of 12.82 lakh shares",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Indo Borax & Chemicals board approves acquisition of majority stake in Kronox Lab Sciences",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/indo-borax-chemicals-board-approves-acquisition-of-majority-stake-in-kronox-lab-sciences-126082000668_1.html",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "At meeting held on 20 August 2026",
+      "desc": "On August 20, Dalal Street rebounded after seven consecutive days of losses, with the Nifty 50 and Sensex gaining 0.55% and 0.75% respectively. Strong performances in banking, FMCG, and technology sto",
       "tags": [],
       "is_portfolio": false
     },
@@ -247,15 +254,6 @@
       "link": "https://www.livemint.com/market/commodities/gold-rate-today-gold-price-retraces-from-2-month-high-is-it-the-right-time-to-buy-gold-11787211652041.html",
       "date": "Thu, 20 Aug 2026",
       "desc": "Kaynat Chainwala, AVP - Commodity Research, Kotak Securities, believes that spot gold's retreat below $4,500 an ounce looks like consolidation rather than a reversal of the broader bullish trend.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IPOs GMP comparison: Check grey market winner - Shankesh Jewellers vs Sunshine Pictures vs Gaja vs Tempsens",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-latest-gmp-sunshine-pictures-ipo-latest-gmp-tempsens-instruments-ipo-latest-gmp-gaja-captial-11787209391450.html",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Today marks the closing of Shankesh Jewellers and Sunshine Pictures IPOs, showing strong subscription rates. Gaja and Tempsens IPOs are still active with varying price bands. Estimated listing prices ",
       "tags": [],
       "is_portfolio": false
     }
