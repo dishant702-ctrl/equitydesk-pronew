@@ -1,27 +1,59 @@
 {
-  "updated_ist": "20 Aug 2026 10:12 IST",
+  "updated_ist": "20 Aug 2026 10:46 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Shiprocket shares jump 6% as Goldman Sachs acquires Rs 53 crore stake. Time to buy or book profits?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shiprocket-shares-jump-6-as-goldman-sachs-acquires-rs-53-crore-stake-time-to-buy-or-book-profits/articleshow/133364509.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Shiprocket shares rose sharply on Thursday, extending gains after a blockbuster market debut. The rally came amid strong institutional interest, with Goldman Sachs buying shares worth Rs 52.7 crore in",
+      "tags": [],
+      "is_portfolio": false
     },
     {
-      "title": "Reliance Industries rises on buzz of Rs 2.73 lakh crore coal gasification project",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/reliance-industries-rises-on-buzz-of-rs-2-73-lakh-crore-coal-gasification-project-126082000193_1.html",
+      "title": "US Stock Market: Treasury steps in to curb rising long-duration bond yields",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-treasury-steps-in-to-curb-rising-long-duration-bond-yields/articleshow/133364454.cms",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Reliance Industries added 0.45% to Rs 1313.35 after media reports said that the company has proposed to invest about Rs 2.73 lakh crore to develop an integrated underground coal gasification complex i",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "desc": "The US Treasury has doubled planned buybacks of longer-dated bonds to at least $4 billion per operation, seeking to ease liquidity pressures after the 30-year Treasury yield hit its highest level sinc",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee rises 17 paise to 95.56 against US dollar in early trade",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-17-paise-to-95-56-against-us-dollar-in-early-trade/articleshow/133364232.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "During early trading on Thursday, the rupee showed resilience, strengthening against the US dollar as a result of the US Treasury's unexpected announcement to increase bond buyback operations. This le",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Why Jefferies sees limited upside in Bajaj Housing Finance despite its fast-growing loan book",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-jefferies-sees-limited-upside-in-bajaj-housing-finance-despite-its-fast-growing-loan-book/articleshow/133364160.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Jefferies initiated coverage on Bajaj Housing Finance with a Hold rating and Rs 92 target, citing limited upside from premium valuations despite strong growth prospects. It expects AUM to grow at a 23",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oil Price Today (August 20): Crude oil above $92/barrel as Trump vows \u2018tremendous\u2019 economic warfare on Iran",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-20-crude-oil-above-92/barrel-as-trump-vows-tremendous-economic-warfare-on-iran/articleshow/133364055.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "As tensions rise in the US-Iran conflict, oil prices remain steadfast above ninety-two dollars per barrel. Concerns loom over the security of shipping routes through the crucial Strait of Hormuz. Whil",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold rebounds above Rs 1.58 lakh/10 grams as US bond yields decline. What lies ahead?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-above-rs-1-58-lakh/10-grams-as-us-bond-yields-decline-what-lies-ahead/articleshow/133364074.cms",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Gold prices rose above Rs 1.58 lakh per 10 grams on the MCX as US Treasury yields fell and the dollar remained subdued following increased liquidity support. With geopolitical uncertainty, crude price",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: Singapore's OCBC taps global debt market with \u00a31 billion bond issue",
@@ -33,155 +65,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Oil Price Today (August 19): Crude oil nears $92/barrel as Trump claims US is in no talks with Iran. What lies ahead?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-19-crude-oil-nears-92/barrel-as-trump-claims-us-is-in-no-talks-with-iran-what-lies-ahead/articleshow/133363931.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Oil prices have rocketed to nearly $92 per barrel in response to rising tensions in the Middle East. President Trump declared that negotiations with Iran are off the table, leading to heightened conce",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Credent Connect shares to debut today; GMP signals 49% premium ahead of listing",
+      "title": "Credent Connect shares make strong market debut, list at 90% premium over IPO price on NSE SME platform",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/credent-connect-shares-to-debut-today-gmp-signals-49-premium-ahead-of-listing/articleshow/133363905.cms",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Credent Connect N Care shares are set to list on the NSE SME platform with a 49% GMP, pointing to a potentially strong debut after the IPO was subscribed 153.13 times overall. ",
+      "desc": "Credent Connect N Care shares made a blockbuster debut on the NSE SME platform, listing at a 90% premium over the IPO price. The Rs 93.90-crore issue was subscribed 153.13 times, with strong demand ac",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japan shares rally as US debt buybacks ease bond market concerns",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-shares-rally-as-us-debt-buybacks-ease-bond-market-concerns/articleshow/133363726.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "Japan\u2019s Nikkei rose 1% to 65,982.49 as falling global bond yields improved investor sentiment and revived risk appetite. U.S. Treasury plans to double long-duration debt buybacks helped ease borrowing",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Why is market rising today? Sensex rallies 500 points, Nifty tops 24,200. 5 key factors behind market rebound",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-today-sensex-rallies-500-points-nifty-tops-24200-5-key-factors-behind-market-rebound/articleshow/133363496.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "On Thursday, Indian stock markets made a robust comeback, ending a series of losses. The Sensex and Nifty indices surged due to a positive mood among investors, influenced by declining US bond yields ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: South Korean shares surge 6% as chip stocks rebound",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-surge-6-as-chip-stocks-rebound/articleshow/133363418.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "South Korean shares surged over 6%, led by chipmakers SK Hynix and Samsung Electronics, after a steep previous-session selloff. The KOSPI triggered a volatility curb, while foreign investors bought sh",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Blue Star among 4 F&amp;O stocks with a sharp rise in futures open interest",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/blue-star-among-4-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133363453.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": " As of August 19, four NSE F&amp;O stocks recorded futures open interest growth above 11%, signaling increased market participation through fresh positions or expanded existing futures contracts. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "India GCCs move from execution hubs to strategic centres as AI reshapes work, talent and workspace",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/india-gccs-move-from-execution-hubs-to-strategic-centres-as-ai-reshapes-work-talent-and-workspace/articleshow/133363350.cms",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "India's Global Capability Centres (GCCs) are assuming control over product ownership and advanced tech initiatives. They are becoming key players in high-level problem-solving and pioneering research ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Strides Pharma climbs as USFDA issues EIR for Bengaluru plant",
+      "title": "Turtlemint shares up 5% as Jefferies turns bullish on POSP growth outlook",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/strides-pharma-climbs-as-usfda-issues-eir-for-bengaluru-plant-126082000214_1.html",
+      "link": "https://www.business-standard.com/markets/news/turtlemint-shares-up-5-as-jefferies-turns-bullish-on-posp-growth-outlook-126082000236_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Strides Pharma Sciences rallied 8.44% to Rs 1,037.60 after the company received establishment inspection (EIR) from the US Food and Drug Administration (USFDA), indicating the successful closure of th",
+      "desc": "Jefferies initiated coverage on Turtlemint Fintech Solutions with a 'Buy' rating and a target price of \u20b9190. The target implies a 37 per cent upside from the stock's previous close of \u20b9138.92.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "EMS rises after emerging as L-1 for Rs 1,908-cr Rajasthan water supply project",
+      "title": "Glenmark Pharma gets USFDA nod for Fluticasone Propionate Nasal Spray",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ems-rises-after-emerging-as-l-1-for-rs-1-908-cr-rajasthan-water-supply-project-126082000213_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-pharma-gets-usfda-nod-for-fluticasone-propionate-nasal-spray-126082000244_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "EMS rose 1.85% to Rs 402.45 after the company said that it has emerged as the lowest bidder for a water supply project in Kota, Rajasthan, with an estimated order value of Rs 1,908.63 crore.",
+      "desc": "Glenmark Pharmaceuticals announced that it has received approval from the U.S. Food and Drug Administration (USFDA) for Fluticasone Propionate Nasal Spray USP, 0.05 mg/spray.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aditya Birla Capital forays into gold loan biz",
+      "title": "United Spirits rises after FSSAI revokes order on Baramati unit product",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aditya-birla-capital-forays-into-gold-loan-biz-126082000212_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/united-spirits-rises-after-fssai-revokes-order-on-baramati-unit-product-126082000243_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Aims to establish network of 1,000 gold loan branches in next 3 years",
+      "desc": "United Spirits rose 1.05% to Rs 1,540 after the Food Safety and Standards Authority of India (FSSAI) revoked its 29 June 2026 order concerning the sale of a product manufactured at the company's Baram",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tempsens Instruments IPO: GMP at 73%; analysts assign 'subscribe' tag",
+      "title": "US equities end three session losing streak",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/tempsens-instruments-ipo-gmp-at-73-analysts-assign-subscribe-tag-126082000178_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/us-equities-end-three-session-losing-streak-126082000242_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Tempsens Instruments IPO GMP is Rs 220 or 73 per cent, suggesting a listing price of \u20b9520.",
+      "desc": "The US stocks moved up on Wednesday, as US bond yields retreated following an announcement from the Treasury Department that it would significantly ramp up buybacks of long-dated government debt.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "INR rebounds well in opening trades as dollar turns lower",
+      "title": "L&T-MHI consortium to deliver APM system at Al Maktoum Airport",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-rebounds-well-in-opening-trades-as-dollar-turns-lower-126082000196_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/l-t-mhi-consortium-to-deliver-apm-system-at-al-maktoum-airport-126082000240_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "\nThe Indian rupee recovered well in opening trades on Thursday tracing sharp pull back in dollar index overnight. Dollar index slumped by near 1% yesterday and edged below 99 mark overseas after the U",
+      "desc": "The Transportation Infrastructure business vertical of L&T, in consortium with Japan's Mitsubishi Heavy Industries (MHI), has secured a large order to design and build the Automated People Mover (APM)",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "RBI grants approval to LIC for raising stake in HDFC Bank to 9.99%",
+      "title": "Urban Company partners with Unicommerce to expand operations in Middle East",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rbi-grants-approval-to-lic-for-raising-stake-in-hdfc-bank-to-9-99-126082000195_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/urban-company-partners-with-unicommerce-to-expand-operations-in-middle-east-126082000228_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "HDFC Bank said that the Reserve Bank of India (RBI) has granted approval to Life Insurance Corporation of India (LIC) to acquire an aggregate holding of up to 9.99% of the paid-up share capital or vot",
+      "desc": "Urban Company's Middle East arm has partnered with Unicommerce, one of India's leading AI-powered e-commerce enablement SaaS platforms, to power its e-commerce operations across The Kingdom of Saudi A",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil India Ltd Slips 0.42%",
+      "title": "Strides Pharma surges 11% on USFDA EIR for flagship facility in Bengaluru",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/oil-india-ltd-slips-0-42-126082000192_1.html",
+      "link": "https://www.business-standard.com/markets/news/strides-pharma-share-price-surges-11-on-usfda-eir-for-flagship-facility-in-bengaluru-126082000204_1.html",
       "date": "Thu, 20 Aug 2026",
-      "desc": "Oil India Ltd has added 6.27% over last one month compared to 2.19% fall in BSE Oil & Gas index and 0% drop in the SENSEX",
+      "desc": "The successful closure of the inspection further strengthens Strides' regulatory track record and reinforces the company's commitment to supplying high-quality pharma products to patients across globe",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sugar stocks: Avadh Sugar, Bajaj Hind gain over 6% on duty-free import plan",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sugar-stocks-avadh-sugar-bajaj-hind-gain-over-6-on-duty-free-import-plan-126082000206_1.html",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Avadh Sugar & Energy and Bajaj Hindustan gained over 6 per cent. Meanwhile, Dwarikesh Sugar Industries, Shree Renuka Sugars, Dhampur Sugar Mills gained up to 5 per cent on NSE in intra-day deals.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lalithaa Jewellery Mart IPO GMP jumps, allotment date in focus after strong subscription status",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-jumps-allotment-date-in-focus-after-strong-subscription-status-11787198527712.html",
+      "date": "Thu, 20 Aug 2026",
+      "desc": "Lalithaa Jewellery Mart IPO GMP today: According to market observers, company's shares are available at a premium of  \u20b955 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
@@ -245,15 +214,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-axis-bank-among-3-shares-amol-athawale-of-kotak-securities-recommends-for-next-1-2-weeks-11787195752378.html",
       "date": "Thu, 20 Aug 2026",
       "desc": "In a market marked by volatility and recent losses, Amol Athawale from Kotak Securities identifies three stocks poised for short-term gains.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 19 paise higher at 95.56 against US dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-19-paise-higher-at-95-56-against-us-dollar-11787196790993.html",
-      "date": "Thu, 20 Aug 2026",
-      "desc": "The rupee opened 19 paise higher at 95.56 against the US dollar, supported by a weaker dollar and easing bond market pressure. However, traders predict limited recovery due to high crude prices and we",
       "tags": [],
       "is_portfolio": false
     }
