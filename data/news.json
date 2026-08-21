@@ -1,5 +1,5 @@
 {
-  "updated_ist": "21 Aug 2026 11:29 IST",
+  "updated_ist": "21 Aug 2026 12:32 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,71 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Bitcoin on Track for Biggest Weekly Gain in More Than Two Years",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/bitcoin-on-track-for-biggest-weekly-gain-in-more-than-two-years-11787292175301.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Bitcoin continued to rally in Asia on Friday, putting it on track for its best weekly gain in more than two years.",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Kronox Lab Sciences shares rally 32% in 2 days as Indo Borax, Zenrock Chemicals eye stake acquisition",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kronox-lab-sciences-shares-rally-32-in-2-days-as-indo-borax-zenrock-chemicals-eye-stake-acquisition/articleshow/133395336.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Shares of Kronox Lab Sciences surged after Indo Borax and Zenrock Chemicals announced plans to acquire a 64.26% stake in the company and launch an open offer for an additional 25.79% stake. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Hindustan Copper shares jump 4%. What\u2019s driving the rally?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-jump-4-whats-driving-the-rally/articleshow/133394956.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Hindustan Copper shares rose on Friday as global copper prices gained on a weaker US dollar, while technical indicators pointed to improving momentum. However, rising LME inventories and narrowing cas",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: China stocks hold steady as investors await fiscal support",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hold-steady-as-investors-await-fiscal-support/articleshow/133394857.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "China\u2019s stock markets were largely subdued on Friday as investors weighed prospects of additional fiscal support against weak domestic demand and a global bond selloff. Sentiment was supported by comm",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Muthoot, Manappuram Finance shares jump up to 7% in 2 days as gold crosses Rs 1.6 lakh/10 gm",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-manappuram-finance-shares-jump-up-to-7-in-2-days-as-gold-crosses-rs-1-6-lakh/10-gm/articleshow/133394594.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Gold loan stocks Muthoot Finance, Manappuram Finance and IIFL Finance gained up to 7% in two sessions as gold prices crossed Rs 1.6 lakh per 10 grams on the MCX. A weaker dollar and the US Treasury\u2019s ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Goldman Sachs starts coverage on 14 banks with up to 37% upside potential; ICICI Bank, Kotak among top picks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-starts-coverage-on-14-banks-with-up-to-37-upside-potential-icici-bank-kotak-among-top-picks/articleshow/133394535.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Goldman Sachs has initiated coverage on 14 Indian banks with a mix of Buy, Neutral and Sell ratings, focusing on earnings growth, franchise strength, valuations and the normalisation of return on asse",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Japan core inflation accelerates in July, strengthening case for BOJ rate hike",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-core-inflation-accelerates-in-july-strengthening-case-for-boj-rate-hike/articleshow/133394464.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Japan\u2019s core inflation rose to 1.8% in July from 1.6% in June, in line with market expectations, strengthening bets that the Bank of Japan could raise interest rates at its September meeting. However,",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "HDFC Bank's record dollar bond sale makes it top issuer under RBI window",
@@ -27,60 +92,6 @@
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-sets-price-band-for-rs-700-crore-ipo-issue-opens-on-august-27/articleshow/133394193.cms",
       "date": "Fri, 21 Aug 2026",
       "desc": " Lumino Industries has fixed the price band for its Rs 700 crore IPO at Rs 78\u2013Rs 82 per share, with the issue set to open for subscription on August 27 and close on August 31. The IPO comprises a Rs 5",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bessent\u2019s bond market push struggles to bring down US borrowing costs",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/bessents-bond-market-push-struggles-to-bring-down-us-borrowing-costs/articleshow/133393939.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "US Treasury Secretary Scott Bessent\u2019s bond-buyback push has offered only limited relief, with long-term Treasury yields rising again. Investors remain focused on the wider pressures driving borrowing ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Jefferies initiates coverage on Anthem Biosciences with a Rs 1,050 target",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-anthem-biosciences-with-a-rs-1050-target/articleshow/133393891.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Jefferies has initiated coverage on Anthem Biosciences with a Buy rating and Rs 1,050 target, implying around 20% upside. The brokerage is bullish on the company\u2019s integrated CRDMO model, strong retur",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US debt tops $40 trillion: Chris Wood flags the 5% trigger that could rattle stock market",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-debt-tops-40-trillion-chris-wood-flags-the-5-trigger-that-could-rattle-stock-market/articleshow/133393819.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "US public debt has crossed $40 trillion as its fiscal position worsens and Treasury yields move closer to levels that could threaten equities. Jefferies strategist Christopher Wood flagged a rise abov",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "RailTel shares rise 4% after securing Rs 165 crore order from Western Coalfields",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-shares-rise-4-after-securing-rs-165-crore-order-from-western-coalfields/articleshow/133393761.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "RailTel Corporation of India shares gained nearly 4% after the company secured a Rs 164.79 crore work order from Western Coalfields Limited, taking its August order wins to five worth around Rs 551.44",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hindustan Zinc shares jump 7% in two sessions. What\u2019s triggering the rally?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock\u2019s two-day gain to 7%. The company, one of the world\u2019s leading silver producers, continues to benef",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Augmont Enterprises raises Rs 246.29 crore from anchor investors ahead of IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-raises-rs-246-29-crore-from-anchor-investors-ahead-of-ipo/articleshow/133393470.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Augmont Enterprises has raised Rs 246.29 crore from 14 anchor investors ahead of its IPO, allotting 31.25 lakh shares at Rs 788 each. Mutual funds accounted for 44.27% of the anchor allocation. The Rs",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +123,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Gold rises \u20b91,205 on MCX, silver gains \u20b91,745 on safe-haven demand",
+      "title": "Small-cap index up 13% YTD; do valuations warrant caution? Analysts explain",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/gold-rises-1-205-on-mcx-silver-gains-1-745-on-safe-haven-demand-126082100374_1.html",
+      "link": "https://www.business-standard.com/markets/news/small-cap-index-up-13-ytd-do-valuations-warrant-a-pause-analysts-explain-126082100473_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "In the global market, gold was trading near $4,590 per ounce on Comex, while silver was around $69 per ounce",
+      "desc": "The inflows into the small-cap mutual funds category have been net positive since April 2024, with July 2026 clocking the highest inflows during this period at \u20b97,768 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India's private sector growth gains pace in August, led by services",
+      "title": "Welspun Corp Ltd leads gainers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/india-s-private-sector-growth-gains-pace-in-august-led-by-services-126082100361_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-ltd-leads-gainers-in-a-group-126082100468_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\n\nThe improvement was led by services, where business activity and new orders picked up after hitting 53-month lows in July. In contrast, manufacturing growth weakened, with the HSBC Flash India Manuf",
+      "desc": "Welspun Enterprises Ltd, Thomas Cook (India) Ltd, Cartrade Tech Ltd and Jindal Saw Ltd are among the other gainers in the BSE's 'A' group today, 21 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "JBM Auto soars 10% on heavy volume; here's why the stock is buzzing",
+      "title": "SKM Egg Products rises after Care Ratings reaffirms ratings at 'A-/A2+'",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/jbm-auto-soars-10-on-heavy-volume-here-s-why-the-stock-is-buzzing-today-126082100279_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/skm-egg-products-rises-after-care-ratings-reaffirms-ratings-at-a-a2-126082100467_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "According to reports, Bain Capital is in discussions to invest up to $300 million for a significant minority stake in JBM Auto's electric vehicle business (EVBuses).",
+      "desc": "SKM Egg Products Export India added 3.10% to Rs 262.80 after the company said that Care Ratings has reaffirmed the company's long-term rating at 'CARE A-' with 'stable' outlook.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Volumes soar at JBM Auto Ltd counter",
+      "title": "ICICI Bank's board OKs $5 billion overseas borrowing limit",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-jbm-auto-ltd-counter-126082100350_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/icici-bank-s-board-oks-5-billion-overseas-borrowing-limit-126082100465_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "JBM Auto Ltd recorded volume of 5.77 lakh shares by 10:46 IST on BSE, a 22.47 times surge over two-week average daily volume of 25693 shares",
+      "desc": "ICICI Bank's board approved borrowings by way of issuances of bonds/notes/offshore certificate of deposits in overseas markets for a revised limit of up to $ 5.00 billion.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Walchandnagar Inds gains after bagging order from VSSC for Gaganyaan mission",
+      "title": "Geojit flags 'Rising Channel' pattern in GPIL stock since 2 yrs; what next?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/walchandnagar-inds-gains-after-bagging-order-from-vssc-for-gaganyaan-mission-126082100349_1.html",
+      "link": "https://www.business-standard.com/markets/news/geojit-flags-rising-channel-pattern-in-gpil-stock-since-2-years-what-next-126082100403_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Walchandnagar Industries climbed 3.02% to Rs 230.50 after the company received an order worth Rs 30.53 crore from the Vikram Sarabhai Space Centre (VSSC) for the supply of HS200 Motorcase for the Gaga",
+      "desc": "Godawari Power and Ispat (GPIL) stock is seen trading within a well-defined 'Rising Channel' structure since 2024, highlighting a strong underlying uptrend, says Anand James of Geojit Investments.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Glenmark Pharma's US arm launches Calcium Gluconate injection in various formats",
+      "title": "Bajel Project surges after JV arm emerges as L-1 bidder for inter-state transmission project in Gujarat",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-pharma-s-us-arm-launches-calcium-gluconate-injection-in-various-formats-126082100348_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bajel-project-surges-after-jv-arm-emerges-as-l-1-bidder-for-inter-state-transmission-project-in-gujarat-126082100456_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Glenmark Pharmaceuticals said that its subsidiary Glenmark Pharmaceuticals Inc., USA, has launched Calcium Gluconate Injection USP in the US in three presentations, including single-dose vials and a p",
+      "desc": "Bajel Project jumped 4.32% to Rs 188.50 after the company said that its joint venture entity AnantGrid Projects One (AGPOPL) has emerged as the successful bidder for the Lakadia-Part A inter-state tra",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE SME Technocrats Plasma Systems gets a red-hot reception after listing",
+      "title": "Bajel Projects JV wins bid for inter-state transmission project",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-technocrats-plasma-systems-gets-a-red-hot-reception-after-listing-126082100347_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bajel-projects-jv-wins-bid-for-inter-state-transmission-project-126082100453_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Technocrats Plasma Systems traded at Rs 241.50 on the BSE, a 82.95% premium to the issue price of Rs 132.",
+      "desc": "AnantGrid Projects One  (AGPOPL)  a company jointly owned by Bajel Projects (26%) and National Investment and Infrastructure Fund (74%) has received a Letter of Intent (LoI) from PFC Consulting (PFCCL",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SEBI eases FPI onboarding by allowing digitally signed Power of Attorney",
+      "title": "Ceigall India secures Rs 225-cr bulk drug park project",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sebi-eases-fpi-onboarding-by-allowing-digitally-signed-power-of-attorney-126082100326_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-secures-rs-225-cr-bulk-drug-park-project-126082100451_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe move is part of SEBI's broader digitalisation efforts aimed at making the FPI onboarding process faster and more investor-friendly.\n",
+      "desc": "From Himachal Pradesh State Industrial Development Corporation",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty\u2019s higher highs offer a bullish signal amid global turmoil",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "The Nifty 50 has formed a series of higher highs and higher lows since its April low, showing resilience despite rising crude prices, geopolitical tensions and heavy FII selling.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Vedanta Aluminium dividend: Did you check bank account? Anil Agarwal's company starts crediting stock rewards",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-dividend-did-you-check-bank-account-anil-agarwals-company-starts-crediting-stock-rewards-11787293202890.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Vedanta Aluminium dividend: Under Section 123 of the Companies Act, 2013, the declared dividend must be credited in the beneficiary shareholder's bank account within 30 days of the stock reward announ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shankesh Jewellers IPO allotment to be finalised today. Latest GMP, step-by-step guide to check status",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-allotment-to-be-finalised-today-latest-gmp-step-by-step-guide-to-check-status-11787292795443.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Shankesh Jewellers IPO allotment will be finalised on 21 August, with a subscription status of 2.80 times. The estimated listing price is  \u20b998, reflecting a 5.38% premium over the IPO price of  \u20b993. R",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tempsens Instruments IPO Day 2 LIVE: GMP, subscription status, review, other details. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-2-live-gmp-subscription-status-review-other-details-apply-or-not-11787290258573.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Tempsens Instruments IPO GMP today: According to market observers, the grey market is signalling 90% listing pop",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Adani Power share price: 70% rally in 1 year - What's next for the stock after favourable MERC ruling?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-70-rally-in-1-year-whats-next-for-the-stock-after-favourable-merc-ruling-11787289358139.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Adani PoweAdani Power share price has delivered multibagger returns over longer timeframes. In the last three and five years, the stock has surged 214% and 1,216%, respectively, as per BSE data. This ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India Prop Traders\u2019 Derivatives Profits Fall as Market Lags",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/india-prop-traders-derivatives-profits-fall-as-market-lags-11787292174925.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Proprietary trading firms earned less from Indian equity derivatives as regulatory curbs aimed at cooling an options boom took hold and a lackluster market made it harder to profit.",
       "tags": [],
       "is_portfolio": false
     },
@@ -189,69 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-nearly-186-returns-in-2026-alone-whats-driving-the-rally-11787288613073.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "Welspun Corp share price has surged 186% YTD in 2026, driven by strong growth in the US and Saudi markets. The company reported a Q1 FY27 net profit of  \u20b91,047.88 crore, supported by a record order bo",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Resilient oil prices are prompting China\u2019s refiners to keep crude purchases below the lofty levels seen before the Iran war, even as analysts and industry consultancies estimate imports are edging bac",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sunshine Pictures IPO GMP signals 20% listing pop. Here's how to check allotment status online",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-20-listing-pop-heres-how-to-check-allotment-status-online-11787285538630.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Sunshine Pictures IPO GMP today: According to market observers, the company's shares are available at a premium of  \u20b975 in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gaja Alternative Asset Management IPO Day 3: Issue booked 2.52x so far. GMP hints 12% listing pop. Apply or skip?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-day-3-issue-booked-2-52x-so-far-gmp-hints-12-listing-pop-apply-or-skip-11787285441316.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Gaja Alternative Asset Management IPO opened on 19 August, closing on 21 August, with a price band of  \u20b9152-160 per share. It received strong demand, with a GMP of +18.5, signaling a positive outlook ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "HDFC Bank share price rises 1%, up for second consecutive session after raising $1.75 billion via bonds",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-rises-1-up-for-second-consecutive-session-after-raising-1-75-billion-via-bonds-11787286356825.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "HDFC Bank said it raised $1.75 billion via dual-tranche senior unsecured bonds through GIFT City branch.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Augmont Enterprises IPO Day 1 LIVE: GMP, subscription status to review. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787282345630.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Augmont Enterprises IPO GMP today: According to market observers, the grey market is signalling 38% listing pop",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "MCX gold nears  \u20b91,60,000, silver at  \u20b92,45,000 amid positive global cues; experts highlight key levels to watch",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/mcx-gold-nears-1-60-000-silver-at-2-45-000-amid-positive-global-cues-experts-highlight-key-levels-to-watch-11787283205483.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "MCX gold October futures were 0.17% up at  \u20b91,59,700 per 10 grams, while MCX silver September contracts were 0.48% up at  \u20b92,44,400 per kg around 9:15 PM.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 7 paise higher at 95.64 against US dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-7-paise-higher-at-95-64-against-us-dollar-11787283390220.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "The Indian rupee opened at 95.64 against the USD, affected by high crude oil prices and dollar demand. The RBI's interventions limit volatility, though geopolitical tensions and reduced Russian crude ",
       "tags": [],
       "is_portfolio": false
     }
