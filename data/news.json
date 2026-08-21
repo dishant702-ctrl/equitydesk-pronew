@@ -1,17 +1,6 @@
 {
-  "updated_ist": "21 Aug 2026 10:48 IST",
+  "updated_ist": "21 Aug 2026 11:29 IST",
   "news": [
-    {
-      "title": "The Real Story Behind Bitcoin's Sudden Rally",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/the-real-story-behind-bitcoins-sudden-rally/articleshow/133393106.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "A US Treasury debt buyback decision lowered long-term yields, sparking a cross-asset rally across gold, equities, and Bitcoin. Coupled with a historic $1.1 billion short squeeze, the surge reflects ma",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
+      "title": "HDFC Bank's record dollar bond sale makes it top issuer under RBI window",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/hdfc-banks-record-dollar-bond-sale-makes-it-top-issuer-under-rbi-window/articleshow/133394282.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "HDFC Bank has achieved a remarkable feat by securing $1.75 billion through a dual-tranche dollar bond issuance, marking the largest single debt fundraising effort by any Indian bank. This successful v",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lumino Industries sets price band for Rs 700 crore IPO; issue opens on August 27",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-sets-price-band-for-rs-700-crore-ipo-issue-opens-on-august-27/articleshow/133394193.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": " Lumino Industries has fixed the price band for its Rs 700 crore IPO at Rs 78\u2013Rs 82 per share, with the issue set to open for subscription on August 27 and close on August 31. The IPO comprises a Rs 5",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bessent\u2019s bond market push struggles to bring down US borrowing costs",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/bessents-bond-market-push-struggles-to-bring-down-us-borrowing-costs/articleshow/133393939.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "US Treasury Secretary Scott Bessent\u2019s bond-buyback push has offered only limited relief, with long-term Treasury yields rising again. Investors remain focused on the wider pressures driving borrowing ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jefferies initiates coverage on Anthem Biosciences with a Rs 1,050 target",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-anthem-biosciences-with-a-rs-1050-target/articleshow/133393891.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Jefferies has initiated coverage on Anthem Biosciences with a Buy rating and Rs 1,050 target, implying around 20% upside. The brokerage is bullish on the company\u2019s integrated CRDMO model, strong retur",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US debt tops $40 trillion: Chris Wood flags the 5% trigger that could rattle stock market",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-debt-tops-40-trillion-chris-wood-flags-the-5-trigger-that-could-rattle-stock-market/articleshow/133393819.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "US public debt has crossed $40 trillion as its fiscal position worsens and Treasury yields move closer to levels that could threaten equities. Jefferies strategist Christopher Wood flagged a rise abov",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "RailTel shares rise 4% after securing Rs 165 crore order from Western Coalfields",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/railtel-shares-rise-4-after-securing-rs-165-crore-order-from-western-coalfields/articleshow/133393761.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "RailTel Corporation of India shares gained nearly 4% after the company secured a Rs 164.79 crore work order from Western Coalfields Limited, taking its August order wins to five worth around Rs 551.44",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Hindustan Zinc shares jump 7% in two sessions. What\u2019s triggering the rally?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock\u2019s two-day gain to 7%. The company, one of the world\u2019s leading silver producers, continues to benef",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Augmont Enterprises raises Rs 246.29 crore from anchor investors ahead of IPO",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-raises-rs-246-29-crore-from-anchor-investors-ahead-of-ipo/articleshow/133393470.cms",
       "date": "Fri, 21 Aug 2026",
       "desc": "Augmont Enterprises has raised Rs 246.29 crore from 14 anchor investors ahead of its IPO, allotting 31.25 lakh shares at Rs 788 each. Mutual funds accounted for 44.27% of the anchor allocation. The Rs",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Did Goodluck India shares really crash 66% in just one day? Here's how the bonus math works",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-goodluck-india-shares-really-crash-66-in-just-one-day-heres-how-the-bonus-math-works/articleshow/133393365.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Goodluck India shares appeared to plunge 66% after adjusting for the company\u2019s 2:1 bonus issue, but the stock was down only around 4% on an adjusted basis. Here\u2019s how the bonus issue affects the share",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Gold and silver prices rose for a third straight session on the MCX on Friday, supported by a weaker U.S. dollar and expectations of controlled longer-term Treasury yields. MCX silver surged Rs 13,000",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Nikkei slips as rising oil prices, bond yields weigh on Japanese stocks",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Japan\u2019s Nikkei fell on Friday and was headed for its steepest weekly decline in more than a month as rising oil prices, higher bond yields and uncertainty over the Middle East conflict weighed on inve",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rs 30,000 cr loss in 3 months: Why BSE stock is failing investors and should you buy now?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-30000-cr-loss-in-3-months-why-bse-stock-is-failing-investors-and-should-you-buy-now/articleshow/133393046.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "The BSE stock has witnessed a pronounced decrease in market value recently, attributed to the introduction of new auction regulations and diminished option trading activity. Additionally, the stricter",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sugar stocks Balrampur Chini, Dhampur Sugar, others tumble up to 5% as govt allows duty-free imports",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-others-tumble-up-to-5-as-govt-allows-duty-free-imports/articleshow/133392998.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Sugar stocks fell sharply on Friday after the government allowed duty-free imports of 1 million tonnes of raw sugar until October 31. Balrampur Chini Mills, Dhampur Sugar Mills and Bajaj Hindusthan Su",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "HDFC Bank shares in focus after record $1.75 billion overseas bond raise. What lies ahead?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-after-record-1-75-billion-overseas-bond-raise-what-lies-ahead/articleshow/133392946.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "HDFC Bank raised $1.75 billion through a twin bond sale to overseas investors. The lender raised $500 million via three-year bonds and $1.25 billion through five-year securities, both priced at tighte",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,74 +112,92 @@
       "is_portfolio": false
     },
     {
-      "title": "NSE SME Skytech Infinite Platform loses altitude on debut",
+      "title": "Gold rises \u20b91,205 on MCX, silver gains \u20b91,745 on safe-haven demand",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-skytech-infinite-platform-loses-altitude-on-debut-126082100275_1.html",
+      "link": "https://www.business-standard.com/markets/commodities/gold-rises-1-205-on-mcx-silver-gains-1-745-on-safe-haven-demand-126082100374_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Skytech Infinite Platform traded at Rs 70.30 on the NSE, a 8.70% discount to the issue price of Rs 77.",
+      "desc": "In the global market, gold was trading near $4,590 per ounce on Comex, while silver was around $69 per ounce",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Welspun Corp surges after securing supply order worth Rs 17,200 crore",
+      "title": "India's private sector growth gains pace in August, led by services",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-surges-after-securing-supply-order-worth-rs-17-200-crore-126082100274_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/india-s-private-sector-growth-gains-pace-in-august-led-by-services-126082100361_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Welspun Corp jumped 10.97% to Rs 2223.95 after the company announced the receipt of the largest single order in its history, valued at approximately $1.8 billion (equivalent to Rs 17,200 crore), for t",
+      "desc": "\n\nThe improvement was led by services, where business activity and new orders picked up after hitting 53-month lows in July. In contrast, manufacturing growth weakened, with the HSBC Flash India Manuf",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "USD/JPY trades flat around 159; Core inflation in Japan accelerates in July",
+      "title": "JBM Auto soars 10% on heavy volume; here's why the stock is buzzing",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/usd-jpy-trades-flat-around-159-core-inflation-in-japan-accelerates-in-july-126082100273_1.html",
+      "link": "https://www.business-standard.com/markets/news/jbm-auto-soars-10-on-heavy-volume-here-s-why-the-stock-is-buzzing-today-126082100279_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe Japanese yen is holding steady on Friday after data showed Japans core consumer inflation rose faster in July, adding to expectations that the Bank of Japan (BOJ) could raise interest rates again",
+      "desc": "According to reports, Bain Capital is in discussions to invest up to $300 million for a significant minority stake in JBM Auto's electric vehicle business (EVBuses).",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sunshine Pictures IPO ends with 105.81 times subscription",
+      "title": "Volumes soar at JBM Auto Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-ends-with-105-81-times-subscription-126082100272_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-jbm-auto-ltd-counter-126082100350_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The offer received bids for 58.04 crore shares as against 54.86 lakh shares on offer.",
+      "desc": "JBM Auto Ltd recorded volume of 5.77 lakh shares by 10:46 IST on BSE, a 22.47 times surge over two-week average daily volume of 25693 shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Soft dollar overseas supports good gains in INR; elevated oil prices cap upside",
+      "title": "Walchandnagar Inds gains after bagging order from VSSC for Gaganyaan mission",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/soft-dollar-overseas-supports-good-gains-in-inr-elevated-oil-prices-cap-upside-126082100261_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/walchandnagar-inds-gains-after-bagging-order-from-vssc-for-gaganyaan-mission-126082100349_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe Indian rupee gained 9 paise to 95.65 against the US dollar in early trade on Friday, supported by the weakening of the American currency in the overseas markets. Softer dollar is however being of",
+      "desc": "Walchandnagar Industries climbed 3.02% to Rs 230.50 after the company received an order worth Rs 30.53 crore from the Vikram Sarabhai Space Centre (VSSC) for the supply of HS200 Motorcase for the Gaga",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Glenmark USA launches Calcium Gluconate Injection USP",
+      "title": "Glenmark Pharma's US arm launches Calcium Gluconate injection in various formats",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-usa-launches-calcium-gluconate-injection-usp-126082100260_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-pharma-s-us-arm-launches-calcium-gluconate-injection-in-various-formats-126082100348_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Glenmark Pharmaceuticals Inc., USA (Glenmark) today announced the launch of Calcium Gluconate Injection USP, 1,000 mg/10 mL (100 mg/mL) Single-Dose Vials, 5,000 mg/50 mL (100 mg/mL) Single-Dose Vials ",
+      "desc": "Glenmark Pharmaceuticals said that its subsidiary Glenmark Pharmaceuticals Inc., USA, has launched Calcium Gluconate Injection USP in the US in three presentations, including single-dose vials and a p",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "TMPV to hike vehicle prices by up to Rs 25,000",
+      "title": "BSE SME Technocrats Plasma Systems gets a red-hot reception after listing",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tmpv-to-hike-vehicle-prices-by-up-to-rs-25-000-126082100259_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-technocrats-plasma-systems-gets-a-red-hot-reception-after-listing-126082100347_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Effective 01 September 2026",
+      "desc": "Technocrats Plasma Systems traded at Rs 241.50 on the BSE, a 82.95% premium to the issue price of Rs 132.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shankesh Jewellers IPO ends with 2.80 times subscription",
+      "title": "SEBI eases FPI onboarding by allowing digitally signed Power of Attorney",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-ipo-ends-with-2-80-times-subscription-126082100241_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sebi-eases-fpi-onboarding-by-allowing-digitally-signed-power-of-attorney-126082100326_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The offer received bids for 7.74 crore shares as against 2.76 crore shares on offer.",
+      "desc": "\nThe move is part of SEBI's broader digitalisation efforts aimed at making the FPI onboarding process faster and more investor-friendly.\n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Welspun Corp share price: Nearly 186% returns in 2026 alone - What's driving the rally?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-share-price-nearly-186-returns-in-2026-alone-whats-driving-the-rally-11787288613073.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Welspun Corp share price has surged 186% YTD in 2026, driven by strong growth in the US and Saudi markets. The company reported a Q1 FY27 net profit of  \u20b91,047.88 crore, supported by a record order bo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Resilient oil prices are prompting China\u2019s refiners to keep crude purchases below the lofty levels seen before the Iran war, even as analysts and industry consultancies estimate imports are edging bac",
       "tags": [],
       "is_portfolio": false
     },
@@ -236,24 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-7-paise-higher-at-95-64-against-us-dollar-11787283390220.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "The Indian rupee opened at 95.64 against the USD, affected by high crude oil prices and dollar demand. The RBI's interventions limit volatility, though geopolitical tensions and reduced Russian crude ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy for short term: Ajit Mishra of Religare Broking recommends 3 shares for next 1-2 weeks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-ajit-mishra-of-religare-broking-recommends-3-shares-for-next-1-2-weeks-11787279316530.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Religare Broking's Ajit Mishra highlights three stocks poised for growth in the upcoming weeks, including Shriram Finance and Nippon Life India. As market sentiments shift positively, traders may cons",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Lumino Industries IPO: Price band set at  \u20b978- \u20b982 per share; check key dates, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/lumino-industries-ipo-price-band-set-at-rs-78-82-per-share-check-key-dates-issue-details-11787282457238.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Lumino Industries Limited sets IPO price band at  \u20b978-82 per share, with subscription from 27-31 August. Allocation to anchor investors on 25 August. 50% shares reserved for QIBs, 15% for NIIs, and 35",
       "tags": [],
       "is_portfolio": false
     }
