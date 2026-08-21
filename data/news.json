@@ -1,16 +1,54 @@
 {
-  "updated_ist": "21 Aug 2026 14:22 IST",
+  "updated_ist": "21 Aug 2026 15:12 IST",
   "news": [
     {
-      "title": "IIFL Finance soars 8%, hits new high on huge volume; what's driving stock?",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/iifl-finance-share-price-soars-8-hits-new-high-on-huge-volume-what-s-driving-stock-126082100494_1.html",
+      "title": "Bitcoin jumps 9% in a single day to cross $79K as institutional flows, regulatory optimism fuel crypto rally",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-jumps-9-in-a-single-day-to-cross-79k-as-institutional-flows-regulatory-optimism-fuel-crypto-rally/articleshow/133399434.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Gold-backed loans expanded rapidly in recent years, benefiting from tighter industry underwriting standards for unsecured loans, said Fitch Ratings.",
+      "desc": "Bitcoin surged nearly 9% to cross $79,000 as institutional inflows, a sharp short squeeze and regulatory optimism fuelled a broader crypto rally. Ethereum also gained over 5%, while major altcoins ral",
       "tags": [
         "ITC"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Quadria Capital-backed Nobel Hygiene files IPO papers to raise Rs 150 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/quadria-capital-backed-nobel-hygiene-files-ipo-papers-to-raise-rs-150-crore/articleshow/133399510.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Nobel Hygiene has filed its DRHP with SEBI for an IPO comprising a fresh issue of up to Rs 150 crore and an offer for sale of up to 15.51 million shares. The company plans to use the fresh issue proce",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Missed the AI rally? After bumper 600% market debut, Chinese robot maker Unitree's CEO still feels a software leap is years away",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/missed-the-ai-rally-after-bumper-600-market-debut-chinese-robot-maker-unitrees-ceo-still-feels-a-software-leap-is-years-away/articleshow/133398647.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Chinese humanoid robot maker Unitree made a spectacular stock market debut in Shanghai, with shares soaring 600% over the IPO price. However, CEO Wang Xingxing cautioned that a major software breakthr",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: BOJ's July 2027 meeting could shape Japan's rate path",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bojs-july-2027-meeting-could-shape-japans-rate-path/articleshow/133398585.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "The Bank of Japan\u2019s July 2027 policy meeting is drawing attention after being scheduled for July 21-22, allowing hawkish board members Naoki Tamura and Hajime Takata to vote just before their terms ex",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "ICICI Bank, Federal Bank among top bank picks by Axis Direct after Q1 earnings season",
@@ -49,101 +87,119 @@
       "is_portfolio": false
     },
     {
-      "title": "Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": " ",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "2 Mold-Tek Group companies to consider bonus issues on August 26. Do you own?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/2-mold-tek-group-companies-to-consider-bonus-issues-on-august-26-do-you-own/articleshow/133397271.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Mold-Tek Packaging and Mold-Tek Technologies will consider bonus issues and dividends at their August 26 board meetings. While investors await the announcements, both stocks have delivered strong gain",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bharat Coking Coal shares jump over 7%. What's behind the sharp surge?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-jump-over-7-whats-behind-the-sharp-surge/articleshow/133397234.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Bharat Coking Coal shares surged over 7% to Rs 37.70 as global coking coal prices soared 18%. The rally follows supply disruptions and strong long-term demand forecasts, offsetting the company's weak ",
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "From stock euphoria to panic: South Korea investors face painful market fallout",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/from-stock-euphoria-to-panic-south-korea-investors-face-painful-market-fallout/articleshow/133397124.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "South Korea\u2019s KOSPI has fallen about 30% from its June 19 peak as a retail-driven stock market boom fuelled by leveraged products turned into a sharp sell-off. The market fallout has left investors fa",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Welspun Corp wins its largest order ever worth USD 1.8 billion",
+      "title": "Hy-Tech Engineers IPO: Valuations, growth outlook make analysts bullish",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-wins-its-largest-order-ever-worth-usd-1-8-billion-126082100581_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/hy-tech-engineers-ipo-details-valuations-growth-outlook-make-analysts-bullish-126082100709_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe order will be executed between FY 2028 & FY 2029. \n",
+      "desc": "Hy-Tech Engineers IPO is a mix of a fresh issue of \u20b960 crore and an offer for sale of \u20b976 crore. The price band for the offer is set issue price band at \u20b950 to \u20b953 per share.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NMDC Steel gains after Crisil Ratings upgrades ratings to 'A' with 'stable' outlook",
+      "title": "Alacrity Securities Ltd leads losers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-steel-gains-after-crisil-ratings-upgrades-ratings-to-a-with-stable-outlook-126082100566_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/alacrity-securities-ltd-leads-losers-in-b-group-126082100696_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "NMDC Steel (NSL) rose 1.29% to Rs 40.08 after the company said that Crisil Ratings has upgraded its rating on the long-term bank facilities of the company to 'Crisil A/Stable' from 'Crisil BBB+/Stable",
+      "desc": "Avro India Ltd, Addi Industries Ltd, U. H. Zaveri Ltd and Loyal Textile Mills Ltd are among the other losers in the BSE's 'B' group today, 21 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oriental Rail Infrastructure Ltd leads gainers in 'B' group",
+      "title": "Zydus receives USFDA approval for Ascorbic Acid Injection USP",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/oriental-rail-infrastructure-ltd-leads-gainers-in-b-group-126082100565_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/zydus-receives-usfda-approval-for-ascorbic-acid-injection-usp-126082100690_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Sambandam Spinning Mills Ltd, MPDL Ltd, Shanthi Gears Ltd and UR Sugar Industries Ltd are among the other gainers in the BSE's 'B' group today, 21 August 2026.",
+      "desc": "Zydus Lifesciences announced the receipt of final approval from the United States Food and Drug Administration (USFDA) for its Abbreviated New Drug Application (ANDA) for Ascorbic Acid Injection USP, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bajaj Finance: Why Nomura is bullish despite competition, regulatory risks",
+      "title": "Japan's Nikkei falls as rising bond yields and rate hike fears weigh on sentiment",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bajaj-finance-why-nomura-is-bullish-despite-competition-regulatory-risks-126082100537_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japan-s-nikkei-falls-as-rising-bond-yields-and-rate-hike-fears-weigh-on-sentiment-126082100689_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Bajaj Finance shares have gained 12.56 per cent so far in 2026 and 22.18 per cent in a year. On Friday, the blue-chip NBFC stock was trading flat.",
+      "desc": "\n\nThe 10-year US Treasury yield rose back to around 4.7%, while Japans 10-year bond yield also moved higher. Investors remained cautious about whether US debt buybacks can provide lasting relief for b",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Welspun Corp Ltd up for five straight sessions",
+      "title": "China stocks end mixed as policy support lifts investor sentiment",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-ltd-up-for-five-straight-sessions-126082100547_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/china-stocks-end-mixed-as-policy-support-lifts-investor-sentiment-126082100688_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Welspun Corp Ltd is quoting at Rs 2344.9, up 16.94% on the day as on 12:44 IST on the NSE. The stock is up 163.59% in last one year as compared to a 2.56% gain in NIFTY and a 40.14% gain in the Nifty ",
+      "desc": "\n\nThe Shanghai Composite was little changed at 3,905.2, while the Shenzhen Component gained 0.87% to 14,094.2. Vice Finance Minister Liao Min said the government would step up fiscal support, with mor",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PVR Inox Ltd spurts 0.57%, up for five straight sessions",
+      "title": "Kabra Extrusiontechnik skyrockets 181% from June low; hits 52-week high",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/pvr-inox-ltd-spurts-0-57-up-for-five-straight-sessions-126082100546_1.html",
+      "link": "https://www.business-standard.com/markets/news/kabra-extrusiontechnik-skyrockets-181-from-june-low-hits-52-week-high-126082100655_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "PVR Inox Ltd is quoting at Rs 1226.4, up 0.57% on the day as on 12:44 IST on the NSE. The stock is up 8.42% in last one year as compared to a 2.56% slide in NIFTY and a 1.85% slide in the Nifty Media.",
+      "desc": "Kabra Extrusiontechnik's share price hit a 52-week high of \u20b9575, soaring 9% on the BSE in Friday's intra-day deals. The stock has skyrocketed 236% from its 52-week of \u20b9171 hit on March 30, 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty above 24,200 level; realty shares in demand",
+      "title": "B.L. Kashyap & Sons secures order worth Rs 183 crore",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-above-24-200-level-realty-shares-in-demand-126082100525_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/b-l-kashyap-sons-secures-order-worth-rs-183-crore-126082100672_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nAt 12:30 IST, the barometer index, the S&P BSE Sensex gained 48.27 points or 0.06% to 77,585.99. The Nifty 50 index jumped 13.45 points or 0.05% to 24,244.55.\n",
+      "desc": "B.L. Kashyap & Sons announced that it has secured an order worth Rs 183.18 crore from Realkraft Ventures LLP (Century Group).",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IMD expects continued strengthening of El Nino conditions throughout remaining period of Southwest Monsoon season",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/imd-expects-continued-strengthening-of-el-nino-conditions-throughout-remaining-period-of-southwest-monsoon-season-126082100670_1.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Powered by Capital Market - Live News",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gaja Alternative IPO listing share price prediction: What latest GMP signals",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/gaja-alternative-ipo-listing-share-price-prediction-what-latest-gmp-signals-11787302520712.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "The Gaja Alternative IPO, priced at  \u20b9152\u2013 \u20b9160, opened on 19 August and closes on 21 August. The listing is set for 26 August, currently showing a subscription of 16.57x and a GMP of +14.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lalithaa Jewellery IPO listing share price prediction: What latest GMP hints at",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-ipo-listing-share-price-prediction-what-latest-gmp-hints-at-11787302031455.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Lalithaa Jewellery GMP: Lalithaa Jewellery's stock is set to debut on August 24, anticipating a listing at  \u20b9260, a premium of 29.35% from the IPO price.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
@@ -198,24 +254,6 @@
       "link": "https://www.livemint.com/market/mark-to-market/physicswallah-share-price-stock-physicswallah-q1fy27-neet-disruption-11787290252095.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "Physicswallah\u2019s Q1 growth held up despite NEET disruption, but weak offline profitability remains a drag. A strong recovery in enrolments and collections will be key to meeting FY27 guidance.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nifty\u2019s higher highs offer a bullish signal amid global turmoil",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/niftys-higher-highs-offer-a-bullish-signal-amid-global-turmoil-11787283025704.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "The Nifty 50 has formed a series of higher highs and higher lows since its April low, showing resilience despite rising crude prices, geopolitical tensions and heavy FII selling.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Vedanta Aluminium dividend: Did you check bank account? Anil Agarwal's company starts crediting stock rewards",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-dividend-did-you-check-bank-account-anil-agarwals-company-starts-crediting-stock-rewards-11787293202890.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Vedanta Aluminium dividend: Under Section 123 of the Companies Act, 2013, the declared dividend must be credited in the beneficiary shareholder's bank account within 30 days of the stock reward announ",
       "tags": [],
       "is_portfolio": false
     }
