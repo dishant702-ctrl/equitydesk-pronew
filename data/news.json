@@ -1,17 +1,6 @@
 {
-  "updated_ist": "21 Aug 2026 13:28 IST",
+  "updated_ist": "21 Aug 2026 14:22 IST",
   "news": [
-    {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "IIFL Finance soars 8%, hits new high on huge volume; what's driving stock?",
       "source": "Business Standard",
@@ -24,11 +13,47 @@
       "is_portfolio": true
     },
     {
+      "title": "ICICI Bank, Federal Bank among top bank picks by Axis Direct after Q1 earnings season",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-federal-bank-among-top-bank-picks-by-axis-direct-after-q1-earnings-season/slideshow/133398012.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": " ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jefferies retains Buy on Crompton Greaves; sees up to 29% upside",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-retains-buy-on-crompton-greaves-sees-up-to-29-upside/articleshow/133397789.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Jefferies retained its Buy rating on Crompton Greaves Consumer Electricals with a Rs 330 target, implying nearly 29% upside. The brokerage expects the company\u2019s premiumisation strategy, market share g",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India bonds hang tight before supply as oil stalls",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hang-tight-before-supply-as-oil-stalls/articleshow/133397733.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "On Friday morning, Indian government bonds found stability as oil prices leveled off. The market reacted to hawkish minutes from the central bank and a sudden spike in crude prices. Later today, a maj",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "US Treasury bond buybacks spark fresh fears over dollar weakness",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-bond-buybacks-spark-fresh-fears-over-dollar-weakness/articleshow/133397393.cms",
       "date": "Fri, 21 Aug 2026",
       "desc": "The US Treasury\u2019s expanded bond-buyback programme has raised concerns that efforts to contain long-term borrowing costs could pressure the dollar. Rising yields, fiscal deficits and heavy debt issuanc",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tata Steel, Adani Ports among top 10 stocks downgraded by Motilal Oswal after Q1 results",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-steel-adani-ports-among-top-10-stocks-downgraded-by-motilal-oswal-after-q1-results/slideshow/133397759.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
@@ -60,65 +85,11 @@
       "is_portfolio": false
     },
     {
-      "title": "AI's Bar Mitzvah moment: Aswath Damodaran explains what AI means for businesses",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ais-bar-mitzvah-moment-aswath-damodaran-explains-what-ai-means-for-businesses/articleshow/133397085.cms",
+      "title": "Welspun Corp wins its largest order ever worth USD 1.8 billion",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-wins-its-largest-order-ever-worth-usd-1-8-billion-126082100581_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Aswath Damodaran says AI\u2019s investment debate should shift from hype and skepticism toward evaluating it as a business. He argues revolutionary technologies follow four stages: hype, investment, busine",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "PSU banks offer highest alpha potential; IT faces uncertainty: Omniscience Capital",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/psu-banks-offer-highest-alpha-potential-it-faces-uncertainty-omniscience-capital/articleshow/133397041.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "India\u2019s domestic economy remains resilient, with healthy revenue and earnings growth despite geopolitical uncertainties, according to OmniScience Capital. The firm sees potential for 7%+ GDP growth th",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "MCX shares jump 8% in 3 days as gold, silver futures rise. What lies ahead for investors?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-8-in-3-days-as-gold-silver-futures-rise-what-lies-ahead-for-investors/articleshow/133396946.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "MCX shares rose in three sessions to Rs 3,211, tracking a third straight session of gains in gold and silver prices amid a weaker US dollar and easing concerns over long-term yields. The stock has gai",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Aditya Infotech shares can rally up to 27%? Why Motilal Oswal initiated coverage on the stock",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-infotech-shares-can-rally-up-to-27-why-motilal-oswal-initiated-coverage-on-the-stock/articleshow/133396815.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Motilal Oswal sees 27% upside in Aditya Infotech, citing strong surveillance demand, rising market share, STQC norms and improving margins. The brokerage expects robust revenue and profit growth throu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "desc": "\nThe order will be executed between FY 2028 & FY 2029. \n",
       "tags": [],
       "is_portfolio": false
     },
@@ -177,11 +148,29 @@
       "is_portfolio": false
     },
     {
-      "title": "Pound dips slightly on downbeat UK retail sales data; GBP/INR futures hold above 130 mark",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/pound-dips-slightly-on-downbeat-uk-retail-sales-data-gbp-inr-futures-hold-above-130-mark-126082100497_1.html",
+      "title": "Hy-Tech Engineers IPO: GMP signals over 40% listing pop; price band, date, other key details in 10 points",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-gmp-signals-over-40-listing-pop-price-band-date-other-key-details-in-10-points-11787298334181.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe British pound edged slightly lower after data showed downbeat UK retail sales. Retail sales fell 0.5% month-over-month in July after rising by 0.7% in June, the latest data published by the Offic",
+      "desc": "Hy-Tech Engineers IPO is set to open for public subscription on Monday, 2 August. The book build issue of  \u20b9135.73 crore combines a fresh issue and an offer for sale (OFS) in which two promoters are o",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Penny stock under Re 1 hits 5% upper circuit despite muted trends on Dalal Street",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-re-1-hits-5-upper-circuit-despite-muted-trends-on-dalal-street-11787297269886.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Penny stock under Re 1 has been hitting upper circuit for the last 12 straight sessions",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "80% rally in YTD! Ratnaveer Precision Engineering declares rights issue worth  \u20b9330 crore",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/80-rally-in-ytd-ratnaveer-precision-engineering-declares-rights-issue-worth-rs-330-crore-11787296981659.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Ratnaveer Precision Engineering approved a  \u20b9330 crore rights issue with 1,24,99,669 equity shares at  \u20b9264 each. The funds will support growth initiatives, including a key Copper Clad Laminate projec",
       "tags": [],
       "is_portfolio": false
     },
@@ -227,33 +216,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-dividend-did-you-check-bank-account-anil-agarwals-company-starts-crediting-stock-rewards-11787293202890.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "Vedanta Aluminium dividend: Under Section 123 of the Companies Act, 2013, the declared dividend must be credited in the beneficiary shareholder's bank account within 30 days of the stock reward announ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shankesh Jewellers IPO allotment to be finalised today. Latest GMP, step-by-step guide to check status",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-allotment-to-be-finalised-today-latest-gmp-step-by-step-guide-to-check-status-11787292795443.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Shankesh Jewellers IPO allotment will be finalised on 21 August, with a subscription status of 2.80 times. The estimated listing price is  \u20b998, reflecting a 5.38% premium over the IPO price of  \u20b993. R",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tempsens Instruments IPO Day 2 LIVE: GMP, subscription status, review, other details. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-day-2-live-gmp-subscription-status-review-other-details-apply-or-not-11787290258573.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Tempsens Instruments IPO GMP today: According to market observers, the grey market is signalling 90% listing pop",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Adani Power share price: 70% rally in 1 year - What's next for the stock after favourable MERC ruling?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/adani-power-share-price-70-rally-in-1-year-whats-next-for-the-stock-after-favourable-merc-ruling-11787289358139.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Adani PoweAdani Power share price has delivered multibagger returns over longer timeframes. In the last three and five years, the stock has surged 214% and 1,216%, respectively, as per BSE data. This ",
       "tags": [],
       "is_portfolio": false
     }
