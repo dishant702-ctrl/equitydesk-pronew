@@ -1,6 +1,17 @@
 {
-  "updated_ist": "21 Aug 2026 09:24 IST",
+  "updated_ist": "21 Aug 2026 10:15 IST",
   "news": [
+    {
+      "title": "The Real Story Behind Bitcoin's Sudden Rally",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/the-real-story-behind-bitcoins-sudden-rally/articleshow/133393106.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "A US Treasury debt buyback decision lowered long-term yields, sparking a cross-asset rally across gold, equities, and Bitcoin. Coupled with a historic $1.1 billion short squeeze, the surge reflects ma",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,65 @@
       "is_portfolio": true
     },
     {
-      "title": "FIIs pour Rs 6,535 crore into Indian financial stocks. What else are they buying this month?",
+      "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-pour-rs-6535-crore-into-indian-financial-stocks-what-else-are-they-buying-this-month/articleshow/133392007.cms",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "This month, foreign investors have significantly channeled capital into Indian financial stocks, while also increasing their investments in automobiles and consumer services, marking a clear shift in ",
+      "desc": "Gold and silver prices rose for a third straight session on the MCX on Friday, supported by a weaker U.S. dollar and expectations of controlled longer-term Treasury yields. MCX silver surged Rs 13,000",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India's crypto market has a Futures problem: Why volume is not the same as maturity",
+      "title": "Global Market: Nikkei slips as rising oil prices, bond yields weigh on Japanese stocks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/indias-crypto-market-has-a-futures-problem-why-volume-is-not-the-same-as-maturity/articleshow/133391968.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Rising crypto Futures trading volumes in India do not signal market maturity, writes Vikram Subburaj, CEO of Giottus.com. High leverage inflates turnover without building spot market depth. True matur",
+      "desc": "Japan\u2019s Nikkei fell on Friday and was headed for its steepest weekly decline in more than a month as rising oil prices, higher bond yields and uncertainty over the Middle East conflict weighed on inve",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sunshine Pictures IPO allotment today: GMP indicates 22% listing upside; Check Status",
+      "title": "Rs 30,000 cr loss in 3 months: Why BSE stock is failing investors and should you buy now?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sunshine-pictures-ipo-allotment-today-gmp-indicates-22-listing-upside-check-status/articleshow/133391889.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-30000-cr-loss-in-3-months-why-bse-stock-is-failing-investors-and-should-you-buy-now/articleshow/133393046.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Sunshine Pictures\u2019 Rs 282-crore IPO drew overwhelming demand, subscribing 105.81 times. Allotment is expected on August 21, with listing scheduled for August 25 on BSE and NSE. The latest grey-market ",
+      "desc": "The BSE stock has witnessed a pronounced decrease in market value recently, attributed to the introduction of new auction regulations and diminished option trading activity. Additionally, the stricter",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PNB Housing Finance among 5 F&amp;O stocks with a sharp rise in futures open interest",
+      "title": "Sugar stocks Balrampur Chini, Dhampur Sugar, others tumble up to 5% as govt allows duty-free imports",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pnb-housing-finance-among-5-fampo-stocks-with-a-sharp-rise-in-futures-open-interest/slideshow/133391947.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-others-tumble-up-to-5-as-govt-allows-duty-free-imports/articleshow/133392998.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Indian equities snapped a seven-session losing streak on Thursday, with the Sensex and Nifty closing sharply higher. Falling US bond yields, short-covering and improved sentiment supported the rebound",
+      "desc": "Sugar stocks fell sharply on Friday after the government allowed duty-free imports of 1 million tonnes of raw sugar until October 31. Balrampur Chini Mills, Dhampur Sugar Mills and Bajaj Hindusthan Su",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tempsens Instruments IPO: Day 2 subscribed 5.94 times, GMP at 90%. Should you subscribe?",
+      "title": "HDFC Bank shares in focus after record $1.75 billion overseas bond raise. What lies ahead?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tempsens-instruments-ipo-day-2-subscribed-5-94-times-gmp-at-90-should-you-subscribe/articleshow/133391670.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-in-focus-after-record-1-75-billion-overseas-bond-raise-what-lies-ahead/articleshow/133392946.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The Tempsens Instruments IPO entered its second day after seeing strong demand on Day 2 with a 5.94x subscription and a grey market premium of 90%. Raising Rs 650 crore, the issue offers shares priced",
+      "desc": "HDFC Bank raised $1.75 billion through a twin bond sale to overseas investors. The lender raised $500 million via three-year bonds and $1.25 billion through five-year securities, both priced at tighte",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Are DLF, Godrej Properties, Sobha, other realty stocks heading for a rally? Here is why analysts remain bullish",
+      "title": "Global Market: KOSPI gains on chip boost; foreigners turn net buyers",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/are-dlf-godrej-properties-sobha-other-realty-stocks-heading-for-a-rally-here-is-why-analysts-remain-bullish/articleshow/133391783.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-gains-on-chip-boost-foreigners-turn-net-buyers/articleshow/133392890.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Despite a weak Q1 and recent market fluctuations, analysts remain bullish on real estate stocks. Driven by low inventory, robust pre-sales guidance, and strong REIT leasing momentum, brokerages like K",
+      "desc": "South Korean shares rose on Friday, led by gains in Samsung Electronics and SK Hynix after U.S. semiconductor stocks advanced, though the KOSPI remained on track for a weekly decline. Foreign investor",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why a value strategy in Nifty50 makes sense now: Chintan Haria",
+      "title": "Losing game! How India's small F&amp;O traders carried 70% losses while prop desks made Rs 44,000 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/why-a-value-strategy-in-nifty50-makes-sense-now-chintan-haria/articleshow/133391664.cms",
+      "link": "https://economictimes.indiatimes.com/markets/options/losing-game-how-indias-small-fo-traders-carried-70-losses-while-prop-desks-made-rs-44000-crore/articleshow/133392727.cms",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Valuation-aware weighting tends to help when leadership is narrow and a few stocks have run far ahead of their fundamentals, because it reduces the portfolio's exposure to stocks whose valuations have",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gaja Alternative Asset Management IPO Day 3: Issue subscribed nearly 2.5 times; GMP at 11%. Should you subscribe?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-ipo-day-3-issue-subscribed-nearly-2-5-times-gmp-at-11-should-you-subscribe/articleshow/133391697.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Gaja Alternative Asset Management IPO entered its final bidding day with the issue subscribed 2.44 times on Day 2 and the grey market premium at 11%. With the company reporting strong FY26 profit grow",
+      "desc": "In FY26, small Indian traders suffered a staggering seventy percent of the losses in the futures and options market, while proprietary desks and foreign investors thrived with notable profits. Many in",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +114,101 @@
       "is_portfolio": false
     },
     {
-      "title": "Sebi's swift action against JPMorgan unit seen as warning to traders",
+      "title": "Market opens nudge lower in early trade; breadth positive",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-s-swift-action-against-jpmorgan-unit-seen-as-warning-to-traders-126082100140_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/market-opens-nudge-lower-in-early-trade-breadth-positive-126082100210_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The crackdown underscores the regulator's determination to ensure the success of the so-called Closing Auction System, one of the biggest reforms to India's stock market in recent years",
+      "desc": "\nAt 09:30 IST, the barometer index, the S&P BSE Sensex lost 40.67 points or 0.05% to 77,497.05. The Nifty 50 index shed 8.40 points or 0.03% to 24,223.20.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Cupid Breweries & Distilleries signs MoU for technology and business collaboration",
+      "title": "DPIIT signs MoU with PhonePe, Shell India to support startups",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cupid-breweries-distilleries-signs-mou-for-technology-and-business-collaboration-126082100139_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dpiit-signs-mou-with-phonepe-shell-india-to-support-startups-126082100209_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe authorised officials of the company are presently in Germany for business meetings for finalising technologies for the company's operations. ",
+      "desc": "\nThe Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, signed Memoranda of Understanding (MoUs) with PhonePe and Shell India Pvt. Ltd. to strengthen s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Netweb Technologies India allots 25.05 lakh equity shares under QIP issue",
+      "title": "Former ISRO chief S Somanath joins RBI's central board; Anand Mahindra re-appointed for another 4-year term",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/netweb-technologies-india-allots-25-05-lakh-equity-shares-under-qip-issue-126082100138_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/former-isro-chief-s-somanath-joins-rbi-s-central-board-anand-mahindra-re-appointed-for-another-4-year-term-126082100208_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nPost allotment, the paid up equity share capital has increased to Rs \n11,88,91,812 consisting of 5,94,45,906 equity shares of Rs 2 each. ",
+      "desc": "\nS Somnath, former chairman of the Indian Space Research Organisation (Isro), was on Thursday appointed to the central board of the Reserve Bank. Somnath, who retired from Isro in January 2025, has be",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock Alert: Manipal Health, Saatvik Green Energy, KIMS, Railtel Corp, Torrent Power",
+      "title": "India core industries record 5.4% growth in July",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-manipal-health-saatvik-green-energy-kims-railtel-corp-torrent-power-126082100123_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/india-core-industries-record-5-4-growth-in-july-126082100207_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nBandhan Bank, Manappuram Finance and SAIL barred from fresh F&O positions on 21 August 2026.\n",
+      "desc": "\nThe Index of Core Industries (ICI) recorded a year-on-year growth of 5.4 per cent in July 2026, according to provisional estimates released by the Ministry of Commerce and Industry. Growth was lower ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "GIFT Nifty points to positive opening on Friday",
+      "title": "Augmont Enterprise IPO opens: Analysts assign 'subscribe' tag; GMP at 38%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/gift-nifty-points-to-positive-opening-on-friday-126082100122_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/augmont-enterprise-ipo-opens-analysts-assign-subscribe-tag-gmp-at-38-126082100194_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nGIFT Nifty:\n",
+      "desc": "The company's \u20b9825 crore IPO is a mix of fresh issue and offer for sale. The fresh issue component is made up of 0.79 crore equity shares, and the OFS is up to 620 crore shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shakti Pumps infuses Rs 5-cr into Shakti EV Mobility",
+      "title": "Welspun Corp soars 9%, hits new high on securing \u20b917,200 cr US order",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shakti-pumps-infuses-rs-5-cr-into-shakti-ev-mobility-126082100096_1.html",
+      "link": "https://www.business-standard.com/markets/news/welspun-corp-soars-9-hits-new-high-on-securing-17-200-cr-us-order-126082100179_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Shakti Pumps (India) announced that it has invested Rs 5 crore in its wholly owned subsidiary, Shakti EV Mobility, to initiate and expand its business operations.",
+      "desc": "The $1.8 bn (\u20b917,200 cr) order is positive for Welspun Corp as it substantially strengthens it's multi-year revenue visibility, with execution spread across FY28-FY29, says ICICI Securities.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Asian shares head for weekly fall as global bond market stress persists",
+      "title": "RailTel Corp rises after bagging Rs 164 cr order from Western Coalfields",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/asian-shares-head-for-weekly-fall-as-global-bond-market-stress-persists-126082100071_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/railtel-corp-rises-after-bagging-rs-164-cr-order-from-western-coalfields-126082100192_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Yields on US \u200bTreasuries had resumed their climb after Wednesday's surprise intervention by Treasury brought barely a day of relief from selling",
+      "desc": "RailTel Corporation of India rose 2.48% to Rs 287.70 after the company said that it has secured order worth Rs 164 crore from Western Coalfields.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil rises over 2%, nears $94 as Trump threatens countries supporting Iran",
+      "title": "NINtec Systems Ltd Falls 2.5%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/oil-prices-up-more-than-2-after-trump-threatens-countries-supporting-iran-126082100033_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nintec-systems-ltd-falls-2-5-126082100191_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Brent crude futures settled up $2.16, or 2.4%, at $93.78 a \u200cbarrel, the highest since July 24",
+      "desc": "NINtec Systems Ltd has lost 19.03% over last one month compared to 6.46% gain in BSE Information Technology index and 1.23% rise in the SENSEX",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gaja Alternative Asset Management IPO Day 3: Issue booked 2.52x so far. GMP hints 12% listing pop. Apply or skip?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-day-3-issue-booked-2-52x-so-far-gmp-hints-12-listing-pop-apply-or-skip-11787285441316.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Gaja Alternative Asset Management IPO opened on 19 August, closing on 21 August, with a price band of  \u20b9152-160 per share. It received strong demand, with a GMP of +18.5, signaling a positive outlook ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HDFC Bank share price rises 1%, up for second consecutive session after raising $1.75 billion via bonds",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-share-price-rises-1-up-for-second-consecutive-session-after-raising-1-75-billion-via-bonds-11787286356825.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "HDFC Bank said it raised $1.75 billion via dual-tranche senior unsecured bonds through GIFT City branch.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Augmont Enterprises IPO Day 1 LIVE: GMP, subscription status to review. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787282345630.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Augmont Enterprises IPO GMP today: According to market observers, the grey market is signalling 38% listing pop",
       "tags": [],
       "is_portfolio": false
     },
@@ -197,7 +226,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-7-paise-higher-at-95-64-against-us-dollar-11787283390220.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "Rupee opens 7 paise higher at 95.64 against US dollar",
+      "desc": "The Indian rupee opened at 95.64 against the USD, affected by high crude oil prices and dollar demand. The RBI's interventions limit volatility, though geopolitical tensions and reduced Russian crude ",
       "tags": [],
       "is_portfolio": false
     },
@@ -211,7 +240,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Lumino Industries IPO: Price band set at  \u20b978-82 per share; check key dates, issue details",
+      "title": "Lumino Industries IPO: Price band set at  \u20b978- \u20b982 per share; check key dates, issue details",
       "source": "Mint",
       "link": "https://www.livemint.com/market/ipo/lumino-industries-ipo-price-band-set-at-rs-78-82-per-share-check-key-dates-issue-details-11787282457238.html",
       "date": "Fri, 21 Aug 2026",
@@ -225,33 +254,6 @@
       "link": "https://www.livemint.com/market/evergrande-saga-highlights-short-selling-risks-andrew-left-says-11787282900967.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "Andrew Left, the US short-seller whose early warnings on China Evergrande Group got him banned from trading in Hong Kong, isn\u2019t in a gloating mood.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Buy or sell: Gift Nifty signals gap-up start, Vaishali Parekh recommends three stocks to buy today \u2014 21 August 2026",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-21-august-2026-11787277554789.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Buy or sell indicator: Vaishali Parekh recommends three stocks to buy today \u2014 Hindustan Zinc, DCB Bank, and Glenmark Pharma",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shares to buy or sell: Chandan Taparia of Motilal Oswal recommends three stocks to buy today - 21 August 2026",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/shares-to-buy-or-sell-chandan-taparia-of-motilal-oswal-recommends-three-stocks-to-buy-today-21-august-2026-11787240512519.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "The Indian stock market is likely to open flat on August 21, with mixed global cues. The Nifty 50 closed at 24,231.85, despite recent losses. Analysts recommend buying Dixon Technologies, Glenmark Pha",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stock market today: Gift Nifty hints a flat start; five day trading stocks to buy on Friday, 21 August",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-a-flat-start-five-day-trading-stocks-to-buy-on-friday-21-august-11787277290559.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Indian stock markets are set to open flat on 21 August, following mixed global cues. The Nifty 50 closed higher after breaking a seven-session losing streak, while oil prices surged amid US sanctions ",
       "tags": [],
       "is_portfolio": false
     }
