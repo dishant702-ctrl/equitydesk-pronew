@@ -1,5 +1,5 @@
 {
-  "updated_ist": "21 Aug 2026 10:15 IST",
+  "updated_ist": "21 Aug 2026 10:48 IST",
   "news": [
     {
       "title": "The Real Story Behind Bitcoin's Sudden Rally",
@@ -22,6 +22,24 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Augmont Enterprises raises Rs 246.29 crore from anchor investors ahead of IPO",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-raises-rs-246-29-crore-from-anchor-investors-ahead-of-ipo/articleshow/133393470.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Augmont Enterprises has raised Rs 246.29 crore from 14 anchor investors ahead of its IPO, allotting 31.25 lakh shares at Rs 788 each. Mutual funds accounted for 44.27% of the anchor allocation. The Rs",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Did Goodluck India shares really crash 66% in just one day? Here's how the bonus math works",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/did-goodluck-india-shares-really-crash-66-in-just-one-day-heres-how-the-bonus-math-works/articleshow/133393365.cms",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Goodluck India shares appeared to plunge 66% after adjusting for the company\u2019s 2:1 bonus issue, but the stock was down only around 4% on an adjusted basis. Here\u2019s how the bonus issue affects the share",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
@@ -69,24 +87,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: KOSPI gains on chip boost; foreigners turn net buyers",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-gains-on-chip-boost-foreigners-turn-net-buyers/articleshow/133392890.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "South Korean shares rose on Friday, led by gains in Samsung Electronics and SK Hynix after U.S. semiconductor stocks advanced, though the KOSPI remained on track for a weekly decline. Foreign investor",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Losing game! How India's small F&amp;O traders carried 70% losses while prop desks made Rs 44,000 crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/options/losing-game-how-indias-small-fo-traders-carried-70-losses-while-prop-desks-made-rs-44000-crore/articleshow/133392727.cms",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "In FY26, small Indian traders suffered a staggering seventy percent of the losses in the futures and options market, while proprietary desks and foreign investors thrived with notable profits. Many in",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -114,74 +114,83 @@
       "is_portfolio": false
     },
     {
-      "title": "Market opens nudge lower in early trade; breadth positive",
+      "title": "NSE SME Skytech Infinite Platform loses altitude on debut",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/market-opens-nudge-lower-in-early-trade-breadth-positive-126082100210_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-skytech-infinite-platform-loses-altitude-on-debut-126082100275_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nAt 09:30 IST, the barometer index, the S&P BSE Sensex lost 40.67 points or 0.05% to 77,497.05. The Nifty 50 index shed 8.40 points or 0.03% to 24,223.20.\n",
+      "desc": "Skytech Infinite Platform traded at Rs 70.30 on the NSE, a 8.70% discount to the issue price of Rs 77.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "DPIIT signs MoU with PhonePe, Shell India to support startups",
+      "title": "Welspun Corp surges after securing supply order worth Rs 17,200 crore",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/dpiit-signs-mou-with-phonepe-shell-india-to-support-startups-126082100209_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/welspun-corp-surges-after-securing-supply-order-worth-rs-17-200-crore-126082100274_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, signed Memoranda of Understanding (MoUs) with PhonePe and Shell India Pvt. Ltd. to strengthen s",
+      "desc": "Welspun Corp jumped 10.97% to Rs 2223.95 after the company announced the receipt of the largest single order in its history, valued at approximately $1.8 billion (equivalent to Rs 17,200 crore), for t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Former ISRO chief S Somanath joins RBI's central board; Anand Mahindra re-appointed for another 4-year term",
+      "title": "USD/JPY trades flat around 159; Core inflation in Japan accelerates in July",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/former-isro-chief-s-somanath-joins-rbi-s-central-board-anand-mahindra-re-appointed-for-another-4-year-term-126082100208_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/usd-jpy-trades-flat-around-159-core-inflation-in-japan-accelerates-in-july-126082100273_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nS Somnath, former chairman of the Indian Space Research Organisation (Isro), was on Thursday appointed to the central board of the Reserve Bank. Somnath, who retired from Isro in January 2025, has be",
+      "desc": "\nThe Japanese yen is holding steady on Friday after data showed Japans core consumer inflation rose faster in July, adding to expectations that the Bank of Japan (BOJ) could raise interest rates again",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India core industries record 5.4% growth in July",
+      "title": "Sunshine Pictures IPO ends with 105.81 times subscription",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/india-core-industries-record-5-4-growth-in-july-126082100207_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-ipo-ends-with-105-81-times-subscription-126082100272_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "\nThe Index of Core Industries (ICI) recorded a year-on-year growth of 5.4 per cent in July 2026, according to provisional estimates released by the Ministry of Commerce and Industry. Growth was lower ",
+      "desc": "The offer received bids for 58.04 crore shares as against 54.86 lakh shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Augmont Enterprise IPO opens: Analysts assign 'subscribe' tag; GMP at 38%",
+      "title": "Soft dollar overseas supports good gains in INR; elevated oil prices cap upside",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/augmont-enterprise-ipo-opens-analysts-assign-subscribe-tag-gmp-at-38-126082100194_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/soft-dollar-overseas-supports-good-gains-in-inr-elevated-oil-prices-cap-upside-126082100261_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The company's \u20b9825 crore IPO is a mix of fresh issue and offer for sale. The fresh issue component is made up of 0.79 crore equity shares, and the OFS is up to 620 crore shares",
+      "desc": "\nThe Indian rupee gained 9 paise to 95.65 against the US dollar in early trade on Friday, supported by the weakening of the American currency in the overseas markets. Softer dollar is however being of",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Welspun Corp soars 9%, hits new high on securing \u20b917,200 cr US order",
+      "title": "Glenmark USA launches Calcium Gluconate Injection USP",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/welspun-corp-soars-9-hits-new-high-on-securing-17-200-cr-us-order-126082100179_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-usa-launches-calcium-gluconate-injection-usp-126082100260_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "The $1.8 bn (\u20b917,200 cr) order is positive for Welspun Corp as it substantially strengthens it's multi-year revenue visibility, with execution spread across FY28-FY29, says ICICI Securities.",
+      "desc": "Glenmark Pharmaceuticals Inc., USA (Glenmark) today announced the launch of Calcium Gluconate Injection USP, 1,000 mg/10 mL (100 mg/mL) Single-Dose Vials, 5,000 mg/50 mL (100 mg/mL) Single-Dose Vials ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "RailTel Corp rises after bagging Rs 164 cr order from Western Coalfields",
+      "title": "TMPV to hike vehicle prices by up to Rs 25,000",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/railtel-corp-rises-after-bagging-rs-164-cr-order-from-western-coalfields-126082100192_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tmpv-to-hike-vehicle-prices-by-up-to-rs-25-000-126082100259_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "RailTel Corporation of India rose 2.48% to Rs 287.70 after the company said that it has secured order worth Rs 164 crore from Western Coalfields.",
+      "desc": "Effective 01 September 2026",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NINtec Systems Ltd Falls 2.5%",
+      "title": "Shankesh Jewellers IPO ends with 2.80 times subscription",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nintec-systems-ltd-falls-2-5-126082100191_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-ipo-ends-with-2-80-times-subscription-126082100241_1.html",
       "date": "Fri, 21 Aug 2026",
-      "desc": "NINtec Systems Ltd has lost 19.03% over last one month compared to 6.46% gain in BSE Information Technology index and 1.23% rise in the SENSEX",
+      "desc": "The offer received bids for 7.74 crore shares as against 2.76 crore shares on offer.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sunshine Pictures IPO GMP signals 20% listing pop. Here's how to check allotment status online",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-20-listing-pop-heres-how-to-check-allotment-status-online-11787285538630.html",
+      "date": "Fri, 21 Aug 2026",
+      "desc": "Sunshine Pictures IPO GMP today: According to market observers, the company's shares are available at a premium of  \u20b975 in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
@@ -245,15 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/lumino-industries-ipo-price-band-set-at-rs-78-82-per-share-check-key-dates-issue-details-11787282457238.html",
       "date": "Fri, 21 Aug 2026",
       "desc": "Lumino Industries Limited sets IPO price band at  \u20b978-82 per share, with subscription from 27-31 August. Allocation to anchor investors on 25 August. 50% shares reserved for QIBs, 15% for NIIs, and 35",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Evergrande Saga Highlights Short-Selling Risks, Andrew Left Says",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/evergrande-saga-highlights-short-selling-risks-andrew-left-says-11787282900967.html",
-      "date": "Fri, 21 Aug 2026",
-      "desc": "Andrew Left, the US short-seller whose early warnings on China Evergrande Group got him banned from trading in Hong Kong, isn\u2019t in a gloating mood.",
       "tags": [],
       "is_portfolio": false
     }
