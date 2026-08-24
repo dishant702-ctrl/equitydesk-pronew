@@ -1,5 +1,5 @@
 {
-  "updated_ist": "24 Aug 2026 11:13 IST",
+  "updated_ist": "24 Aug 2026 11:56 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,24 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Sugar stocks Balrampur Chini, Dhampur Sugar, Uttam Sugar Mills rally up to 11%. Here are 2 triggers",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-uttam-sugar-mills-rally-up-to-11-here-are-2-triggers/articleshow/133452667.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Sugar stocks rose sharply on Monday as domestic sugar prices climbed above Rs 50 per kg amid tight inventories and supply concerns. Festive demand, adverse weather in key producing regions and Brazil\u2019",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "5 key themes set to drive global markets this week",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-key-themes-set-to-drive-global-markets-this-week/slideshow/133452590.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Global markets face a crucial week as Jackson Hole, Nvidia\u2019s earnings, inflation data and central-bank decisions take centre stage. Bond yields, crude prices and geopolitical developments will shape r",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: Alibaba rout drags China, Hong Kong markets lower amid AI spending concerns",
@@ -67,24 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "JGB yields edge higher amid fiscal, inflation worries",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-edge-higher-amid-fiscal-inflation-worries/articleshow/133451695.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Japanese government bond yields climbed on Monday amid concerns stemming from the Middle East instability. Inflation anxieties and fiscal issues further exacerbated the rise in yields. Market particip",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nifty loses 7% in 2026, smallcaps gain 13%; Is it time to bet on broader markets?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-loses-7-in-2026-smallcaps-gain-13-is-it-time-to-bet-on-broader-markets/articleshow/133451576.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "This year has seen smallcap stocks surge ahead of the Nifty 50 index, with the Nifty Smallcap 100 rising nearly thirteen percent while its larger counterpart has faltered. The driving forces behind th",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -112,74 +112,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Monarch Surveyors and Engineering gains on bagging Rs 2-cr work order",
+      "title": "Priority Jewels sets IPO price band at \u20b9190-200, issue to open on Aug 28",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/monarch-surveyors-and-engineering-gains-on-bagging-rs-2-cr-work-order-126082400282_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/priority-jewels-sets-ipo-price-band-at-190-200-issue-to-open-on-aug-28-126082400317_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Monarch Surveyors and Engineering Consultants added 1.83% to Rs 224.95 after the company announced that it has received a work order worth Rs 1.68 crore from Fursungi-Uruli Devachi Nagar Parishad.",
+      "desc": "Priority Jewels Ltd is gearing up to launch its Initial Public Offering (IPO) on August 28, with a price band of Rs 190-200 per share.\nThe three-day public issue will close on September 1, while biddi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "B.R.Goyal Infra gains after bagging Rs 151-cr NHAI work order",
+      "title": "Sugar stocks Bajaj Hind, Dwarikesh, Dhampur soar up to 12%; hit 52-wk highs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/b-r-goyal-infra-gains-after-bagging-rs-151-cr-nhai-work-order-126082400281_1.html",
+      "link": "https://www.business-standard.com/markets/news/sugar-stocks-bajaj-hind-dwarikesh-dhampur-soar-up-to-12-hit-52-wk-highs-126082400300_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "B.R.Goyal Infrastructure rose 1.51% to Rs 194.50 after the company received a work order worth Rs 151.06 crore from the National Highways Authority of India for engagement of a user fee agency through",
+      "desc": "The sector's near-term performance will continue to be influenced by sugar pricing trends, cane availability-cum-recovery levels, ethanol pricing mechanisms and policy direction, said Balrampur Chini.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "EIL, Sagility: Check why Bajaj Broking is bullish on these smallcap stocks",
+      "title": "RBI concessional swap facility attracts USD 72.84 bn forex inflows",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/engineers-india-sagility-check-why-bajaj-broking-is-bullish-on-these-smallcap-stocks-126082400238_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/rbi-concessional-swap-facility-attracts-usd-72-84-bn-forex-inflows-126082400315_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Pabitro Mukherjee of Bajaj Broking flags a bullish 'cup and handle' and 'falling trendline' breakout on these smallcap stocks Engineers India and Sagility on the charts.",
+      "desc": "\nThe Reserve Bank on Saturday said its concessional swap facility, introduced to encourage foreign currency inflows, has attracted USD 72.848 billion till August 21. Of the total inflows, the Foreign ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vishal Mega Mart shares rally 9.5% on re-appointment of CEO for five years",
+      "title": "US stocks edge higher on upbeat economic activity",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/vishal-mega-mart-share-price-rally-9-5-on-re-appointment-of-ceo-for-five-years-126082400241_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/us-stocks-edge-higher-on-upbeat-economic-activity-126082400314_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Gunender Kapur was appointed MD and CEO for a period of three years, with effect from June 27, 2024. His existing term of three years is due to expire on June 26, 2027.",
+      "desc": "US stocks gained on Friday, finishing the week on an upbeat note that saw the Nasdaq 100 end a five-day losing streak as data revealed upbeat business activity.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oriental Hotels share price rises over 5% on IHCL merger announcement",
+      "title": "Kellton Tech gains after securing mandate to build AI-driven claims management platform",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/oriental-hotels-share-price-rises-over-5-on-ihcl-merger-announcement-126082400250_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kellton-tech-gains-after-securing-mandate-to-build-ai-driven-claims-management-platform-126082400313_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "The Scheme of Arrangement proposes a share exchange ratio of 25 IHCL shares for every 117 Oriental Hotels shares, with completion targeted in the second half of FY2028.",
+      "desc": "Kellton Tech Solutions added 3.38% to Rs 14.06 after the company said that it has been selected by a leading U.S. healthcare administration and claims management company to design and build an AI-driv",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mayank Cattle Food launches new product 'Mayank Uddersafe'",
+      "title": "Volumes soar at Lenskart Solutions Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/mayank-cattle-food-launches-new-product-mayank-uddersafe-126082400256_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-lenskart-solutions-ltd-counter-126082400312_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "\nMAYANK UDDERSAFE is an advanced udder health protection formula \nspecially developed to help prevent and manage mastitis in dairy animals. It supports healthy udder function, improves milk quality, a",
+      "desc": "Lenskart Solutions Ltd recorded volume of 451.5 lakh shares by 10:45 IST on BSE, a 22.82 times surge over two-week average daily volume of 19.79 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NSE SME Fascinate Textiles gets off to a rocky start",
+      "title": "Rays of Belief's IPO to open on Sep 1, price band set at \u20b9227-239",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nse-sme-fascinate-textiles-gets-off-to-a-rocky-start-126082400255_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/rays-of-belief-s-ipo-to-open-on-sep-1-price-band-set-at-227-239-126082400231_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Fascinate Textiles traded at Rs 114.80 on the NSE, a 23.97% discount to the issue price of Rs 151.",
+      "desc": "Rays of Belief Ltd, which operates under the Mom's Belief brand, is set to launch its Initial Public Offering (IPO) on September 1, with a price band of Rs 227-239 per share.\nThe post-issue implied ma",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Diamond Power Infra bags Rs 53-cr LoI from Aurionpro Solutions",
+      "title": "INR in narrow range as simmering geopolitical tensions weigh",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/diamond-power-infra-bags-rs-53-cr-loi-from-aurionpro-solutions-126082400254_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-in-narrow-range-as-simmering-geopolitical-tensions-weigh-126082400299_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Diamond Power Infrastructure announced that it has received a Letter of Intent worth Rs 52.86 crore from Aurionpro Solutions for the supply of high-tension and low-tension electrical cables for a hype",
+      "desc": "\nThe Indian rupee traded in a narrow range against the American currency in early trade on Monday, supported by a softer US dollar, but simmering geopolitical tensions kept it from making strong gains",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rain Industries share price: Petrochemical stock jumps 4% amid soaring crude oil prices on US-Iran war",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/rain-industries-share-price-petrochemical-stock-jumps-4-amid-soaring-crude-oil-prices-on-us-iran-war-11787549018567.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Rain Industries share price rose over 4% on 24 August, driven by rising crude oil prices amid US-Iran tensions. Q2CY26 revenue reached  \u20b95,167 crore, exceeding forecasts, with significant growth in Ca",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stocks to buy for short term: Meesho, Axis Bank among 3 shares Anand Rathi's Jigar Patel suggests for the next 1-2 weeks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-meesho-axis-bank-among-3-shares-anand-rathis-jigar-patel-suggests-for-the-next-1-2-weeks-11787539867336.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Jigar Patel of Anand Rathi identifies three stocks\u2014Meesho, Axis Bank, and Happiest Minds Technologies\u2014poised for potential short-term growth. Discover his insights.",
       "tags": [],
       "is_portfolio": false
     },
@@ -234,24 +252,6 @@
       "link": "https://www.livemint.com/market/ipo/horizon-industrial-parks-ipo-listing-shares-debut-flat-in-a-range-bound-market-11787545062108.html",
       "date": "Mon, 24 Aug 2026",
       "desc": "Horizon Industrial Parks' share price opened at  \u20b959.65 on the BSE against the issue price of  \u20b960, while on the NSE, the stock was listed at  \u20b960.25.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hy-Tech Engineers IPO Day 1: Issue subscribed 1.18x so far. GMP hints 47% listing gain. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/hytech-engineers-ipo-day-1-issue-opens-today-gmp-hints-47-listing-gain-apply-or-not-11787542339746.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Hy-Tech Engineers IPO opens today, August 24, with a price band of  \u20b950\u201353 per share and a minimum investment of  \u20b914,999. Allotments expected by August 28, shares to list on September 1, 2026. The co",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty, Nikkei, KOSPI to Dow Jones: Global equity heatmap before the opening bell of the Indian stock market",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-nikkei-kospi-to-dow-jones-global-equity-heatmap-before-the-opening-bell-of-the-indian-stock-market-11787538298754.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Global markets today: US stocks rose on Friday to cap a choppy week, even as the major averages posted weekly losses amid sharp volatility in the bond market",
       "tags": [],
       "is_portfolio": false
     }
