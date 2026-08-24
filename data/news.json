@@ -1,16 +1,32 @@
 {
-  "updated_ist": "24 Aug 2026 14:56 IST",
+  "updated_ist": "24 Aug 2026 15:49 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "MP Steel files IPO papers; plans Rs 95 crore fresh issue, 23.07 lakh-share OFS",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mp-steel-files-ipo-papers-plans-rs-95-crore-fresh-issue-23-07-lakh-share-ofs/articleshow/133460038.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "MP Steel Limited has submitted its Draft Red Herring Prospectus (DRHP) to SEBI as it prepares for its initial public offering. The company aims to generate capital via a fresh issuance of shares and a",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "FIIs trim holdings in 11 midcap stocks over two quarters; shares fall up to 50% in 2026",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-trim-holdings-in-11-midcap-stocks-over-two-quarters-shares-fall-up-to-50-in-2026/slideshow/133460029.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": " FIIs reduced their holdings in around 51 BSE midcap companies during the March and June 2026 quarters. More than half of these stocks delivered negative returns in CY26, and several witnessed sharp d",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India 10-year bond yield clings to 6.85%; traders eye oil moves amid sanctions threat",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-clings-to-6-85-traders-eye-oil-moves-amid-sanctions-threat/articleshow/133459495.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Indian government bonds remained steady as traders awaited oil price movements.  US sanctions on Iran could impact global crude prices significantly.  Higher oil prices may fuel inflation and widen In",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "BSE shares:  Prabhudas Lilladher cuts target price to Rs 4,025 as CAS hits derivatives volumes",
@@ -58,128 +74,119 @@
       "is_portfolio": false
     },
     {
-      "title": "Infosys, HCLTech, other IT stocks gain on Nvidia\u2019s likely price hikes. Are AI bubble worries coming true?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-other-it-stocks-gain-on-nvidias-likely-price-hikes-are-ai-bubble-worries-coming-true/articleshow/133456658.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Indian IT stocks gained on Monday as reports of Nvidia\u2019s potential server price hikes revived concerns over rising AI infrastructure costs and stretched valuations. The Nifty IT index rose over 1%, wi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Muthoot Finance, Manappuram Finance shares rally up to 11% in 4 days as gold crosses Rs 1.63 lakh",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-shares-rally-up-to-11-in-4-days-as-gold-crosses-rs-1-63-lakh/articleshow/133455929.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Gold loan stocks Muthoot Finance, Manappuram Finance and IIFL Finance gained sharply as gold prices climbed on a weaker dollar and liquidity support from the US Treasury. Investors are watching US inf",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Trump vs Michael Burry: US Prez buys shares of Warren Buffett's firm but 'Big Short' investor feels it's not an attractive bet",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-vs-michael-burry-us-prez-buys-shares-of-warren-buffetts-firm-but-big-short-investor-feels-its-not-an-attractive-bet/articleshow/133455250.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Donald Trump bought $1\u20135 million of Berkshire Hathaway shares in June, even as investor Michael Burry questioned the stock\u2019s future after Warren Buffett\u2019s succession. Berkshire has begun deploying its",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ratnamani Metals & Tubes arm wins export orders worth Rs 2,700 cr",
+      "title": "BLS International tumbles amid buzz of visa fraud; Co denies claims",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ratnamani-metals-tubes-arm-wins-export-orders-worth-rs-2-700-cr-126082400571_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bls-international-tumbles-amid-buzz-of-visa-fraud-co-denies-claims-126082400670_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "",
+      "desc": "BLS International Services slumped 11.37% to Rs 240.55 after media reports stated that the company has been drawn into a Spanish National Court investigation with links to alleged visa fraud network a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Heranba Industries spurts as Q1 PAT rises 17.1% YoY",
+      "title": "Buzzing stocks: Ratnamani, Quadrant, Shanthi Gears zoom up to 42% in 2 days",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/heranba-industries-spurts-as-q1-pat-rises-17-1-yoy-126082400570_1.html",
+      "link": "https://www.business-standard.com/markets/news/buzzing-stocks-ratnamani-quadrant-shanthi-gears-zoom-up-to-42-in-2-days-126082400630_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Heranba Industries jumped 9.53% to Rs 180.60 after the company reported an improvement in profitability in Q1 FY27, despite a decline in revenue.",
+      "desc": "In the past two trading days, Shanthi Gears zoomed 42% after Tube Investments of India acquired 2.06 million equity shares via block deal on Friday, August 21, 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Crisil Ratings reaffirms ratings of Hirect at 'BBB/A2' with 'stable' outlook",
+      "title": "Godrej Industries Group signs MoU with Govt. of Haryana",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-hirect-at-bbb-a2-with-stable-outlook-126082400554_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/godrej-industries-group-signs-mou-with-govt-of-haryana-126082400649_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Hirect (HRL) said that Crisil Ratings has reaffirmed its 'Crisil BBB+/Stable/Crisil A2' ratings on the bank facilities of the company.",
+      "desc": "Commits investment of Rs 20,000 cr and creation of 40K jobs in Haryana",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ajanta Pharma Ltd slips for fifth straight session",
+      "title": "Air passenger services see sharp spike, according to Service Producer Price Index",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ajanta-pharma-ltd-slips-for-fifth-straight-session-126082400553_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/air-passenger-services-see-sharp-spike-according-to-service-producer-price-index-126082400648_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Ajanta Pharma Ltd is quoting at Rs 3582.5, down 1.57% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 17.79% fall  in the N",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lloyds Metals & Energy Ltd drops for fifth straight session",
+      "title": "ICRA upgrades ratings of iValue Infosolutions to 'A+/A1+' with 'stable' outlook",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lloyds-metals-energy-ltd-drops-for-fifth-straight-session-126082400552_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/icra-upgrades-ratings-of-ivalue-infosolutions-to-a-a1-with-stable-outlook-126082400646_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Lloyds Metals & Energy Ltd is quoting at Rs 1845, down 1.12% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 41.11% fall  i",
+      "desc": "iValue Infosolutions said that the credit rating agency ICRA has upgraded the company's long-term rating to '[ICRA]A+ (Stable)' from '[ICRA]A (Stable)'.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sun TV Network Ltd drops for fifth straight session",
+      "title": "Tempsens Instruments IPO booked 132x so far on final day; GMP at 107%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sun-tv-network-ltd-drops-for-fifth-straight-session-126082400551_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/tempsens-instruments-ipo-booked-132x-so-far-on-final-day-gmp-at-107-126082400644_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Sun TV Network Ltd is quoting at Rs 470.9, down 0.24% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 1.13% fall  in the Ni",
+      "desc": "The \u20b9650-crore Tempsens Instruments IPO opened for bidding on August 20 and closes today, August 24. Investors can place bids till 5 pm.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "REC Ltd eases for fifth straight session",
+      "title": "Volumes jump at L T Foods Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rec-ltd-eases-for-fifth-straight-session-126082400550_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-l-t-foods-ltd-counter-126082400643_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "REC Ltd is quoting at Rs 324.6, down 0.63% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 0.73% fall  in the Nifty Financi",
+      "desc": "L T Foods Ltd witnessed volume of 362.61 lakh shares by 14:14 IST on NSE, a 91.72 times surge over two-week average daily volume of 3.95 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bharat Heavy Electricals Ltd slips for fifth straight session",
+      "title": "UPI Transaction Value soared from Rs 0.07 lakh crore in FY17 to Rs 314 lakh crore in FY26",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-heavy-electricals-ltd-slips-for-fifth-straight-session-126082400549_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/upi-transaction-value-soared-from-rs-0-07-lakh-crore-in-fy17-to-rs-314-lakh-crore-in-fy26-126082400614_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Bharat Heavy Electricals Ltd is quoting at Rs 410.2, down 0.68% on the day as on 13:19 IST on the NSE. The stock jumped 89.46% in last one year as compared to a 3.18% slide in NIFTY and a 10.91% spurt",
+      "desc": "Powered by Capital Market - Live News",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Multibagger defence stock Apollo Micro System acquires 34% stake in defence tech company",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-apollo-micro-system-acquires-34-stake-in-defence-tech-company-11787563507933.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Apollo Micro Systems acquired a 34% stake in Shauryastra Defence Systems, investing  \u20b934,000 for 3,400 equity shares. The venture, focused on defence technology, will be led by Dr V. K. Saraswat and a",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stock market today: Sensex falls 170 points, Nifty 50 ends below 24,219; metal stocks shine",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-170-points-nifty-50-ends-below-24-219-metal-stocks-shine-11787565654953.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "The Sensex ended at 77,369, down 172 points, or 0.22%, while the Nifty 50 closed 33 points, or 0.14%, lower at 24,219.05. The Nifty Midcap 150 index inched up by 0.07%, while the Smallcap 250 index de",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 24 Aug: BLS International, Balrampur Chini Mills, HAL, Bank of Baroda among top losers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-24-aug-bls-international-balrampur-chini-mills-hal-bank-of-baroda-among-top-losers-11787563388800.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "On August 24, the Indian stock market fell, reflecting global downturns and local selling pressure in major sectors. The Nifty 50 index dropped 0.36%, and crude oil prices eased as uncertainty loomed ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Expert view: Nifty 50 can hit a new all-time high before 2026 end, says Shrikant Chouhan of Kotak Securities",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-nifty-50-can-hit-a-new-all-time-high-before-2026-end-says-shrikant-chouhan-of-kotak-securities-11787563015163.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Shrikant Chouhan from Kotak Securities predicts a potential rise of the Nifty 50 to a new all-time high by 2026, contingent on sustained earnings momentum and stabilising crude oil prices. Read on for",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IPO: GMP over  \u20b9380 per share - Company specialises in gold, silver refining | What grey market signals at listing gain",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmp-over-rs-380-per-share-company-specialises-in-gold-silver-refining-what-grey-market-signals-at-listing-gain-11787560873073.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "A significant grey market premium suggests that investors are increasingly tracking IPO GMP and subscription data to gauge potential listing performance. However, market participants should note that ",
       "tags": [],
       "is_portfolio": false
     },
@@ -207,51 +214,6 @@
       "link": "https://www.livemint.com/market/ipo/ipo-share-price-band-rs-300-gmp-rs-313-check-last-date-to-apply-allotment-and-listing-details-11787557592291.html",
       "date": "Mon, 24 Aug 2026",
       "desc": "IPO GMP: According to market observers, teh grey market is signalling a multibagger return for investors, whereas few hours are still left to apply for the mainboard IPO",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shankesh Jewellers IPO listing tomorrow. Here's what GMP signals ahead of debut",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11787557901423.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "The Shankesh Jewellers IPO is currently commanding a GMP of  \u20b92 per share, representing an upside of around 2.15% over the upper price band of  \u20b993.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Augmont Enterprises IPO day 2: Issue subscribed over 9 times; GMP signals nearly 50% listing pop; apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-2-issue-subscribed-over-9-times-gmp-signals-nearly-50-listing-pop-apply-or-not-11787554341340.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "The IPO of Augmont Enterprises has garnered significant investor interest, being oversubscribed over nine times on its second day. Strong grey market signals indicate a potential listing pop, while ex",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "How retail F&amp;O participation changed after Sebi tightened rules, in charts",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/retail-futures-options-traders-f-o-participation-sebi-report-fy26-11787548104758.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Active individual F&amp;amp;O traders fell 18% in FY26 as new entrants plunged and exits surged, pointing to a market increasingly dominated by repeat traders.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Did you get Lalithaa Jewellery Mart IPO? Shares up 36% from IPO price -What's next for investors? Buy more?Sell or hold?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/did-you-get-lalithaa-jewellery-mart-ipo-shares-up-36-from-ipo-price-whats-next-for-investors-buy-more-sell-or-hold-11787554814815.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Lalithaa Jewellery shares debuted strong, listing at nearly 32% above the issue price of  \u20b9201. The stock gained 36.5% initially but faced profit booking later. Market valuation reached  \u20b914,462.90 cr",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-cap IT stock under  \u20b950 jumps 5% after implementation of SpaceX International agreement plan",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-5-after-implementation-of-spacex-international-plan-11787552936919.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Blue Cloud Softech Solutions share price opened at  \u20b922.99 apiece today, as compared to previous close of  \u20b922.11 on Friday. The small-cap IT stock touched an intraday high of  \u20b923.54 on 24 August.",
       "tags": [],
       "is_portfolio": false
     }
