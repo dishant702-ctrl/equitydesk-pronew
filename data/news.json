@@ -1,5 +1,5 @@
 {
-  "updated_ist": "24 Aug 2026 13:10 IST",
+  "updated_ist": "24 Aug 2026 13:58 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,51 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Global Market: European shares edge lower as investors await Iran sanctions details",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-lower-as-investors-await-iran-sanctions-details/articleshow/133457567.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "European shares edged lower on Monday as technology stocks came under pressure, while investors awaited US sanctions on Iran, Nvidia\u2019s results and fresh clues on the Federal Reserve\u2019s rate outlook.  ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Markets brace for more hawkish ECB as energy risks threaten to keep inflation elevated",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/markets-brace-for-more-hawkish-ecb-as-energy-risks-threaten-to-keep-inflation-elevated/articleshow/133456888.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Markets are increasingly pricing in a more hawkish European Central Bank as geopolitical tensions, elevated energy costs and depleted gas inventories threaten to keep eurozone inflation high. Investor",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: China\u2019s property crisis deepens as Evergrande founder gets life sentence",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-property-crisis-deepens-as-evergrande-founder-gets-life-sentence/articleshow/133456559.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "China\u2019s property crisis deepened despite Evergrande founder Hui Ka Yan receiving a life sentence. Falling home prices, unfinished projects, weak sales and developer debt continue to hurt household wea",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Infosys, HCLTech, other IT stocks gain on Nvidia\u2019s likely price hikes. Are AI bubble worries coming true?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-hcltech-other-it-stocks-gain-on-nvidias-likely-price-hikes-are-ai-bubble-worries-coming-true/articleshow/133456658.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Indian IT stocks gained on Monday as reports of Nvidia\u2019s potential server price hikes revived concerns over rising AI infrastructure costs and stretched valuations. The Nifty IT index rose over 1%, wi",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Muthoot Finance, Manappuram Finance shares rally up to 11% in 4 days as gold crosses Rs 1.63 lakh",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-finance-shares-rally-up-to-11-in-4-days-as-gold-crosses-rs-1-63-lakh/articleshow/133455929.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Gold loan stocks Muthoot Finance, Manappuram Finance and IIFL Finance gained sharply as gold prices climbed on a weaker dollar and liquidity support from the US Treasury. Investors are watching US inf",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Trump vs Michael Burry: US Prez buys shares of Warren Buffett's firm but 'Big Short' investor feels it's not an attractive bet",
@@ -36,51 +81,6 @@
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-debt-boom-tests-investor-appetite-as-tech-bond-issuance-surges/articleshow/133454992.cms",
       "date": "Mon, 24 Aug 2026",
       "desc": "AI-driven debt issuance is testing investor appetite as technology companies flood bond markets with new supply. Hyperscaler issuance has reached $220 billion in 2026, prompting investors to demand hi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Shein valuation falls 70% from peak as Hong Kong IPO targets $1.77 billion",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-shein-valuation-falls-70-from-peak-as-hong-kong-ipo-targets-1-77-billion/articleshow/133454295.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Shein launched its Hong Kong IPO at a valuation of up to $27 billion, around 70% below its 2022 peak, as slowing growth, rising costs and regulatory pressures weigh on investor sentiment. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Urban Company shares surge 7% to 11-month high, rally 16% in 2 sessions. Here are 2 reasons why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-surge-7-to-11-month-high-rally-16-in-2-sessions-here-are-2-reasons-why/articleshow/133454609.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Urban Company shares rallied on Monday, after a bullish brokerage call and a legal development involving Kent RO. Kent RO has agreed to remove advertisements and social media content that allegedly ma",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Avaada said to plan public filing for $800 million IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-said-to-plan-public-filing-for-800-million-ipo/articleshow/133453677.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Avaada Electro is gearing up for an initial public offering aiming to raise up to $800 million. The solar manufacturing company has partnered with several banks to oversee this potential share sale, w",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Madhur Knit Crafts, ABH Healthcare SME IPOs Day 1: Early subscription, GMP, and key details",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/madhur-knit-crafts-abh-healthcare-sme-ipos-day-1-early-subscription-gmp-and-key-details/articleshow/133453407.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Madhur Knit and ABH Healthcare SME IPOs opened on August 24, 2026, attracting early investor interest. Madhur Knit showed a 16% GMP, while ABH Healthcare had no GMP. Both issues close August 27, with ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sugar stocks Balrampur Chini, Dhampur Sugar, Uttam Sugar Mills rally up to 11%. Here are 2 triggers",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sugar-stocks-balrampur-chini-dhampur-sugar-uttam-sugar-mills-rally-up-to-11-here-are-2-triggers/articleshow/133452667.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Sugar stocks rose sharply on Monday as domestic sugar prices climbed above Rs 50 per kg amid tight inventories and supply concerns. Festive demand, adverse weather in key producing regions and Brazil\u2019",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +112,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Swojas Foods allots 16 lakh equity shares on conversion of warrants",
+      "title": "Siemens rallies 5%, hits new high in subdued market; what's driving stock?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/swojas-foods-allots-16-lakh-equity-shares-on-conversion-of-warrants-126082400437_1.html",
+      "link": "https://www.business-standard.com/markets/news/siemens-rallies-5-hits-new-high-in-subdued-market-what-s-driving-stock-126082400430_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "",
+      "desc": "Thus far in the financial year 2026-27, Siemens outperformed the market by soaring 40 per cent, against a 7.5 per cent rise in the BSE Sensex.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ceigall India rises after securing LoA for Rs 704 crore contract from Ministry of Road Transport",
+      "title": "TVS Supply Chain share price zooms 16% in subdued market; here's why",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-rises-after-securing-loa-for-rs-704-crore-contract-from-ministry-of-road-transport-126082400435_1.html",
+      "link": "https://www.business-standard.com/markets/news/tvs-supply-chain-share-price-zooms-16-in-subdued-market-here-s-why-126082400501_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Ceigall India added 3.74% to Rs 326 after the company, jointly with Sushee Infra & Mining (SIML), announced the receipt of letter of acceptance (LoA) from the Ministry of Road Transport & Highways (Mo",
+      "desc": "The buying momentum came after the logistics solutions provider announced that it had signed a pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Acutaas Chemicals gains as board OKs Rs 212-cr capex for new plant",
+      "title": "Brahmaputra Infrastructure secures O&M contract for NH-502A corridor in Mizoram",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/acutaas-chemicals-gains-as-board-oks-rs-212-cr-capex-for-new-plant-126082400434_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/brahmaputra-infrastructure-secures-o-m-contract-for-nh-502a-corridor-in-mizoram-126082400483_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Acutaas Chemicals advanced 1.89% to Rs 3,228.35 after the company's board approved a capital expenditure (capex) of Rs 212 crore for establishing a manufacturing plant for new electronic grade chemica",
+      "desc": "Brahmaputra Infrastructure has formally executed and signed the agreement for the contract valued at Rs 70.18 crore awarded by the Ministry of Road Transport & Highways (MoRT&H) for operation and main",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gaja Alternative Asset Management IPO ends with 31.33 times subscription",
+      "title": "Caplin Point Lab declines  after arm receives form-485 with 10 observations from USFDA",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/gaja-alternative-asset-management-ipo-ends-with-31-33-times-subscription-126082400433_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/caplin-point-lab-declines-after-arm-receives-form-485-with-10-observations-from-usfda-126082400481_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "The offer received bids for 79.35 crore shares as against 2.53 crore shares on offer.",
+      "desc": "Caplin Point Laboratories fell 2.38% to Rs 2,497.25 after the company said that the USFDA conducted an unannounced inspection of its subsidiary Caplin Steriles' injectable and ophthalmic manufacturing",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SAT dismisses Ketan Parekh's plea to cross-examine Capital Group traders",
+      "title": "Tata Power Co's renewables arm commissions 190.5 MW FDRE project in Rajasthan",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sat-ketan-parekh-cross-examination-capital-group-traders-sebi-front-running-126082400421_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tata-power-co-s-renewables-arm-commissions-190-5-mw-fdre-project-in-rajasthan-126082400479_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Sebi had barred Parekh and Singapore-based trader Rohit Salgaocar in January 2025 for alleged front-running of trades of a US-based foreign portfolio investor",
+      "desc": "Tata Power Company said that Tata Power Renewable Energy has commissioned its 190.5 MW solar FDRE project at Kalasar, Bikaner, Rajasthan, which is under the contractual capacity of 460 MW firm and dis",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "L&T's Energy Hydrocarbon division bags 'ultra-mega' project in the Middle East",
+      "title": "NMDC Ltd rises for third straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/l-t-s-energy-hydrocarbon-division-bags-ultra-mega-project-in-the-middle-east-126082400418_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-ltd-rises-for-third-straight-session-126082400478_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Larsen & Toubro (L&T) said that L&T Energy Hydrocarbon Onshore (LTEH Onshore) has signed the contract for undertaking a gas compression facilities project for a prestigious client in the Middle East a",
+      "desc": "NMDC Ltd is quoting at Rs 85.91, up 1.54% on the day as on 12:49 IST on the NSE. The stock is up 21.55% in last one year as compared to a 3.13% slide in NIFTY and a 41.29% slide in the Nifty Metal ind",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Allcargo Terminals Ltd Partly Paidup leads gainers in 'B' group",
+      "title": "Hindustan Zinc Ltd rises for third consecutive session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/allcargo-terminals-ltd-partly-paidup-leads-gainers-in-b-group-126082400417_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-zinc-ltd-rises-for-third-consecutive-session-126082400477_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Marathon Nextgen Realty Ltd, Virat Industries Ltd, Advit Jewels Ltd and Super Tannery Ltd are among the other gainers in the BSE's 'B' group today, 24 August 2026.",
+      "desc": "Hindustan Zinc Ltd is quoting at Rs 609.6, up 2.47% on the day as on 12:49 IST on the NSE. The stock is up 40.23% in last one year as compared to a 3.13% drop in NIFTY and a 41.29% drop in the Nifty M",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "L T Foods Ltd leads gainers in 'A' group",
+      "title": "Prime Focus Ltd soars 2.68%, Gains for third straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/l-t-foods-ltd-leads-gainers-in-a-group-126082400416_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/prime-focus-ltd-soars-2-68-gains-for-third-straight-session-126082400476_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Balu Forge Industries Ltd, Vishal Mega Mart Ltd, EID Parry (India) Ltd and KRBL Ltd are among the other gainers in the BSE's 'A' group today, 24 August 2026.",
+      "desc": "Prime Focus Ltd is quoting at Rs 304.9, up 2.68% on the day as on 12:49 IST on the NSE. The stock is up 100.94% in last one year as compared to a 3.13% fall in NIFTY and a 0.75% fall in the Nifty Medi",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Welspun Corp's euphoric investor reaction to US order comes with risks",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/welspun-corp-us-pipeline-order-investor-reaction-stock-price-11787556166277.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Welspun will have to ensure that such order wins are repeated, especially from the US, for revenue visibility beyond FY29.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IPO: Share price band  \u20b9300, GMP  \u20b9313 - Check last date to apply, allotment and listing details",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/ipo-share-price-band-rs-300-gmp-rs-313-check-last-date-to-apply-allotment-and-listing-details-11787557592291.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "IPO GMP: According to market observers, teh grey market is signalling a multibagger return for investors, whereas few hours are still left to apply for the mainboard IPO",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shankesh Jewellers IPO listing tomorrow. Here's what GMP signals ahead of debut",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-listing-tomorrow-heres-what-gmp-signals-ahead-of-debut-11787557901423.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "The Shankesh Jewellers IPO is currently commanding a GMP of  \u20b92 per share, representing an upside of around 2.15% over the upper price band of  \u20b993.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Augmont Enterprises IPO day 2: Issue subscribed over 9 times; GMP signals nearly 50% listing pop; apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/augmont-enterprises-ipo-day-2-issue-subscribed-over-9-times-gmp-signals-nearly-50-listing-pop-apply-or-not-11787554341340.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "The IPO of Augmont Enterprises has garnered significant investor interest, being oversubscribed over nine times on its second day. Strong grey market signals indicate a potential listing pop, while ex",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "How retail F&amp;O participation changed after Sebi tightened rules, in charts",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/retail-futures-options-traders-f-o-participation-sebi-report-fy26-11787548104758.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Active individual derivatives traders fell 18% in FY26 as new entrants plunged and exits surged, signalling a shift towards a repeat-trader market.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Did you get Lalithaa Jewellery Mart IPO? Shares up 36% from IPO price -What's next for investors? Buy more?Sell or hold?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/did-you-get-lalithaa-jewellery-mart-ipo-shares-up-36-from-ipo-price-whats-next-for-investors-buy-more-sell-or-hold-11787554814815.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Lalithaa Jewellery shares debuted strong, listing at nearly 32% above the issue price of  \u20b9201. The stock gained 36.5% initially but faced profit booking later. Market valuation reached  \u20b914,462.90 cr",
       "tags": [],
       "is_portfolio": false
     },
@@ -198,60 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/aurobindo-pharma-us-subsidiary-lannett-company-llc-faces-4-observations-from-the-usfda-11787552311921.html",
       "date": "Mon, 24 Aug 2026",
       "desc": "Aurobindo Pharma said the US FDA conducted a routine inspection of its wholly owned step-down subsidiary in the US from 17th to 21st August 2026, which concluded with four observations.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rain Industries share price: Petrochemical stock jumps 4% amid soaring crude oil prices on US-Iran war",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rain-industries-share-price-petrochemical-stock-jumps-4-amid-soaring-crude-oil-prices-on-us-iran-war-11787549018567.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Rain Industries share price rose over 4% on 24 August, driven by rising crude oil prices amid US-Iran tensions. Q2CY26 revenue reached  \u20b95,167 crore, exceeding forecasts, with significant growth in Ca",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stocks to buy for short term: Meesho, Axis Bank among 3 shares Anand Rathi's Jigar Patel suggests for the next 1-2 weeks",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-meesho-axis-bank-among-3-shares-anand-rathis-jigar-patel-suggests-for-the-next-1-2-weeks-11787539867336.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Jigar Patel of Anand Rathi identifies three stocks\u2014Meesho, Axis Bank, and Happiest Minds Technologies\u2014poised for potential short-term growth. Discover his insights.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Balrampur Chini Mills share price up over 10% in 5 days - What's sweetening up stock investors | Explained",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/balrampur-chini-mills-share-price-up-over-10-in-5-days-whats-sweetening-up-stock-investors-explained-11787547675126.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "On Monday, the sugar stock opened at  \u20b9732.95 apiece on NSE, as compared to previous close of  \u20b9729.35 on Friday. The stock surged as much 2.86% on 24 August, touching an intraday high of  \u20b9751.70.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Alibaba shares plunge 11% after $10.2 billion share placement to fund AI expansion",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/alibaba-shares-plunge-11-after-10-2-billion-share-placement-to-fund-ai-expansion-11787547880961.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Alibaba shares dropped 11% after announcing an HK$80 billion share placement to fund AI expansion. The company will issue 710 million shares below the previous closing price. Proceeds will enhance AI ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Upper circuit! Why Vishal Mega Mart share price surged today - Rally drive rationale explained",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/why-vishal-mega-mart-share-price-is-rising-today-stock-hits-the-upper-circuit-11787547310653.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Vishal Mega Mart share price jumped 10% to hit its upper circuit of  \u20b9113.95 in morning deals on the BSE on Monday, 24 August, defying weak market sentiment.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gaja Alternative Asset Management IPO allotment in focus, GMP signals 12% listing pop | guide to check status online",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/gaja-alternative-asset-management-ipo-allotment-status-in-focus-gmp-signals-12-listing-pop-guide-to-check-status-11787544644821.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Gaja Alternative Asset Management IPO GMP today: According to Investorgain, the company shares are available at a premium of  \u20b919 in the grey market today",
       "tags": [],
       "is_portfolio": false
     }
