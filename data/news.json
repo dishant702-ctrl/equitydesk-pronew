@@ -1,5 +1,5 @@
 {
-  "updated_ist": "24 Aug 2026 13:58 IST",
+  "updated_ist": "24 Aug 2026 14:56 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,24 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "BSE shares:  Prabhudas Lilladher cuts target price to Rs 4,025 as CAS hits derivatives volumes",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-prabhudas-lilladher-cuts-target-price-to-rs-4025-as-cas-hits-derivatives-volumes/articleshow/133458650.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "Prabhudas Lilladher retained its \u2018Buy\u2019 rating on BSE but lowered the target price to Rs 4,025 from Rs 4,850, citing a slowdown in derivatives volumes after the implementation of the Closing Auction Se",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Explained: What Oriental Hotels\u2019 merger with IHCL means for shareholders",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-oriental-hotels-merger-with-ihcl-means-for-shareholders/articleshow/133458475.cms",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "IHCL will merge Oriental Hotels into itself through an all-stock transaction, with Oriental Hotels shareholders set to receive 25 IHCL shares for every 117 shares held. The merger will bring seven hot",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: European shares edge lower as investors await Iran sanctions details",
@@ -67,24 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "PLI 2.0 for mobiles set to reward scale, exports; Dixon a key beneficiary: Motilal Oswal",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pli-2-0-for-mobiles-set-to-reward-scale-exports-dixon-a-key-beneficiary-motilal-oswal/articleshow/133455488.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "The government\u2019s new mobile phone manufacturing incentive scheme is set to favour companies with scale, export capabilities and strong domestic supply chains. Motilal Oswal said Dixon Technologies is ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: AI debt boom tests investor appetite as tech bond issuance surges",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-debt-boom-tests-investor-appetite-as-tech-bond-issuance-surges/articleshow/133454992.cms",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "AI-driven debt issuance is testing investor appetite as technology companies flood bond markets with new supply. Hyperscaler issuance has reached $220 billion in 2026, prompting investors to demand hi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -112,74 +112,83 @@
       "is_portfolio": false
     },
     {
-      "title": "Siemens rallies 5%, hits new high in subdued market; what's driving stock?",
+      "title": "Ratnamani Metals & Tubes arm wins export orders worth Rs 2,700 cr",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/siemens-rallies-5-hits-new-high-in-subdued-market-what-s-driving-stock-126082400430_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ratnamani-metals-tubes-arm-wins-export-orders-worth-rs-2-700-cr-126082400571_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Thus far in the financial year 2026-27, Siemens outperformed the market by soaring 40 per cent, against a 7.5 per cent rise in the BSE Sensex.",
+      "desc": "",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "TVS Supply Chain share price zooms 16% in subdued market; here's why",
+      "title": "Heranba Industries spurts as Q1 PAT rises 17.1% YoY",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/tvs-supply-chain-share-price-zooms-16-in-subdued-market-here-s-why-126082400501_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/heranba-industries-spurts-as-q1-pat-rises-17-1-yoy-126082400570_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "The buying momentum came after the logistics solutions provider announced that it had signed a pact with Japan-based Sankyu Inc to collaborate across supply chain and engineering services.",
+      "desc": "Heranba Industries jumped 9.53% to Rs 180.60 after the company reported an improvement in profitability in Q1 FY27, despite a decline in revenue.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Brahmaputra Infrastructure secures O&M contract for NH-502A corridor in Mizoram",
+      "title": "Crisil Ratings reaffirms ratings of Hirect at 'BBB/A2' with 'stable' outlook",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/brahmaputra-infrastructure-secures-o-m-contract-for-nh-502a-corridor-in-mizoram-126082400483_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-reaffirms-ratings-of-hirect-at-bbb-a2-with-stable-outlook-126082400554_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Brahmaputra Infrastructure has formally executed and signed the agreement for the contract valued at Rs 70.18 crore awarded by the Ministry of Road Transport & Highways (MoRT&H) for operation and main",
+      "desc": "Hirect (HRL) said that Crisil Ratings has reaffirmed its 'Crisil BBB+/Stable/Crisil A2' ratings on the bank facilities of the company.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Caplin Point Lab declines  after arm receives form-485 with 10 observations from USFDA",
+      "title": "Ajanta Pharma Ltd slips for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/caplin-point-lab-declines-after-arm-receives-form-485-with-10-observations-from-usfda-126082400481_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ajanta-pharma-ltd-slips-for-fifth-straight-session-126082400553_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Caplin Point Laboratories fell 2.38% to Rs 2,497.25 after the company said that the USFDA conducted an unannounced inspection of its subsidiary Caplin Steriles' injectable and ophthalmic manufacturing",
+      "desc": "Ajanta Pharma Ltd is quoting at Rs 3582.5, down 1.57% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 17.79% fall  in the N",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Power Co's renewables arm commissions 190.5 MW FDRE project in Rajasthan",
+      "title": "Lloyds Metals & Energy Ltd drops for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tata-power-co-s-renewables-arm-commissions-190-5-mw-fdre-project-in-rajasthan-126082400479_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/lloyds-metals-energy-ltd-drops-for-fifth-straight-session-126082400552_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Tata Power Company said that Tata Power Renewable Energy has commissioned its 190.5 MW solar FDRE project at Kalasar, Bikaner, Rajasthan, which is under the contractual capacity of 460 MW firm and dis",
+      "desc": "Lloyds Metals & Energy Ltd is quoting at Rs 1845, down 1.12% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 41.11% fall  i",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NMDC Ltd rises for third straight session",
+      "title": "Sun TV Network Ltd drops for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nmdc-ltd-rises-for-third-straight-session-126082400478_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sun-tv-network-ltd-drops-for-fifth-straight-session-126082400551_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "NMDC Ltd is quoting at Rs 85.91, up 1.54% on the day as on 12:49 IST on the NSE. The stock is up 21.55% in last one year as compared to a 3.13% slide in NIFTY and a 41.29% slide in the Nifty Metal ind",
+      "desc": "Sun TV Network Ltd is quoting at Rs 470.9, down 0.24% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 1.13% fall  in the Ni",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Hindustan Zinc Ltd rises for third consecutive session",
+      "title": "REC Ltd eases for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-zinc-ltd-rises-for-third-consecutive-session-126082400477_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/rec-ltd-eases-for-fifth-straight-session-126082400550_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Hindustan Zinc Ltd is quoting at Rs 609.6, up 2.47% on the day as on 12:49 IST on the NSE. The stock is up 40.23% in last one year as compared to a 3.13% drop in NIFTY and a 41.29% drop in the Nifty M",
+      "desc": "REC Ltd is quoting at Rs 324.6, down 0.63% on the day as on 13:19 IST on the NSE. The stock tumbled 13.45% in last one year as compared to a 3.18% slide in NIFTY and a 0.73% fall  in the Nifty Financi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Prime Focus Ltd soars 2.68%, Gains for third straight session",
+      "title": "Bharat Heavy Electricals Ltd slips for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/prime-focus-ltd-soars-2-68-gains-for-third-straight-session-126082400476_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-heavy-electricals-ltd-slips-for-fifth-straight-session-126082400549_1.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Prime Focus Ltd is quoting at Rs 304.9, up 2.68% on the day as on 12:49 IST on the NSE. The stock is up 100.94% in last one year as compared to a 3.13% fall in NIFTY and a 0.75% fall in the Nifty Medi",
+      "desc": "Bharat Heavy Electricals Ltd is quoting at Rs 410.2, down 0.68% on the day as on 13:19 IST on the NSE. The stock jumped 89.46% in last one year as compared to a 3.18% slide in NIFTY and a 10.91% spurt",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Crompton Greaves\u2019 rewired growth ambitions come with margin dilution risk",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/crompton-greaves-rewired-growth-ambitions-come-with-margin-dilution-risk-11787559176983.html",
+      "date": "Mon, 24 Aug 2026",
+      "desc": "The company\u2019s ability to scale its new businesses quickly will be critical to achieving its ambitions.",
       "tags": [],
       "is_portfolio": false
     },
@@ -224,7 +233,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/retail-futures-options-traders-f-o-participation-sebi-report-fy26-11787548104758.html",
       "date": "Mon, 24 Aug 2026",
-      "desc": "Active individual derivatives traders fell 18% in FY26 as new entrants plunged and exits surged, signalling a shift towards a repeat-trader market.",
+      "desc": "Active individual F&amp;amp;O traders fell 18% in FY26 as new entrants plunged and exits surged, pointing to a market increasingly dominated by repeat traders.",
       "tags": [],
       "is_portfolio": false
     },
@@ -243,15 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-5-after-implementation-of-spacex-international-plan-11787552936919.html",
       "date": "Mon, 24 Aug 2026",
       "desc": "Blue Cloud Softech Solutions share price opened at  \u20b922.99 apiece today, as compared to previous close of  \u20b922.11 on Friday. The small-cap IT stock touched an intraday high of  \u20b923.54 on 24 August.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Aurobindo Pharma US subsidiary Lannett Company LLC faces 4 observations from the USFDA",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/aurobindo-pharma-us-subsidiary-lannett-company-llc-faces-4-observations-from-the-usfda-11787552311921.html",
-      "date": "Mon, 24 Aug 2026",
-      "desc": "Aurobindo Pharma said the US FDA conducted a routine inspection of its wholly owned step-down subsidiary in the US from 17th to 21st August 2026, which concluded with four observations.",
       "tags": [],
       "is_portfolio": false
     }
