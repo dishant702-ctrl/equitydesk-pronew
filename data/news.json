@@ -1,16 +1,59 @@
 {
-  "updated_ist": "25 Aug 2026 15:44 IST",
+  "updated_ist": "25 Aug 2026 16:24 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "title": "Rays of Belief IPO: Mom's Belief operator announces price band for issue opening on September 1",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rays-of-belief-ipo-moms-belief-operator-announces-price-band-for-issue-opening-on-september-1/articleshow/133506271.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Rays of Belief, which operates under the Mom\u2019s Belief brand, will open its IPO on September 1, with a price band of Rs 227-239 per share. The Rs 125 crore issue comprises a fresh issue of 52.30 lakh s",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Multibagger stocks: Ather Energy, Hind Copper, MCX among stocks which surged up to 250% in one year",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stocks-ather-energy-hind-copper-mcx-among-stocks-which-surged-up-to-250-in-one-year/slideshow/133506231.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Despite Nifty 50 losses, several Nifty 500 stocks delivered multibagger returns over the past year. Ather Energy led with 248%, followed by HFCL, Welspun Corp, Aditya Infotech, Hindustan Copper, RR Ka",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Oil fall lifts rupee to over one-week high after central bank keeps lid on losses",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/oil-fall-lifts-rupee-to-over-one-week-high-after-central-bank-keeps-lid-on-losses/articleshow/133505392.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "The Indian rupee surged to a one-week peak on Tuesday, empowered by the recent dip in oil prices alongside measures taken by the central bank. Throughout the trading day, the rupee remained within a n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Japanese businesses turn to currency hedging as weak Yen drives up import costs",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-businesses-turn-to-currency-hedging-as-weak-yen-drives-up-import-costs/articleshow/133505126.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Japanese businesses are increasingly turning to longer-term supplier agreements and currency hedging as the yen\u2019s prolonged weakness raises import costs and makes expenses harder to predict. Companies",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex rises 287 points, Nifty closes above 24,300 as market swings into green on first monthly expiry after CAS",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-287-points-nifty-closes-above-24300-as-market-swings-into-green-on-first-monthly-expiry-after-cas/articleshow/133505296.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "The Indian stock market ended higher on Tuesday after a volatile session, with Sensex gaining 287 points and Nifty rising 115 points. Pharma, PSU banks and consumer durables led sectoral gains, while ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "MFs kept buying these 9 largecap stocks for 2 quarters; shares surged up to 50%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-kept-buying-these-9-largecap-stocks-for-2-quarters-shares-surged-up-to-50/slideshow/133505362.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Mutual funds have steadily raised their holdings in several large-cap stocks over the past two quarters, with nine such stocks delivering 25-50% gains in CY26 so far. Data from ACE Equity shows that A",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Hindustan Zinc shares fall 3% on reports of fresh government stake sale via OFS",
@@ -31,155 +74,83 @@
       "is_portfolio": false
     },
     {
-      "title": "Strong Returns! IPO market heats up with 25% average listing gains in two months",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-returns-ipo-market-heats-up-with-25-average-listing-gains-in-two-months/articleshow/133501984.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "India\u2019s IPO market has staged a strong comeback in July-August, with 18 of 22 listings delivering positive debut-day returns. Average listing gains stood at 25%, sharply above the 7% recorded in Q1FY2",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: European markets gain as investors assess impact of Iran sanctions",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-gain-as-investors-assess-impact-of-iran-sanctions/articleshow/133501875.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "European shares edged higher on Tuesday, as investors took some relief from the lack of immediate penalties following the latest US sanctions warning against Iran. Defence stocks led gains, rising abo",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Japanese bond ETFs attract a record $1.5 billion in net inflows in 2026 so far, Morningstar say",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/japanese-bond-etfs-attract-a-record-1-5-billion-in-net-inflows-in-2026-so-far-morningstar-say/articleshow/133501499.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "This year, Japanese bond exchange traded funds have experienced an unprecedented surge in inflows, driven by increasing government bond yields that enhance the appeal of Japan's debt for investors. Eu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global market: Eurozone bond yields steady as oil prices ease, traders assess Iran sanctions",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-steady-as-oil-prices-ease-traders-assess-iran-sanctions/articleshow/133500147.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Eurozone bond yields remained largely stable as investors assessed new U.S. sanctions on Iran and easing oil prices. Germany\u2019s 10-year yield held near a 15-year high, while longer-term yields stayed e",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Conflict-hit oil supply crisis deepens as nearly half of global output comes from affected countries",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/conflict-hit-oil-supply-crisis-deepens-as-nearly-half-of-global-output-comes-from-affected-countries/articleshow/133499798.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Nearly half of the world\u2019s oil supply now comes from countries affected by conflict, highlighting the growing vulnerability of global energy markets. Reuters calculations based on IEA data show that I",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "697 days, no record high: Sensex hits worst two-year return stretch since 2012. Will this end soon?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/697-days-no-new-record-high-sensex-hits-worst-two-year-return-stretch-since-2012-will-this-end-soon/articleshow/133499658.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "The Sensex has gone 697 days without a new record high, marking its longest stretch of weakness in years. In 2026, 37% of trading days have delivered negative two-year returns, the highest share since",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tata Comm and TMPV partner to power new Sierra.ev with seamless connectivity",
+      "title": "Sensex settles 287 pts higher; Nifty ends above 24,300 level",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tata-comm-and-tmpv-partner-to-power-new-sierra-ev-with-seamless-connectivity-126082500762_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-settles-287-pts-higher-nifty-ends-above-24-300-level-126082500830_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Tata Communications and Tata Motors Passenger Vehicles (TMPV) today announced collaboration to power the newly launched Sierra.ev, with in-built 5G cellular connectivity, paving the way for futuristic",
+      "desc": "\nAs per provisional closing data, the S&P BSE Sensex jumped 286.98 points or 0.37% to 77,656.09. The Nifty 50 index added 115.50 points or 0.48% to 24,334.55. \n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Natco Pharma to further invest USD 14M in eGenesis Inc.",
+      "title": "BMW Ventures bags Rs 25-cr orders from Tata Projects",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/natco-pharma-to-further-invest-usd-14m-in-egenesis-inc-126082500761_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bmw-ventures-bags-rs-25-cr-orders-from-tata-projects-126082500814_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Natco Pharma is investing US$ 14 million in eGenesis, Inc. through its wholly owned subsidiaries, NATCO Pharma (Canada) Inc. for an amount of US$ 9.5 million and NATCO Pharma South Africa Proprietary ",
+      "desc": "BMW Ventures announced that it has received two purchase orders worth an aggregate Rs 24.98 crore from Tata Projects for the supply of TMT steel of FE-550D grade for the 3X800MW USCTPP-Adani project.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Paytm zooms 81% from March low; hits highest level since December 2021",
+      "title": "Hindustan Copper Ltd leads losers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/paytm-zooms-81-from-march-low-hits-highest-level-since-december-2021-126082500684_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-copper-ltd-leads-losers-in-a-group-126082500813_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "In the past month, the stock price of Paytm outperformed the market by surging 39 per cent from a level of \u20b91,236.20 on July 24, 2026.",
+      "desc": "TD Power Systems Ltd, Paras Defence and Space Technologies Ltd, Rain Industries Ltd and Data Patterns (India) Ltd are among the other losers in the BSE's 'A' group today, 25 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades below 24,200 level; auto share decline",
+      "title": "Shah Metacorp Ltd leads losers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-200-level-auto-share-decline-126082500685_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/shah-metacorp-ltd-leads-losers-in-b-group-126082500812_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex, declined 90.83 points or 0.12% to 77,278.28. The Nifty 50 index lost 45.50 points or 0.18% to 24,172.25.\n",
+      "desc": "DJ Mediaprint & Logistics Ltd, ICDS Ltd, Rashi Peripherals Ltd and MPDL Ltd are among the other losers in the BSE's 'B' group today, 25 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Federal Bank slips 4% as lender clarifies on Jana SFB acquisition",
+      "title": "Volumes jump at Fertilizers & Chemicals Travancore Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/federal-bank-slips-4-as-lender-clarifies-on-acquisition-of-jana-sfb-126082500675_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-fertilizers-chemicals-travancore-ltd-counter-126082500811_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Federal Bank shares fell 4 per cent after it issued a clarification on reports that it may acquire a controlling stake in Jana Small Finance Bank.",
+      "desc": "Fertilizers & Chemicals Travancore Ltd saw volume of 301.62 lakh shares by 14:14 IST on NSE, a 206.35 fold spurt over two-week average daily volume of 1.46 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Higher crude oil prices risk demand destruction, says Mirae Asset Sharekhan",
+      "title": "Samvardhana Motherson International Ltd down for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/higher-crude-oil-prices-risk-demand-destruction-says-mirae-asset-sharekhan-126082500640_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/samvardhana-motherson-international-ltd-down-for-fifth-straight-session-126082500810_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "The main source of uncertainty remains the US-Iran standoff and the continuing disruption around the Strait of Hormuz.",
+      "desc": "Samvardhana Motherson International Ltd is quoting at Rs 165.16, down 2.27% on the day as on 13:19 IST on the NSE. The stock jumped 77.67% in last one year as compared to a 2.36% slide in NIFTY and a ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Muthoot vs Manappuram: Analysts decode 2% vs 51% FY27 gain gap; what next?",
+      "title": "Sona BLW Precision Forgings Ltd down for fifth straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/muthoot-vs-manappuram-analysts-decode-2-vs-51-fy27-gain-gap-what-next-126082500625_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sona-blw-precision-forgings-ltd-down-for-fifth-straight-session-126082500809_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Gold-financers Muthoot Finance and Manappuram Finance saw a divergence in stock performance primarily due to stock re-rating, says Sunny Agrawal, Head of Fundamental Research at SBI Securities.",
+      "desc": "Sona BLW Precision Forgings Ltd is quoting at Rs 806.55, down 0.85% on the day as on 13:19 IST on the NSE. The stock jumped 77.77% in last one year as compared to a 2.36% slide in NIFTY and a 14.26% s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades near the day's low; European markets bounce back from recent lows",
+      "title": "Davangere Sugar Company allots 26.59 cr equity shares on conversion of FCCBs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-near-the-day-s-low-european-markets-bounce-back-from-recent-lows-126082500614_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/davangere-sugar-company-allots-26-59-cr-equity-shares-on-conversion-of-fccbs-126082500808_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "\nThe benchmark indices pared most of the recovery gains and traded near the day's low in afternoon trade. Market sentiment remained subdued amid weak global cues, while volatility stayed in focus as i",
+      "desc": "\nWith this allotment, the paid up equity share capital has increased to Rs 169,58,95,798/-divided into 169,58,95,798- fully paid-up equity shares of Re 1/- each and  900 FCCBs of Principal amount of U",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 25 Aug: FACT, Vodafone Idea, Cyient, Paytm, Angel One, Pine Labs among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-25-aug-fact-vodafone-idea-cyient-paytm-angel-one-pine-labs-among-top-gainers-11787650287290.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "The Indian stock market recovered by close on August 25, buoyed by late buying; Nifty 50 gained 0.17% and Sensex 0.21%. Despite gains, market sentiment stayed fragile amid heightened tensions related ",
       "tags": [],
       "is_portfolio": false
     },
@@ -188,7 +159,7 @@
       "source": "Mint",
       "link": "https://www.livemint.com/market/stock-market-news/sensex-gains-287-points-nifty-50-ends-at-24-335-what-drove-the-stock-market-up-today-11787652088991.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Sensex gains 287 points, Nifty 50 ends at 24,335- What drove the stock market up today?",
+      "desc": "The Sensex closed 287 points, or 0.37%, higher at 77,656, while the Nifty settled at 24,335, rising 116 points, or 0.48%.",
       "tags": [],
       "is_portfolio": false
     },
@@ -243,15 +214,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/explained-are-waterways-leisure-tourism-shares-really-down-by-90-11787642144381.html",
       "date": "Tue, 25 Aug 2026",
       "desc": "Waterways Leisure Tourism has announced a 1:10 stock split effective from 26 August. Today's trading is the last chance for investors to buy shares and qualify. The split aims to enhance liquidity and",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sumax Engineering IPO day 1: Issue fully subscribed; GMP signals 35% listing pop; key details of SME IPO in 10 points",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sumax-engineering-ipo-day-1-issue-fully-subscribed-gmp-signals-35-listing-pop-key-details-of-sme-ipo-in-10-points-11787640725570.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Sumax Engineering IPO, which opened on August 25, is witnessing robust buying interest and is fully subscribed in just hours. GMP indicates a potential list premium.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     }
