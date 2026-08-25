@@ -1,17 +1,6 @@
 {
-  "updated_ist": "25 Aug 2026 12:32 IST",
+  "updated_ist": "25 Aug 2026 13:30 IST",
   "news": [
-    {
-      "title": "Global Market: Porsche stock falls as MHP sale, weak revenue keep investors on edge",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-porsche-stock-falls-as-mhp-sale-weak-revenue-keep-investors-on-edge/articleshow/133495008.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Porsche shares faced pressure as investors assessed its \u20ac320 million MHP sale to TCS and a \u20ac1.25 billion technology partnership. The deal supports digital transformation, but weaker quarterly revenue,",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise",
+      "title": "Global market: Eurozone bond yields steady as oil prices ease, traders assess Iran sanctions",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-edge-higher-as-us-treasury-yields-oil-prices-rise/articleshow/133496737.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-steady-as-oil-prices-ease-traders-assess-iran-sanctions/articleshow/133500147.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Japanese government bond yields edged higher on Tuesday, tracking a rise in US Treasury yields and recovering oil prices. Investors remained cautious ahead of key comments from Bank of Japan Deputy Go",
+      "desc": "Eurozone bond yields remained largely stable as investors assessed new U.S. sanctions on Iran and easing oil prices. Germany\u2019s 10-year yield held near a 15-year high, while longer-term yields stayed e",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Antique initiates coverage on Astra Microwave with Buy; sees defence electronics upcycle driving growth",
+      "title": "Conflict-hit oil supply crisis deepens as nearly half of global output comes from affected countries",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/antique-initiates-coverage-on-astra-microwave-with-buy-sees-defence-electronics-upcycle-driving-growth/articleshow/133496713.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/conflict-hit-oil-supply-crisis-deepens-as-nearly-half-of-global-output-comes-from-affected-countries/articleshow/133499798.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Antique Stock Broking initiated coverage on Astra Microwave Products with a buy rating and Rs 2,000 target price, implying around 20% upside from its August 25 market price. The stock rose as much as ",
+      "desc": "Nearly half of the world\u2019s oil supply now comes from countries affected by conflict, highlighting the growing vulnerability of global energy markets. Reuters calculations based on IEA data show that I",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Will IHCL's merger with Oriental Hotels unlock value for shareholders? Here's what Goldman Sachs, Nomura, and others say",
+      "title": "697 days, no new record high: Sensex hits worst two-year return stretch since 2012. Will this end soon?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-ihcls-merger-with-oriental-hotels-unlock-value-for-shareholders-heres-what-goldman-sachs-nomura-and-others-say/articleshow/133496525.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/697-days-no-new-record-high-sensex-hits-worst-two-year-return-stretch-since-2012-will-this-end-soon/articleshow/133499658.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "IHCL\u2019s merger with Oriental Hotels is expected to be EPS accretive and strengthen its presence in South India, according to brokerages. Nomura, Goldman Sachs and JM Financial retained Buy ratings on I",
+      "desc": "The Sensex has gone 697 days without a new record high, marking its longest stretch of weakness in years. In 2026, 37% of trading days have delivered negative two-year returns, the highest share since",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ratnamani Metals shares rally up to 21% in two sessions after securing Rs 2,700 crore order",
+      "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ratnamani-metals-shares-rally-up-to-21-in-two-sessions-after-securing-rs-2700-crore-order/articleshow/133495796.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Ratnamani Metals &amp; Tubes shares gained around 21% in two trading sessions after its subsidiary, Ratnamani Finow Spooling Solutions, secured export orders worth approximately Rs 2,700 crore. The or",
+      "desc": "With NSE\u2019s IPO expected in the second half of September, investors face a choice between buying its unlisted shares or waiting for the public issue. NSE\u2019s unlisted shares are currently trading around ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Money-making ideas: Urban Company, PB Fintech among top technical picks from Axis Securities. Check key levels",
+      "title": "Q1 earnings show resilience, but downside risks still loom. HSBC explains why",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/money-making-ideas-urban-company-pb-fintech-among-top-technical-picks-from-axis-securities-check-key-levels/slideshow/133496362.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-but-downside-risks-still-loom-hsbc-explains-why/articleshow/133498606.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "The brokerage expects 24,000 to act as a crucial support level for the Nifty; a sustained break below this level could trigger further weakness towards 23,800. ",
+      "desc": "Indian companies delivered better-than-expected Q1FY27 earnings, with around 70% of firms meeting or beating HSBC\u2019s estimates. Mid- and small-cap companies led growth, while financials drove earnings ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global market: Mainland China stocks slip as metal shares drop, investors await Jackson Hole cues",
+      "title": "Bernstein cuts PFC, REC target prices as bank competition weighs on loan growth",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-china-stocks-slip-as-metal-shares-drop-investors-await-jackson-hole-cues/articleshow/133495355.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-cuts-pfc-rec-target-prices-as-bank-competition-weighs-on-loan-growth/articleshow/133498418.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Mainland Chinese stocks declined, led by non-ferrous metals, amid Middle East tensions and caution ahead of Jackson Hole. Investors await Fed Chair Kevin Warsh\u2019s remarks for policy clues, while Hong K",
+      "desc": "Bernstein has retained an Outperform rating on Power Finance Corporation (PFC) and REC but cut its target prices and loan-growth estimates, citing stronger competition from banks, slower renewable cap",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Nikkei drops as Japanese chip stocks track US tech selloff",
+      "title": "Micron Under Pressure: Is the AI Memory Boom Losing Momentum?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-drops-as-japanese-chip-stocks-track-us-tech-selloff/articleshow/133494573.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-under-pressure-is-the-ai-memory-boom-losing-momentum/slideshow/133499492.cms",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Japan's Nikkei share average saw a dip as tech stocks tracked declines in the US, particularly in the semiconductor sector. Investor caution grew ahead of Nvidia's anticipated quarterly earnings, with",
+      "desc": "Micron shares slid 7% amid a broader semiconductor selloff, crowded memory-chip trades and concerns over the durability of the AI boom, despite contracted HBM demand through 2026. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IFL Finance shares drop 8% as IIFL Home Finance gets Rs 963 crore tax demand",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ifl-finance-shares-drop-8-as-iifl-home-finance-gets-rs-963-crore-tax-demand/articleshow/133498257.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "IIFL Finance shares fell sharply on Tuesday after subsidiary IIFL Home Finance received a Rs 963.39 crore income tax demand covering April 2018 to February 2025. The company disputed the additions and",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,6 +112,60 @@
       "is_portfolio": false
     },
     {
+      "title": "WazirX launches AI trading assistant for crypto research, trade execution",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/cryptocurrency/wazirx-launches-ai-trading-assistant-for-crypto-research-trade-execution-126082500526_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Indian cryptocurrency exchange WazirX on Tuesday launched WazirX AI, an artificial-intelligence trading assistant that combines market research, portfolio analysis and trade preparation in a single co",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Kothari Industrial Corporation secures food services contract worth Rs 12 cr",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kothari-industrial-corporation-secures-food-services-contract-worth-rs-12-cr-126082500556_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "From six municipalities in state of Tamil Nadu",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sebi drops Max, Axis entities case over alleged \u20b93,911 cr shareholder loss",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-drops-max-axis-entities-case-over-alleged-3-911-cr-shareholder-loss-126082500517_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Sebi has disposed of proceedings against Max Financial Services, Max Life, and Axis Group entities over an alleged Rs 3,911 crore shareholder loss, with the markets regulator finding that disclosure l",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indices pare losses; Nifty above 24,150 mark",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-pare-losses-nifty-above-24-150-mark-126082500528_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "\nThe Nifty option chain for the 25 August 2026 expiry indicated a narrow trading range, with maximum call open interest (OI) of 4.47 crore contracts at the 24,200 strike, suggesting stiff resistance n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BJP to contest all 117 seats in Punjab Assembly polls",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bjp-to-contest-all-117-seats-in-punjab-assembly-polls-126082500496_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "\nAddressing the party's first zonal meeting in Patiala, Santosh said Punjab was ready for change and the BJP was prepared to form the government in the state.\n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Union Minister for Commerce Piyush Goyal highlights strategic and comprehensive nature of India-Japan relations",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/union-minister-for-commerce-piyush-goyal-highlights-strategic-and-comprehensive-nature-of-india-japan-relations-126082500495_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Union Minister of Commerce and Industry, Piyush Goyal, today held discussions in Tokyo with senior leaders of leading Japanese financial and investment institutions on strengthening long-term capital ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Crisil Ratings affirms ratings of Siyaram Silk Mills at 'AA-/A1+' with 'stable' outlook",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-affirms-ratings-of-siyaram-silk-mills-at-aa-a1-with-stable-outlook-126082500478_1.html",
@@ -132,56 +184,38 @@
       "is_portfolio": false
     },
     {
-      "title": "Rashtriya Chemicals & Fertilizers Ltd leads gainers in 'A' group",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rashtriya-chemicals-fertilizers-ltd-leads-gainers-in-a-group-126082500476_1.html",
+      "title": "Indiabulls share price hits upper circuit, erases gains after this update on RERA-approved project worth  \u20b93,700 crore",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/indiabulls-share-price-hits-upper-circuit-erases-gains-after-this-update-on-rera-approved-project-worth-3-700-crore-11787643850339.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Vodafone Idea Ltd, Tourism Finance Corporation of India Ltd, Paradeep Phosphates Ltd and AWL Agri Business Ltd are among the other gainers in the BSE's 'A' group today, 25 August 2026.",
+      "desc": "Indiabulls share price witnessed strong volatility in intraday trade on Tuesday, 25 August, with the stock hitting its upper circuit and erasing all gains, after the company offered an update for its ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nitin Spinners: This textile stock hit new high, zoomed 104% from Jan low",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/nitin-spinners-share-price-this-textile-stock-hit-new-high-zoomed-104-from-jan-low-126082500391_1.html",
+      "title": "EXPLAINED! Are Waterways Leisure Tourism shares really down by 90%?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/explained-are-waterways-leisure-tourism-shares-really-down-by-90-11787642144381.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Thus far in the calendar year 2026, Nitin Spinners outperformed the market by surging 96 per cent, compared to a 9.3 per cent decline in the BSE Sensex.",
+      "desc": "Waterways Leisure Tourism has announced a 1:10 stock split effective from 26 August. Today's trading is the last chance for investors to buy shares and qualify. The split aims to enhance liquidity and",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Afcons Infra gains on receiving Rs 335 crore arbitral award",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/afcons-infra-gains-on-receiving-rs-335-crore-arbitral-award-126082500427_1.html",
+      "title": "Sumax Engineering IPO day 1: Issue fully subscribed; GMP signals 35% listing pop; key details of SME IPO in 10 points",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sumax-engineering-ipo-day-1-issue-fully-subscribed-gmp-signals-35-listing-pop-key-details-of-sme-ipo-in-10-points-11787640725570.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Afcons Infrastructure added 2.82% to Rs 286.35 after the company received an arbitral award of Rs 335.50 crore in its favour in proceedings against Uttar Pradesh Expressways Industrial Development Aut",
+      "desc": "Sumax Engineering IPO, which opened on August 25, is witnessing robust buying interest and is fully subscribed in just hours. GMP indicates a potential list premium.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sigma Advanced Systems hits the roof after securing additional long-term deal from Rolls-Royce",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sigma-advanced-systems-hits-the-roof-after-securing-additional-long-term-deal-from-rolls-royce-126082500426_1.html",
+      "title": "Navin Fluorine\u2019s new refrigerant capacity seen adding to its CDMO momentum",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/navin-fluorine-international-r32-refrigerants-high-performance-products-hpp-cdmo-specialty-chemicals-11787636833896.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Sigma Advanced Systems was locked in 5% upper circuit at Rs 693.20 after the company secured an additional long-term agreement worth nearly 125 million (approximately Rs 1,600 crore) from Rolls-Royce.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dollar index seen inching back above 99 mark",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/dollar-index-seen-inching-back-above-99-mark-126082500404_1.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "\nThe dollar index is seen reclaiming back 99 mark on Tuesday, supported by safe-haven demand as the US moved to cut Iran off from the global financial system. Treasury Secretary Scott Bessent announce",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IIFL Finance shares crack 8% after \u20b9963-crore tax demand for subsidiary",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/iifl-finance-shares-crack-8-after-963-crore-tax-demand-for-subsidiary-126082500382_1.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Despite today's fall, IIFL Finance shares remain 8.7 per cent higher on a year-to-date (YTD) basis and 47 per cent for the last one year.",
+      "desc": "Navin Fluorine\u2019s earnings momentum is gaining pace, with new R32 capacity and a fast-growing CDMO business offering fresh growth levers. But valuations leave little room for execution misses.",
       "tags": [],
       "is_portfolio": false
     },
@@ -218,42 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-stock-plunges-7-heres-why-11787638180391.html",
       "date": "Tue, 25 Aug 2026",
       "desc": "The PSU stock suffered strong losses as the Indian government is looking to sell up to a 6% stake in the company through the OFS at a floor price of  \u20b9514 per share.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Augmont Enterprises IPO Day 3: Issue booked 24.98x so far. GMP hints 41% listing pop. Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/augmont-enterprises-ipo-day-3-issue-booked-21-33x-so-far-gmp-hints-41-listing-pop-apply-or-not-11787634287864.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "The Augmont Enterprises IPO was 14.46 times subscribed by the second day, reflecting strong investor interest. It is set at  \u20b9750-788 per share, closing on August 25, with a projected market cap of  \u20b9",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Annu Projects IPO Day 1 LIVE: GMP, subscription status to review | Apply or not?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/annu-projects-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787632322925.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Annu Projects IPO GMP today: According to market observers, the company shares are trading at par in the grey market today",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Piramal Finance  \u20b92,100 crore QIP: Check key dates, indicative issue price, purpose behind fund raise",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/piramal-finance-2-100-crore-qip-check-key-dates-indicative-issue-price-purpose-behind-fund-raise-11787632998420.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Piramal Finance is raising funds of up to  \u20b92,100 crore through a qualified institutions placement (QIP). In an exchange filing on 24 August, the company said its board had authorised the opening of t",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sunshine Pictures IPO listing: Shares debut at a 10% premium on the NSE despite weak stock market sentiment",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-listing-shares-debut-at-a-10-premium-on-the-nse-despite-weak-stock-market-sentiment-11787631340903.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Sunshine Pictures shares were listed at  \u20b9394 on the BSE, a 9.44% premium over the issue price of  \u20b9360, while the stock was listed at  \u20b9395.90 on the NSE, a 10% premium over the issue price.",
       "tags": [],
       "is_portfolio": false
     }
