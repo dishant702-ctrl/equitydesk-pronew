@@ -1,5 +1,5 @@
 {
-  "updated_ist": "25 Aug 2026 15:11 IST",
+  "updated_ist": "25 Aug 2026 15:44 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,15 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Hindustan Zinc shares fall 3% on reports of fresh government stake sale via OFS",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-fall-3-on-reports-of-fresh-government-stake-sale-via-ofs/articleshow/133504860.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Hindustan Zinc shares dropped on Tuesday after expectations of a fresh government stake sale through an OFS resurfaced following the Hindustan Copper stake sale. The government is reportedly consideri",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Vodafone Idea shares surge 7%: Is SBI-led debt deal finally nearing closure?",
@@ -67,20 +76,11 @@
       "is_portfolio": false
     },
     {
-      "title": "697 days, no new record high: Sensex hits worst two-year return stretch since 2012. Will this end soon?",
+      "title": "697 days, no record high: Sensex hits worst two-year return stretch since 2012. Will this end soon?",
       "source": "Economic Times",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/697-days-no-new-record-high-sensex-hits-worst-two-year-return-stretch-since-2012-will-this-end-soon/articleshow/133499658.cms",
       "date": "Tue, 25 Aug 2026",
       "desc": "The Sensex has gone 697 days without a new record high, marking its longest stretch of weakness in years. In 2026, 37% of trading days have delivered negative two-year returns, the highest share since",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NSE IPO coming soon: Should investors buy unlisted shares now or wait for the mega issue?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-ipo-coming-soon-should-investors-buy-unlisted-shares-now-or-wait-for-the-mega-issue/articleshow/133499038.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "With NSE\u2019s IPO expected in the second half of September, investors face a choice between buying its unlisted shares or waiting for the public issue. NSE\u2019s unlisted shares are currently trading around ",
       "tags": [],
       "is_portfolio": false
     },
@@ -108,6 +108,24 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tata Comm and TMPV partner to power new Sierra.ev with seamless connectivity",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tata-comm-and-tmpv-partner-to-power-new-sierra-ev-with-seamless-connectivity-126082500762_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Tata Communications and Tata Motors Passenger Vehicles (TMPV) today announced collaboration to power the newly launched Sierra.ev, with in-built 5G cellular connectivity, paving the way for futuristic",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Natco Pharma to further invest USD 14M in eGenesis Inc.",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/natco-pharma-to-further-invest-usd-14m-in-egenesis-inc-126082500761_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Natco Pharma is investing US$ 14 million in eGenesis, Inc. through its wholly owned subsidiaries, NATCO Pharma (Canada) Inc. for an amount of US$ 9.5 million and NATCO Pharma South Africa Proprietary ",
       "tags": [],
       "is_portfolio": false
     },
@@ -166,20 +184,29 @@
       "is_portfolio": false
     },
     {
-      "title": "RateGain appoints Shobana Kailash as CHRO",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rategain-appoints-shobana-kailash-as-chro-126082500599_1.html",
+      "title": "Sensex gains 287 points, Nifty 50 ends at 24,335- What drove the stock market up today?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sensex-gains-287-points-nifty-50-ends-at-24-335-what-drove-the-stock-market-up-today-11787652088991.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "\nAs Chief Human Resources Officer, Shobana will lead RateGain's global people strategy. She will own talent, leadership development, and organizational culture, and will work closely with the leadersh",
+      "desc": "Sensex gains 287 points, Nifty 50 ends at 24,335- What drove the stock market up today?",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mukul Agrawal portfolio stock Apollo Pipes zooms 163% from 52-week low",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/mukul-agrawal-portfolio-stock-apollo-pipes-zooms-163-from-52-week-low-126082500546_1.html",
+      "title": "Small-cap stock under  \u20b950 Ebix hits 5% upper circuit for sixth straight session | Do you own?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-ebix-hits-5-upper-circuit-for-sixth-straight-session-do-you-own-11787647567213.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Apollo Pipes management expects a strong recovery over the remainder of FY27E, supported by the Varanasi plant ramp-up, post-monsoon demand recovery and stabilisation in PVC resin price.",
+      "desc": "Ebix shares surged by 5% to  \u20b922.02, hitting an upper circuit for six consecutive sessions after rebounding 36% from its 52-week low. The company also issued over one crore NCMC RuPay smart cards, and",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Vishal Mega Mart gets a 5-year vote of confidence",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/vishal-mega-mart-share-price-stock-outlook-11787641464604.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Gunender Kapur\u2019s reappointment eases a key investor concern, but promoter stake sales, intensifying competition and a richer valuation could test the stock\u2019s next leg of growth.",
       "tags": [],
       "is_portfolio": false
     },
@@ -225,33 +252,6 @@
       "link": "https://www.livemint.com/market/ipo/sumax-engineering-ipo-day-1-issue-fully-subscribed-gmp-signals-35-listing-pop-key-details-of-sme-ipo-in-10-points-11787640725570.html",
       "date": "Tue, 25 Aug 2026",
       "desc": "Sumax Engineering IPO, which opened on August 25, is witnessing robust buying interest and is fully subscribed in just hours. GMP indicates a potential list premium.&amp;nbsp;",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Navin Fluorine\u2019s new refrigerant capacity seen adding to its CDMO momentum",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/navin-fluorine-international-r32-refrigerants-high-performance-products-hpp-cdmo-specialty-chemicals-11787636833896.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Navin Fluorine\u2019s earnings momentum is gaining pace, with new R32 capacity and a fast-growing CDMO business offering fresh growth levers. But valuations leave little room for execution misses.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FPIs are back in India. Their bets show they\u2019re still not sold",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/foreign-investors-india-stocks-fpi-inflows-11787570795633.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Foreign investors have returned to Indian equities after months of heavy selling, but their sector choices point to selective buying rather than a broad bet on India\u2019s growth story.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "PVR INOX share buyback: First ever - Board meeting on Aug 31 | Check face value per share, record date status",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-share-buyback-first-ever-board-meeting-on-aug-31-check-face-value-per-share-record-date-status-11787636241178.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "PVR INOX share buyback: If declared, this will be the first-ever share buyback by the company",
       "tags": [],
       "is_portfolio": false
     }
