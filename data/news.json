@@ -1,6 +1,17 @@
 {
-  "updated_ist": "25 Aug 2026 10:49 IST",
+  "updated_ist": "25 Aug 2026 11:29 IST",
   "news": [
+    {
+      "title": "TCS-Porsche deal: Why Morgan Stanley, Citi, other brokerages still see up to 20% downside potential",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-porsche-deal-why-morgan-stanley-citi-other-brokerages-still-see-up-to-20-downside-potential/articleshow/133493948.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "TCS shares rose after the IT major signed a five-year \u20ac1.25 billion deal with Porsche AG and agreed to acquire its IT arm, MHP, for \u20ac320 million in an all-cash transaction. The acquisition, expected t",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -11,6 +22,51 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Global Market: Nikkei drops as Japanese chip stocks track US tech selloff",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-drops-as-japanese-chip-stocks-track-us-tech-selloff/articleshow/133494573.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Japan's Nikkei share average saw a dip as tech stocks tracked declines in the US, particularly in the semiconductor sector. Investor caution grew ahead of Nvidia's anticipated quarterly earnings, with",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Are BSE, NSE closed on August 26 for Eid-e-Milad? Check full market holiday dates list",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/are-bse-nse-closed-on-august-26-for-eid-e-milad-check-full-market-holiday-dates-list/articleshow/133494507.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "The Indian stock market will remain open on August 26 despite Eid-e-Milad, with the BSE and NSE observing only a settlement holiday. Trading will continue as usual, while clearing and settlement activ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Netweb Technologies shares fall 4% after raising Rs 1,200 crore through QIP",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/netweb-technologies-shares-fall-4-after-raising-rs-1200-crore-through-qip/articleshow/133494330.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Netweb Technologies shares fell nearly 4% after the company completed its Rs 1,200 crore Qualified Institutions Placement (QIP), its first equity capital raise since listing in July 2023. The issue dr",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "From IPO mockery to Rs 1 lakh crore m-cap: Why investors are still betting on Lenskart\u2019s vision",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-ipo-mockery-to-rs-1-lakh-crore-m-cap-why-investors-are-still-betting-on-lenskarts-vision/articleshow/133494107.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Lenskart\u2019s IPO valuation drew sharp criticism from investors, with its 230x P/E and 10.5x sales multiples sparking comparisons with expensive listings such as Mamaearth, Paytm and Nykaa. Retail invest",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Entero Healthcare shares gain 15% in 2 days after Prashant Jain\u2019s 3P Investment picks stake in block deal",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/entero-healthcare-shares-gain-15-in-2-days-after-prashant-jains-3p-investment-picks-stake-in-block-deal/articleshow/133493852.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Entero Healthcare Solutions shares rose sharply after Prashant Jain-owned 3P Investment Managers acquired a 2.5% stake in the company through open market transactions. The shares were bought from Pras",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "FACT, Paradeep Phosphates, RCF, other fertiliser stocks rally up to 13%. Here's why",
@@ -27,60 +83,6 @@
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/pine-labs-delhivery-among-10-stocks-that-saw-sharpest-decline-in-fii-holding-in-q1-check-full-list/slideshow/133493631.cms",
       "date": "Tue, 25 Aug 2026",
       "desc": "Here\u2019s a look at the 10 stocks that witnessed the biggest drop in FII holding during the quarter. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "ESDS Software's Rs 720-cr IPO to open on Aug 28; sets price band at Rs 408-429",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/esds-softwares-rs-720-cr-ipo-to-open-on-aug-28-sets-price-band-at-rs-408-429/articleshow/133492475.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "ESDS Software Solution Ltd has set the price range for its initial public offering, valued at Rs 720 crore. The IPO is set to open for public subscriptions starting August 28, while anchor investors g",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: SK Hynix workers reject pay deal amid bonus dispute",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-sk-hynix-workers-reject-pay-deal-amid-bonus-dispute/articleshow/133492196.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "SK Hynix workers narrowly rejected a wage agreement by just 25 votes, with 50.08% opposing the proposed 6.3% pay hike and revised bonus structure. Resistance centred on receiving 60% of bonuses in sha",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Afcons Infrastructure shares rally 4% after receiving Rs 335.5 crore arbitration award",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/afcons-infrastructure-shares-rally-4-after-receiving-rs-335-5-crore-arbitration-award/articleshow/133492282.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Afcons Infrastructure shares gained 4.40% after the company received a favourable arbitral award of Rs 335.50 crore from a tribunal in its dispute with Uttar Pradesh Expressways Industrial Development",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ceigall India shares rise 4% after winning Rs 705 crore Arunachal Pradesh Frontier Highway project",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ceigall-india-shares-rise-4-after-winning-rs-705-crore-arunachal-pradesh-frontier-highway-project/articleshow/133492063.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Ceigall India shares rose 4% after securing a \u20b9704.7 crore MoRTH contract for the Frontier Highway in Arunachal Pradesh. The EPC project, awarded jointly with Sushee Infra &amp; Mining, includes 48 mo",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Global Market: Unitree\u2019s 45% share slump raises bubble concerns after blockbuster Shanghai debut",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-unitrees-45-share-slump-raises-bubble-concerns-after-blockbuster-shanghai-debut/articleshow/133491891.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Unitree shares have plunged 45% since their blockbuster Shanghai debut, raising concerns over speculative excess and retail investor risks. The humanoid robot maker\u2019s stock surged 460% above its IPO p",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Fall of market leaders! How 6 Nifty giants trapped investors with negative returns for 5 years",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fall-of-market-leaders-how-6-nifty-giants-trapped-investors-with-negative-returns-for-5-years/articleshow/133491673.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Over the past five years, six prominent Nifty companies have reported negative returns. Tata Consultancy Services and Infosys struggle under the strain of evolving IT service landscapes. Hindustan Uni",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +114,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Nifty below 24,150; metal shares lose sheen",
+      "title": "Entero Healthcare jumps after Prashant Jain's 3P Investment picks 2.5% stake",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-below-24-150-metal-shares-lose-sheen-126082500261_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/entero-healthcare-jumps-after-prashant-jain-s-3p-investment-picks-2-5-stake-126082500351_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "\nAt 10:30 IST, the barometer index, the S&P BSE Sensex, declined 231.23 points or 0.30% to 77,137.88. The Nifty 50 index lost 94.80 points or 0.39% to 24,119.60.\n",
+      "desc": "Entero Healthcare Solutions jumped 5.31% to Rs 1,611.10 after 3P Investment Managers, founded and managed by veteran fund manager Prashant Jain, acquired a 2.5% stake in the company through bulk deals",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sudarshan Chemical inks pact to acquire manufacturing unit from Swiss company Clariant",
+      "title": "Volumes jump at Glaxosmithkline Pharmaceuticals Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sudarshan-chemical-inks-pact-to-acquire-manufacturing-unit-from-swiss-company-clariant-126082500260_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-glaxosmithkline-pharmaceuticals-ltd-counter-126082500350_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Sudarshan Chemical Industries said that its Sudarshan Switzerland SLO AG has signed a definitive asset sale and transfer agreement with Clariant Additives (Switzerland) AG to acquire its aluminium dye",
+      "desc": "Glaxosmithkline Pharmaceuticals Ltd saw volume of 2.31 lakh shares by 10:45 IST on BSE, a 12.83 fold spurt over two-week average daily volume of 17984 shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sunshine Pictures gains on market debut",
+      "title": "Tempsens Instruments (India) IPO wraps up with 184.07 times subscription",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sunshine-pictures-gains-on-market-debut-126082500259_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/tempsens-instruments-india-ipo-wraps-up-with-184-07-times-subscription-126082500349_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Shares of Sunshine Pictures were currently trading at Rs 379.45 at 10:15 IST on the BSE, representing a premium of 5.40% as compared with the issue price of Rs 360.",
+      "desc": "The offer received bids for 279.44 crore shares as against 1.51 crore shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shankesh Jewellers rises on debut",
+      "title": "ICICI Bank, SBI: Foreign brokerages pick winners in the Indian banking pack",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-rises-on-debut-126082500258_1.html",
+      "link": "https://www.business-standard.com/markets/news/icici-bank-sbi-foreign-brokerages-pick-winners-in-the-indian-banking-pack-126082500309_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Shares of Shankesh Jewellers were currently trading at Rs 100 at 10:15 IST on the BSE, representing a premium of 7.53% as compared with the issue price of Rs 93.",
+      "desc": "Among large private banks, Goldman Sachs sees the strongest upside in ICICI Bank; Bernstein, meanwhile, rates ICICI Bank, Axis Bank, HDFC Bank and IndusInd Bank as 'Outperform.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Va Tech Wabag inks contract for Doha SWRO Desalination Plant",
+      "title": "Hindustan Copper drops after govt launches 6% stake via OFS",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/va-tech-wabag-inks-contract-for-doha-swro-desalination-plant-126082500257_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-copper-drops-after-govt-launches-6-stake-via-ofs-126082500343_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "",
+      "desc": "Hindustan Copper declined 6.63% to Rs 535 after the government of India launched offer for sale (OFS) to divest 6% stake in the company.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Larsen & Toubro secures BESS projects in the Middle East",
+      "title": "INR edges lower amid renewed geopolitical uncertainty that is keeping oil prices elevated",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/larsen-toubro-secures-bess-projects-in-the-middle-east-126082500256_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/inr-edges-lower-amid-renewed-geopolitical-uncertainty-that-is-keeping-oil-prices-elevated-126082500312_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "The Renewables business vertical of Larsen & Toubro (L&T)has won a major order to develop three Battery Energy Storage System (BESS) projects for a notable client in the Middle East. In addition to th",
+      "desc": "\nThe Indian rupee edged against the American currency in early trade on Tuesday, as elevated crude prices and importer dollar demand weighed on the currency. The RBI's continued intervention through s",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Puravankara enters 7.83-acre joint development project in South-East Bengaluru",
+      "title": "GoI announces the sale of one dated security for a notified amount of \u20b934,000 crore",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/puravankara-enters-7-83-acre-joint-development-project-in-south-east-bengaluru-126082500255_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/goi-announces-the-sale-of-one-dated-security-for-a-notified-amount-of-34-000-crore-126082500311_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "With estimated gross development value of Rs 1,100 cr",
+      "desc": "\nThe Government of India (GoI) has announced the sale (issue/ re-issue) of (i) 6.94% GS 2036 for a notified amount of Rs 34,000 crore. The auction will be conducted using multiple price method. Both c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ceigall India gains 5% after winning \u20b9705-crore Arunachal road project",
+      "title": "Vodafone Idea surges 5% in weak market on huge volume; here's why",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ceigall-india-gains-5-after-winning-705-crore-arunachal-road-project-126082500233_1.html",
+      "link": "https://www.business-standard.com/markets/news/vodafone-idea-share-price-surges-5-in-weak-market-on-huge-volume-here-s-why-126082500262_1.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Ceigall India received Letters of Acceptance from the Ministry of Road Transport & Highway for the construction of a key section of the Lada-Sarli section of NH913 in Arunachal Pradesh.",
+      "desc": "According to reports, Vodafone Idea is in the final stages of closing debt funding from a State Bank of India (SBI)-led consortium of public sector banks.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Augmont Enterprises IPO Day 3: Issue booked 21.33x so far. GMP hints 41% listing pop. Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/augmont-enterprises-ipo-day-3-issue-booked-21-33x-so-far-gmp-hints-41-listing-pop-apply-or-not-11787634287864.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "The Augmont Enterprises IPO was 14.46 times subscribed by the second day, reflecting strong investor interest. It is set at  \u20b9750-788 per share, closing on August 25, with a projected market cap of  \u20b9",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Annu Projects IPO Day 1 LIVE: GMP, subscription status to review | Apply or not?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/annu-projects-ipo-day-1-live-gmp-subscription-status-to-review-apply-or-not-11787632322925.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Annu Projects IPO GMP today: According to market observers, the company shares are trading at par in the grey market today",
       "tags": [],
       "is_portfolio": false
     },
@@ -234,24 +254,6 @@
       "link": "https://www.livemint.com/market/ipo/tempsens-instruments-ipo-allotment-date-likely-today-gmp-how-to-check-allotment-status-online-11787626665110.html",
       "date": "Tue, 25 Aug 2026",
       "desc": "Tempsens Instruments IPO GMP today: Markets observers say that the company's shares are available at a premium of  \u20b9317 in the grey market today, signalling 106% listing pop",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee opens 2 paise higher at 95.73 against US dollar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rupee-opens-2-paise-higher-at-95-73-against-us-dollar-11787628963658.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "The Indian rupee opened at 95.73 against the US dollar, buoyed by RBI interventions in the forex market amid rising crude oil prices. Despite volatility, India's external buffers have strengthened wit",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Family offices in mega IPO pre-placements as they chase outsized returns",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/family-offices-pre-ipo-investments-unlisted-markets-ipos-private-equity-venture-capital-family-office-investing-11787502227268.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Family offices are gravitating towards pre-IPO investments in an alpha chase, in addition to partnering VC and PE funds and directly funding startups. It's to the advantage of over 300 family offices ",
       "tags": [],
       "is_portfolio": false
     }
