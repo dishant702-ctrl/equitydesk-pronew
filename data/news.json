@@ -1,5 +1,5 @@
 {
-  "updated_ist": "25 Aug 2026 14:24 IST",
+  "updated_ist": "25 Aug 2026 15:11 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,42 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Vodafone Idea shares surge 7%: Is SBI-led debt deal finally nearing closure?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-shares-surge-7-is-sbi-led-debt-deal-finally-nearing-closure/articleshow/133502852.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Vodafone Idea shares rose sharply after reports that a consortium of public-sector banks led by SBI is nearing approval of a larger debt package for the telecom operator. The funding is part of Vi\u2019s b",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Strong Returns! IPO market heats up with 25% average listing gains in two months",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/strong-returns-ipo-market-heats-up-with-25-average-listing-gains-in-two-months/articleshow/133501984.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "India\u2019s IPO market has staged a strong comeback in July-August, with 18 of 22 listings delivering positive debut-day returns. Average listing gains stood at 25%, sharply above the 7% recorded in Q1FY2",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: European markets gain as investors assess impact of Iran sanctions",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-markets-gain-as-investors-assess-impact-of-iran-sanctions/articleshow/133501875.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "European shares edged higher on Tuesday, as investors took some relief from the lack of immediate penalties following the latest US sanctions warning against Iran. Defence stocks led gains, rising abo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Japanese bond ETFs attract a record $1.5 billion in net inflows in 2026 so far, Morningstar say",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/japanese-bond-etfs-attract-a-record-1-5-billion-in-net-inflows-in-2026-so-far-morningstar-say/articleshow/133501499.cms",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "This year, Japanese bond exchange traded funds have experienced an unprecedented surge in inflows, driven by increasing government bond yields that enhance the appeal of Japan's debt for investors. Eu",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global market: Eurozone bond yields steady as oil prices ease, traders assess Iran sanctions",
@@ -49,42 +85,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Q1 earnings show resilience, but downside risks still loom. HSBC explains why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-show-resilience-but-downside-risks-still-loom-hsbc-explains-why/articleshow/133498606.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Indian companies delivered better-than-expected Q1FY27 earnings, with around 70% of firms meeting or beating HSBC\u2019s estimates. Mid- and small-cap companies led growth, while financials drove earnings ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bernstein cuts PFC, REC target prices as bank competition weighs on loan growth",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bernstein-cuts-pfc-rec-target-prices-as-bank-competition-weighs-on-loan-growth/articleshow/133498418.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Bernstein has retained an Outperform rating on Power Finance Corporation (PFC) and REC but cut its target prices and loan-growth estimates, citing stronger competition from banks, slower renewable cap",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Micron Under Pressure: Is the AI Memory Boom Losing Momentum?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/micron-under-pressure-is-the-ai-memory-boom-losing-momentum/slideshow/133499492.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Micron shares slid 7% amid a broader semiconductor selloff, crowded memory-chip trades and concerns over the durability of the AI boom, despite contracted HBM demand through 2026. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IIFL Finance shares drop 8% as IIFL Home Finance gets Rs 963 crore tax demand",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ifl-finance-shares-drop-8-as-iifl-home-finance-gets-rs-963-crore-tax-demand/articleshow/133498257.cms",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "IIFL Finance shares fell sharply on Tuesday after subsidiary IIFL Home Finance received a Rs 963.39 crore income tax demand covering April 2018 to February 2025. The company disputed the additions and",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -108,6 +108,33 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Paytm zooms 81% from March low; hits highest level since December 2021",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/paytm-zooms-81-from-march-low-hits-highest-level-since-december-2021-126082500684_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "In the past month, the stock price of Paytm outperformed the market by surging 39 per cent from a level of \u20b91,236.20 on July 24, 2026.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty trades below 24,200 level; auto share decline",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-200-level-auto-share-decline-126082500685_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex, declined 90.83 points or 0.12% to 77,278.28. The Nifty 50 index lost 45.50 points or 0.18% to 24,172.25.\n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Federal Bank slips 4% as lender clarifies on Jana SFB acquisition",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/federal-bank-slips-4-as-lender-clarifies-on-acquisition-of-jana-sfb-126082500675_1.html",
+      "date": "Tue, 25 Aug 2026",
+      "desc": "Federal Bank shares fell 4 per cent after it issued a clarification on reports that it may acquire a controlling stake in Jana Small Finance Bank.",
       "tags": [],
       "is_portfolio": false
     },
@@ -157,29 +184,11 @@
       "is_portfolio": false
     },
     {
-      "title": "Airfloa Rail Technology bags Rs 6-cr order from Integral Coach Factory",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/airfloa-rail-technology-bags-rs-6-cr-order-from-integral-coach-factory-126082500570_1.html",
+      "title": "Why did FACT, RCF, NFL and other fertiliser stocks rally up to 14% today? Explained",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/why-did-fact-rcf-nfl-and-other-fertiliser-stocks-rally-up-to-14-today-explained-11787647466905.html",
       "date": "Tue, 25 Aug 2026",
-      "desc": "Airfloa Rail Technology announced that it has received new orders worth an aggregate Rs 6.26 crore from the Furnishing Division of Integral Coach Factory (ICF), Chennai.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Jindal Steel Ltd soars 0.27%, up for fifth straight session",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/jindal-steel-ltd-soars-0-27-up-for-fifth-straight-session-126082500569_1.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Jindal Steel Ltd is quoting at Rs 1152.1, up 0.27% on the day as on 12:44 IST on the NSE. The stock is up 17.9% in last one year as compared to a 2.25% drop in NIFTY and a 43.29% drop in the Nifty Met",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Genesys International Corporation Ltd leads gainers in 'B' group",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/genesys-international-corporation-ltd-leads-gainers-in-b-group-126082500568_1.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "Fertilizers & Chemicals Travancore Ltd, Khandwala Securities Ltd, Medi Caps Ltd and JHS Svendgaard Retail Ventures Ltd are among the other gainers in the BSE's 'B' group today, 25 August 2026.",
+      "desc": "Fertiliser stocks, including FACT and Rashtriya Chemicals, rose up to 13% on August 25 after Russia assured India of uninterrupted energy and fertiliser supplies during Jaishankar's meeting with Putin",
       "tags": [],
       "is_portfolio": false
     },
@@ -243,15 +252,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-share-buyback-first-ever-board-meeting-on-aug-31-check-face-value-per-share-record-date-status-11787636241178.html",
       "date": "Tue, 25 Aug 2026",
       "desc": "PVR INOX share buyback: If declared, this will be the first-ever share buyback by the company",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Stock market holiday on Raksha Bandhan? NSE, BSE open or closed on 28 Aug? Check calendar",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-on-raksha-bandhan-nse-bse-open-or-closed-on-28-aug-check-calendar-11787636687533.html",
-      "date": "Tue, 25 Aug 2026",
-      "desc": "The Indian stock market will operate on Raksha Bandhan in 2026, with trading continuing despite the festival and Eid-e-Milad. Scheduled holidays include Ganesh Chaturthi in September. The Multi Commod",
       "tags": [],
       "is_portfolio": false
     }
