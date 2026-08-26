@@ -1,12 +1,34 @@
 {
-  "updated_ist": "26 Aug 2026 15:28 IST",
+  "updated_ist": "26 Aug 2026 16:15 IST",
   "news": [
+    {
+      "title": "Bitcoin consolidates near $79K ahead of US PCE, GDP Data; whales book record $1.2 billion profit in 3 days",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-consolidates-near-79k-ahead-of-us-pce-gdp-data-whales-book-record-1-2-billion-profit-in-3-days/articleshow/133536752.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Bitcoin traded near $79,000 on Wednesday as traders await key US PCE inflation and GDP data. While the broader trend remains bullish, rising profit-taking and resistance around $82,800\u2013$83,000 could l",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Avaada Electro cuts IPO size to  \u20b97,600 crore amid valuation, concentration concerns",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/avaada-electro-ipo-size-cut-rs-7600-crore-ipo-11787735978270.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "The solar manufacturer lowered its target from a potential  \u20b910,000 crore after prospective investors flagged heavy revenue reliance on its group entity and rising competition in the sector.",
       "tags": [
         "RELIANCE"
       ],
@@ -22,6 +44,24 @@
         "TCS"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-183-points-nifty-closes-below-24250-as-market-erases-all-morning-gains-what-lies-ahead/articleshow/133537326.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "The Indian stock markets experienced a shift, dropping from earlier gains with both Sensex and Nifty closing lower. Key decliners included Infosys, Bharti Airtel, and L&amp;T. Meanwhile, Kotak Mahindr",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Adani\u2019s Cemindia is said to near up to $524 million share sale",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adanis-cemindia-is-said-to-near-up-to-524-million-share-sale/articleshow/133536591.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": " Adani Group-backed Cemindia Projects, formerly known as ITD Cementation India, is preparing to launch a qualified institutional placement (QIP) to raise up to Rs 5,000 crore. The company has appointe",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: Mexico\u2019s \u2018Super Peso\u2019 rally puts exporters under pressure",
@@ -69,33 +109,6 @@
       "is_portfolio": false
     },
     {
-      "title": "14 midcap stocks crash up to 55% from their peaks. Are you holding any?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-midcap-stocks-crash-up-to-55-from-their-peaks-are-you-holding-any/slideshow/133534547.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "While the Nifty Midcap 150 continues to trade near record levels, several individual midcap stocks have seen sharp declines from their 52-week highs. An analysis of ACE Equity data highlights 14 midca",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Private credit play: Modulus Alternatives\u2019 third fund crosses Rs 300 crore in first close",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/aif-pms/private-credit-play-modulus-alternatives-third-fund-crosses-rs-300-crore-in-first-close/articleshow/133534023.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Modulus Alternatives has secured over Rs 300 crore in the first close of its third private credit fund, India Credit Opportunities Fund III. The SEBI-registered Category II AIF has a target corpus of ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dmart owner eyes debt market comeback after 7-year hiatus, bankers say",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-dmart-owner-eyes-debt-market-comeback-after-7-year-hiatus-bankers-say/articleshow/133534011.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Avenue Supermarts is preparing to venture into the corporate debt market shortly. The retailer intends to secure around ten billion rupees via bonds with a maximum maturity of three years. Notably, th",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -123,74 +136,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Ceigall India emerges L1 bidder for inter state transmission project",
+      "title": "Japanese stocks extend gains as oil prices ease",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-emerges-l1-bidder-for-inter-state-transmission-project-126082600672_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-stocks-extend-gains-as-oil-prices-ease-126082600754_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "",
+      "desc": "\n\nStocks also followed gains on Wall Street, where a sharp drop in long-term US Treasury yields supported sentiment. Investors remained focused on the US governments fiscal reform plans and awaited mo",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SIP now a long-term bet: Share of investments older than 5 yrs grows to 31%",
+      "title": "Chinese stocks rise as investors await policy signals",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sip-now-a-long-term-bet-share-of-investments-older-than-5-yrs-grows-to-31-126082600654_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-rise-as-investors-await-policy-signals-126082600753_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "The share of SIP investments older than five years rose to 31 per cent as of March 2026, while monthly SIP inflows touched \u20b932,087 crore",
+      "desc": "\n\nThe August 2528 meeting is being closely watched after recent weak economic data and repeated government promises to support growth. Investors are hoping for measures that could help strengthen the ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Varun Beverages slips 4%, hits 3-month low on heavy volume",
+      "title": "Siyaram Recycling Industries gains after receiving Rs 6-cr orders",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/varun-beverages-slips-4-hits-3-month-low-on-heavy-volume-126082600624_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/siyaram-recycling-industries-gains-after-receiving-rs-6-cr-orders-126082600750_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Varun Beverages Share: Varun Beverages' board of directors on Tuesday approved plans to enter the ready-to-drink alcoholic beverage (alcobev) and allied product categories.",
+      "desc": "Siyaram Recycling Industries advanced 2.16% to Rs 37.30 after the company announced that it has received orders worth around Rs 5.66 crore from different entities.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "EUR/USD under three-month high",
+      "title": "Blue Cloud Softech Solutions Ltd leads losers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/eur-usd-under-three-month-high-126082600636_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/blue-cloud-softech-solutions-ltd-leads-losers-in-b-group-126082600749_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Powered by Capital Market - Live News",
+      "desc": "Elitecon International Ltd, Ladderup Finance Ltd, Filatex India Ltd and We Win Ltd are among the other losers in the BSE's 'B' group today, 26 August 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Viyash Scientific Ltd leads losers in 'A' group",
+      "title": "Volumes jump at SBFC Finance Ltd counter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/viyash-scientific-ltd-leads-losers-in-a-group-126082600634_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-jump-at-sbfc-finance-ltd-counter-126082600748_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Jana Small Finance Bank Ltd, Premier Energies Ltd, Varun Beverages Ltd and Restaurant Brands Asia Ltd are among the other losers in the BSE's 'A' group today, 26 August 2026.",
+      "desc": "SBFC Finance Ltd saw volume of 107.1 lakh shares by 14:14 IST on NSE, a 8.11 fold spurt over two-week average daily volume of 13.21 lakh shares",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gabriel India forms strategic JV with South Korea-based HL Klemove",
+      "title": "Bank of Maharashtra gains for third straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/gabriel-india-forms-strategic-jv-with-south-korea-based-hl-klemove-126082600607_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bank-of-maharashtra-gains-for-third-straight-session-126082600747_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "To expand its presence in high-growth automotive segments",
+      "desc": "Bank of Maharashtra is quoting at Rs 86.07, up 5.35% on the day as on 12:49 IST on the NSE. The stock is up 63.85% in last one year as compared to a 0.91% slide in NIFTY and a 28.29% slide in the Nift",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HAL collaborates with Safran Helicopter Engines and SAFHAL for Aravalli engine programme",
+      "title": "Glenmark Pharmaceuticals Ltd soars 1.8%, rises for third straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/hal-collaborates-with-safran-helicopter-engines-and-safhal-for-aravalli-engine-programme-126082600606_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/glenmark-pharmaceuticals-ltd-soars-1-8-rises-for-third-straight-session-126082600745_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Hindustan Aeronautics (HAL) and Safran Helicopter Engines have signed a contract with SAFHAL Helicopter Engines  (SAFHAL) for the design, development, manufacture, supply, and lifecycle support of a n",
+      "desc": "Glenmark Pharmaceuticals Ltd is quoting at Rs 2443.1, up 1.8% on the day as on 12:49 IST on the NSE. The stock is up 26.13% in last one year as compared to a 0.91% fall in NIFTY and a 22.33% fall in t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trades below 24,300 level; consumer durables share decline",
+      "title": "Ashok Leyland Ltd rises for third straight session",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-300-level-consumer-durables-share-decline-126082600605_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ashok-leyland-ltd-rises-for-third-straight-session-126082600744_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex, declined 45.54 points or 0.06% to 77,613.77. The Nifty 50 index lost 66.05 points or 0.27% to 24,271.60.\n",
+      "desc": "Ashok Leyland Ltd is quoting at Rs 178.5, up 2.18% on the day as on 12:49 IST on the NSE. The stock is up 37.5% in last one year as compared to a 0.91% slide in NIFTY and a 15.69% slide in the Nifty A",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Top Gainers &amp; Losers on 26 Aug: SBFC Finance, Capri Global, Hindustan Copper, SAIL, OLA, Vedanta among top gainers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-26-aug-sbfc-finance-capri-global-hindustan-copper-sail-ola-vedanta-among-top-gainers-11787739634109.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "The Indian stock market closed lower on August 26, with banking and metal gains offset by losses in technology and consumer goods sectors. Nifty 50 fell 0.52% to 24,207, while Sensex decreased 0.05% t",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stock market today: Sensex falls 183 points, Nifty 50 ends at 24,208; mid, small-caps outperform",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-today-sensex-falls-183-points-nifty-50-ends-at-24-208-mid-small-caps-outperform-11787738738493.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Stock market today: The Sensex ended 183 points, or 0.24%, lower at 77,472.94, while the Nifty 50 declined 127 points, or 0.52%, to settle at 24,207.75.",
       "tags": [],
       "is_portfolio": false
     },
@@ -227,33 +258,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/nifty-50-stuck-below-25-000-is-the-ipo-boom-this-year-a-reason-behind-the-poor-show-of-the-indian-stock-market-11787719494000.html",
       "date": "Wed, 26 Aug 2026",
       "desc": "As the Nifty 50 struggles to break the 25,000 mark, experts debate whether the surge in IPOs is draining liquidity from the stock market or if macroeconomic factors are to blame. This article explores",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Textile firms spin smart comeback in Q1, eye strong FY27",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/india-textile-sector-q1f-earnings-exports-arvind-welspun-vardhman-11787721952182.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "India\u2019s textile sector started FY27 strongly, with Q1 Ebitda rising 34% and revenue 18% year-on-year. Improving global demand, export opportunities, FTAs and government incentives are supporting growt",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Madhur Knit Crafts IPO Day 3: Issue booked 55% so far. GMP hints 16% listing pop. Check key dates, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/madhur-knit-crafts-ipo-day-3-issue-booked-55-so-far-gmp-hints-16-listing-pop-check-key-dates-issue-details-11787725851725.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Madhur Knit Crafts IPO runs from 24 to 27 August, with shares priced at  \u20b995-100. Allotment is on 28 August, and listing on NSE SME is slated for 1 September. Subscription rates show strong retail int",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Healthcare stock Park Medi World jumps 3%, rises for 5th consecutive session after this capex update | Details here",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/healthcare-stock-park-medi-world-jumps-3-rises-for-5th-consecutive-session-after-this-capex-update-details-here-11787724749621.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Park Medi World share price debuted on the Indian stock market on 17 December last year. At the current market price of  \u20b9291.40, the sock is up 80% from the issue price of  \u20b9162. Year-to-date, the st",
       "tags": [],
       "is_portfolio": false
     }
