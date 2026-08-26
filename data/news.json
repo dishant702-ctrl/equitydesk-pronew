@@ -1,5 +1,5 @@
 {
-  "updated_ist": "26 Aug 2026 14:34 IST",
+  "updated_ist": "26 Aug 2026 15:28 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -22,6 +22,42 @@
         "TCS"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Global Market: Mexico\u2019s \u2018Super Peso\u2019 rally puts exporters under pressure",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mexicos-super-peso-rally-puts-exporters-under-pressure/articleshow/133536190.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Mexico\u2019s peso has emerged as one of the strongest-performing emerging-market currencies in 2026, strengthening past 17 per dollar despite weak growth and US trade tensions. The \u201csuper peso\u201d is helping",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: ECB may raise rates in September as Iran war fuels inflation concerns: Reports",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ecb-may-raise-rates-in-september-as-iran-war-fuels-inflation-concerns-reports/articleshow/133535841.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "European Central Bank policymakers are increasingly leaning towards a September rate hike as the Iran conflict drives up energy prices and inflation. While inflation is nearing 3% and economic activit",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mold-Tek Packaging board approves 1:1 bonus issue, Rs 3 final dividend",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mold-tek-packaging-board-approves-11-bonus-issue-rs-3-final-dividend/articleshow/133535801.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Mold-Tek Packaging\u2019s board has approved a 1:1 bonus issue and recommended a final dividend of Rs 3 per share for FY26. Under the proposal, shareholders will receive one bonus share of Rs 5 face value ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: European shares edge higher as oil prices fall, Nvidia earnings in focus",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-oil-prices-fall-nvidia-earnings-in-focus/articleshow/133535441.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "European shares edged higher as falling oil prices eased bond yields and supported equities, while investors awaited Nvidia\u2019s quarterly results and fresh US inflation data. The STOXX 600 gained 0.1%, ",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Four regional Fed banks backed rate hike ahead of July decision, minutes show",
@@ -60,42 +96,6 @@
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Fiscal dominance debate takes centre stage as government debt mounts",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-fiscal-dominance-debate-takes-centre-stage-as-government-debt-mounts/articleshow/133533749.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Rising government debt and borrowing costs are bringing the issue of fiscal dominance back into focus, with concerns that central banks could eventually face pressure to support government financing. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hindustan Zinc vs Hindalco:  Why Jefferies raised target prices for both, but prefers one over the other",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vs-hindalco-why-jefferies-raised-target-prices-for-both-but-prefers-one-over-the-other/articleshow/133533623.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Jefferies has raised its target prices for Hindustan Zinc and Hindalco Industries, but prefers the former, retaining a Buy rating versus Hold on Hindalco. The brokerage expects stronger zinc and silve",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US debt burden raises longer-term risks as borrowing costs rise",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-debt-burden-raises-longer-term-risks-as-borrowing-costs-rise/articleshow/133533565.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "US government debt remains a cornerstone of global financial markets, but rising borrowing costs, persistent fiscal deficits and stronger competition for global capital are raising concerns over its l",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Options turnover sinks at Dalal Street's top exchange preparing for IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/options-turnover-sinks-at-dalal-streets-top-exchange-preparing-for-ipo/articleshow/133532740.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "India's stock exchange has seen options turnover plummet to its lowest in a year, a direct consequence of newly enforced trading regulations and the adoption of a closing auction system. Cash equities",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
       "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
       "source": "Moneycontrol",
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
@@ -123,74 +123,92 @@
       "is_portfolio": false
     },
     {
-      "title": "KPIGreen achieves highest energized capacity of 630+ MW DC in Jun-Aug quarter",
+      "title": "Ceigall India emerges L1 bidder for inter state transmission project",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kpigreen-achieves-highest-energized-capacity-of-630-mw-dc-in-jun-aug-quarter-126082600531_1.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "\nThis milestone spans a diversified mix of IPP assets and projects executed under the Company's EPC vertical, underscoring the scale, speed and consistency of KPI Green Energy's project execution engi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Zydus Lifesciences incorporates WoS in Gift City",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/zydus-lifesciences-incorporates-wos-in-gift-city-126082600508_1.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "For undertaking treasury activities",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Axis Bank sees 'Death Cross' formation on chart; analyst flags key levels",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/axis-bank-sees-death-cross-formation-on-chart-analyst-flags-key-levels-126082600501_1.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Axis Bank displays a notable structural shift, with its 50-DMA crossing below its 200-DMA, confirming the formation of a classic 'Death Cross' on the daily chart, explains Mayank Jain of Share.Market.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Cyient receives CCI approval for acquisition of Tao Digital Solutions Inc.",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cyient-receives-cci-approval-for-acquisition-of-tao-digital-solutions-inc-126082600498_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-india-emerges-l1-bidder-for-inter-state-transmission-project-126082600672_1.html",
       "date": "Wed, 26 Aug 2026",
       "desc": "",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jain Resource Recycling to acquire shares of Jain Ikon on conversion of loan",
+      "title": "SIP now a long-term bet: Share of investments older than 5 yrs grows to 31%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/jain-resource-recycling-to-acquire-shares-of-jain-ikon-on-conversion-of-loan-126082600497_1.html",
+      "link": "https://www.business-standard.com/markets/news/sip-now-a-long-term-bet-share-of-investments-older-than-5-yrs-grows-to-31-126082600654_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "\nPursuant to the proposed conversion, the Company's shareholding in Jain Ikon will increase from the existing 70.00% to 99.74% of the equity share capital of JAIN IKON.",
+      "desc": "The share of SIP investments older than five years rose to 31 per cent as of March 2026, while monthly SIP inflows touched \u20b932,087 crore",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Energy Solutions bags Rs 4,700 crore transmission project in Maharashtra",
+      "title": "Varun Beverages slips 4%, hits 3-month low on heavy volume",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/adani-energy-solutions-bags-rs-4-700-crore-transmission-project-in-maharashtra-126082600496_1.html",
+      "link": "https://www.business-standard.com/markets/news/varun-beverages-slips-4-hits-3-month-low-on-heavy-volume-126082600624_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Adani Energy Solutions (AESL) said that it has secured a key transmission project for evacuation of renewable energy generated in Karnataka to major load centres in Maharashtra.",
+      "desc": "Varun Beverages Share: Varun Beverages' board of directors on Tuesday approved plans to enter the ready-to-drink alcoholic beverage (alcobev) and allied product categories.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Yen snaps two-day slide as markets weigh Fed cuts and BoJ hikes",
+      "title": "EUR/USD under three-month high",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/yen-snaps-two-day-slide-as-markets-weigh-fed-cuts-and-boj-hikes-126082600487_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/eur-usd-under-three-month-high-126082600636_1.html",
       "date": "Wed, 26 Aug 2026",
       "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Enterprises Ltd soars 0.5%, up for fifth straight session",
+      "title": "Viyash Scientific Ltd leads losers in 'A' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/adani-enterprises-ltd-soars-0-5-up-for-fifth-straight-session-126082600461_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/viyash-scientific-ltd-leads-losers-in-a-group-126082600634_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Adani Enterprises Ltd is quoting at Rs 3125.4, up 0.5% on the day as on 12:44 IST on the NSE. The stock is up 41.69% in last one year as compared to a 0.89% drop in NIFTY and a 45.57% drop in the Nift",
+      "desc": "Jana Small Finance Bank Ltd, Premier Energies Ltd, Varun Beverages Ltd and Restaurant Brands Asia Ltd are among the other losers in the BSE's 'A' group today, 26 August 2026.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gabriel India forms strategic JV with South Korea-based HL Klemove",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/gabriel-india-forms-strategic-jv-with-south-korea-based-hl-klemove-126082600607_1.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "To expand its presence in high-growth automotive segments",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HAL collaborates with Safran Helicopter Engines and SAFHAL for Aravalli engine programme",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hal-collaborates-with-safran-helicopter-engines-and-safhal-for-aravalli-engine-programme-126082600606_1.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Hindustan Aeronautics (HAL) and Safran Helicopter Engines have signed a contract with SAFHAL Helicopter Engines  (SAFHAL) for the design, development, manufacture, supply, and lifecycle support of a n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty trades below 24,300 level; consumer durables share decline",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-300-level-consumer-durables-share-decline-126082600605_1.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "\nAt 14:30 IST, the barometer index, the S&P BSE Sensex, declined 45.54 points or 0.06% to 77,613.77. The Nifty 50 index lost 66.05 points or 0.27% to 24,271.60.\n",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Penny stock under  \u20b95 hits upper circuit after the board approves issuing warrants on a preferential basis",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-5-hits-upper-circuit-after-promoters-raise-stake-11787733323269.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Despite weak market sentiment, NHC Foods jumped 5% to its upper circuit of  \u20b92.05 in intraday deals on the BSE on Wednesday, 26 August. The stock has been rising for the last 15 consecutive sessions. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Capri Global Capital shares pop 9% on strong volumes, hit highest level in over a month",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/capri-global-capital-shares-pop-9-on-strong-volumes-hit-highest-level-in-over-a-month-11787736616461.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Capri Global Capital's shares surged 9% on August 26 to  \u20b9260.85, driven by increased trading volumes, despite no clear trigger. With a cumulative rise of 16.5% over three days and over 40% year-to-da",
       "tags": [],
       "is_portfolio": false
     },
@@ -236,24 +254,6 @@
       "link": "https://www.livemint.com/market/stock-market-news/healthcare-stock-park-medi-world-jumps-3-rises-for-5th-consecutive-session-after-this-capex-update-details-here-11787724749621.html",
       "date": "Wed, 26 Aug 2026",
       "desc": "Park Medi World share price debuted on the Indian stock market on 17 December last year. At the current market price of  \u20b9291.40, the sock is up 80% from the issue price of  \u20b9162. Year-to-date, the st",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Purple Style Labs IPO: Price band set at  \u20b9546- \u20b9575 per share; check key dates, issue details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/purple-style-labs-ipo-price-band-set-at-rs-546-rs-575-per-share-check-key-dates-issue-details-11787721606816.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Purple Style Labs IPO ranges from  \u20b9546 to  \u20b9575 per share, with subscription open from 31 August to 2 September. The company aims to raise  \u20b9680 crore for business expansion and marketing initiatives",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SBI, PNB to Bank of Maharashtra: PSU bank stocks rise up to 6%. What's driving the rally? Do you own any of these?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sbi-pnb-to-bank-of-maharashtra-psu-bank-stocks-rise-up-to-4-whats-driving-the-rally-do-you-own-any-of-these-11787720628727.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "The Nifty PSU Bank index has risen by 4% this month so far, compared to a 0.60% rise in the Nifty Private Bank index, and a flat with negative bias Nifty 50.",
       "tags": [],
       "is_portfolio": false
     }
