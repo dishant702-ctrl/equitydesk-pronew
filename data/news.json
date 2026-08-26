@@ -1,5 +1,5 @@
 {
-  "updated_ist": "26 Aug 2026 10:19 IST",
+  "updated_ist": "26 Aug 2026 11:09 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -11,6 +11,51 @@
         "RELIANCE"
       ],
       "is_portfolio": true
+    },
+    {
+      "title": "Pernia\u2019s Pop-Up Studio parent Purple Style Labs sets IPO price band at Rs 546\u2013575; subscription opens August 31",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-studio-parent-purple-style-labs-sets-ipo-price-band-at-rs-546575-subscription-opens-august-31/articleshow/133530532.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Purple Style Labs, the parent company of Pernia\u2019s Pop-Up Studio, has set its IPO price band at Rs 546-575 per share. The Rs 680-crore issue will open on August 31 and close on September 2. The luxury ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US Stock Market: Nvidia earnings to test AI boom as markets brace for sharp move",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-nvidia-earnings-to-test-ai-boom-as-markets-brace-for-sharp-move/articleshow/133530414.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": " Nvidia options are pricing in a 5.4% post-earnings move, implying a potential $280 billion swing in market value after its Q2 results. The expected move is below the 6.5% forecast before May earnings",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Global Market: Ueda\u2019s Jackson Hole absence puts focus on BOJ\u2019s September rate decision",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uedas-jackson-hole-absence-puts-focus-on-bojs-september-rate-decision/articleshow/133530007.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Bank of Japan Governor Kazuo Ueda\u2019s absence from the Jackson Hole meeting has shifted attention to BOJ board member Naoki Tamura and Deputy Governor Ryozo Himino for clues on monetary policy. Markets ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "MTAR Tech shares rally 3%, extend gains for second session. What\u2019s triggering the surge?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtar-tech-shares-rally-3-extend-gains-for-second-session-whats-triggering-the-surge/articleshow/133529737.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": " MTAR Technologies shares gained 3% after the company secured a Rs 127 crore order from Nuclear Power Corporation of India for coolant channel assemblies used in reactor refurbishment. The order takes",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold prices rise marginally; silver rebounds Rs 2,000/kg as traders await US inflation data. Key levels to track",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-marginally-silver-rebounds-rs-2000/kg-as-traders-await-us-inflation-data-key-levels-to-track/articleshow/133529617.cms",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "Gold and silver prices opened higher on the MCX on Wednesday as investors awaited key US inflation data for cues on the Federal Reserve\u2019s interest-rate path. MCX September silver futures rose Rs 2,053",
+      "tags": [],
+      "is_portfolio": false
     },
     {
       "title": "Global Market: Japan stocks rise ahead of Nvidia earnings, US inflation data",
@@ -36,51 +81,6 @@
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hy-tech-engineers-ipo-day-3-gmp-at-57-subscription-reaches-19-33x-should-you-subscribe/articleshow/133529025.cms",
       "date": "Wed, 26 Aug 2026",
       "desc": "The Hy-Tech Engineers IPO entered its third day of bidding on August 26, with the issue subscribed 19.33 times by the end of Day 2. Retail investors led the demand, while the IPO\u2019s grey market premium",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex rises over 300 points; Nifty above 24,350 as oil prices slide. What lies ahead?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-nears-24350-as-oil-prices-slide-what-lies-ahead/articleshow/133528847.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "On Wednesday, Indian stock markets rallied, buoyed by a decrease in oil prices and renewed optimism surrounding the reopening of the Strait of Hormuz, following a resumption of talks with Iran. Both t",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-electro-files-updated-draft-papers-with-sebi-for-rs-7600-cr-ipo/articleshow/133528857.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Avaada Electro Ltd is making waves in the financial market by submitting updated draft papers for a massive Rs 7,600 crore initial public offering. This IPO features a fresh equity share issuance alon",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "HEG demerger: What 1:1 restructuring mean for shareholders as company fixes record date?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/heg-shares-in-focus-as-company-fixes-record-date-for-demerger-what-it-means-for-shareholders/articleshow/133528755.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "On September 7, HEG will finalise its demerger, providing shareholders one share in the new entity for each existing share they hold. The graphite electrodes segment will transition to HEG Graphite, r",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mopshop Distribution, Dhanwel Hybrid Seeds shares set to list today: Here\u2019s what GMP suggests",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mopshop-distribution-dhanwel-hybrid-seeds-shares-set-to-list-today-heres-what-gmp-suggests/articleshow/133528779.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Mopshop Distribution\u2019s Rs 27.26-crore IPO was subscribed 1.59 times overall and 2.91 times in the retail category ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SBI Share Price Live Updates: SBI's Stock Performance Today",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-share-price-live-26-aug-2026/liveblog/133528792.cms",
-      "date": "Wed, 26 Aug 2026",
-      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,74 +112,92 @@
       "is_portfolio": false
     },
     {
-      "title": "Tavexia Lifecare announces its diversification into pharma biz",
+      "title": "Nomura remains bullish on OMCs despite high crude prices; prefers IOC, BPCL",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tavexia-lifecare-announces-its-diversification-into-pharma-biz-126082600223_1.html",
+      "link": "https://www.business-standard.com/markets/news/nomura-remains-bullish-on-omcs-despite-high-crude-prices-prefers-ioc-bpcl-126082600276_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Tavexia Lifecare has expanded into the pharmaceutical business as an additional growth vertical, strengthening its broader presence in the healthcare and lifecare ecosystem. The move forms part of the",
+      "desc": "Nomura maintains its bearish medium-to-long-term outlook on crude oil, citing the potential for the largest-ever global oil surplus in 2027E based on IEA forecasts.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "MTAR Tech rises after securing order worth nearly Rs 127 crore for coolant channel assemblies",
+      "title": "Indices trade with sideways; PSU bank shares in demand",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/mtar-tech-rises-after-securing-order-worth-nearly-rs-127-crore-for-coolant-channel-assemblies-126082600216_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indices-trade-with-sideways-psu-bank-shares-in-demand-126082600274_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "MTAR Technologies added 1.23% to Rs 7011.20 after the company said that it has secured orders worth Rs 126.7 crore for the supply of coolant channel assemblies for the refurbishment of the RAPS-4 and ",
+      "desc": "\nAt 10:30 IST, the barometer index, the S&P BSE Sensex, jumped 65.22 points or 0.08% to 77,724.11. The Nifty 50 index fell 39.45 points or 0.16% to 24,296.25.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gaja Capital shares make strong debut, list 15% above issue price",
+      "title": "Sai Parenterals gains after arm renews 204 cr OTC supply agreement",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gaja-capital-shares-make-strong-debut-list-15-above-issue-price-126082600211_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sai-parenterals-gains-after-arm-renews-204-cr-otc-supply-agreement-126082600273_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "The offer received bids for 79.35 crore shares as against 2.53 crore shares on offer.",
+      "desc": "Sai Parenterals rallied 3.33% to Rs 544.15 after the company announced that its subsidiary, Noumed Pharmaceuticals, has renewed its OTC Medicines Supply Agreement with one of Australia's leading multi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "State Trading Corporation of India standalone net profit declines 71.11% in the June 2026 quarter",
+      "title": "BSE SME Dhanwel Hybrid Seeds fails to blossom as stock slips below IPO price",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/state-trading-corporation-of-india-standalone-net-profit-declines-71-11-in-the-june-2026-quarter-126082600202_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bse-sme-dhanwel-hybrid-seeds-fails-to-blossom-as-stock-slips-below-ipo-price-126082600272_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Reported sales  nil",
+      "desc": "Dhanwel Hybrid Seeds traded at Rs 94.05 on the BSE, a 5% discount to the issue price of Rs 99.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty trade above 24,350 in early trade; breadth strong",
+      "title": "Indian Metals rises after greenfield Kalinganagar plant commences production",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-above-24-350-in-early-trade-breadth-strong-126082600201_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/indian-metals-rises-after-greenfield-kalinganagar-plant-commences-production-126082600252_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "\nAt 09:30 IST, the barometer index, the S&P BSE Sensex, jumped 280.14 points or 0.37% to 77,944.96. The Nifty 50 index added 24.60 points or 0.11% to 24,356.30.\n",
+      "desc": "Indian Metals & Ferro Alloys gained 1.25% to Rs 1394.10 after the company said that the first tapping of hot metal from the first furnace in the greenfield ferro chrome expansion Project in Kalinganag",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Max Estates gains as board to mull preferential issue",
+      "title": "Gaja Alternative Asset Management jumps on debut",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/max-estates-gains-as-board-to-mull-preferential-issue-126082600200_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/gaja-alternative-asset-management-jumps-on-debut-126082600251_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Max Estates added 2.60% to Rs 570.30 after the company announced that its board will meet on Friday, 28 August 2026, to consider the issue of equity shares through a preferential issue.",
+      "desc": "Shares of Gaja Alternative Asset Management were currently trading at Rs 179.90 at 10:12 IST on the BSE, representing a premium of 12.44% as compared with the issue price of Rs 160.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "APL Apollo Tubes Ltd Slides 0.84%",
+      "title": "Groww drops after large block deal",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/apl-apollo-tubes-ltd-slides-0-84-126082600199_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/groww-drops-after-large-block-deal-126082600250_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "APL Apollo Tubes Ltd has added 14.78% over last one month compared to 5.77% gain in BSE Metal index and 1.37% rise in the SENSEX",
+      "desc": "Billionbrains Garage Ventures, the parent company of Groww, fell 3.19% to Rs 196.54 after around 12.75 crore shares, or about 2.1% equity, changed hands in a block deal worth around Rs 2,500 crore.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Godrej Properties Ltd Spurts 1.71%",
+      "title": "Eternal hits 10-month high; here's why stock zoomed 56% from March low",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/godrej-properties-ltd-spurts-1-71-126082600198_1.html",
+      "link": "https://www.business-standard.com/markets/news/eternal-share-hits-10-month-high-here-s-why-stock-zoomed-56-from-march-low-126082600232_1.html",
       "date": "Wed, 26 Aug 2026",
-      "desc": "Godrej Properties Ltd has added 0.11% over last one month compared to 2.53% gain in BSE Realty index and 1.37% rise in the SENSEX",
+      "desc": "Eternal share price: The stock price of a food delivery (FD) and quick commerce (QC) platform company quoted at its highest level since October 2025.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "SBI, PNB to Bank of Maharashtra: PSU bank stocks rise up to 4%. What's driving the rally? Do you own any of these?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-pnb-to-bank-of-maharashtra-psu-bank-stocks-rise-up-to-4-whats-driving-the-rally-do-you-own-any-of-these-11787720628727.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "The Nifty PSU Bank index has risen by 4% this month so far, compared to a 0.60% rise in the Nifty Private Bank index, and a flat with negative bias Nifty 50.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "ABH Healthcare IPO Day 3: Issue booked 83% so far. Check GMP, issue details",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/abh-healthcare-ipo-day-3-issue-booked-83-so-far-check-gmp-issue-details-11787720403740.html",
+      "date": "Wed, 26 Aug 2026",
+      "desc": "The ABH Healthcare IPO opened on 24 August and closed on 27 August, with shares priced from  \u20b996 to  \u20b9102. The company, a multi-speciality healthcare provider, aims to raise funds to repay debt and su",
       "tags": [],
       "is_portfolio": false
     },
@@ -234,24 +252,6 @@
       "link": "https://www.livemint.com/market/commodities/gold-and-silver-prices-rise-on-mcx-amid-a-crash-in-oil-prices-and-a-weaker-dollar-ahead-of-key-us-inflation-data-11787715056435.html",
       "date": "Wed, 26 Aug 2026",
       "desc": "MCX gold October futures traded 0.16% higher at  \u20b91,63,146 per 10 grams, while MCX silver September futures were 0.64% up at  \u20b92,45,700 per kg around 9:10 AM.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hindustan Copper share price in focus as OFS opens for retail investors today. Should you apply?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-share-price-in-focus-as-ofs-opens-for-retail-investors-today-should-you-apply-11787713785032.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Hindustan Copper shares gain attention as the retail segment of the government's Offer for Sale opens on 26 August. Non-retail investors previously oversubscribed, prompting the government to increase",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Buy or sell: Gift Nifty signals gap-up start | Vaishali Parekh recommends three stocks to buy today \u2014 26 August 2026",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-gift-nifty-signals-gap-up-start-vaishali-parekh-recommends-three-stocks-to-buy-today-26-august-2026-11787709370297.html",
-      "date": "Wed, 26 Aug 2026",
-      "desc": "Buy or sell indicator: Vaishali Parekh recommends three stocks to buy today \u2014 Astral, Sai Life Sciences, and ICICI Bank",
       "tags": [],
       "is_portfolio": false
     }
