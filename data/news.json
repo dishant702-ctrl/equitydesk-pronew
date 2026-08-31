@@ -1,17 +1,6 @@
 {
-  "updated_ist": "28 Aug 2026 20:42 IST",
+  "updated_ist": "31 Aug 2026 15:03 IST",
   "news": [
-    {
-      "title": "Reliance Jio IPO approved: Is it too late to buy RIL shares to be eligible for shareholder quota?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-ipo-approved-is-it-too-late-to-buy-ril-shares-to-be-eligible-for-shareholder-quota/articleshow/133592960.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Jio Platforms has received SEBI approval for its upcoming initial public offering.   Reliance Industries shareholders may still qualify for a reserved portion of the offering.  The final details regar",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,76 +13,85 @@
       "is_portfolio": true
     },
     {
-      "title": "Jio Platforms gets Sebi nod for  \u20b935,000 crore IPO, India\u2019s biggest potential listing",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/jio-platforms-gets-sebi-nod-for-35-000-crore-ipo-india-s-biggest-potential-listing-11787919901062.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "The Reliance Industries digital arm is planning to raise  \u20b935,000 crore in a fresh issue, with strong initial interest from global investors and a listing targeted within the next couple of months.",
+      "title": "FMCG stocks HUL, ITC, Dabur, Emami, Godrej Consumer hit 52-week lows",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/fmcg-stocks-hul-itc-dabur-emami-godrej-consumer-hit-52-week-lows-126083100611_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "In the past month, the BSE FMCG index underperformed the market by falling 3.3 per cent, compared to a 1.5 per cent fall in the BSE Sensex.",
       "tags": [
-        "RELIANCE"
+        "ITC"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Lenskart Rs 1,857-crore block deal: Goldman Sachs, Morgan Stanley, ICICI Prudential, SBI MF among buyers as Alpha Wave exits",
+      "title": "Why India\u2019s new closing auction is agonising traders: Q&amp;A",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-rs-1857-crore-block-deal-goldman-sachs-morgan-stanley-icici-prudential-sbi-mf-among-buyers-as-alpha-wave-exits/articleshow/133594276.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Lenskart Solutions experienced institutional transactions totaling Rs 1,857 crore on August 28. Numerous domestic and global investors purchased shares at Rs 630 apiece from sellers. The company's sha",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-indias-new-closing-auction-is-agonising-traders-qa/articleshow/133648125.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "India\u2019s new 20-minute closing auction system is facing renewed scrutiny after the Sensex briefly plunged nearly 3% during Thursday\u2019s session, highlighting concerns over thin liquidity and price volati",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Treasury yields rise after comments from Fed's Kevin Warsh at Jackson Hole",
+      "title": "Explained: Why Jefferies prefers Kaynes Tech shares over Dixon Tech; urges caution on Syrma SGS",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-yields-rise-after-comments-from-feds-kevin-warsh-at-jackson-hole/articleshow/133593960.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "U.S. Treasury yields saw an increase during trading sessions. Federal Reserve Chairman Kevin Warsh indicated further action may be necessary. Policymakers need confidence that inflation is returning t",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-jefferies-prefers-kaynes-tech-shares-over-dixon-tech-urges-caution-on-syrma-sgs/articleshow/133648079.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Jefferies prefers Kaynes Technology over Dixon Technologies as India pushes to deepen domestic electronics component manufacturing. The brokerage has a Buy rating on Kaynes Tech, while maintaining Hol",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Fed chairman Kevin Warsh says inflation is elevated and 'concerning' at Jackson Hole",
+      "title": "Kaynes Tech, Wockhardt, Persistent Systems shares fall up to 5% as broader markets tumble. What lies ahead?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chairman-kevin-warsh-says-inflation-is-elevated-and-concerning-at-jackson-hole/articleshow/133593773.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "US Federal Reserve Chairman Kevin Warsh said on Friday that high inflation in the world's largest economy was \"concerning,\" as he opened a key central bankers' meeting in Jackson Hole, Wyoming. Warsh,",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kaynes-tech-wockhardt-persistent-systems-shares-fall-up-to-5-as-broader-markets-tumble-what-lies-ahead/articleshow/133648026.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "The stock market saw marked declines on Monday, particularly among smallcap and midcap shares. Persistent Systems and National Aluminium Company experienced prominent losses, contributing to the negat",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US stocks today: US stocks open subdued ahead of Warsh's speech",
+      "title": "US Stock Market: Barclays turns hawkish on Fed, sees two rate hikes in 2026",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-ahead-of-warshs-speech/articleshow/133592641.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Wall Street opened mostly flat on Friday as the AI-driven rally lost momentum ahead of Federal Reserve Chair Kevin Warsh\u2019s Jackson Hole speech. The Dow and S&amp;P 500 edged higher, while the Nasdaq s",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-barclays-turns-hawkish-on-fed-sees-two-rate-hikes-in-2026/articleshow/133647487.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Barclays has turned more hawkish on the US Federal Reserve, now expecting two 25-basis-point rate hikes in 2026. The brokerage sees increases in September and December, reversing its earlier call for ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Quote of the day by Arnold Van Den Berg: \"Regardless of yield, when investments are absent of value, cash is always a better option than permanently losing money\"",
+      "title": "G20, US Jobs Data, Rate Decisions: 5 key global market triggers this week",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-arnold-van-den-berg-regardless-of-yield-when-investments-are-absent-of-value-cash-is-always-a-better-option-than-permanently-losing-money/articleshow/133591168.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Arnold Van Den Berg\u2019s investing wisdom stresses that yield alone does not make an investment attractive. When value is absent and permanent capital loss risk is high, holding cash may be wiser, allowi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Was Sensex\u2019s 2,000-point expiry crash a one-off? Here's what Friday's close hints about CAS",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/was-sensexs-2000-point-expiry-crash-a-one-off-heres-what-fridays-close-hints-about-cas/articleshow/133591046.cms",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Sensex stayed relatively calm during Friday\u2019s closing auction, a day after a 2,000-point plunge during the monthly expiry raised fresh concerns over CAS. The subdued move suggests Thursday\u2019s sharp swi",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: US markets turn green after Fed chief Warsh's speech at Jackson Hole",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-jackson-hole-fed-kevin-warsh-speech-rate-hike-outlook-hints-nvidia-salesforce-paypal-gap-marvell-micron-chip-stock-price-news-28th-august-2026/liveblog/133591066.cms",
-      "date": "Fri, 28 Aug 2026",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/g20-us-jobs-data-rate-decisions-5-key-global-market-triggers-this-week/slideshow/133647015.cms",
+      "date": "Mon, 31 Aug 2026",
       "desc": " ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Priority Jewels IPO Day 2: Issue book over 15 times so far, GMP signals 23% listing gain. Should you subscribe?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/priority-jewels-ipo-day-2-issue-book-over-15-times-so-far-gmp-signals-23-listing-gain-should-you-subscribe/articleshow/133646567.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Priority Jewels IPO has attracted strong demand on Day 2, with the issue subscribed 15.61 times. The IPO is also commanding a 23% grey market premium, signalling potential listing gains. With the issu",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jefferies cuts HDFC Bank share price target but retains Buy after CEO opts out of new term. Here\u2019s why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-cuts-hdfc-bank-share-price-target-but-retains-buy-after-ceo-opts-out-of-new-term-heres-why/articleshow/133645941.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Jefferies retained its Buy rating on HDFC Bank but cut the target price to Rs 880 from Rs 1,050 following CEO Sashidhar Jagdishan\u2019s decision not to seek reappointment. The brokerage flagged near-term ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Transformers and Rectifiers shares rally 8% after receiving order worth up to  Rs 500 crore from MEIL",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/transformers-and-rectifiers-shares-rally-8-after-receiving-order-worth-up-to-rs-100-500-crore-from-meil/articleshow/133645581.cms",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Transformers and Rectifiers shares rallied on Monday after the company secured a large order from MEIL for manufacturing transformers and related work. Valued at Rs 100 crore to Rs 500 crore, excludin",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,137 +123,137 @@
       "is_portfolio": false
     },
     {
-      "title": "August leads IPO listing returns, Tempsens emerges as CY26 frontrunner",
+      "title": "Sensex, Nifty trade sharply lower; IT shares plunge",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/companies/news/august-leads-ipo-listing-returns-tempsens-emerges-as-cy26-frontrunner-126082801217_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Tempsens Instruments gained 93.57 per cent on its listing day, while six of the 17 mainboard IPOs listed in August ranked among CY26's top 10 debut performers",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-trade-sharply-lower-it-shares-plunge-126083100634_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "\nMarket participants remained cautious ahead of the MSCI index rebalancing, which is expected to trigger sizeable passive fund flows under the new Closing Auction Session (CAS) mechanism. The Nifty tr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Board of Cupid accords in-principle approval for establishing manufacturing JV in South Africa",
+      "title": "Gold, silver ETFs off day's low, still down 4% amid hawkish Fed stance",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/board-of-cupid-accords-in-principle-approval-for-establishing-manufacturing-jv-in-south-africa-126082801158_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "On 28 August 2026",
+      "link": "https://www.business-standard.com/markets/news/gold-silver-etfs-off-day-s-low-still-down-4-amid-hawkish-fed-stance-126083100622_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "In the spot market, gold prices declined around 1.22 per cent to \u20b91,54,940 per 10 grams. Meanwhile, silver futures fell 0.5 per cent to \u20b92,40,011 per kg.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mahindra launches BaaS programme across its EV origin SUV portfolio",
+      "title": "Bank credit growth stays firm at 18.60% on year",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/mahindra-launches-baas-programme-across-its-ev-origin-suv-portfolio-126082801157_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Mahindra today announced the expansion of its Battery-as-a-Service (BaaS) programme across its entire Electric Origin SUV portfolio, making it available on the BE 6 SPORTEQ, XEV 9S and XEV 9e. ",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bank-credit-growth-stays-firm-at-18-60-on-year-126083100607_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FPIs sell Rs 5,040 crore worth equities, highest since June 8",
+      "title": "Paytm, TaMo: Emkay picks 15 stocks as high US yields reshape India strategy",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/fpis-sell-rs-5-040-crore-worth-equities-highest-since-june-8-126082801156_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Friday's selling wiped out most of the net FPI inflows recorded in August, reducing net buying to \u20b9454 crore; DIIs purchased equities worth \u20b95,184 crore",
+      "link": "https://www.business-standard.com/markets/news/paytm-tamo-emkay-picks-15-stocks-to-buy-as-high-us-yields-reshape-india-strategy-126083100559_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Low-growth companies will not find favour, and better visibility of stronger growth over the medium term becomes a prerequisite to lure global investors, said Emkay.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi bars Trafiksol ITS, promoters from securities market for one year",
+      "title": "Karur Vysya Bank inaugurates 16 new branches across southern India and Delhi NCR",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/stock-market-news/sebi-bars-trafiksol-its-promoters-from-securities-market-for-one-year-126082801137_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Regulator imposes penalties totalling \u20b91.05 crore over alleged lapses in the \u20b944.87 crore SME IPO, including misleading disclosures and concealment of material facts",
+      "link": "https://www.business-standard.com/markets/capital-market-news/karur-vysya-bank-inaugurates-16-new-branches-across-southern-india-and-delhi-ncr-126083100582_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "\nWith the latest expansion, the Bank's branch network stands at 919 across the country. \n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Prestige launches new residential project 'Palm Court' in North Chennai",
+      "title": "TARIL receives its maiden order in nuclear power space",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/prestige-launches-new-residential-project-palm-court-in-north-chennai-126082801135_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "With estimated gross development value of Rs 1330 cr",
+      "link": "https://www.business-standard.com/markets/capital-market-news/taril-receives-its-maiden-order-in-nuclear-power-space-126083100581_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "To supply generator transformers for 1,400 MW nuclear power project at Kaiga, Karnataka",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aditya Birla Capital allots 1.41 lakh equity shares under ESOP",
+      "title": "Benchmarks trade with limited losses; European shares open lower",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aditya-birla-capital-allots-1-41-lakh-equity-shares-under-esop-126082801134_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "\nConsequent to the above allotment, the paid-up equity share capital of the company will increase from Rs 27,37,37,02,690 (i.e. 2,73,73,70,269 equity shares of face value of Rs 10/- each) to Rs 27,37,",
+      "link": "https://www.business-standard.com/markets/capital-market-news/benchmarks-trade-with-limited-losses-european-shares-open-lower-126083100565_1.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "\nThe key equity barometers traded with limited losses in afternoon trade amid renewed US-Iran tensions that pushed crude oil prices higher and kept investors in a risk-off mood. Brent crude rose above",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Centre announces \u20b930,000 crore govt securities buyback via auction",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/centre-announces-30-000-crore-govt-securities-buyback-via-auction-126082801128_1.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Buyback covers four government securities maturing between October 2026 and February 2027, with the auction to be conducted using the multiple-price method",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Park Medi World targets 5,740-bed network by FY28 under expansion roadmap",
+      "title": "Expert view: Range-bound market may impact domestic capital inflows, says Samco Mutual Fund's CIO",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/park-medi-world-targets-5-740-bed-network-by-fy28-under-expansion-roadmap-11787926171520.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Park Medi plans to expand its North India hospital network by adding 2,130 beds to reach a total of 5,740 in two years, focusing on existing states like Delhi and Uttarakhand. The company reported a 2",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-range-bound-market-may-impact-domestic-capital-inflows-says-samco-mutual-funds-cio-11788167267325.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Expert view: Samco Mutual Fund's CIO emphasises the importance of diversification and long-term investment strategies. As volatility looms, he reassures investors about the resilience of domestic capi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US stocks rise ahead of Kevin Warsh\u2019s Jackson Hole speech",
+      "title": "Multibagger stock hits record high, logging 5% intraday gain despite weak trends on Dalal Street",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-muted-ahead-of-kevin-warsh-s-jackson-hole-speech-11787924447163.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "As of 10:45 a.m. Eastern Time, the S&amp;amp;P 500 rose 0.3%. The Dow Jones Industrial Average was up 0.2%, and the Nasdaq Composite was 0.3% higher.",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-ratnveer-precision-engineering-hits-record-high-logging-5-intraday-gain-11788166459346.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Multibagger stock: Ratnveer Precision Engineering share price surged as much as 5%, hitting a new record high of  \u20b9314.90 during Monday's trading session ahead of the rights issue.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Pulse of the Street: Foreign buying fails to break August stalemate in Indian equities",
+      "title": "Symbiotec Pharmalab IPO listing tomorrow: Here\u2019s what GMP hints ahead of debut",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-sensex-nifty-today-11787920505576.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Indian equities are likely to end August in a narrow range despite more than  \u20b930,000 crore of foreign inflows, as domestic profit booking and heavy primary-market supply absorbed liquidity. Investors",
+      "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-listing-tomorrow-here-s-what-gmp-hints-ahead-of-debut-11788164947496.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Symbiotec Pharmalab IPO, which was oversubscribed 73.63 times by non-institutional investors, will list on 1 September. The grey market premium is currently +203, indicating a potential listing price ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Treasury yields hold firm ahead of Kevin Warsh's key Jackson Hole address",
+      "title": "Hindustan Zinc, Vedanta to NALCO: Why are metal stocks falling today?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/treasury-yields-hold-firm-ahead-of-kevin-warshs-key-jackson-hole-address-11787922814189.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "US Treasury yields were flat before Warsh's Jackson Hole address, with slight increases seen in longer-term yields. Comments from Fed officials and strong inflation data raise expectations for upcomin",
+      "link": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-vedanta-to-nalco-why-are-metal-stocks-falling-today-us-fed-signals-rate-hike-gold-rate-silver-rate-11788164854766.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Hindustan Zinc fell as much as 4.7% to its day's low of  \u20b9592.05. NALCO declined 3.8% to  \u20b9369, while Vedanta dropped 3.7% to  \u20b9276.50. Hindalco shed 3% to  \u20b91,005.30. Hind Copper also declined 2.5% t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Kevin Warsh Jackson Hole speech: Where to watch, timings and what to expect from Fed chief\u2019s address?",
+      "title": "A cog in the wheel for office leasing",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/kevin-warsh-jackson-hole-speech-where-to-watch-timing-and-what-to-expect-from-fed-chief-address-check-timings-11787918774883.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Kevin Warsh will deliver a keynote address at the Jackson Hole Economic Policy Symposium today at 10:00 AM EDT. Investors hope for clarity on his economic stance as the odds of a rate hike on Septembe",
+      "link": "https://www.livemint.com/market/mark-to-market/office-leasing-india-west-asia-war-11788160806410.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "India\u2019s office leasing momentum weakened in Q1FY27 as the West Asia war delayed deals. Gross absorption fell 6% and net absorption 21%. However, lower supply eased vacancy, while GCC demand and strong",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jackson Hole Symposium LIVE Updates: US Fed Chair Kevin Warsh says inflation \u2018too high\u2019, hints at interest rate hike",
+      "title": "Balrampur Chini, Shree Renuka Sugars to Mawana Sugars: Sugar stocks rise up to 11%. Do you own any of these?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/jackson-hole-symposium-live-updates-expectations-high-federal-reserve-us-fed-chair-kevin-warsh-first-speech-28-august-11787920723281.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Jackson Hole Symposium LIVE Updates: Federal Reserve Chairman Kevin Warsh is set to give his first Jackson Hole speech later today and most watchers feel he has an extremely difficult task in hand. St",
+      "link": "https://www.livemint.com/market/stock-market-news/balrampur-chini-shree-renuka-sugars-to-mawana-sugars-sugar-stocks-rise-up-to-11-do-you-own-any-of-these-11788161963599.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Balrampur Chini Mills emerged as the top gainer among the stocks, climbing 10%, touching an intraday high of  \u20b9738 per share.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Upcoming IPO: Bharat PET receives SEBI approval to raise  \u20b9760 crore through public issue",
+      "title": "Ather Energy share price hits lifetime high | Delivers 423% returns from IPO price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-bharat-pet-receives-sebi-approval-to-raise-rs-760-crore-through-public-issue-11787919425466.html",
-      "date": "Fri, 28 Aug 2026",
-      "desc": "Bharat PET Limited has received SEBI approval for its IPO to raise  \u20b9760 crore. The offering includes a fresh issue of  \u20b9120 crore and an OFS of  \u20b9640 crore, involving selling shareholders. Proceeds w",
+      "link": "https://www.livemint.com/market/stock-market-news/ather-energy-share-price-hits-lifetime-high-delivers-423-returns-from-ipo-price-11788162211726.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "Ather Energy shares rose nearly 4% to a record  \u20b91,679 following the launch of its mass-market scooter, Ather Konarc, priced from  \u20b999,999. The Konarc aims to attract a wider audience and expands Athe",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rising US bond yields or oil prices at $90 per barrel- Which is the bigger risk for stock markets?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/rising-us-bond-yields-or-oil-prices-at-90-per-barrel-which-is-the-bigger-risk-for-stock-markets-11788159795096.html",
+      "date": "Mon, 31 Aug 2026",
+      "desc": "As US bond yields rise and oil prices hover around $90 per barrel, analysts debate which factor poses a greater threat to the Indian stock market. Insights reveal that while yields impact sentiment, o",
       "tags": [],
       "is_portfolio": false
     }
