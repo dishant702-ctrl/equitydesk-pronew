@@ -1,28 +1,6 @@
 {
-  "updated_ist": "07 Sep 2026 19:46 IST",
+  "updated_ist": "08 Sep 2026 13:27 IST",
   "news": [
-    {
-      "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/partys-over-for-crypto-scammers-who-went-on-a-spending-spree-after-a-240-million-bitcoin-theft/articleshow/133880982.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "In a bold social engineering heist, young con artists pilfered over $240 million in bitcoin, leading to an extravagant month of luxury splurges, complete with stylish mansions. The FBI has arrested Ma",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "When Nithin Kamath met Karthik Rangappa: The journey from international investor account sales pitch to heading Varsity",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/when-nithin-kamath-met-karthik-rangappa-the-journey-from-international-investor-account-sales-pitch-to-heading-varsity/articleshow/133879291.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Zerodha co-founder Nithin Kamath credited Karthik Rangappa as central to building Zerodha Varsity, the brokerage\u2019s free financial education platform. Kamath highlighted Rangappa\u2019s long association, co",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -35,56 +13,96 @@
       "is_portfolio": true
     },
     {
-      "title": "Spain mandates new 20-year green bond syndication, seeks to raise \u20ac4 billion",
+      "title": "Tejas Networks stock forms strong bullish candles; Axis Direct shares buy range, stop-loss, upside, holding period",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/tejas-networks-stock-forms-strong-bullish-candles-axis-direct-shares-buy-range-stop-loss-upside-holding-period-11788849830807.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Tejas Networks' stock shows strong momentum, gaining 9% in a week and 27% over six months. Trading at  \u20b9593.55, it's 8% below its 52-week high. A recent  \u20b91,537 crore order from TCS doubles its order ",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Bitcoin\u2019s Latest Hack Puts Key Crypto Vulnerability in Spotlight",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/bitcoins-latest-hack-puts-key-crypto-vulnerability-in-spotlight-11788850068455.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "The $320 million hack of the Bitcoin-linked Liquid Network is another dent to crypto\u2019s reputation as the industry tries to convince banks and institutional investors that digital assets can become par",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: Yen rally threatens to unravel lucrative carry trade ahead of BOJ rate decision",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/spain-mandates-new-20-year-green-bond-syndication-seeks-to-raise-4-billion/articleshow/133881336.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Spain has announced a new initiative requiring banks to participate in a syndicated 20-year green government bond, aimed at generating about four billion euros soon. Leading financial institutions suc",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-yen-rally-threatens-to-unravel-lucrative-carry-trade-ahead-of-boj-rate-decision/articleshow/133913871.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "The Japanese yen has surged ahead of an expected Bank of Japan rate hike next week, disrupting the long-standing yen carry trade and prompting investors to unwind bearish yen positions. The yen streng",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian bonds end flat as traders gauge RBI liquidity approach",
+      "title": "PVR Inox\u2019s Rs 300-crore buyback opens on Sept 10: Check buyback price, key dates, entitlement ratio",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-end-flat-as-traders-gauge-rbi-liquidity-approach/articleshow/133881252.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "In a cautious trading session, Indian government bonds experienced little movement as the Reserve Bank of India implemented temporary liquidity management strategies. By withdrawing substantial amount",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inoxs-rs-300-crore-buyback-opens-on-sept-10-check-buyback-price-key-dates-entitlement-ratio/articleshow/133913344.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "PVR Inox\u2019s Rs 300-crore share buyback opens September 10 and closes September 17, offering eligible shareholders Rs 1,450 per share, over 25% above the market price. The company plans to repurchase ne",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Vodafone Idea among 4 stocks hitting 52-week highs; rallied up to 22% in a month",
+      "title": "Copper hits record high, UltraTech\u2019s Ultravolt on the offensive: A double whammy for cable makers in FY27?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vodafone-idea-among-4-stocks-hitting-52-week-highs-rallied-up-to-22-in-a-month/slideshow/133880792.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Despite a 382-point fall in the Sensex, four stocks from the BSE 200 index, Vodafone Idea, Lenskart Solutions, Solar Industries India and Divi's Laboratories hit fresh 52-week highs on Monday. Key gai",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/copper-hits-record-high-ultratechs-ultravolt-on-the-offensive-a-double-whammy-for-cable-makers-in-fy27/articleshow/133913050.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Copper prices have soared to unprecedented levels, creating ripple effects on manufacturing expenses worldwide. UltraTech's Ultravolt is making bold strides into the Indian wires and cables sector, cr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi eases compliance norms for FPIs investing only in government securities",
+      "title": "FCNR(B) windfall for banks explained: Who got highest inflows and what it means for investors",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-compliance-norms-for-fpis-investing-only-in-government-securities/articleshow/133880514.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Sebi has eased compliance requirements for FPIs investing exclusively in government securities, removing the need to furnish investor group details. The move follows the RBI\u2019s decision to withdraw con",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fcnrb-windfall-for-banks-explained-who-got-highest-inflows-and-what-it-means-for-investors/articleshow/133912727.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "FCNR(B) deposits offer banks a cheaper and balance-sheet-efficient source of funding, but their finite tenor and initial deployment challenges could pressure margins. While ICICI Bank and Kotak Mahind",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Private Credit vs Fixed Income: What HNIs need to know before investing",
+      "title": "Why investors are turning bullish on Bloom Energy shares",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-credit-vs-fixed-income-what-hnis-need-to-know-before-investing/articleshow/133878550.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "ET Alpha Summit 2.0 will bring together leading investment voices to discuss private credit, structured debt and evolving portfolio strategies. As HNIs look beyond traditional fixed income for income ",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-investors-are-turning-bullish-on-bloom-energy-shares/slideshow/133912665.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Bloom Energy shares jumped after the company was selected for inclusion in the S&amp;P 500, with the move set to take effect on September 21. UBS raised its price target to $325, citing potential pass",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Market wrap:  L&amp;T, Bharti Airtel, Infosys, Tech Mahindra top gainers and losers on Nifty and Sensex on Monday",
+      "title": "PC Jeweller shares fall 5% after sharp 3-day rally; stock up 388% in 3 years",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-lt-bharti-airtel-infosys-tech-mahindra-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/133878571.cms",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Indian markets ended lower on Monday, with Sensex and Nifty falling 0.5% each as elevated crude oil prices and geopolitical uncertainty weighed on sentiment. IT and media stocks faced heavy selling, w",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-fall-5-after-sharp-3-day-rally-stock-up-388-in-3-years/articleshow/133911978.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "PC Jeweller shares retreated after a 37% three-session rally, likely due to profit booking. Despite the decline, the stock remains up 31% in a week and 45% in 2026, with gains of 388% over three years",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Copper hits new peak of $14,533/metric ton. Can its reddish glow brighten even further?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/copper-hits-new-peak-of-14533/metric-ton-can-its-reddish-glow-brighten-even-further/articleshow/133911837.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Copper prices hit a record high of $14,533 per metric ton as tight mine supply, a weaker dollar and structural demand from electrification, AI and data centres fuelled the rally. Analysts see further ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HFCL, Sterlite Tech shares jump 5%: What\u2019s driving up to 705% multibagger run?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-sterlite-tech-shares-jump-5-whats-driving-up-to-705-multibagger-run/articleshow/133911653.cms",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "HFCL and Sterlite Technologies hit their upper circuits on Tuesday, extending their sharp 2026 rallies on strong business updates. HFCL has surged over 267% so far this year, while Sterlite Tech has d",
       "tags": [],
       "is_portfolio": false
     },
@@ -116,146 +134,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Sebi eases investor group disclosure for FPIs investing in govt bonds",
+      "title": "Garuda Construction hits the roof after bagging tower construction project in Saudi Arabia",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-eases-investor-group-disclosure-for-fpis-investing-in-govt-bonds-126090701180_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "The move extends a relaxation Sebi had first carved out in September 2025 for FPIs investing only in government bonds under the Fully Accessible Route",
+      "link": "https://www.business-standard.com/markets/capital-market-news/garuda-construction-hits-the-roof-after-bagging-tower-construction-project-in-saudi-arabia-126090800580_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Garuda Construction and Engineering was locked in 5% upper circuit at Rs 187.95 after the company's subsidiary Dream City Builders has secured a contract for building 93-storey landmark tower in Jedda",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shalibhadra Finance forays into used commercial vehicle financing",
+      "title": "ESDS Software Solution Ltd leads gainers in 'B' group",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shalibhadra-finance-forays-into-used-commercial-vehicle-financing-126090701170_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Shalibhadra Finance announced the expansion of its loan products with the launch of Used Commercial Vehicle (UCV) Financing division.",
+      "link": "https://www.business-standard.com/markets/capital-market-news/esds-software-solution-ltd-leads-gainers-in-b-group-126090800578_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Genesys International Corporation Ltd, Allcargo Global Ltd, Alkali Metals Ltd and Poddar Pigments Ltd are among the other gainers in the BSE's 'B' group today, 08 September 2026.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Aarti Industries commissions Phase 1 of its  Zone IV project at Jhagadia, Gujarat",
+      "title": "Yen climbs towards 153 as hawkish BOJ bets gain traction",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/aarti-industries-commissions-phase-1-of-its-zone-iv-project-at-jhagadia-gujarat-126090701169_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Aarti Industries announced the successful commissioning of Phase I of its Zone IV project at Jhagadia, Gujarat, marking an important milestone in the Company's ongoing growth and expansion journey. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "GE Vernova T&D wins bid for 6000 MW HVDC LCC terminal station project",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ge-vernova-t-d-wins-bid-for-6000-mw-hvdc-lcc-terminal-station-project-126090701167_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rajputana Stainless board approves wind and solar projects for captive consumption",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/rajputana-stainless-board-approves-wind-and-solar-projects-for-captive-consumption-126090701166_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "At meeting held on 07 September 2026",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Tata Motors allots 89,048 equity shares under ESOP",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-allots-89-048-equity-shares-under-esop-126090701102_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "\nConsequent to the aforesaid allotment, the paid-up equity share capital of the Company stands increased from Rs 7,36,54,00,608 divided into 3,68,27,00,304 equity shares of Rs 2/- each to Rs 7,36,55,7",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "INR slides as surging crude oil prices offset support from strong FCNR dollar inflows",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-slides-as-surging-crude-oil-prices-offset-support-from-strong-fcnr-dollar-inflows-126090701034_1.html",
-      "date": "Mon, 07 Sep 2026",
+      "link": "https://www.business-standard.com/markets/capital-market-news/yen-climbs-towards-153-as-hawkish-boj-bets-gain-traction-126090800554_1.html",
+      "date": "Tue, 08 Sep 2026",
       "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Large currency speculators slightly increase net short position in Pound futures market",
+      "title": "Wockhardt Ltd up for five straight sessions",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/large-currency-speculators-slightly-increase-net-short-position-in-pound-futures-market-126090701033_1.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "\nLarge currency speculators slightly add to net shorts in Pound futures market, according to the latest Commitment of Traders (COT) data released by the Commodity Futures Trading Commission (CFTC). Th",
+      "link": "https://www.business-standard.com/markets/capital-market-news/wockhardt-ltd-up-for-five-straight-sessions-126090800533_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Wockhardt Ltd is quoting at Rs 2214, up 0.27% on the day as on 12:44 IST on the NSE. The stock is up 48.22% in last one year as compared to a 4.86% gain in NIFTY and a 21.83% gain in the Nifty Pharma.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "AI penny stock under  \u20b910 hits 5% upper circuit as IndiaAI Mission boosts infrastructure demand",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ai-penny-stock-under-rs-10-hits-5-upper-circuit-as-indiaai-mission-boosts-infrastructure-demand-11788788720965.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Empower India Limited's shares hit a 5% upper circuit as the company expands into sustainable digital infrastructure to meet rising AI demand.&amp;nbsp;",
+      "title": "NIACL, IFCI stocks slide up to 14% amid profit booking, NSE IPO GMP dip",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/niacl-ifci-stocks-slide-up-to-14-amid-profit-booking-nse-ipo-gmp-dip-126090800525_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Shares of New India Assurance Company and IFCI cracked up to 14% on account of profit-taking after NSE's IPO grey market premium fell to \u20b9225 on Tuesday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Newly listed metal stock Rajputana Stainless to be in focus on Tuesday after order win from Suzlon Energy",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/newly-listed-metal-stock-rajputana-stainless-to-be-in-focus-on-tuesday-after-order-win-from-suzlon-energy-11788786985013.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Rajputana Stainless shares are under scrutiny after securing an order from Suzlon Energy for a 2.10 MW wind project in Gujarat, valued at  \u20b916.21 crore. This marks a significant development for the co",
+      "title": "Glass Wall Systems IPO fully booked on day 1; analysts rate 'subscribe'",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/glass-wall-systems-ipo-review-subscription-data-day-1-analysts-rate-subscribe-price-band-latest-gmp-126090800491_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Glass Wall Systems IPO review: Analysts have shared a constructive view on Glass Wall Systems IPO and recommended 'Subscribe'.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Fed rate decision: What markets are watching ahead of September meeting",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/us-fed-rate-decision-what-markets-are-watching-ahead-of-september-meeting-11788781533247.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Markets weigh a Fed rate hike after stronger-than-expected August jobs data, elevated oil prices and Middle East tensions, with Friday's inflation report seen as the key factor ahead of the September ",
+      "title": "Fredun forays into pet wellness with acquisition of Furlicks",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/fredun-forays-into-pet-wellness-with-acquisition-of-furlicks-126090800487_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Fredun Pharmaceuticals (FPL) has acquired Furlicks, an innovative pet-wellness brand focused on convenient, easy-to-administer oral-strip solutions for pets. The acquisition of Furlicks from USV & Wel",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Pranav Constructions IPO GMP Today: What latest rate hints at listing share price | Allotment, stock market debut date",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pranav-constructions-ipo-gmp-today-what-latest-rate-hints-at-listing-share-price-allotment-stock-market-debut-date-11788782752149.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Pranav Constructions' IPO opened with a grey market premium of  \u20b944 per share, indicating strong demand. The public issue aims to raise  \u20b9351 crore and is set to close on September 9. Investors are ad",
+      "title": "Vishnu Chemicals enters JV agreement with DCX Chrome SAS, France",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/capital-market-news/vishnu-chemicals-enters-jv-agreement-with-dcx-chrome-sas-france-126090800464_1.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "To establish greenfield manufacturing unit in Visakhapatnam (Vizag), Andhra Pradesh",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SEBI eases regulatory compliance for FPIs investing only in government securities | Details here",
+      "title": "Defence stock Raymond hits 52-week high, rises 12% ahead of board meeting outcome on fundraise",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-eases-regulatory-compliance-for-fpis-investing-only-in-government-securities-11788782595999.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Indian capital market regulator Securities and Exchange Board of India (SEBI) has reduced the regulatory compliance for all foreign portfolio investors (FPIs) investing exclusively in government secur",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-stock-raymond-hits-52-week-high-rises-12-ahead-of-board-meeting-outcome-on-fundraise-11788852915044.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Defence stock Raymond surged more than 12% to hit its fresh 52-week high of  \u20b9869.05 in intraday deals on Tuesday, 8 September, ahead of its board meeting outcome.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi eases compliance for foreign investors investing in government bonds",
+      "title": "IPO GMPs: Rentomojo, LCC Projects to Karamtara Engineering \u2014 what grey market signals about upcoming IPOs",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/bonds/sebi-eases-compliance-for-foreign-investors-investing-in-government-bonds-11788781177999.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "The relaxation removes the need for FPIs investing only in G-Secs to furnish investor group details.",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-rentomojo-lcc-projects-to-karamtara-engineering-what-grey-market-signals-about-upcoming-ipos-11788851795888.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "The IPOs of Rentomojo, LCC Projects, and Karamtara Engineering will open for subscription on September 9, aiming to raise over  \u20b94,500 crore. The allotment is expected on September 15, with shares lis",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HEG demerger news | Stock zooms 5% on record date \u2014 what's next for investors?",
+      "title": "FPIs see autos, consumer durables race past staples during festive season",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/heg-demerger-news-stock-zooms-5-on-record-date-whats-next-for-investors-11788781365786.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "HEG's demerger creates two entities: HEG Graphite and HEG Advanced Materials. Each shareholder receives a share in HEG Graphite for every HEG share held. Emkay assesses a combined value of over  \u20b918,0",
+      "link": "https://www.livemint.com/market/stock-market-news/fpi-buying-autos-consumer-durables-festive-season-demand-11788798904500.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Foreign investors build auto, consumer durable portfolios while offloading food, beverages and tobacco stocks.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Over 100% returns in 6 months | Multibagger defence stock hits 52-week high ahead of board meeting to discuss fundraise",
+      "title": "Dividend stocks alert! Last chance to buy today to qualify for these shares - Check full list, amount, payment timeline",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/over-100-returns-in-6-months-multibagger-defence-stock-hits-52-week-high-ahead-of-board-meeting-to-discuss-fundraise-11788775799102.html",
-      "date": "Mon, 07 Sep 2026",
-      "desc": "Raymond shares have delivered strong multibagger returns of 103% over the last six months, defying weak stock market trends. The stock hit a 52-week low of  \u20b9320.40 on 30 March this year, and at the c",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-alert-last-chance-to-buy-today-to-qualify-for-these-shares-check-full-list-amount-payment-11788845748540.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Dividend stocks alert: Shares of Force Motors, JBM Auto, Gujarat Narmada Valley Fertilisers and Chemicals are in focus today, September 8, as it will be the last day for investors to buy these stocks ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IFCI share price tumbles over 8% amid ongoing NSE IPO buzz",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/ifci-share-price-tumbles-over-8-amid-ongoing-nse-ipo-buzz-11788846861811.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "IFCI shares opened at  \u20b9103.40 apiece on NSE today, as compared to previous close of  \u20b9102.51. The stock hit an intraday low of  \u20b992.75 apiece.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Copper Ascends to New Heights on Tight Supply and Tariff Fears",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/copper-ascends-to-new-heights-on-tight-supply-and-tariff-fears-11788847556298.html",
+      "date": "Tue, 08 Sep 2026",
+      "desc": "Copper extended gains, hitting a record high for a second straight session, as tight near-term supplies and expectations the US will tariff imports of refined metal buoyed prices.",
       "tags": [],
       "is_portfolio": false
     }
