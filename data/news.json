@@ -1,6 +1,17 @@
 {
-  "updated_ist": "18 Sep 2026 13:36 IST",
+  "updated_ist": "18 Sep 2026 18:29 IST",
   "news": [
+    {
+      "title": "Market wrap:  Adani Ports, Adani Ports SEZ, TCS, Tata Motors PV top gainers and losers on Nifty and Sensex on Friday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-ports-adani-ports-sez-tcs-tata-motors-pv-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134332633.cms",
+      "date": "Fri, 18 Sep 2026",
+      "desc": "Indian equities ended higher on September 18, led by softer crude prices and supportive Asian cues. Nifty gained 0.31%, while Sensex rose marginally. Midcaps and smallcaps advanced over 1%, volatility",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,74 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "US Market: Nike\u2019s position in Dow Jones index comes under pressure",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-nikes-position-in-dow-jones-index-comes-under-pressure/articleshow/134329444.cms",
+      "title": "TCS, Tata Chemicals, Tata Steel to Tata Motors PV \u2014 Tata Group stock lost 46,600 crores in a single day",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-tata-chemicals-tata-steel-to-tata-motors-pv-tata-group-stock-lost-46-600-crores-in-a-single-day-11789728923950.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Nike faces growing speculation over its future in the Dow after being removed from the S&amp;P 100. Its weak share performance, low price and declining market value have raised questions about whether",
+      "desc": "Tata Group companies experienced a significant market cap drop of  \u20b946,600 crore amid a mounting governance crisis and investor uncertainty. The turmoil followed a board decision to extend Chairman Na",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Hi-Tech Flow Solutions files DHRP for IPO, to raises Rs 300 cr via fresh issue",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hi-tech-flow-solutions-files-dhrp-for-ipo-to-raises-rs-300-cr-via-fresh-issue/articleshow/134335712.cms",
+      "date": "Fri, 18 Sep 2026",
+      "desc": "Hi-Tech Flow Solutions has filed its DRHP for a Rs 300 crore IPO comprising a fresh issue and offer-for-sale. The company plans capacity expansion, debt repayment and corporate purposes, while targeti",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rising oil, borrowing costs fuel stagflation fears for global economy",
+      "title": "Bhumika Realty leases 24,000 sq ft retail space to Lifestyle in Faridabad",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/rising-oil-borrowing-costs-fuel-stagflation-fears-for-global-economy/articleshow/134329348.cms",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bhumika-realty-leases-24000-sq-ft-retail-space-to-lifestyle-in-faridabad/articleshow/134335383.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Middle East conflict-driven energy price spikes and rising global borrowing costs are reviving inflation risks while threatening economic growth. Brent crude remains above $100, government bond yields",
+      "desc": "Bhumika Realty has secured a 24,000 sq ft lease with Lifestyle, marking a significant milestone for their new project, 'The Icon', currently under development in Faridabad. With this mixed-use venture",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Sons IPO: Why Tata Chemicals may be the biggest beneficiary although Tata Motors, Tata Steel own bigger stake",
+      "title": "Fed hike, RBI moves hand India bonds a fifth weekly loss",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-sons-ipo-why-tata-chemicals-may-be-the-biggest-beneficiary-although-tata-motors-tata-steel-own-bigger-stake/articleshow/134329137.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/fed-hike-rbi-moves-hand-india-bonds-a-fifth-weekly-loss/articleshow/134335309.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Tata Sons\u2019 potential IPO and internal governance dispute are driving volatility across Tata Group stocks, with Tata Chemicals seeing the sharpest moves. Its 2.5% Tata Sons stake is worth about Rs 30,0",
+      "desc": "Indian government bonds have fallen for five consecutive weeks.  A Federal Reserve rate hike and RBI liquidity measures emboldened bond market bears.  Global yields reached multi-decade peaks, and the",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Market: Orion180 prices IPO below target range, raises $240 million",
+      "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: Nasdaq futures lead US stock gains as oil retreat eases inflation fears",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-orion180-prices-ipo-below-target-range-raises-240-million/articleshow/134328997.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-earnings-forecast-nvidia-xenon-pharmaceuticals-berkshire-hathaway-alphabet-apple-stock-price-news-18th-september-2026/liveblog/134335091.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Orion180 Insurance raised $240 million through its US IPO after pricing 20 million shares at $12 each, below its targeted range of $15-$17. The insurer is set to list on Nasdaq as the US IPO pipeline ",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jefferies hikes Navin Fluorine share price target, forecasts 14% upside. 4 reasons why",
+      "title": "Warren Buffett is passing the baton: 5 investment mantras the next generation can carry forward",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-hikes-navin-fluorine-share-price-target-forecasts-14-upside-4-reasons-why/articleshow/134328838.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-is-passing-the-baton-5-investment-mantras-the-next-generation-can-carry-forward/articleshow/134333984.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Jefferies has retained its Buy rating on Navin Fluorine International and raised its price target to Rs 9,405, citing growth prospects in CDMO, R32 and the Chemours project. The brokerage expects a 23",
+      "desc": "Warren Buffett has stepped down as Berkshire Hathaway chairman and become chairman emeritus, with Howard Buffett taking the role. Greg Abel remains CEO. Buffett\u2019s six-decade investment philosophy high",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Market: SEC unveils five-year exemption for tokenized stock trading",
+      "title": "Global Market: Eurozone bond yields set for weekly decline as ECB hike bets ease",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-sec-unveils-five-year-exemption-for-tokenized-stock-trading/articleshow/134328527.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-set-for-weekly-decline-as-ecb-hike-bets-ease/articleshow/134333302.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "The SEC has introduced a five-year exemption to facilitate trading in tokenized stocks, allowing certain blockchain-based platforms to operate under limited regulatory relief. The framework gives issu",
+      "desc": "Eurozone bond yields were headed for their first weekly decline since early August as investors pared back expectations of further ECB rate hikes. Meanwhile, US Treasury yields stabilised after the 10",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "14 stocks held by 100+ MFs in August surged up to 200%; 5 turned multibaggers in CY26",
+      "title": "ET Alpha Wealth Summit 2.0: Can SIFs become the bridge between mutual funds &amp; alternative investments?",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-stocks-held-by-100-mfs-in-august-surged-up-to-200-5-turned-multibaggers-in-cy26/slideshow/134328934.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-can-sifs-become-the-bridge-between-mutual-funds-alternative-investments/articleshow/134331470.cms",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Fourteen stocks held by over 100 mutual fund schemes each surged 60-200% in CY26 through August, with Welspun Corp, Aditya Infotech and Apar Industries among the biggest gainers. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Can Fayuvi FDA approval lift RARE stock further?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-fayuvi-fda-approval-lift-rare-stock-further/slideshow/134328451.cms",
-      "date": "Fri, 18 Sep 2026",
-      "desc": "Ultragenyx Pharmaceutical shares surged 12.6% after FDA approval of Fayuvi, its gene therapy for Sanfilippo syndrome Type A, though the RARE stock remains down sharply year-to-date following a failed ",
+      "desc": "SIFs are emerging as a new investment category for investors seeking sophisticated strategies within a regulated fund structure. At ET Alpha Wealth Summit 2.0, Radhika Gupta, MD &amp; CEO of Edelweiss",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,146 +125,137 @@
       "is_portfolio": false
     },
     {
-      "title": "KSSMART receives Rs 127-cr order for Punjab state digital education initiatives",
+      "title": "STT collections surge 53% to \u20b940,214 crore in FY27 after rate hike",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/kssmart-receives-rs-127-cr-order-for-punjab-state-digital-education-initiatives-126091800517_1.html",
+      "link": "https://www.business-standard.com/markets/news/stt-collections-surge-53-to-40-214-crore-in-fy27-after-rate-hike-126091801033_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "KS Smart Solutions, a wholly owned subsidiary of KS Smart Technologies, has bagged a project valued at Rs 127.12 crores (approx.) from the School Education Department, Government of Punjab. ",
+      "desc": "The sharp rise follows higher STT rates effective from April 1, with the levy on futures raised to 0.05% and that on options premium turnover increased to 0.15%",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mirae Asset sees gold testing $4,535 as yields and oil prices ease",
+      "title": "Sonaselection India subscribed 90%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/mirae-asset-sees-gold-testing-4-535-as-yields-and-oil-prices-ease-126091800501_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sonaselection-india-subscribed-90-126091801019_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Gold may rise to test the resistance zone of $4520-$4535. However, oil prices rising further will pose a downside risk to this possibility.",
+      "desc": "The offer received bids for 90.52 lakh shares as against 1 crore shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Group stocks under pressure amid Tata Sons listing dispute",
+      "title": "Hero Motors IPO subscribed 6.66 times",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tata-group-stocks-under-pressure-amid-tata-sons-listing-dispute-126091800481_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hero-motors-ipo-subscribed-6-66-times-126091801018_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Tata Group stocks declined on Friday after advancing in the previous session, as investors reacted to fresh developments at the group's holding company, Tata Sons.",
+      "desc": "The offer received bids for 58.97 crore shares as against 8.86 crore shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty regains 23,300 mark, midcaps, smallcaps gain",
+      "title": "National Stock Exchange of India (NSE) IPO subscribed 1.15 times",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-regains-23-300-mark-midcaps-smallcaps-gain-126091800476_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/national-stock-exchange-of-india-nse-ipo-subscribed-1-15-times-126091800972_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "\nThe key equity barometers firmed up further in early afternoon trade, supported by easing crude oil prices and softer global bond yields. Market sentiment also received a boost after Moodys raised it",
+      "desc": "The offer received bids for 10.18 crore shares as against 8.86 crore shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Shining bright! Gold, silver ETFs rise 2-3% as oil fall eclipses Fed hike",
+      "title": "SS Retail IPO subscribed 103.30  times",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/shining-bright-gold-silver-etfs-rise-2-3-as-oil-fall-outshines-fed-hike-126091800437_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ss-retail-ipo-subscribed-103-30-times-126091800971_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Analysts believe the bullion rose as the US Fed rate hike is largely discounted by the market. Meanwhile, a fall in oil prices for the third straight day softened inflation concerns.",
+      "desc": "The offer received bids for 90.83 crore shares as against 87.93 lakh shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "iPhone 18 sales open: Electronics Mart, Redington, Eternal rise up to 8%",
+      "title": "Jindal Supreme (India) IPO subscribed 181.07 times",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/iphone-18-sales-open-electronics-mart-redington-eternal-rise-up-to-8-126091800464_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/jindal-supreme-india-ipo-subscribed-181-07-times-126091800968_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "The latest Pro models can be purchased through Apple's online store, six retail outlets and select authorised third-party retailers, as well as on quick-commerce platforms",
+      "desc": "The offer received bids for 170.19 crore shares as against 93.99 lakh shares on offer.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Silver price may rise toward $68 on falling yields, oil: Mirae Asset",
+      "title": "Nifty settles above 23,300 as Moody's GDP upgrade, easing oil support sentiment",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/silver-price-may-rise-toward-68-on-falling-yields-oil-mirae-asset-126091800456_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-settles-above-23-300-as-moody-s-gdp-upgrade-easing-oil-support-sentiment-126091800939_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Silver may rise further to test resistance around $68 as yields, after relentless rise in last few days, can correct further. Interim resistance is seen at $66.55. Support is at $64.50-$62.80",
+      "desc": "\nThe key equity benchmarks ended mixed on Friday, as easing crude oil prices and softer global bond yields supported investor sentiment. Market sentiment was also aided by Moody's upward revision of I",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Concord Biotech's Valthera unit completes US FDA audit with one procedural observation",
+      "title": "Quick Wrap: Nifty Metal Index gains 1.51%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/concord-biotech-s-valthera-unit-completes-us-fda-audit-with-one-procedural-observation-126091800453_1.html",
+      "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-metal-index-gains-1-51-126091800938_1.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Concord Biotech said that the U.S. Food and Drug Administration (US FDA) had successfully concluded the inspection of the company's Valthera Formulation Facility, with one minor procedural observation",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rentomojo share price rises 44% above IPO price: What should investors watch now?",
+      "title": "Rediff.com IPO: New UPI MDR rules open an additional revenue stream for the company: Report",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/rentomojo-share-price-rises-44-above-ipo-price-what-should-investors-watch-now-11789716691840.html",
+      "link": "https://www.livemint.com/market/stock-market-news/rediffcom-ipo-new-upi-mdr-rules-open-an-additional-revenue-stream-for-the-company-report-11789732840605.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Rentomojo share price fell by over 1% in its second trading session, yet it remains 44% higher than its IPO price of  \u20b9404. The stock opened at  \u20b9566.95, hit a low of  \u20b9524.95, and closed at  \u20b9532.95,",
+      "desc": "Rediff.com stands to benefit from the government's new Merchant Discount Rate (MDR) on select UPI transactions, potentially enhancing its revenue as it prepares for market listing. The MDR changes, ef",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi board may discuss PMS, ad code, settlement rules at 24 September meet",
+      "title": "1:10 stock split: This multibagger nears record date, turns  \u20b910,000 into  \u20b95.3 lakh in 2 yrs | Do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-board-meeting-pms-ad-code-settlement-rules-fpi-11789713674078.html",
+      "link": "https://www.livemint.com/market/stock-market-news/110-stock-split-this-multibagger-nears-record-date-turns-rs-10-000-into-rs-5-26-lakh-in-2-yrs-do-you-own-11789731139609.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Sebi is likely to discuss comprehensive changes to PMS regulations, a common advertisement framework, and settlement rules in its upcoming meeting, alongside proposals for increasing foreign investor ",
+      "desc": "Multibagger stock, Midwest Energy Limited, is set to split at a 1:10 ratio, with a record date of September 25. Check details",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Final day to buy Hero Motors, SS Retail, Jindal Supreme: Which issue has highest IPO GMP? Check subscription, review",
+      "title": "Maharatna PSU stock Power Grid to raise  \u20b95,000 crore through bonds: Check issue size, tenure and details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/final-day-to-buy-hero-motors-ss-retail-jindal-supreme-which-issue-has-highest-ipo-gmp-check-ipo-subscription-review-11789715942088.html",
+      "link": "https://www.livemint.com/market/stock-market-news/maharatna-psu-stock-power-grid-to-raise-rs-5-000-crore-through-bonds-check-issue-size-tenure-and-details-11789728216600.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "The three IPOs - Hero Motors, SS Retail, and Jindal Supreme - showcase potential in automotive, retail, and steel sectors. As bidding wraps up today, investors are eyeing robust subscription rates and",
+      "desc": "Power Grid Corporation of India plans to raise  \u20b95,000 crore through a private bond placement, approved by its Committee of Directors. The bonds are unsecured and will be listed on BSE and NSE, with a",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Group stocks shed $3.2 billion in market cap amid rift over Tata Sons listing",
+      "title": "IPO GMP comparison:  NSE vs Hero Motors vs SS Retail vs Jindal Supreme - Check which has worst grey market premium?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tata-group-stocks-shed-3-2-billion-in-market-cap-amid-tata-sons-rift-11789717385957.html",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmp-comparison-nse-vs-hero-motors-vs-ss-retail-vs-jindal-supreme-check-which-has-worst-grey-market-premium-11789723108344.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "By noon, about $3.16 billion had been chipped off the combined market cap of listed Tata Group companies, versus about $268.5 billion at Thursday's close.",
+      "desc": "India's IPO market is active with offerings from NSE, Hero Motors, SS Retail, and Jindal Supreme. Hero Motors IPO saw a decline in grey market premium while NSE IPO indicated a muted listing gain. SS ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Park Medi World shares jump over 37% in 6 months; now launches this new program at Signature Hospital Gurugram",
+      "title": "Expert view: Elevated bond yields to put pressure on Nifty PE, says Wealthy's head of research",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/park-medi-world-shares-jump-over-37-in-6-months-now-launches-this-new-program-at-signature-hospital-gurugram-11789716933165.html",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-elevated-bond-yields-to-put-pressure-on-nifty-pe-says-wealthys-head-of-research-11789729062189.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Park Medi World Limited's shares rose following the launch of a liver transplant programme at Signature Hospital, aimed at enhancing transplant services for patients in Delhi-NCR. Despite initial gain",
+      "desc": "As global bond yields climb, the impact on Indian equities is becoming increasingly evident. Wealthy's Niharika Tripathi warns that sustained higher yields may compress valuations and reshape investme",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market prediction: Bulls may fancy Nifty 50 hitting 27,000 in CY2026 | Here's how",
+      "title": "RBI funding curbs, CAS take a toll on proprietary volumes",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-bulls-may-fancy-nifty-50-hitting-27-000-in-cy2026-heres-how-11789712187213.html",
+      "link": "https://www.livemint.com/market/stock-market-news/proprietary-traders-nse-equity-options-trading-share-falls-rbi-funding-norms-cas-11789717692603.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Stock market prediction: AI-slowdown, Jio Platforms IPO, expected rebound in the banking and IT stocks, and fast-approaching festival season are expected to fuel the Nifty 50 index, say experts",
+      "desc": "Equity options market share of prop traders fell to a 22-month low on NSE in Aug. BSE which doesn't provide such data suffered too as overall volumes fell more sharply. CAS review a silver lining",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Grauer &amp; Weil share price jumps 11% after key AGM decisions | Details here",
+      "title": "Gold price extends gains despite US Fed rate hike: Should investors chase the rally? Key outlook explained",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/grauer-weil-share-price-jumps-11-after-key-agm-decisions-details-here-11789712547415.html",
+      "link": "https://www.livemint.com/market/stock-market-news/gold-price-extends-gains-despite-us-fed-rate-hike-should-investors-chase-the-rally-key-outlook-explained-11789727563285.html",
       "date": "Fri, 18 Sep 2026",
-      "desc": "Grauer &amp;amp; Weil shares surged over 11% after a final dividend of Re 0.50 per share was approved at the AGM. Key decisions included the reappointments of directors and positive audit opinions on ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bombay Burmah share price jumps 9.5% after  \u20b9249 crore block deal - check details",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bombay-burmah-share-price-jumps-9-5-after-rs-249-crore-block-deal-check-details-11789712754351.html",
-      "date": "Fri, 18 Sep 2026",
-      "desc": "Bombay Burmah Trading Corporation's shares surged nearly 10% following a large block transaction of over 18 lakh shares valued at  \u20b9249 crore. Despite the rise, the stock is still down 31% from its 52",
+      "desc": "Gold prices rose for the third consecutive day as declining crude oil prices and a drop in global bond yields bolstered sentiment. MCX gold hit  \u20b91,54,600 per 10 grams, marking a three-day gain of  \u20b93",
       "tags": [],
       "is_portfolio": false
     }
