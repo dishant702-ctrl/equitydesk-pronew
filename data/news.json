@@ -1,17 +1,6 @@
 {
-  "updated_ist": "23 Sep 2026 19:18 IST",
+  "updated_ist": "24 Sep 2026 13:48 IST",
   "news": [
-    {
-      "title": "Anlon Healthcare among 7 healthcare stocks hitting 52-week highs; rallied up to 105% in a month",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anlon-healthcare-among-7-healthcare-stocks-hitting-52-week-highs-rallied-up-to-105-in-a-month/slideshow/134436863.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Seven healthcare stocks hit fresh 52-week highs on Wednesday, led by Anlon Healthcare, which gained 108% in a month. Kopran, Kilitch Drugs, Innova Captab and others also posted strong recent gains. ",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,96 @@
       "is_portfolio": true
     },
     {
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures muted; Middle East talks, Trump-Xi meet in focus",
+      "title": "Reliance Industries down 2%, at 17-month low; what's making Street nervous?",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/reliance-industries-down-2-at-17-month-low-what-s-making-street-nervous-126092400512_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Thus far in the calendar year 2026, RIL's share price underperformed the market by plunging 22 per cent, as compared to a 13 per cent decline in the BSE Sensex.",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "IT dividend heavyweights compared: TCS, Infosys, HCL Tech, Wipro, Accelya Solutions - Which IT stock has highest yield?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/it-dividend-heavyweights-compared-tcs-infosys-hcl-tech-wipro-accelya-solutions-which-it-stock-has-highest-yield-11790235272610.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Major IT companies like TCS, Infosys, and HCL Tech showcase high dividend yields despite a challenging 2026 with an 11% decline in Nifty IT stocks. Check full list",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Global Market: BOJ could raise rates to 2% by June 2027 as inflation risks mount: Sakurai",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/url-dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-trump-xi-meet-un-jpmorgan-chase-uber-airbnb-meta-apple-amazon-chip-stock-price-news-23th-september-2026/liveblog/134437316.cms",
-      "date": "Wed, 23 Sep 2026",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-could-raise-rates-to-2-by-june-2027-as-inflation-risks-mount-sakurai/articleshow/134455854.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "The Bank of Japan could raise interest rates every three months and take its policy rate to 2% by June 2027 as inflation pressures build, former BOJ board member Makoto Sakurai said. Higher fuel costs",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Combined AUM of InvITs and REITs set to double to nearly Rs 20 trillion by 2030-31: ICRA",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/combined-aum-of-invits-and-reits-set-to-double-to-nearly-rs-20-trillion-by-2030-31-icra/articleshow/134455581.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "The combined AUM of InvITs and REITs is projected to double to nearly Rs 20 trillion by 2030-31 from Rs 10 trillion in 2025-26, ICRA said. Growth is expected to be driven by infrastructure monetisatio",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "10 midcap stocks that have fallen up to 58% from their 52-week highs",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-that-have-fallen-up-to-58-from-their-52-week-highs/slideshow/134455492.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Despite the Nifty Midcap 150 trading near peak levels, several individual constituents have suffered deep corrections. Data from ACE Equity reveals 10 prominent midcap stocks, including KPIT Technolog",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HSBC plans India equity broking return after 13 years amid IPO boom, sources say",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-plans-india-equity-broking-return-after-13-years-amid-ipo-boom-sources-say/articleshow/134455177.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "After a decade-long hiatus, HSBC is gearing up to re-enter the Indian equity broking sector, responding to the increasing demands from wealthy clients and an active share sale market. The bank is set ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India bonds pummelled after Treasury rout, traders raise rate hike bets",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pummelled-after-treasury-rout-traders-raise-rate-hike-bets/articleshow/134455217.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Indian government bonds experienced a decline following increases in U.S. Treasury yields and oil prices. The benchmark 6.94% 2036 bond yield rose to its highest level since September. Higher oil pric",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NSE IPO: India's biggest exchange lists at \u20b91,800 per share; gains 5% after flat debut",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-ipo-indias-biggest-exchange-lists-at-1800-per-share-gains-5-after-flat-debut/videoshow/134454898.cms",
+      "date": "Thu, 24 Sep 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UP RERA approves 12 realty projects worth Rs 1,664 cr across six districts",
+      "title": "PB Fintech loses Rs 22,700 cr from market value as stock crashes 26% after IRDAI\u2019s reform plans. What Citi and Jefferies are warning",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/up-rera-approves-12-realty-projects-worth-rs-1664-cr-across-six-districts/articleshow/134436396.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The Uttar Pradesh Real Estate Regulatory Authority has greenlit 12 new projects across six districts, promising an investment of Rs 1,663.85 crore, which substantially enhances the real estate landsca",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-loses-rs-22700-cr-from-market-value-as-stock-crashes-26-after-irdais-reform-plans-what-citi-and-jefferies-are-warning/articleshow/134454219.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "PB Fintech shares plunged 26%, wiping out nearly Rs 22,703 crore from its market capitalisation after IRDAI proposed changes to insurance commission structures. Jefferies flagged risks to distributor ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UPI MDR Decoded: Will You Pay More for Stock Investments &amp; SIPs?",
+      "title": "NYSE, Blockchain.com explore tokenised versions of US-listed stocks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/upi-mdr-decoded-will-you-pay-more-for-stock-investments-sips/videoshow/134435550.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": " ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee slips as dollar gets Fed hike expectations tailwind",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-slips-as-dollar-gets-fed-hike-expectations-tailwind/articleshow/134434559.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "On September 23, the Indian rupee ended weaker at 95.74 against the dollar amid global financial trends. Expectations of further US Federal Reserve rate hikes have increased the strength of the dollar",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market wrap: Bajaj Finance, Tata Steel, HCL Tech, Titan Company top gainers and losers on Nifty and Sensex on Wednesday",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bajaj-finance-tata-steel-hcl-tech-titan-company-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/134434149.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Indian equity benchmarks ended higher on Wednesday, with Nifty rising 0.50% and Sensex gaining 0.40% as buying emerged across sectors. Metal stocks led the gains, while IT stocks lagged. Bajaj Finance",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "ET Alpha Wealth Summit 2.0: How India\u2019s biggest investors are hunting for the next alpha",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-how-indias-biggest-investors-are-hunting-for-the-next-alpha/articleshow/134433518.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "As large investors look beyond traditional equities and debt, private credit, venture debt, co-investments and alternative strategies are gaining attention. At ET Alpha Wealth Summit 2.0, leading expe",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "'The Big Short' fame Michael Burry bets on copper. Is red metal heading for a hot rally?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/the-bigshort-famemichaelburrybets-on-copper-is-redmetalheading-for-a-hot-rally/articleshow/134433032.cms",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "\u2018The Big Short\u2019 fame Michael Burry has disclosed a long position in copper producer Ero Copper, as supply constraints, falling inventories and limited discoveries fuel expectations of further gains in",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nyse-blockchain-com-explore-tokenised-versions-of-us-listed-stocks/articleshow/134454157.cms",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "NYSE and Blockchain.com are exploring blockchain-based versions of US-listed stocks and ETFs, as financial institutions accelerate tokenisation efforts while regulators address questions around owners",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,146 +134,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Muthoot Capital Services allots NCDs aggregating Rs 150 cr",
+      "title": "A-One Steels IPO: Analysts rate 'subscribe' on long-term growth prospects",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/muthoot-capital-services-allots-ncds-aggregating-rs-150-cr-126092301150_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "On private placement basis",
+      "link": "https://www.business-standard.com/markets/ipo/a-one-steels-ipo-analysts-rate-subscribe-on-long-term-growth-prospects-126092400513_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "A-One Steels IPO review: Brokerages assigned a 'subscribe' rating to the issue, as earnings recovery, manufacturing scale, and planned debt reduction make it fundamentally interesting.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "INR weighed down by the broad strength of the American currency",
+      "title": "Himadri Speciality Chemical announces divestment of stake in step-down subsidiary",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-the-broad-strength-of-the-american-currency-126092301050_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "\nThe Indian rupee fell 12 paise to close at 95.74 (provisional) against the US dollar on Wednesday, weighed down by the broad strength of the American currency and a slight recovery in crude oil price",
+      "link": "https://www.business-standard.com/markets/capital-market-news/himadri-speciality-chemical-announces-divestment-of-stake-in-step-down-subsidiary-126092400500_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "\nAfter this sale, Sturdy continues to be a subsidiary of Trancemarine and step down subsidiary of the Himadri Speciality Chemical with 65% holding of Trancemarine in Sturdy. Neither Trancemarine nor S",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ArMee Infotech IPO subscribed 53% on day 1",
+      "title": "Sensex, Nifty tumble over 1%; PSU bank shares decline",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/armee-infotech-ipo-subscribed-53-on-day-1-126092301049_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The offer received bids for 39.48 lakh shares as against 74.30 lakh shares on offer.",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-tumble-over-1-psu-bank-shares-decline-126092400495_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "\nPSU Bank shares declined after advancing in the past trading session.\n",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swastika Infra IPO subscribed 96% on day 1",
+      "title": "Debt markets on edge: US, Japanese yields hit multi-year highs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/swastika-infra-ipo-subscribed-96-on-day-1-126092301048_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The offer received bids for 60.73 lakh shares as against 63.35 lakh shares on offer.",
+      "link": "https://www.business-standard.com/markets/news/debt-markets-on-edge-us-japanese-yields-hit-multi-year-highs-126092400119_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Asian equities were mixed as investors weighed rising bond yields, West Asia tensions and prospects for US-China talks, while the dollar retained safe-haven support",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adroit Industries (India) IPO subscribed 5.18 times on day 1",
+      "title": "Yen slides toward 160, intervention risks resurface",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/adroit-industries-india-ipo-subscribed-5-18-times-on-day-1-126092301047_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The offer received bids for 4.07 crore shares as against 78.72 lakh shares on offer.",
+      "link": "https://www.business-standard.com/markets/capital-market-news/yen-slides-toward-160-intervention-risks-resurface-126092400434_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Powered by Capital Market - Live News",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Elevate Campuses IPO subscribed 20% on day 1",
+      "title": "Balrampur Chini receives Rs 75-cr BioE3 grant to establish 100 TPA PLA Co-Polymer R&D facility",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/elevate-campuses-ipo-subscribed-20-on-day-1-126092301046_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The offer received bids for 67.94 lakh shares as against 3.36 crore shares on offer.",
+      "link": "https://www.business-standard.com/markets/capital-market-news/balrampur-chini-receives-rs-75-cr-bioe3-grant-to-establish-100-tpa-pla-co-polymer-r-d-facility-126092400433_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Balrampur Chini Mills (BCML) has been awarded Rs 75 crore in grant assistance by the Biotechnology Industry Research Assistance Council (BIRAC) under the Department of Biotechnology (DBT), Government ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SBI Card launches fixed deposit backed Advantage SBI Card on SBI YONO",
+      "title": "Maruti Suzuki India commissions 300 kW Green Hydrogen electrolyzer plant",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sbi-card-launches-fixed-deposit-backed-advantage-sbi-card-on-sbi-yono-126092301044_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "SBI Card announced the launch of Advantage SBI Card on SBI YONO, introducing a seamless digital journey that enables customers to avail a secured credit card backed by a fixed deposit. ",
+      "link": "https://www.business-standard.com/markets/capital-market-news/maruti-suzuki-india-commissions-300-kw-green-hydrogen-electrolyzer-plant-126092400431_1.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "At its Menesar facility",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Varmora Granito IPO subscribed 27%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/capital-market-news/varmora-granito-ipo-subscribed-27-126092301003_1.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The offer received bids for 91.66 lakh shares as against 3.39 crore shares on offer.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Multibagger Cupid shares gain 6% after company raises FY27 revenue, profit guidance. Could this trigger a further rally?",
+      "title": "H1 digest: West Asia shock leaves first half of FY27 on a cliffhanger",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-cupid-shares-gain-6-after-company-raises-fy27-revenue-profit-guidance-could-this-trigger-a-further-rally-11790167073845.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Cupid Ltd. shares rose 6% to  \u20b9273.85 after the company upgraded its FY27 profit and revenue outlook, citing strong growth in global healthcare and Bharat business.",
+      "link": "https://www.livemint.com/market/stock-market-news/west-asia-shock-leaves-first-half-of-fy27-on-a-cliffhanger-11790231609615.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "The West Asia war, now in its seventh month, has shaped domestic markets from April to September (H1) this fiscal year. At the same time, the lack of AI-led investment opportunities diverted foreign c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Penny stock under  \u20b910: Textile stock hits 5% upper circuit on multiple order wins; Sept gains reach 106%",
+      "title": "\u20b985,000 crore gone! PB Fintech to HDFC Bank \u2014 these 5 financial stocks witness highest wealth erosion on IRDAI's move",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-textile-stock-hits-5-upper-circuit-after-this-update-finds-no-seller-for-sixth-day-in-a-row-11790165061485.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Tuni Textile Mills shares hit a 5% upper circuit limit, closing at  \u20b91.66 amid market volatility. The company received three domestic orders for woven fabrics, valued at approximately  \u20b9295.13 million",
+      "link": "https://www.livemint.com/market/stock-market-news/rs-85-000-crore-gone-pb-fintech-to-hdfc-bank-these-5-financial-stocks-witness-highest-wealth-erosion-on-irdais-move-11790233480906.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Financial stocks faced significant selloff on Thursday due to proposed changes by IRDAI to insurance distribution and commission structures, erasing  \u20b91.12 lakh crore in market capitalisation. Major l",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Concord Biotech 1:1 bonus issue: Jhunjhunwala family-backed pharma stock gains 50% in 6 months\u2014 record date, details",
+      "title": "Nifty 50 crossed 26K for first time 2 yrs ago, now down 3000 points from record high but one factor may trigger bull run",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/concord-biotech-1-1-bonus-issue-jhunjhunwala-family-backed-pharma-stock-gains-50-in-6-months-check-record-date-detail-11790165743583.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Concord Biotech Limited announced its first-ever 1:1 bonus issue, approved by its board on September 23. The stock rose nearly 2%, reflecting investor interest.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-crossed-26k-for-first-time-2-yrs-ago-now-down-2900-points-from-record-high-but-one-factor-may-trigger-bull-run-11790219519167.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Nifty 50 today: Exactly two years ago on 24 September 2024, the 50-stock index crossed the landmark 26,000 level for the first time",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Constant rebalancing destroys the historical relevance of mid-cap indices, Kotak explains in its strategy note",
+      "title": "IPO GMPs: Runwal Enterprises IPO, German Green Steel IPO to Acevector IPO | What grey market hints ahead of opening?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/constant-rebalancing-destroys-the-historical-relevance-of-mid-cap-indices-kotak-explains-in-its-strategy-note-11790163231491.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "New insights from Kotak Institutional Equities reveal that mid-cap indices, often seen as investment tools, suffer from constant rebalancing and sector concentration, undermining their historical rele",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmps-runwal-enterprises-ipo-german-green-steel-ipo-to-acevector-ipo-what-grey-market-hints-ahead-of-opening-11790232398413.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "The primary market is bustling with four IPOs opening for public subscription on 25 September, aiming to raise  \u20b91,776 crore. Grey market premiums indicate positive trends for Runwal Enterprises, Germ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Thursday | Kospi, Taiwan cues to watch | 24 Sept 2026",
+      "title": "Oil India is beating ONGC. Can its production edge last?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-thursday-kospi-taiwan-cues-to-watch-24-sept-2026-11790160091667.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "The Indian stock market rallied on September 23, buoyed by falling crude oil prices and diplomatic efforts in the Middle East. The Nifty 50 and Sensex gained 0.50% and 0.40%, respectively, with strong",
+      "link": "https://www.livemint.com/market/mark-to-market/ongc-oil-india-share-price-production-growth-crude-oil-11790228253135.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Oil India has outperformed ONGC as stronger production growth boosts earnings visibility, but its richer valuation and ONGC\u2019s larger reserves could narrow the gap over time.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "328% returns in 5 years! ICICI Securities sees 27% upside in this hotel stock, do you own? Check target price",
+      "title": "Penny stock under 10 rupees hits 5% upper circuit despite stock market crash; here's why",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/328-returns-in-5-years-icici-securities-sees-27-upside-in-this-hotel-stock-do-you-own-check-target-price-11790163826720.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Chalet Hotels shares rose 1.20% on September 23, building on a 4.7% gain over the past week. The hotel chain's revenue is projected to grow significantly by FY29. ICICI Securities sees 27% upside in t",
+      "link": "https://www.livemint.com/market/penny-stock-under-10-rupees-elitecon-international-hits-5-upper-circuit-despite-stock-market-crash-heres-why-11790228424989.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "Penny stock under 10 rupees: The penny stock extended its upward momentum for the fifth consecutive session on Thursday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top 2 stocks to buy for short-term: IKS Health, PB Fintech by Nagaraj Shetti - Check stop loss, targets",
+      "title": "NSE shares trump HUL! Enters top 10 list of Indian stocks in terms of market capitalization",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-iks-health-pb-fintech-by-nagaraj-shetti-check-stop-loss-targets-11790161370222.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Indian benchmark indices rose on Sept 22 due to falling crude oil prices and easing energy cost concerns, despite ongoing Middle East conflict. Nifty 50 gained 0.5% while Sensex increased 0.4%. A brea",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Turks Chase Lost Savings as Fund Scam Snares 455,000 Investors",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/turks-chase-lost-savings-as-fund-scam-snares-455-000-investors-11790163786387.html",
-      "date": "Wed, 23 Sep 2026",
-      "desc": "Two weeks after putting his savings into a high-flying Turkish stock fund on the advice of a relative, Mehmed Kervanci was frantically hitting the sell button on his phone\u2019s trading app.",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-shares-trump-hul-enters-top-10-list-of-indian-stocks-in-terms-of-market-capitalization-11790228790916.html",
+      "date": "Thu, 24 Sep 2026",
+      "desc": "NSE shares debuted at  \u20b91,800 on September 24, rising to an intraday high of  \u20b91,878. With a market capitalization of  \u20b94.63 lakh crore, NSE becomes the ninth-largest listed company in India, surpassi",
       "tags": [],
       "is_portfolio": false
     }
