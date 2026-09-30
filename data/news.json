@@ -1,5 +1,5 @@
 {
-  "updated_ist": "30 Sep 2026 15:01 IST",
+  "updated_ist": "30 Sep 2026 21:36 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -13,74 +13,96 @@
       "is_portfolio": true
     },
     {
-      "title": "14 smallcap stocks defy market selloff, rally up to 105% in 3 month",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-smallcap-stocks-defy-market-selloff-rally-up-to-105-in-3-month/slideshow/134588850.cms",
+      "title": "Reliance Industries raises \u20b913,000 crore through 10-year bonds at 7.90%",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/reliance-industries-raises-13-000-crore-through-10-year-bonds-at-7-90-126093001239_1.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "While the Nifty 50 fell nearly 5% in three months, several small-cap stocks bucked the trend. Fourteen Nifty Smallcap 500 stocks rallied 50-105%, led by Raymond and Welspun Corp. ",
+      "desc": "RIL's latest \u20b913,000 crore issue takes its rupee bond fundraising in September to \u20b925,000 crore as borrowing costs face upward pressure amid rate hike expectations",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "IT Q2 results 2026 date and time: TCS, Infosys, HCL Tech FY 2027 earnings announcement schedule",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/it-q2-results-2026-date-and-time-tcs-infosys-hcl-tech-fy-2027-earnings-announcement-schedule-11790778777510.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "As Indian IT companies begin revealing their Q2 FY27 results this October, investor focus will be on firms like TCS and HCL Tech, despite ongoing challenges from geopolitical tensions and economic unc",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Promoters dilute 6% stake in Avalon Technologies for Rs 871 crore",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/promoters-dilute-6-stake-in-avalon-technologies-for-rs-871-crore/articleshow/134597842.cms",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "Avalon Technologies saw three of its promoter entities divest a collective 6% stake for a substantial Rs 871 crore via bulk deals, bringing their ownership down from 44.39% to 38.4%. In this strategic",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Bank of Korea steps up won support with $9.6 billion sale",
+      "title": "US dollar retreats after softer-than-expected inflation data",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-steps-up-won-support-with-9-6-billion-sale/articleshow/134588470.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-dollar-retreats-after-softer-than-expected-inflation-data/articleshow/134597817.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": " South Korea\u2019s central bank sold a net $9.612 billion in foreign currency during the second quarter to support the weakening won, marking its seventh consecutive quarter of intervention. The won fell ",
+      "desc": "The dollar faced a downturn against key currencies following unexpected inflation results from the US. The US Commerce Department reported the Personal Consumption Expenditures Price Index increased b",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Anthropic IPO explained: $2 trillion valuation, ballooning net loss, AI risks and other details in leaked IPO papers",
+      "title": "US yields pull back as rate hike bets ease after inflation data",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-explained-2-trillion-valuation-ballooning-net-loss-ai-risks-and-other-details-in-leaked-ipo-papers/articleshow/134588023.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-pull-back-as-rate-hike-bets-ease-after-inflation-data/articleshow/134597756.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Anthropic is preparing for a potential IPO as its revenue surges, but losses and infrastructure commitments balloon. The AI company has also warned of existential risks from advanced models and highli",
+      "desc": "Traders took stock on Wednesday, moderating their forecasts for Federal Reserve rate hikes after the latest inflation figures. Reports showed inflation's increase for August fell short of economists' ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Re-rating on cards for HAL shares as Tejas Mk1A aircraft deliveries near: Jefferies",
+      "title": "Geojit Financial Services reshuffles top deck; Jones George to take over as MD",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/re-rating-on-cars-for-hal-shares-as-tejas-mk1a-aircraft-deliveries-near-jefferies/articleshow/134586938.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/geojit-financial-services-reshuffles-top-deck-jones-george-to-take-over-as-md/articleshow/134596797.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Tejas Mk1A accounts for 43% of HAL\u2019s order book and could emerge as a key re-rating trigger as deliveries gain visibility, Jefferies said. HAL CMD Ravi Kota expects to deliver 10 aircraft this year, a",
+      "desc": "Geojit Financial Services will transition leadership on October 1, 2026, with founder C.J. George becoming Executive Chairman and Jones George taking over as Managing Director. The move forms part of ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares head for first monthly decline in six months as yields rise",
+      "title": "US stocks: US market rises as cooler inflation data ease October Fed hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-head-for-first-monthly-decline-in-six-months-as-yields-rise/articleshow/134587091.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-higher-as-soft-inflation-data-eases-rate-hike-fears/articleshow/134596112.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "European shares were set for their first monthly decline in six months as Middle East tensions, higher energy prices and rising bond yields heightened inflation and interest-rate concerns. The STOXX 6",
+      "desc": "U.S. stocks surged higher as inflation reports came in softer than analysts predicted, easing worries about potential interest rate hikes. The Commerce Department revealed a 3.4% increase in the Perso",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Euro under pressure from energy shock and political risks",
+      "title": "PB Fintech, Wipro among  8 stocks that hit 52-week low and slipped up to 45% in a month",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-from-energy-shock-and-political-risks/articleshow/134587000.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-wipro-among-8-stocks-that-hit-52-week-low-and-slipped-up-to-45-in-a-month/slideshow/134596451.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "The euro has fallen nearly 2% in September as energy prices, political uncertainty and a stronger dollar weigh on the currency. Concerns over German and French politics, rising borrowing-cost spreads ",
+      "desc": "Eight BSE 100 stocks hit fresh 52-week lows as the Sensex fell 49 points to 72,480. PB Fintech, Havells India, Wipro, Britannia Industries, Tata Consumer Products, Godrej Consumer Products, Hindustan ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Can NSE shares trade on its own platform? Sebi chief says no panel considering self-trading in exchange shares",
+      "title": "Nithin Kamath reveals Zerodha's leadership secret: Why the broker rarely hires outsiders for top jobs",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nse-shares-trade-on-its-own-platform-sebi-chief-says-no-panel-considering-self-trading-in-exchange-shares/articleshow/134586236.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-reveals-zerodhas-leadership-secret-why-the-broker-rarely-hires-outsiders-for-top-jobs/articleshow/134596089.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Sebi Chairman Tuhin Kanta Pandey said the regulator is not currently considering self-listing or self-trading of exchange shares, days after NSE CEO Ashish Kumar Chauhan suggested exploring the possib",
+      "desc": "Zerodha founder Nithin Kamath says nearly all of the brokerage\u2019s leaders have risen internally, with many joining early in their careers. He also discussed Zerodha\u2019s long-term approach to social impac",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty shorts hit a six-month high in worst September F&amp;O series in 25 years. Time for extra caution?",
+      "title": "Transport Corp announces key details for Rs 150 crore share buyback plan",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-shorts-hit-a-six-month-high-in-worst-september-fo-series-in-25-years-time-for-extra-caution/articleshow/134585448.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/transport-corp-announces-key-details-for-rs-150-crore-share-buyback-plan/articleshow/134595850.cms",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Nifty\u2019s September derivatives series was the worst in 25 years, with the index falling 6.7% as foreign investors sharply increased bearish bets. FII index shorts hit a six-month high, while stock-futu",
+      "desc": "Transport Corporation of India will buy back up to 15.63 lakh shares for Rs 150 crore at Rs 960 each. The tender offer has October 9, 2026 as its record date, with 15% reserved for eligible small shar",
       "tags": [],
       "is_portfolio": false
     },
@@ -112,6 +134,60 @@
       "is_portfolio": false
     },
     {
+      "title": "Domestic inflows propel smallcaps in H1FY27 despite September rout",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/domestic-inflows-propel-smallcaps-in-h1fy27-despite-september-rout-126093001371_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "Rising crude prices, soaring US bond yields, and FII outflows wipe out Rs 18.4 trillion in monthly market cap.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee remains relatively stable in H1 FY27 after 10% fall in FY26",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/rupee-remains-relatively-stable-in-h1-fy27-after-10-fall-in-fy26-126093001265_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "On the other hand, the yield on the benchmark 10-year government bond has risen by around 13 basis points during the same period.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sebi, RBI working to ease FPI onboarding, facilitate bond indices: Pandey",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-rbi-working-to-ease-fpi-onboarding-facilitate-bond-indices-pandey-126093000897_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "Regulators are working to make FPI registration faster and digital, streamline KYC and facilitate bond indices as foreign investor access to Indian markets expands",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "JSW Cement plans Shiva Cement merger to create unified cement platform",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/jsw-cement-plans-shiva-cement-merger-to-create-unified-cement-platform-126093000898_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "JSW Cement will issue five shares for every 41 Shiva Cement shares held by public shareholders; the proposed merger is expected to be completed within 12-14 months",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Azad Engineering zooms 111% in six months; hits new high on heavy volumes",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/azad-engineering-zooms-111-in-six-months-hits-new-high-on-heavy-volumes-126093000706_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "Analysts at ICICI Securities upgraded the rating on Azad Engineering to 'Buy' as they expect follow-up large orders from GE, providing another 5-6 years of visibility to the newly commissioned unit.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Coca-Cola considering December filing for India bottling unit's $1 bn IPO",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/coca-cola-considering-december-filing-for-india-bottling-unit-s-1-bn-ipo-126093000665_1.html",
+      "date": "Wed, 30 Sep 2026",
+      "desc": "The Atlanta-based drinks giant has also added Axis Capital Ltd. and IIFL Capital Services Ltd. to the roster of banks working on the Hindustan Coca-Cola Beverages Pvt deal",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "Wadhwa Group starts IPO process via confidential filing with Sebi",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/ipo/wadhwa-group-ipo-confidential-filing-sebi-mumbai-real-estate-126093000649_1.html",
@@ -121,137 +197,65 @@
       "is_portfolio": false
     },
     {
-      "title": "Inox Clean Energy plans \u20b910,000 crore IPO, files papers with Sebi",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/inox-clean-energy-files-drhp-rs-10000-crore-ipo-sebi-126093000598_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "The proposed issue comprises a fresh issue of up to \u20b98,000 crore and an offer for sale of up to \u20b92,000 crore by the selling shareholder",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Crude Oil at crossroads as supply recovery meets geopolitical risk in Oct",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/crude-oil-at-crossroads-as-supply-recovery-meets-geopolitical-risk-in-october-126093000562_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "Kaynat Chainwala of Kotak Securities reckons that the MCX Crude Oil is showing a cautious-to-bearish setup on the 4-hour chart after facing resistance near \u20b99,280-9,300 levels.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sun TV zooms 20%, sees sharpest intraday rally in 9 years; up 45% in 7 days",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sun-tv-zooms-20-sees-sharpest-intraday-rally-in-9-years-up-45-in-7-days-126093000512_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "The BSE sought clarification from Sun TV Network on September 30, 2026, regarding news quoting a possible de-merger of Sun TV's sports division; the company's reply is awaited.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty: Here's what happened after 9MCY loss, shows 15-year history",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sensex-nifty-here-s-what-happened-after-a-9-month-calendar-year-loss-shows-15-year-bse-nse-history-126093000504_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "In the previous four such instances, the Sensex and the Nifty recouped losses and signed-off the respective calendar year with a gain on three occasions, shows the 15-year historical data.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Aequs rallies 5%, trades higher for fourth straight day; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/aequs-rallies-5-trades-higher-for-fourth-straight-day-here-s-why-126093000441_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "The board of directors of Aequs on September 25, 2026, approved the preferential issue of up to 28.07 million warrants, to the Promoter Group, aggregating approximately \u20b9650 crore.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Vishal Nirmiti IPO review: Brokerages positive on long-term prospects",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/vishal-nirmiti-ipo-review-brokerages-positive-on-long-term-prospects-126093000483_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "Anand Rathi assigned a subscribe for long-term rating to the stock, noting that the company is led by a highly experienced promoter group",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nityas Gems IPO: What makes it a good long-term bet? Analysts weigh in",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/nityas-gems-ipo-what-makes-it-a-good-long-term-bet-analysts-weigh-in-126093000430_1.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "Nityas Gems and Jewellery IPO price band is set at \u20b970 to \u20b975 per share. The lot size for the offer is 200 shares.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "\u2018Never ever chase any investment\u2019: Why Kotak AMC MD Nilesh Shah warned investors against \u2018once-in-a-lifetime\u2019 bets",
+      "title": "Top stocks in focus tomorrow: Investors must watch Jio Financial, Infosys, NCC shares on Thu, 1 Oct | Triggers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/never-ever-chase-any-investment-why-kotak-amc-md-nilesh-shah-warned-investors-against-once-in-a-lifetime-bets-11790754497905.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-jio-financial-infosys-ncc-shares-on-thu-1-oct-triggers-11790774828518.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Nilesh Shah emphasizes the need for patience and discipline in investment selection, warning against the fear of missing opportunities. He suggests that investors should look for sustainable growth ac",
+      "desc": "Indian investors will monitor companies like Jio Financial Services, NCC, and Highway Infrastructure on October 1, focusing on key business developments and announcements. Jio acquired shares in Jio A",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IPL business demerger impact? Sun TV Network share price rallies 16%! Experts see 30% more upside | Target, stop-loss",
+      "title": "Top 3 buy or sell stocks: Vedanta, DLF, Aegis Logistics by Vaishali Parekh | Target, stoploss, Nifty, Bank Nifty outlook",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ipl-business-demerger-impact-sun-tv-network-share-price-rallies-16-experts-see-30-more-upside-target-stoploss-11790757056827.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-3-buy-or-sell-stocks-vedanta-dlf-aegis-logistics-by-vaishali-parekh-target-stoploss-nifty-bank-nifty-outlook-11790774799921.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Sun TV Network share price is skyrocketing due to the reports of IPL franchise Sunrisers Hyderabad demerger, say experts",
+      "desc": "Stock market prediction: Vaishali Parekh believes to improve the bias, the Nifty 50 index would need a decisive breach above the 23,100 zone to establish conviction and clarity",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Markets end September quarter in the red. Will Q3 bring relief or more pain?",
+      "title": "CAS &amp; effect: how retail traders amped up options play in new regime",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-q2fy27-market-correction-fpi-outflows-ipo-11790752828341.html",
+      "link": "https://www.livemint.com/market/cas-effect-how-retail-traders-amped-up-options-play-in-new-regime-11790766849079.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "Indian equities concluded their worst September quarter in more than a decade as surging crude oil and persistent foreign capital outflows dragged indices down. With lingering geopolitical risks and i",
+      "desc": "Thinly traded, 10 minutes closing auction session window draws retail traders looking to make a quick buck on options trading despite greater chances of losses and Sebi's red-flagging past losses",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Up over 40% in 6 months, yet further 47% upside possible - Why is Nirmal Bang bullish on WeWork India stock?",
+      "title": "Stock market holidays in October 2026 from NSE calendar - Open and closed days full list other than Saturdays, Sundays",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/up-over-40-in-6-months-yet-further-47-upside-possible-why-is-nirmal-bang-bullish-on-wework-india-stock-11790757000639.html",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-holidays-in-october-2026-from-nse-calendar-open-and-closed-days-full-list-other-than-saturdays-sundays-11790771933293.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "WeWork India shares have soared 42% in six months. Nirmal Bang maintains a 'buy' rating with a target of  \u20b9983, projecting a 47% upside. With innovative expansion strategies and zero debt, WeWork Indi",
+      "desc": "The Indian stock market will close on October 2 for Mahatma Gandhi Jayanti, leading to reduced trading. Other holidays include Dussehra on October 20 and Diwali on November 10. Trading in commodities ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi and RBI working closely to streamline FPIs, bond market: Tuhin Kanta Pandey",
+      "title": "Multibagger stocks: 4 Ashish Kacholia, Mukul Agrawal portfolio stocks that nearly doubled investors\u2019 wealth in one year",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/sebi-rbi-fpi-onboarding-five-days-bond-market-liquidity-11790756166465.html",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-stocks-4-ashish-kacholia-mukul-agrawal-portfolio-stocks-that-nearly-doubled-investors-wealth-in-one-year-11790773613418.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "The banking and securities regulators are collaborating to slash foreign investor onboarding times to five days while establishing a new framework for exchange-traded bond indices, Pandey said.",
+      "desc": "Ace investors Ashish Kacholia and Mukul Agrawal hold key stocks including Yasho Industries, Aeroflex Industries, and Fineotex Chemicals, yielding strong returns.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "KPI Green Energy shares gain 4% | What\u2019s driving the stock and what lies ahead?",
+      "title": "Nifty H1FY27 Review: Top gainers and losers | Can H2FY27 deliver better returns?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/kpi-green-energy-shares-gain-4-what-s-driving-the-stock-and-what-lies-ahead-11790757462364.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-h1fy27-review-top-gainers-and-losers-can-h2fy27-deliver-better-returns-11790767405138.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "KPI Green Energy shares rose 4% before declining after announcing their binding offer to fully acquire Alfanar Energy and Netra Wind for  \u20b92,410 crore, expanding their wind portfolio by 507.9 MW of op",
+      "desc": "As the Nifty 50 concludes H1FY27 with a modest 1.3% gain, the market faces challenges from rising oil prices and bond yields amid geopolitical tensions. Seven Nifty stocks declined more than 10% in th",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty impact Explained: Why 30-year US Treasury bond yields surged to 2002 levels and why it matters to India?",
+      "title": "Dividend income at risk? 8 stocks with inconsistent dividend payout: Indian Oil, Sanofi India, UTI AMC, and more",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-nifty-impact-explained-why-30-year-us-treasury-bond-yields-surged-to-2002-levels-and-why-it-matters-to-india-11790751047666.html",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-income-at-risk-8-stocks-with-inconsistent-dividend-payout-indian-oil-sanofi-india-uti-amc-and-more-11790768058400.html",
       "date": "Wed, 30 Sep 2026",
-      "desc": "When bond yields rise, equities tend to come under pressure as fixed-income investments become relatively more attractive.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nifty Outlook: Down in just 3 of last 10 Octobers \u2014 Can bulls return after September sell-off? Experts weigh in",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-down-in-just-3-of-last-10-octobers-can-bulls-return-after-september-sell-off-experts-weigh-in-11790752082906.html",
-      "date": "Wed, 30 Sep 2026",
-      "desc": "October is anticipated to be volatile following September's sell-off. Analysts suggest possible tactical recovery, contingent on stabilizing crude prices and FII investments. Nifty's crucial support l",
+      "desc": "Check the list of companies that have paid inconsistent dividend over the last three financial years.Sanofi India declared a dividend of  \u20b9123 per share in FY26, down from  \u20b9167 in FY24. Indian Oil's ",
       "tags": [],
       "is_portfolio": false
     }
