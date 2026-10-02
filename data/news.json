@@ -1,86 +1,197 @@
 {
-  "updated_ist": "01 Oct 2026 22:29 IST",
+  "updated_ist": "02 Oct 2026 15:03 IST",
   "news": [
     {
-      "title": "Nifty IT crashes 11% in September: TCS, Infosys, Wipro among top losers \u2014 Can Q2 earnings spark a rebound?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-it-crashes-11-in-september-tcs-infosys-wipro-among-top-losers-can-q2-earnings-spark-a-rebound-11790851695743.html",
+      "title": "Bitcoin leads crypto market rebound above $85K as short liquidations accelerate",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-leads-crypto-market-rebound-above-85k-as-short-liquidations-accelerate/articleshow/134634234.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Crypto markets rose on Friday as total market capitalisation reached $3.042 trillion, with Bitcoin reclaiming $85,000 amid easing Treasury yields and a short squeeze. Bitcoin gained about 2%, while Et",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "\u200bCoal India, NTPC among 360 ONE Capital\u2019s 8 stock picks for October. Check full list with target prices",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-ntpc-among-360-one-capital-researchs-8-stock-picks-for-october-check-full-list-with-target-prices/slideshow/134633712.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "360 ONE Capital Research has picked eight stocks for October, including Coal India, NTPC and ITC, with Buy ratings and target prices, citing earnings prospects and growth drivers.Coal India, NTPC amon",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "TCS to buy US retailer Best Buy's India GCC, develop an AI-native centre",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/tcs-to-buy-us-retailer-best-buy-s-india-gcc-develop-an-ai-native-centre-126100101559_1.html",
       "date": "Thu, 01 Oct 2026",
-      "desc": "The IT sector has been hit hard in September, with the Nifty IT index down 11%. High interest rates, global growth fears, and generative AI pressures have impacted technology spending. Investors are l",
+      "desc": "Best Buy's India entity will transition to TCS under a multi-year agreement, combining its retail knowledge with technology and AI capabilities to build an AI-native centre",
       "tags": [
         "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Adani Group has Rs 2.6 lakh crore projects completed or under execution in Maharashtra: Pranav Adani",
+      "title": "TCS, Wipro, Infosys, HCL Tech: Why experts see IT stocks' price jump on Monday \u2014 What's giving the boost?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/tcs-wipro-infosys-hcl-tech-why-experts-see-it-stocks-price-jump-on-monday-whats-giving-the-boost-11790927191368.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Accenture's better-than-expected results is a big positive development for the Indian IT majors, say experts",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Final touch underway for Jio Platforms IPO; latest GMP, expected launch date, size, valuation, shareholders quota",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/final-touch-underway-for-jio-platforms-ipo-latest-gmp-expected-launch-date-size-valuation-shareholders-quota-11790924443524.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Jio Platforms is finalising its IPO documents for what may be India's largest public offering, estimated at $3.8 billion. Led by Akash Ambani, the IPO marks Reliance's first offering since 2008 and ai",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Dividend, bonus, split, buyback, spin off in October: TCS, NMDC, PTC India, JSW Dulux among key corporate actions | List",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-split-buyback-spin-off-in-october-tcs-nmdc-ptc-india-jsw-dulux-among-key-corporate-actions-list-11790925015237.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Corporate actions in October include spin-offs by Bhagyanagar India and Veranda Learning Solutions, dividends from TCS and NMDC, and stock splits by companies like Moldtek Technologies. Investors shou",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "ET Alpha Wealth Summit 2.0: Decoding the new investment landscape and shift in smart money",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-has-rs-2-6-lakh-crore-projects-completed-or-under-execution-in-maharashtra-pranav-adani/articleshow/134622802.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Adani Group has projects worth Rs 2.6 lakh crore completed or underway in Maharashtra, with its overall investment blueprint exceeding Rs 6 lakh crore. Investments span energy, aviation, data centres,",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-macro-manifesto-decoding-the-new-world-order-re-routing-of-smart-money/articleshow/134635592.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Transformations in the global economy are reshaping how investors allocate capital and devise strategies. Geopolitical conflicts and tech rivalries are challenging conventional wisdom, leading to heig",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US stocks: US markets dip as surging Treasury yields overshadow software gains",
+      "title": "European shares edge higher after bonds-driven selloff, focus on inflation data",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-dip-as-surging-treasury-yields-overshadow-software-gains/articleshow/134621937.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Wall Street encountered a downturn as escalating Treasury yields affected investor confidence in high-priced stocks. Despite solid performance from the software sector buoyed by favorable earnings, th",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-edge-higher-after-bonds-driven-selloff-focus-on-inflation-data/articleshow/134635254.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Following a sharp selloff, European stocks made a modest recovery, influenced by recent shifts in the bond market. Investors are keeping a close eye on upcoming euro zone inflation data that could ste",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sebi revamps Document Number Verification System, adds subject matter as mandatory field",
+      "title": "Inox Air Products files draft papers for initial offer",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-document-number-verification-system-adds-subject-matter-as-mandatory-field/articleshow/134621918.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Sebi has revamped its Document Number Verification System, making a letter\u2019s subject matter mandatory for authentication. The upgraded system aligns with Sebi\u2019s E-Office format and lets recipients ver",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-air-products-files-draft-papers-for-initial-offer/articleshow/134634874.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "INOX Air Products, an integrated industrial, medical, electronic and specialty gases company, has filed DRHP with Sebi for launching an IPO. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
+      "title": "Carlsberg India unit, 3 other firms get Sebi nod to proceed with IPO plans",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "The pound has hit a three-month low against the dollar, triggered by mounting economic apprehensions. Investors are anxious about the effects of soaring oil prices and persistent inflation on market s",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-india-unit-3-other-firms-get-sebi-nod-to-proceed-with-ipo-plans/articleshow/134634784.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Sebi has provided observations for the IPOs of Carlsberg India, Matangi Rubber, Ujin Pharma, and TMC Transformer. Carlsberg's filing is under wraps, with specifics to be announced later. Matangi Rubbe",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
+      "title": "ETMarkets Smart Talk: Rupee under pressure, inflation sticky: Will RBI be forced to rethink rates? Ankita Pathak, Ionic Asset",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated g",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-rupee-under-pressure-inflation-sticky-will-rbi-be-forced-to-rethink-rates-ankita-pathak-ionic-asset/articleshow/134634188.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "With the Fed entering a tightening cycle, India faces a tougher monetary policy trade-off as the rupee remains under pressure and inflation shows signs of broadening. Ankita Pathak of Ionic Asset says",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jio Platforms IPO in final stages after concluding worldwide roadshows",
+      "title": "Danish brewing giant Carlsberg\u2019s India arm, 3 others get Sebi nod to float IPOs",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-in-final-stages-after-concluding-worldwide-roadshows/articleshow/134621273.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Jio Platforms is on the verge of launching what is projected to be the largest public offering in India, targeting USD 3.8 billion. International roadshows spearheaded by Akash Ambani and Isha Ambani ",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/danish-brewing-giant-carlsbergs-india-arm-3-others-get-sebi-nod-to-float-ipos/articleshow/134633869.cms",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "In a significant move for India's market, Sebi has greenlit IPOs for Carlsberg's local entity, TMC Transformers, Ujin Pharma, and Matangi Rubber. TMC Transformers aims to raise Rs 550 crores via new e",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "RBI eases bank stake rules, allows one-time approval for MFs, insurers for holdings up to 10%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-eases-bank-stake-rules-allows-one-time-approval-for-mfs-insurers-for-holdings-up-to-10/articleshow/134621230.cms",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "The Reserve Bank of India (RBI) on Thursday finalised its July proposal to simplify bank shareholding rules, allowing eligible mutual funds, insurance companies and pension funds to seek one-time appr",
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Inox Clean Energy IPO papers kept in abeyance by Sebi",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-ipo-papers-kept-in-abeyance-by-sebi/articleshow/134620687.cms",
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Asian shares tumble after wild swings in bonds, FX before US jobs data",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/asian-shares-tumble-after-wild-swings-in-bonds-fx-before-us-jobs-data-126100200114_1.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Bond markets were again the centre of volatility overnight, \u200bwith the benchmark 10-year US Treasury yields hitting the highest since 2002 at 5.34% after capping the \u200bbiggest quarterly rise in 32 years",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stock market holiday: BSE, NSE closed today for Gandhi Jayanti",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/stock-market-holiday-bse-nse-closed-today-for-gandhi-jayanti-126100100633_1.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Both the BSE and NSE will see no trading activity for three consecutive days in October, from Friday, Oct. 2, through Sunday, Oct. 4.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indian banks faced $500 million FX losses after RBI position curbs",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/finance/news/indian-banks-forex-trading-losses-rbi-rupee-net-open-position-cap-126100200105_1.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Crisil Coalition Greenwich said banks recovered around $400 million after market spreads widened and positions were normalised following the RBI directive",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Accenture beats Q4 revenue guidance, projects 3-6% growth for FY27",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/accenture-beats-q4-revenue-guidance-projects-3-6-growth-for-fy27-126100101493_1.html",
       "date": "Thu, 01 Oct 2026",
-      "desc": "The Securities and Exchange Board of India has temporarily suspended the draft offer documents for Inox Clean Energy's upcoming initial public offering. The company aims to raise a substantial Rs 10,0",
+      "desc": "Fourth-quarter revenue rose 6 per cent to $18.7 billion, beating guidance, while Accenture projected 3-6 per cent growth for FY27, offering some comfort to Indian IT firms",
       "tags": [],
       "is_portfolio": false
     },
@@ -103,7 +214,7 @@
       "is_portfolio": false
     },
     {
-      "title": "Nifty's eight-week slide puts 2001 record back in sight as Brent bites",
+      "title": "Nifty's eight-week slide puts 2001 low back in sight amid oil spike",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/news/nifty-s-eight-week-slide-puts-2001-record-back-in-sight-as-brent-bites-126100101089_1.html",
       "date": "Thu, 01 Oct 2026",
@@ -112,110 +223,47 @@
       "is_portfolio": false
     },
     {
-      "title": "Sindhuja raises \u20b9100 crore via NCDs; Carlsberg gets Sebi approval for IPO",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sindhuja-raises-100-crore-via-ncds-carlsberg-gets-sebi-approval-for-ipo-126100101273_1.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Sindhuja Microcredit raised \u20b9100 crore through NCDs, while Carlsberg India received Sebi's observations for a \u20b96,600 crore IPO involving a stake sale by its parent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "September fundraising highest for any month this year amid Nifty's big fall",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/september-fundraising-highest-for-any-month-this-year-amid-nifty-s-big-fall-126100101167_1.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "September's listings were at a median of 31 times. However, ESDS Software Solution (155 times), Hero Motors (143 times), and Prasol Chemicals (114 times) stood out. The NSE traded at 49 times",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Foreign capital shuns India despite strong growth: S&P-Crisil report",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/foreign-capital-shuns-india-despite-strong-growth-s-p-crisil-report-126100101257_1.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Net foreign portfolio inflows fell 16.6 per cent in FY26, while net FDI stood at $7.8 billion against gross inflows of $94.5 billion amid repatriation and outward investment.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Rupee, bonds face pressure as US Treasury yields rise and crude tops $100",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/rupee-bonds-face-pressure-as-us-treasury-yields-rise-and-crude-tops-100-126100101136_1.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "The rupee fell 0.5 per cent to 96.31 per dollar, while the benchmark 10-year bond yield rose to 7.21 per cent as Brent crossed $100 a barrel ahead of the RBI policy meeting.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi to make investor awareness messages mandatory on broker apps, sites",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-to-make-investor-awareness-messages-mandatory-on-broker-apps-sites-126100100962_1.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Market watchdog Sebi has asked stock brokers to display investor awareness messages on their websites and trading apps under its initiative Project Jagrook.\nThis is part of Project Jagrook -- Sebi's n",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Cognizant, IBM and Salesforce gain up to 13% after Accenture\u2019s upbeat Q4 results lift sentiment",
+      "title": "Investors worried over bloodbath as Nifty 50 sees longest weekly losing streak in 25 yrs - Outlook for H2 from experts",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/cognizant-ibm-salesforce-gain-up-to-13-after-accenture-s-upbeat-q4-results-lift-sentiment-11790868833081.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Shares of Cognizant, Salesforce and IBM climbed following Accenture's upbeat fiscal quarter, with Cognizant up 12.70%. Accenture reported $18.7 billion in revenue, exceeding forecasts, and announced a",
+      "link": "https://www.livemint.com/market/stock-market-news/investors-worried-over-bloodbath-as-nifty-50-sees-longest-weekly-losing-streak-in-25-yrs-outlook-for-h2-from-experts-11790922247662.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Indian equity markets faced an eighth consecutive week of losses, with the Nifty 50 and &amp;nbsp;Sensex declining 3.1% and 2.7%, respectively. Foreign institutional investors sold equities worth  \u20b944",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HDFC Bank ADRs jump over 5% after Anup Bagchi appointed as MD &amp; CEO for three years",
+      "title": "Adani Group's most valuable company sets new record; shares major business update",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/hdfc-bank-adrs-jump-over-5-after-anup-bagchi-appointed-as-md-ceo-for-three-years-11790864222896.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "HDFC Bank's ADRs rose 5.4% following the appointment of Anup Bagchi as MD and CEO, effective October 27, 2026. The RBI approved his appointment, succeeding Sashidhar Jagdishan, who will not seek a thi",
+      "link": "https://www.livemint.com/market/stock-market-news/adani-groups-most-valuable-company-sets-new-record-shares-major-business-update-11790931996322.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Adani Ports reported 11% YoY cargo volume growth, reaching 46 MMT for September 2026. Check complete details and Adani Ports and Special Economic Zone share price performance",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Pulse of the Street: Eight-week slide puts RBI, earnings in focus",
+      "title": "66% returns in 6 months, small-cap stock Rolex Rings gets Buy rating: InCred sees 32% upside - Check share price target",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-puts-rbi-earnings-in-focus-11790858167305.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Selling by foreign portfolio investors and elevated yields outweigh relief from softer crude prices. The coming RBI policy review and earnings season will test how much bad news equities have priced i",
+      "link": "https://www.livemint.com/market/stock-market-news/66-returns-in-6-months-small-cap-stock-rolex-rings-gets-buy-rating-incred-sees-32-upside-check-share-price-target-11790927993426.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "InCred praises Rolex Rings for strong potential growth, forecasting revenue and EBITDA increases up to FY28, with an expected 28% price upside to INR 251. The outlook is buoyed by recovering US export",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "45% YTD rally! Experts see up to 56% upside in these 3 stocks on China's export shift | Target, rationale",
+      "title": "Nifty 500 stocks fall up to 70% from 52-week highs; why broad market recovery may remain elusive in short term",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/45-ytd-rally-experts-see-up-to-56-upside-in-these-3-stocks-on-chinas-export-shift-target-rationale-11790861349055.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Chinese abrasive products are losing tax advantages, benefiting Indian competition. Monarch Networth Capital forecasts growth in Grindwell Norton, Carborundum Universal, and Wendt India.",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-500-stocks-fall-up-to-70-from-52-week-highs-why-broad-market-recovery-may-remain-elusive-in-short-term-11790910378791.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "The Nifty 500 index has faced a significant downturn, with stocks plummeting by up to 70% from their 52-week highs. A blend of geopolitical tensions, escalating oil prices, and weak monsoon prediction",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Azad Engineering share price: Up 86% in 6 months! Is more steam left in this defence stock? Experts' view, target price",
+      "title": "Emami\u2019s D2C bet faces a new test as buyback offers support",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/azad-engineering-share-price-up-86-in-6-months-is-more-steam-left-in-this-defence-stock-experts-view-target-price-11790858341152.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Azad Engineering shares closed down 3.5% on October 1, after a recent peak at a 52-week high of  \u20b93,126. The stock has gained 86% in six months, driven by strategic expansions and strong financial per",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Infosys, Wipro ADRs jump up to 10% after Accenture Q4 results beat Wall Street estimates",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-jump-up-to-10-after-accenture-q4-results-beat-wall-street-estimates-11790859181291.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Accenture's strong fiscal fourth-quarter performance boosted Infosys and Wipro ADRs significantly as they rebounded from losses. Infosys ADRs rose 8% and Wipro ADRs jumped 10%, suggesting improved mar",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Accenture shares jump 20% in pre-market as Q4 earnings, 2027 outlook beat estimates",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/accenture-shares-jump-20-in-pre-market-as-q4-earnings-2027-outlook-beat-estimates-11790855697898.html",
-      "date": "Thu, 01 Oct 2026",
-      "desc": "Accenture shares surged 20% to $220 amid strong Q4 results, reporting $3.29 EPS and $18.7 billion revenue, exceeding forecasts. The company anticipates 3-6% revenue growth in 2027 and plans to invest ",
+      "link": "https://www.livemint.com/market/mark-to-market/emamis-d2c-bet-faces-a-new-test-as-buyback-offers-support-11790923580043.html",
+      "date": "Fri, 02 Oct 2026",
+      "desc": "Emami is betting on D2C brands and acquisitions to drive growth, but the bigger test is whether the portfolio can turn that growth into profits as the core business faces pressure.",
       "tags": [],
       "is_portfolio": false
     }
