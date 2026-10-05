@@ -1,146 +1,160 @@
 {
-  "updated_ist": "05 Oct 2026 15:43 IST",
+  "updated_ist": "06 Oct 2026 00:49 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "title": "Jio IPO GMP latest price today: Grey market premium is rising day by day - Check expected price band",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/jio-ipo-gmp-latest-price-today-grey-market-premium-is-rising-day-by-day-check-expected-price-band-11791217893111.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "Jio Platforms Ltd's IPO grey market premium has increased to  \u20b9160, signaling strong investor interest. The IPO aims to raise $3.8 billion, marking Reliance's first public offering in almost two decad",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "IT shares trade mixed post Accenture earnings; HCL Tech, Infy down up to 4%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/it-shares-trade-mixed-post-accenture-earnings-hcl-tech-infy-down-up-to-4-126100500411_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "IT shares: Analysts expect IT companies to witness moderate improvement in Q2FY27, as macro headwinds from the Middle East conflict continue to weigh on client spending and decision-making.",
-      "tags": [
-        "INFY"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "ITC jumps 3% as Citi upgrades rating, target. What prompted bullish view?",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/itc-share-jumps-3-as-citi-upgrades-rating-target-what-prompted-bullish-view-126100500359_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Citi upgraded ITC stock to 'BUY' from 'SELL' despite near-term headwinds as it finds the risk-reward favourable.",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "ITC, Godfrey Phillips, VST: What analysts expect from cigarette stocks in Q2 after new tax regime | Best stock to buy?",
+      "title": "Top 3 stock picks by Vaishali Parekh: ITC, MRPL, KEI Industries | Target, stop-loss, Nifty, Bank Nifty outlook",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/itc-godfrey-phillips-vst-what-analysts-expect-from-cigarette-stocks-in-q2-after-new-tax-regime-best-stock-to-buy-11791190459207.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-3-stock-picks-by-vaishali-parekh-itc-mrpl-kei-industries-target-stop-loss-nifty-bank-nifty-outlook-11791213624948.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "According to analysts, with companies now having more time to implement price increases and pass on higher taxes to consumers, some sequential improvement in margins in Q2 FY27 is expected.",
+      "desc": "Stock market outlook: Vaishali Parekh believes Dalal Street bias has improved after pull back rally on Monday",
       "tags": [
         "ITC"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Global Market: OPEC+ keeps November oil output steady as Brent tops $100",
+      "title": "French bond contagion fears are rattling the euro",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-opec-keeps-november-oil-output-steady-as-brent-tops-100/articleshow/134696366.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-contagion-fears-are-rattling-the-euro/articleshow/134714445.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Seven major OPEC+ producers agreed to keep November crude output unchanged as the Iran conflict disrupted supplies and pushed Brent above $100 a barrel. Meanwhile, G7 nations plan to release 100 milli",
+      "desc": "The value of the euro has declined significantly as French borrowing costs increase. Concerns are rising among European policymakers regarding potential contagion across the euro area. The French gove",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European stocks edge up; Schneider plunges after PTC deal",
+      "title": "PTC shares soar nearly 34% after Schneider Electric agrees to $22.6 billion buyout",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-up-schneider-plunges-after-ptc-deal/articleshow/134695579.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ptc-shares-soar-nearly-34-after-schneider-electric-agrees-to-22-6-billion-buyout/articleshow/134714341.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "European shares edged 0.2% higher, recovering from last week\u2019s losses, while French stocks fell amid growing fiscal concerns. The CAC 40 dropped 0.8%, pressured by Schneider Electric\u2019s sharp decline a",
+      "desc": "In a strategic move, Schneider Electric has agreed to acquire PTC for $22.6 billion in cash. The acquisition reflects ongoing shifts in the software industry due to artificial intelligence disruption.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "FIIs, retail investors raise stakes in 10 stocks, stocks rally up to 35% in 3 months",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/slideshow/134695032.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134711920.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Nearly 78 BSE 500 stocks saw both FII and retail ownership rise in June 2026. Ten stocks gained 10%-35% over three months, led by Lenskart Solutions. ",
+      "desc": "Indian equities rebounded on Monday after eight consecutive weekly losses, with Sensex rising 473 points and Nifty gaining 134 points. Softer US jobs data and lower crude prices supported sentiment, t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "CAS chaos eases? Jefferies names top stock picks as options volumes recover, IPOs and commodities gain traction",
+      "title": "Marico raises stake in Plix parent to 84.09%; Q2 revenue expected to grow in double digits",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-eases-jefferies-names-top-stock-picks-as-options-volumes-recover-ipos-and-commodities-gain-traction/articleshow/134692619.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/marico-raises-stake-in-plix-parent-to-84-09-q2-revenue-expected-to-grow-in-double-digits/articleshow/134711889.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Jefferies sees signs of recovery in India\u2019s derivatives market as options volumes rebound after the disruption caused by the closing auction session (CAS). BSE\u2019s cash-market share also rose, while MCX",
+      "desc": "Marico has raised its stake in Satiya Nutraceuticals, owner of The Plant Fix\u2013Plix, to 84.09% after acquiring an additional 24.09% for Rs 1,012.03 crore. The company also reported strong Q2 momentum an",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nomura sees IndiGo emerging stronger from fuel shock; initiates Buy with Rs 6,000 target",
+      "title": "Broadening rally in stocks hits an economic roadblock",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-sees-indigo-emerging-stronger-from-fuel-shock-initiates-buy-with-rs-6000-target/articleshow/134692630.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/broadening-rally-in-stocks-hits-an-economic-roadblock/articleshow/134711680.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Nomura initiated coverage on InterGlobe Aviation with a Buy rating and a Rs 6,000 target price, implying around 20% upside from the September 30 close. It believes IndiGo\u2019s low-cost model, large aircr",
+      "desc": "Elevated oil prices and surging bond yields are narrowing Wall Street\u2019s rally, leaving investors concentrated in AI-related stocks while broader market participation weakens. Strong economic and earni",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US Market: Fed\u2019s Hammack says jobs data gives time to assess rate path",
+      "title": "Vedanta dividend countdown: Anil Agarwal-led company to consider first FY27 payout on October 8",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-hammack-says-jobs-data-gives-time-to-assess-rate-path/articleshow/134692368.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-dividend-countdown-anil-agarwal-led-company-to-consider-first-fy27-payout-on-october-8/articleshow/134711376.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Federal Reserve officials have signalled they have time to assess incoming economic data before making further changes to interest rates. Cleveland Fed President Beth Hammack said September\u2019s weak emp",
+      "desc": "Vedanta will consider its first interim dividend for FY27 at a board meeting on October 8, 2026. The company has set October 14 as the record date. The dividend proposal follows strong Q2 production, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Goolsbee says steady jobs market keeps inflation as Fed priority",
+      "title": "Zerodha founders Nithin, Nikhil Kamath pick up 6.72% stake in Viceroy Hotels",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goolsbee-says-steady-jobs-market-keeps-inflation-as-fed-priority/articleshow/134692272.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-founders-nithin-nikhil-kamath-pick-up-6-72-stake-in-viceroy-hotels/articleshow/134709141.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Chicago Fed President Austan Goolsbee said recent jobs data indicated a steady US labour market, while persistent inflation remains the bigger policy concern. He said the Fed\u2019s options remain open and",
+      "desc": "Zerodha founders Nithin and Nikhil Kamath have acquired a 6.72% stake in Viceroy Hotels through Kamath Associates and Nksquared. The investment comes as the hotel company recovers after insolvency res",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jefferies initiates coverage on newly listed Dhoot Transmission; sees up to 20% upside. Here's why",
+      "title": "Sebi launches awareness campaign to help investors in informed decision making",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-initiates-coverage-on-newly-listed-dhoot-transmission-sees-up-to-20-upside-heres-why/articleshow/134690932.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-awareness-campaign-to-help-investors-in-informed-decision-making/articleshow/134708313.cms",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Jefferies has initiated coverage on Dhoot Transmission with a Buy rating and a Rs 1,730 price target, implying 20% upside. The brokerage expects strong two-wheeler demand, premiumisation and electrifi",
+      "desc": "Sebi has launched the \u2018Samajh Se Investing Simple\u2019 campaign under Project Jagrook to simplify investing, promote informed decisions and prevent financial fraud. It also introduced MUST to boost financ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "title": "Traders cautious amid Brent pullback; markets likely to stay volatile",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/traders-cautious-amid-brent-pullback-markets-likely-to-stay-volatile-126100501042_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "Nifty gains 133 points as Brent crude eases towards $101-102 a barrel, while oversold conditions and softer US rate expectations support a relief rally",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "title": "HDFC Bank slips despite Nifty Bank recovery, analysts retain buy ratings",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-slips-despite-nifty-bank-recovery-analysts-retain-buy-ratings-126100501082_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "HDFC Bank fell 2.16 per cent even as banking indices gained, with analysts retaining positive ratings while investors assess the lender's transition under new CEO Anup Bagchi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "title": "Sebi launches nationwide investor campaign, cautions against finfluencers",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-launches-nationwide-investor-campaign-cautions-against-finfluencers-126100500931_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "Project Jagrook will take financial literacy to rural areas and educational institutions, while cautioning investors against anonymous tips and exaggerated return claims",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "TVS ASL raises \u20b9425 crore from Crescent Enterprises in Series D round",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/tvs-asl-raises-425-crore-from-crescent-enterprises-in-series-d-round-126100500892_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "The investment will support myTVS' growth in India and expansion into international markets, initially focusing on opportunities across the Middle East and North Africa",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Flipkart invests in TravClan to strengthen international travel offerings",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/flipkart-invests-in-travclan-to-strengthen-international-travel-offerings-126100500832_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "The investment will strengthen international travel supply, on-ground support and holiday offerings for customers across Cleartrip and Flipkart Travel",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sebi may partly reverse derivative settlement rules after pushback",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-may-partly-reverse-derivative-settlement-rules-after-pushback-126100500804_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "Sebi may use the last 30 minutes' volume-weighted average price for derivatives settlement, while retaining closing auctions for less liquid stocks",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sumitomo Corp to acquire 49% stake in HFE's 500 MW Karnataka project",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/sumitomo-corp-to-acquire-49-stake-in-hfe-s-500-mw-karnataka-project-126100500789_1.html",
+      "date": "Mon, 05 Oct 2026",
+      "desc": "Hero Future Energies will retain a 51 per cent stake in the 500 MW Karnataka project, which combines wind and solar power with large-scale battery energy storage",
       "tags": [],
       "is_portfolio": false
     },
@@ -154,110 +168,56 @@
       "is_portfolio": false
     },
     {
-      "title": "Raymond Realty gains 6%, snaps 4-day losing run on strong Q2 biz update",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/raymond-realty-share-price-rises-6-on-strong-q2-business-update-126100500475_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Driven entirely by sustained sales velocity and steady price realisation within the existing portfolio, Raymond Realty saw its pre-sales rise 98 per cent year-on-year (YoY) to \u20b9902 crore in Q2 FY27.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Jio Platforms likely to launch IPO on October 21, seeks to raise $3.8 bn",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/companies/news/jio-platforms-likely-to-launch-ipo-on-october-21-seeks-to-raise-3-8-bn-126100500424_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "The country's biggest listing to date is Hyundai Motor India's $2.9 billion listing in 2024, while the National Stock Exchange of India made its market debut last month after a $2.3 billion IPO",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Back-to-back lower circuit! ESDS Software sinks 30% in 6 days; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/back-to-back-lower-circuit-esds-software-sinks-30-in-6-days-here-s-why-126100500450_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "ESDS Software Solution is an AI-enabled cloud, managed services, data centre infrastructure and software solutions provider.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sammaan Capital Q2 disbursements up 55% QoQ; stock jumps 5% intraday trade",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sammaan-capital-q2-disbursements-up-55-qoq-stock-jumps-5-intraday-trade-126100500453_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Sammaan Capital reported nearly 55% QoQ growth in September quarter disbursements. Brokerage firm Ventura Securities has a 'Buy' rating on the stock with a target price of \u20b9377.70 per share.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nykaa Q2 update: JM sees 'excellent trends' in BPC & Fashion; stock up 5%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/nykaa-q2-update-jm-sees-excellent-trends-in-bpc-fashion-stock-up-5-126100500310_1.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Nykaa said that the Beauty vertical maintained its healthy performance in Q2 with net sales value (NSV) and Net Revenue growth expected to be in late 30s.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Bajaj Finance shares jump 3% after a four-day slide, experts see more upside | Target price, stop-loss",
+      "title": "Treasuries Slump Pushes Long-End Yields to Fresh 24-Year Highs",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-shares-jump-3-after-a-four-day-slide-experts-see-more-upside-target-price-stoploss-11791192839291.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Bajaj Finance shares: Experts believe the Bajaj Group stock has strong immediate support placed at  \u20b9930 apiece",
+      "link": "https://www.livemint.com/market/treasuries-slump-pushes-long-end-yields-to-fresh-24-year-highs-11791226688187.html",
+      "date": "Tue, 06 Oct 2026",
+      "desc": "Treasuries came under renewed pressure Monday, pushing longer-dated yields to fresh multi-decade peaks as bonds extended their monthslong slide.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Over 100% returns in 6 months, now stock split - Check record date, ratio, old and new face value",
+      "title": "FPIs turn cautious on Indian stocks amid global headwinds; what could improve the foreign flow outlook",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/over-100-returns-in-6-months-now-stock-split-check-record-date-ration-old-and-new-face-value-11791193001223.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fpis-turn-cautious-on-indian-stocks-amid-global-headwinds-what-could-improve-the-foreign-flow-outlook-11791220979740.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "BLS E-Services Limited shares faced pressure before the stock split record date. The IT services firm plans a 1:2 stock split and a final dividend of  \u20b90.50 per share. The stock has gained 56% in 2026",
+      "desc": "Foreign portfolio investors shifted to net selling in September, offloading stocks worth  \u20b935,860 crore, continuing into October with  \u20b918,513 crore. This trend caused the Nifty to decline 14% year-to",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Turkey Fund Outflows Mostly Moved to Bank Deposits, BofA Says",
+      "title": "Nifty prediction: RSI still hints at weak momentum | Resistance, support, LG Electronics India stock to watch",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/turkey-fund-outflows-mostly-moved-to-bank-deposits-bofa-says-11791193383418.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-prediction-rsi-still-hints-at-weak-momentum-resistance-support-lg-electronics-india-stock-to-watch-11791221648017.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "BofA Securities Inc said a large share of Turkish fund outflows stemming from a rout in September moved into bank deposits.",
+      "desc": "The MACD is bullish, with the RSI in super-bullish territory. A breakout above  \u20b91,800 targets  \u20b91,930. The Nifty exhibited volatility but closed above 22,550, showing potential for recovery. Watch LG",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Power &amp; Electrical Equipment stocks rise | What\u2019s driving CESC, TD Power, RR Kabel Transformers &amp; Rectifiers?",
+      "title": "AI stock Nvidia stock gets target upgrade from BNP Paribas; 47% further upside seen by experts - check revised price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/power-stocks-surge-what-s-behind-cesc-transformers-rectifiers-rr-kabel-pg-electroplast-td-power-systems-rally-11791190120645.html",
+      "link": "https://www.livemint.com/market/stock-market-news/ai-stock-nvidia-stock-gets-target-upgrade-from-bnp-paribas-47-further-upside-seen-by-experts-check-revised-price-11791214034610.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Shares of CESC, Transformers &amp;amp; Rectifiers, RR Kabel, PG Electroplast, and TD Power Systems rose on Monday, driven by company-specific developments and broader market recovery. Key movers inclu",
+      "desc": "BNP Paribas projects Nvidia will sustain its bullish trajectory, increasing its target price to $345. The firm emphasizes Nvidia's advantages in AI workloads and networking, while it plans to continue",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "860% YTD rally!  \u20b910.42 lakh became  \u20b91 crore in 9 months; Nirmal Bang sees another 40% upside; do you own?",
+      "title": "Top 5 stocks to buy: AU Bank, Poonawalla Fincorp, Groww, Graphite India, Usha Martin by Sumeet Bagadia | Target price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/860-ytd-rally-10-42-lakh-became-1-crore-in-9-months-nirmal-bang-sees-another-40-upside-do-you-own-11791189203360.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-5-stocks-to-buy-au-bank-poonawalla-fincorp-groww-graphite-india-usha-martin-by-sumeet-bagadia-target-price-11791211022543.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "This telecom stock has captured market attention with an extraordinary 860% rally this year, turning a  \u20b910.42 lakh investment into nearly  \u20b91 crore. Factors such as long-term contracts and growing de",
+      "desc": "Stock market outlook: Sumeet Bagadia believes the Nifty 50 chart indicate weak momentum, although the stabilisation from lower levels is encouraging",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gold, silver or stocks: Where should investors put fresh money after the Sensex, Nifty crash?",
+      "title": "Wipro to declare Q2 results on October 15; here\u2019s what investors should watch",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/gold-silver-or-stocks-where-should-investors-put-fresh-money-after-the-sensex-nifty-crash-11791185267820.html",
+      "link": "https://www.livemint.com/market/stock-market-news/wipro-to-declare-q2-results-on-october-15-here-s-what-investors-should-watch-11791210078639.html",
       "date": "Mon, 05 Oct 2026",
-      "desc": "Gold, silver or stocks: The sharp correction in the Indian stock market has left investors facing a dilemma: should fresh money be deployed into stocks after the Sensex and Nifty crash, or should inve",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Asian Paints, Kansai Nerolac, Berger Paints slump up to 27% YTD. Is it time to buy paints stocks ahead of Diwali?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/asian-paints-kansai-nerolac-berger-paints-slump-up-to-27-ytd-is-it-time-to-buy-paints-stocks-ahead-of-diwali-11791186892577.html",
-      "date": "Mon, 05 Oct 2026",
-      "desc": "Asian Paints, Kansai Nerolac, and Berger Paints are experiencing downward pressure with year-to-date declines. Elara Securities anticipates signs of recovery, with 12-13% revenue growth, although dema",
+      "desc": "Wipro set to announce its Q2 and H1 FY27 financial results on October 15.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     }
