@@ -1,5 +1,5 @@
 {
-  "updated_ist": "09 Oct 2026 15:48 IST",
+  "updated_ist": "09 Oct 2026 22:39 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -9,6 +9,17 @@
       "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
       "tags": [
         "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "TCS earnings lift IT stocks as demand recovery hopes boost market mood",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/tcs-earnings-lift-it-stocks-as-demand-recovery-hopes-boost-market-mood-126100901293_1.html",
+      "date": "Fri, 09 Oct 2026",
+      "desc": "Better-than-expected Q2 earnings and attractive valuations boost IT stocks, even as AI headwinds and US labour curbs remain concerns",
+      "tags": [
+        "TCS"
       ],
       "is_portfolio": true
     },
@@ -24,85 +35,85 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS gets a lift from the anti-AI trade, but earnings risks are building",
+      "title": "Reliance Jio IPO price band alert: Mukesh Ambani's telecom giant likely to set band at  \u20b91,065\u2013  \u20b91,119, says report",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/tcs-tata-consultancy-services-nifty-it-openai-ai-disruption-anti-ai-trade-q2fy27-results-it-stocks-11791531832161.html",
+      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "TCS\u2019s in-line Q2 and reports of lower-than-indicated OpenAI revenue helped lift IT stocks, but muted demand, H2 margin pressure and AI-led pricing risks cloud the outlook.",
+      "desc": "Jio Platforms is reportedly planning an IPO priced at  \u20b91,065\u2013 \u20b91,119 per share, potentially valuing the company at up to  \u20b910.3 trillion and raising about  \u20b930,200 crore.&amp;nbsp;",
       "tags": [
-        "TCS"
+        "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Global Market: Foreign investors pull $23.5 billion from Asian equities in September as US yields surge",
+      "title": "US bull market nears fourth anniversary, but narrow rally raises risks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-foreign-investors-pull-23-5-billion-from-asian-equities-in-september-as-us-yields-surge/articleshow/134829780.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bull-market-nears-fourth-anniversary-but-narrow-rally-raises-risks/articleshow/134839055.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Foreign investors withdrew $23.49 billion from Asian equities in September as rising US Treasury yields, inflation fears and tighter monetary policies weakened risk appetite. South Korea and India led",
+      "desc": "The ongoing US stock bull market is nearing its fourth anniversary with strong corporate earnings and low volatility. Investor concerns are rising due to the disparity between benchmark indices and th",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European companies set for 21% Q3 earnings growth, led by energy firms",
+      "title": "Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-set-for-21-q3-earnings-growth-led-by-energy-firms/articleshow/134829464.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "European companies are expected to post 21% third-quarter earnings growth, led by energy firms benefiting from supply disruptions. However, excluding energy, growth is forecast at 9.7%, while real est",
+      "desc": "Portsmouth Technologies LLC executed a block deal selling 30 lakh shares of Anthem Biosciences on October 9. The shares were sold at Rs 833 each, totaling Rs 249.90 crore. Following this transaction, ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why are US stocks rallying despite Fed rate shock? Aswath Damodaran explains in the context of AI",
+      "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-us-stocks-rallying-despite-fed-rate-shock-aswath-damodaran-explains-in-the-context-of-ai/articleshow/134829268.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "US stocks have defied a sharp rise in Treasury yields as AI-led earnings growth offsets pressure from higher interest rates, says valuation expert Aswath Damodaran. However, with equity risk premiums ",
+      "desc": "Poonawalla Fincorp reported a substantial increase in net profit for the second quarter, rising over fivefold. The company's net interest income and fee income grew significantly, contributing to the ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zetwerk said to plan up to $525 mn India IPO next week",
+      "title": "Rupee recovers to 96.73 vs US dollar after RBI intervention, but dollar demand persists",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/zetwerk-said-to-plan-up-to-525-million-india-ipo-next-week/articleshow/134829141.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-to-96-73-vs-us-dollar-after-rbi-intervention-but-dollar-demand-persists/articleshow/134838115.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Zetwerk is preparing to launch an IPO as early as October 15, seeking to raise up to $525 million at a targeted valuation of $2.8 billion. The offering will include a fresh issue and a secondary sale ",
+      "desc": "The rupee edged up to 96.73 per dollar after heavy RBI intervention helped it recover intraday. Persistent corporate dollar demand, a 7% year-to-date decline and falling forex reserves continued to we",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European stocks rebound as oil prices ease; telecom shares slide on SpaceX deal",
+      "title": "US stocks: US market rises as oil retreats; SpaceX spectrum deal hammers telecoms",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-rebound-as-oil-prices-ease-telecom-shares-slide-on-spacex-deal/articleshow/134827199.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/articleshow/134836014.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "European shares rebound as easing oil prices and retreating bond yields support sentiment amid hopes of reduced Middle East tensions. Telecom stocks lag after SpaceX\u2019s spectrum deal sparks concerns ab",
+      "desc": "Wall Street opened on a positive note this Friday as oil prices dipped, easing worries over Middle Eastern supply issues. The Dow Jones Industrial Average, S&amp;P 500, and Nasdaq Composite each exper",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rs 1,024-crore market cap, Rs 10,000-crore order book: This penny stock jumps 11% after SAIL deal",
+      "title": "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1024-crore-market-cap-rs-10000-crore-order-book-this-penny-stock-jumps-11-after-sail-deal/articleshow/134827035.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "SEPC shares jumped nearly 11% to Rs 5.47 on Friday after securing an Rs 854.57-crore contract from SAIL for its IISCO Steel Plant expansion in Burnpur. The deal pushes SEPC's consolidated order book p",
+      "desc": "Poonawalla Fincorp reported a 407% year-on-year surge in Q2FY27 profit to Rs 375 crore, while net interest income rose 81%. Operating profit more than doubled, supported by business growth, improving ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "How Do Family Offices Hunt for Multibagger Startups?",
+      "title": "Anand Rathi Wealth Q2 Results: Profit rises 22% to Rs 122 crore; co declares dividend of Rs 4 per share",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-do-family-offices-hunt-for-multibagger-startups/videoshow/134827194.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": " ",
+      "desc": "Anand Rathi Wealth reported a 22% year-on-year rise in Q2 business profit to Rs 122 crore, with revenue increasing 16%. Assets under management reached Rs 1.08 lakh crore as quarterly net inflows hit ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US 10-year Treasury yield could hit 6% as oil prices, debt worries mount: Pimco CIO",
+      "title": "Half of India\u2019s MTF book is in smallcaps; Nithin Kamath flags liquidity risks",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-yield-could-hit-6-as-oil-prices-debt-worries-mount-pimco-cio/articleshow/134825801.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms",
       "date": "Fri, 09 Oct 2026",
-      "desc": "The 10-year US Treasury yield could reach 6% for the first time since 2000, according to Pimco\u2019s Dan Ivascyn. Rising oil prices, inflation concerns, mounting government debt and bond market pressures ",
+      "desc": "Zerodha founder Nithin Kamath warned that small and microcap stocks account for a substantial share of India\u2019s margin trading facility book. He highlighted liquidity risks during market downturns, whe",
       "tags": [],
       "is_portfolio": false
     },
@@ -130,6 +141,24 @@
       "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
       "date": "Tue, 23 Apr 2024",
       "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Co-payments and deductibles in health insurance: Are they right for you?",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/co-payments-and-deductibles-in-health-insurance-are-they-right-for-you-126100901443_1.html",
+      "date": "Fri, 09 Oct 2026",
+      "desc": "Both options can lower premiums, but they increase out-of-pocket expenses during claims. Understand how they work before choosing a health insurance policy",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "IT stocks lead Nifty rebound as benchmark snaps eight-week losing streak",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/it-stocks-lead-nifty-rebound-as-benchmark-snaps-eight-week-losing-streak-126100901255_1.html",
+      "date": "Fri, 09 Oct 2026",
+      "desc": "Nifty gains 289 points; Nifty Oil & Gas the lone sectoral index in the red",
       "tags": [],
       "is_portfolio": false
     },
@@ -170,92 +199,65 @@
       "is_portfolio": false
     },
     {
-      "title": "KEC Int'l: Why Kotak upgraded stock to 'Add' despite 60% fall in a year",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/kec-institutional-why-kotak-upgraded-stock-to-add-despite-60-fall-in-a-year-126100900496_1.html",
-      "date": "Fri, 09 Oct 2026",
-      "desc": "Rising traction in the cables and wires business, along with a strong T&D opportunity pipeline in India, makes KIE bullish on KEC International's stock.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "NCC shares rise 5% on securing \u20b91,286 crore road project order in Telangana",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ncc-shares-rise-5-on-securing-1-286-crore-road-project-order-in-telangana-126100900497_1.html",
-      "date": "Fri, 09 Oct 2026",
-      "desc": "NCC has received a Letter of Acceptance (LoA) from Hyderabad Growth Corridor Limited for a road construction project worth \u20b91,286.03 crore in Telangana.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold may draw support from decline in Oct Fed rate hike bet: Mirae Asset",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gold-may-draw-support-from-decline-in-oct-fed-rate-hike-bet-mirae-asset-126100900485_1.html",
-      "date": "Fri, 09 Oct 2026",
-      "desc": "Spot gold has been under tremendous selling pressure due to surging real yields and strong US Dollar.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Canara Bank to declare Q2 results 2026 on this date | Share price jumps on credit growth expectations",
+      "title": "Share price down 29% in 2026, retail investors\u2019 favourite wind energy stock under pressure - Where is the bottom?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/canara-bank-to-declare-q2-results-2026-on-this-date-share-price-jumps-on-credit-growth-expectations-11791538217693.html",
+      "link": "https://www.livemint.com/market/stock-market-news/share-price-down-29-in-2026-retail-investors-favourite-wind-energy-stock-under-pressure-where-is-the-bottom-11791556837036.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Q2 Results 2026: The state-owned Canara Bank has declared board meeting date to consider and approve the Q2FY27 and H1FY27 earnings",
+      "desc": "Suzlon Energy shares have fallen sharply in 2026 amid concerns about execution, margins and cash generation, despite a 6,135 MW order book. Analyst Gaurav Garg says the stock\u2019s technical breakdown poi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HCL Tech Q2 results 2026: Announcement date and time, earnings schedule, dividend yield, history, stock report",
+      "title": "$2.6+ bn Anand Group's Gabriel India stock up 50% in 6 months; now enters JV with France-based Forvia - Deal details",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q2-results-2026-announcement-date-and-time-earnings-schedule-dividend-yield-history-stock-report-11791534902031.html",
+      "link": "https://www.livemint.com/market/stock-market-news/26-bn-anand-groups-gabriel-india-stock-up-50-in-6-months-now-enters-jv-with-france-based-forvia-deal-details-11791558480339.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "HCL Technologies shares rose 2.57% on Friday amid a broader IT-sector rally, ahead of the company\u2019s Q2 FY27 results announcement on October 12 after Indian markets close. The stock was recently down s",
+      "desc": "Gabriel India and France-based Forvia have formed Faurecia ANAND Seating India Private Limited to bring advanced seating systems to India. The joint venture combines Forvia\u2019s global technology experti",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Asian Paints Q2 results, dividend 2026: Board meet on Oct 29 for quarterly earnings; check record date, payout history",
+      "title": "Bonus share: 105% returns in 6 months, record date 12 Oct 2026 - Do you own? Check ratio",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/asian-paints-q2-results-dividend-2026-board-meet-on-oct-29-for-quarterly-earnings-check-record-date-payout-history-11791531215441.html",
+      "link": "https://www.livemint.com/market/stock-market-news/bonus-share-105-returns-in-6-months-record-date-12-oct-2026-do-you-own-check-ratio-11791558999962.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Asian Paints\u2019 board will meet on October 29, 2026, to review Q2 FY27 results and consider an interim dividend. The record date, if a dividend is declared, is November 4. The company paid  \u20b927.50 per s",
+      "desc": "JOJO Limited shares may draw attention ahead of the October 12 record date for a 1:1 bonus issue. The stock closed 1.33% higher at  \u20b9228 on October 9. It has gained 106% in six months.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "No RBI rate cuts in the near-term! Where are banking stocks headed in the next 3-6 months?",
+      "title": "Pulse of the Street: Eight-week slide ends, but oil and earnings test recovery",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/no-rbi-rate-cuts-in-the-near-term-where-are-banking-stocks-headed-in-the-next-3-6-months-11791530528880.html",
+      "link": "https://www.livemint.com/market/pulse-of-the-street-eight-week-slide-ends-but-oil-and-earnings-test-recovery-11791551805305.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "RBI MPC meeting October 2026: According to Gaurav Garg, Head of Research at Lemonn, large private-sector lenders could hold up better than the broader market following the RBI\u2019s rate hike.",
+      "desc": "Indian equities snapped their losing run, but elevated crude prices, tighter monetary policy and uneven demand leave the rebound dependent on stronger earnings and easing global pressures.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Inox Green Energy Services share price jumps 15% after this acquisition update \u2014 buy, sell or hold? Experts' view",
+      "title": "Jio Platforms said to set IPO price band, listing likely before Diwali",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/inox-green-energy-services-share-price-jumps-15-after-this-acquisition-update-buy-sell-or-hold-experts-view-11791533768936.html",
+      "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-price-band-size-valuation-date-11791553042606.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Inox Green Energy Services share price today opened upside at  \u20b9117.04 per share and touched an intraday high of  \u20b9131.80 per share on the NSE, logging an intraday gain of around 15%",
+      "desc": "Jio Platforms is seeking to raise up  \u20b930,200 crore in its IPO for an implied valuation of  \u20b910.3 lakh crore, which is smaller than previously anticipated.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Multibagger penny stock under  \u20b910 delivers 1,180% returns in 4 years |  \u20b91 lakh turns to  \u20b912.8 lakh",
+      "title": "Relief rally in Indian stock market; biggest weekly losing streak in 25 years snapped: What's next for Sensex, Nifty?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-penny-stock-under-rs-10-delivers-1-180-returns-in-4-years-rs-1-lakh-turns-to-rs-12-8-lakh-11791530351932.html",
+      "link": "https://www.livemint.com/market/stock-market-news/relief-rally-in-indian-stock-market-biggest-weekly-losing-streak-in-25-years-snapped-whats-next-for-sensex-nifty-11791550093630.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Multibagger penny stock under  \u20b910 has risen from  \u20b90.15 per share to  \u20b91.92 apiece in the last four years, delivering 1,180% returns to its long-term shareholders",
+      "desc": "Indian equities ended the week higher after Friday\u2019s rally helped the Nifty gain 0.44% and the Sensex 0.78%. Financial and IT stocks led the rebound, while easing oil prices offered relief. Analysts c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Anand Rathi Wealth shares soar 330% in 3 years, but fall 5% today: What\u2019s behind the slump? Can they fall more? Decoded",
+      "title": "Anand Rathi Wealth Q2 results 2026: Dividend declared; check amount, record date, net profit, revenue and key financials",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-shares-soar-330-in-3-years-but-fall-5-today-what-s-behind-the-slump-can-they-fall-more-decoded-11791530357877.html",
+      "link": "https://www.livemint.com/market/stock-market-news/anand-rathi-wealth-q2-results-2026-dividend-declared-check-amount-record-date-net-profit-revenue-and-key-financials-11791550522687.html",
       "date": "Fri, 09 Oct 2026",
-      "desc": "Anand Rathi Wealth has climbed more than 330% in three years, yet its shares slid nearly 5% ahead of Q2 results. Analysts point to profit-booking and a months-long consolidation, while forecasts mix r",
+      "desc": "Anand Rathi Wealth, on Friday, reported a 10.37% year-on-year decline in Q2FY27 net profit to  \u20b988.95 crore, while operating revenue rose to  \u20b9343.98 crore. Its board approved an interim dividend of  ",
       "tags": [],
       "is_portfolio": false
     }
