@@ -1,124 +1,171 @@
 {
-  "updated_ist": "12 Oct 2026 16:01 IST",
+  "updated_ist": "13 Oct 2026 01:30 IST",
   "news": [
     {
-      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
+      "title": "Dividend, rights issue record date: Last chance to buy today to qualify for amount- Vedanta, TCS, Continental Controls",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-to-qualify-for-amount-vedanta-tcs-continental-controls-11791824752741.html",
+      "date": "Tue, 13 Oct 2026",
+      "desc": "Vedanta, TCS, Continental Controls and Energy Infrastructure Trust have set October 14 as the record date for announced corporate actions.&amp;nbsp;",
       "tags": [
-        "RELIANCE"
+        "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Reliance Industries hits 18-month low; stock down 28% from January high",
+      "title": "HCL Tech vs TCS Q2 results dividend: Which IT stock offers more? Amount, record date, yield, earnings compared",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-vs-tcs-q2-results-dividend-which-it-stock-offers-more-amount-record-date-yield-earnings-compared-11791823678417.html",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "HCL Technologies and TCS each announced a  \u20b912 interim dividend alongside their Q2 FY27 results. TCS set October 14 as its record date, while HCL Tech set October 16. Quarterly net profit rose 21% at ",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "FMCG dividend giants: Colgate, Hindustan Unilever, ITC, Britannia: Which stock offers highest yield?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/fmcg-dividend-giants-colgate-hindustan-unilever-itc-britannia-which-stock-offers-highest-yield-11791818253859.html",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "ITC led four major FMCG companies in annual dividend yield at 3.63% over the past year. Colgate Palmolive India yielded 2.16%. Check full details",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cleveland-feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly/articleshow/134901637.cms",
+      "date": "Tue, 13 Oct 2026",
+      "desc": "Cleveland Fed President Beth Hammack has stressed the urgency of adopting a strict monetary policy as a response to mounting inflation that now permeates various sectors, not just energy. She advocate",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US Stocks: Dating app Bumble shares surge 52% on talks to go private at $1 billion valuation",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dating-app-bumble-shares-surge-52-on-talks-to-go-private-at-1-billion-valuation-report/articleshow/134901295.cms",
+      "date": "Tue, 13 Oct 2026",
+      "desc": "Bumble is reportedly in advanced negotiations for a private acquisition by Ithaca Holdings, which values the company at approximately $1 billion. This potential acquisition follows a decline in Bumble",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "US bank stocks near correction as earnings loom, consumer outlook in focus",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-stocks-near-correction-as-earnings-loom-consumer-outlook-in-focus/articleshow/134900177.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "US bank stocks are nearing correction territory ahead of earnings, with investors watching for clues on consumer resilience amid elevated borrowing costs and rising Treasury yields. While trading reve",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Polycab India\u2019s F&amp;O exit: NSE sets December 30 deadline; NCLAT stays insolvency order",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-indias-fo-exit-nse-sets-december-30-deadline-nclat-stays-insolvency-order/articleshow/134898074.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "NSE will remove Polycab India from the equity derivatives segment from December 30, 2026, with existing contracts available until expiry. Separately, NCLAT has stayed the NCLT order admitting insolven",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Indian Gas Exchange secures Sebi's nod to float IPO",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-exchange-secures-sebis-nod-to-float-ipo/articleshow/134897335.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "Indian Gas Exchange Ltd has received approval from Sebi to launch an initial public offering. The proposed IPO is exclusively an offer for sale of equity shares by promoter Indian Energy Exchange Ltd.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Singularity AMC pays over Rs 40 lakh to settle AIF rule violation case with Sebi",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/singularity-amc-pays-over-rs-40-lakh-to-settle-aif-rule-violation-case-with-sebi/articleshow/134897222.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "Singularity AMC, a company rooted in Mumbai, has successfully resolved two significant matters with the Securities and Exchange Board of India (Sebi) concerning violations related to alternative inves",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jubilant Pharmova block deal: Quant Mutual Fund offloads Rs 190 crore stake amid Rs 800 crore fundraising plan; Abakkus buys 11 lakh shares",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jubilant-pharmova-block-deal-quant-mutual-fund-offloads-rs-190-crore-stake-amid-rs-800-crore-fundraising-plan-abakkus-buys-11-lakh-shares/articleshow/134897154.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "Quant Mutual Fund sold 20.81 lakh shares of Jubilant Pharmova worth Rs 190.47 crore in bulk deals, while Abakkus Four2Eight Opportunities Fund bought 11 lakh shares. The transactions came as the pharm",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "SBI economists call for scrapping LTCG tax on equities",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-economists-call-for-scrapping-ltcg-tax-on-equities/articleshow/134897107.cms",
+      "date": "Mon, 12 Oct 2026",
+      "desc": "SBI economists are advocating for the elimination of long-term capital gains tax to stimulate sustained investment in Indian equity markets. This proposal arises amid substantial foreign portfolio inv",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Zetwerk, Bonfiglioli Transmissions, Tonbo, SMT announce IPO price bands",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/reliance-industries-hits-18-month-low-stock-down-28-from-january-low-126101200375_1.html",
+      "link": "https://www.business-standard.com/markets/news/zetwerk-bonfiglioli-transmissions-tonbo-smt-announce-ipo-price-bands-126101201428_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "The stock price of RIL is quoting lower for the fourth straight trading day today. The counter has declined 5 per cent during the period.",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
+      "desc": "Four IPOs worth a combined \u20b98,827 crore are set to open on October 15, while ICICI Prudential AMC reports a 6.1% rise in Q2 profit and Alpha Wave sells a 1.52% stake in Lenskart",
+      "tags": [],
+      "is_portfolio": false
     },
     {
-      "title": "Sunil Singhania adds new stock to portfolio in Q2 after 140% rally; likely exits Cyient DLM",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sunil-singhania-adds-new-stock-to-portfolio-in-q2-after-140-rally-likely-exits-cyient-dlm/articleshow/134889116.cms",
+      "title": "RBI measures to support rupee weigh on govt bonds, domestic equities",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/rbi-measures-to-support-rupee-weigh-on-govt-bonds-domestic-equities-126101201121_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Veteran investor Sunil Singhania's Abakkus Flexi Cap Fund acquired a 1.15% stake in Aether Industries and raised its holdings in Heritage Foods during Q2 FY27. Meanwhile, the fund appears to have exit",
+      "desc": "Broader market indices bucked the trend, with the Nifty Midcap 150 rising 0.1 per cent and the Nifty Smallcap 250 gaining 1.13 per cent",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Smallcaps have surged 2.3x since April 2023. Why Vikas Khemani still sees India\u2019s next multibaggers here",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcaps-have-surged-2-3x-since-april-2023-why-vikas-khemani-still-sees-indias-next-multibaggers-here/articleshow/134889046.cms",
+      "title": "Defence startup Tonbo Imaging fixes IPO price band at \u20b9665-700 a share",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/defence-startup-tonbo-imaging-fixes-ipo-price-band-at-665-700-a-share-126101201269_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Smallcaps have surged 2.3 times since April 2023, but Carnelian Capital founder Vikas Khemani believes the segment still offers India\u2019s next multibaggers. Despite elevated valuations, stronger earning",
+      "desc": "The offer for sale of up to 12.17 million shares opens on October 15. The Bengaluru-based company has deployed more than 28,000 systems across 24 countries.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Goodluck India shares surge 17% as merger expands, defence arm to join firm along with green energy unit",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goodluck-india-shares-surge-17-as-merger-expands-defence-arm-to-join-firm-along-with-green-energy-unit/articleshow/134888841.cms",
+      "title": "IT, telecom stocks decline as market selloff resumes amid FII outflows",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/it-telecom-stocks-decline-as-market-selloff-resumes-amid-fii-outflows-126101201190_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Goodluck India shares surged 17% to a 52-week high of Rs 585 after its board approved the proposed merger of Goodluck Defence and Aerospace and Goodluck Green Energy. The restructuring aims to streaml",
+      "desc": "Nifty IT fell 0.79 per cent on Monday, while telecom shares remained under pressure amid FII outflows, concerns over Jio Platforms' IPO valuation and broader market weakness",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: European shares rise as easing oil prices lift sentiment; earnings in focus",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-easing-oil-prices-lift-sentiment-earnings-in-focus/articleshow/134888533.cms",
+      "title": "Equity mutual fund inflows hit 5-month high on small, midcap rush",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/mid-smallcap-rush-lifts-equity-mf-inflows-to-five-month-high-in-september-126101200986_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "European shares rose as banking stocks gained on easing oil prices and hopes of an energy ceasefire between Russia and Ukraine. Investors turned to corporate earnings from LVMH, ASML and EQT for fresh",
+      "desc": "Investors used mkt correction to raise equity bets, average cost, say experts",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dolly Khanna portfolio: Ace investor sells 4 lakh shares of Chennai Petroleum in Q2, stock up 82% in one year",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dolly-khanna-portfolio-ace-investor-sells-4-lakh-shares-of-chennai-petroleum-in-q2-stock-up-82-in-one-year/articleshow/134888180.cms",
+      "title": "Sebi nudges brokerage firms to join return verification platform",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-nudges-brokerage-firms-to-join-return-verification-platform-126101200779_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Ace investor Dolly Khanna trimmed her stake in Chennai Petroleum Corporation by around 3.85 lakh shares in Q2 FY27. The stock has delivered multibagger returns over three and five years, despite recen",
+      "desc": "Only four qualified stock brokers have joined the PaRRVA platform so far, while several industry players have raised concerns over high costs and limited adoption",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US bull market nears four-year milestone as AI boom fuels profits, growth",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bull-market-nears-four-year-milestone-as-ai-boom-fuels-profits-growth/articleshow/134886825.cms",
+      "title": "Sebi notifies common ad code, allows celebrity endorsements for brands",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-notifies-common-ad-code-allows-celebrity-endorsements-for-brands-126101200716_1.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "The US bull market is reaching its four-year milestone as AI infrastructure investments drive a 117% S&amp;P 500 rally. However, market concentration in top tech giants, rising 10-year Treasury yields",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Telecom stocks under fire, sink up to 13% as Elon Musk\u2019s Starlink buys spectrum from Grain Management",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/telecom-stocks-under-fire-sink-up-to-13-as-elon-musks-starlink-buys-spectrum-from-grain-management/articleshow/134886760.cms",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "SpaceX\u2019s move to acquire low-band spectrum licences has intensified concerns about disruption in the US telecom industry, sending shares of Verizon, AT&amp;T and T-Mobile lower. The company plans to c",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FIIs cut stakes in 12 stocks in September quarter; shares fall up to 27% in 3 months",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-cut-stakes-in-12-stocks-in-september-quarter-shares-fall-up-to-27-in-3-months/slideshow/134886941.cms",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "FIIs reduced stakes in 36 of 68 BSE 500 companies reporting September-quarter shareholding data. Twelve stocks fell up to 27% over three months as foreign investors trimmed holdings. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
-      "source": "Moneycontrol",
-      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
-      "date": "Tue, 23 Apr 2024",
-      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "desc": "Sebi's common advertisement code allows celebrities to promote regulated entities at the brand level but prohibits endorsements of specific financial products or services.",
       "tags": [],
       "is_portfolio": false
     },
@@ -132,128 +179,47 @@
       "is_portfolio": false
     },
     {
-      "title": "Oil prices, yields among key factors behind Sensex's 800 pts intraday fall",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/oil-prices-yields-among-key-factors-behind-sensex-s-1-200pts-intraday-fall-126101200540_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "VK Vijayakumar said that market is going through a stage wherein external headwinds are dominating domestic tailwinds. Elevated crude prices & high bond yields will continue to impact the market",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold, silver gain globally on easing inflation fears, trade lower on MCX",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/gold-silver-gain-globally-on-easing-inflation-fears-trade-lower-on-mcx-126101200530_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Gold futures on Comex were trading near $4,230 per ounce, while silver was trading near $61.30 per ounce",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold ETF inflows hit 7-month high in Sept despite 5% fall in bullion",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gold-etf-inflows-hit-7-month-high-in-sept-despite-5-fall-in-bullion-126101200525_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Gold ETF inflows rose to about \u20b94,500 crore, among the highest in recent times, which reflects a steady, allocation-led approach to commodities amid global uncertainty.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Swaraj Engines shares zoom 15% as Q2 net profit rises 22%, revenue up 26%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/swaraj-engines-shares-zoom-15-as-q2-net-profit-rises-22-revenue-up-26-126101200478_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Swaraj Engines is primarily in the business of supplying engines to the Swaraj Division of Mahindra & Mahindra (M&M).",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Market rerating needs earnings upgrades; buy in phases: Axis Direct CEO",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/market-rerating-needs-earnings-upgrades-buy-in-phases-axis-direct-ceo-126101200457_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "He expects markets to go through a consolidation phase before a sustained recovery, advising investors to deploy money gradually over the next two to three quarters.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Equity mutual funds inflow surges 31% to \u20b938,306 crore in September",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/mutual-fund/equity-mutual-funds-inflow-surges-31-to-38-306-crore-in-september-126101200381_1.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Equity mutual fund schemes attracted a net inflow of Rs 38,306 crore in September, rising 31 per cent from the preceding month, driven by strong investor interest in mid-cap and small-cap funds despit",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Firmus IPO Debacle Raises the Bar for Asia AI Deals in Pipeline",
+      "title": "Oil rallies, sending dollar higher on expectations of higher US rates",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/firmus-ipo-debacle-raises-the-bar-for-asia-ai-deals-in-pipeline-11791800511745.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "The collapse of Firmus Grid Ltd.\u2019s initial public offering is reverberating through Asia\u2019s booming market for share sales, making investors far pickier about artificial intelligence infrastructure dea",
+      "link": "https://www.livemint.com/market/oil-rallies-sending-dollar-higher-on-expectations-of-higher-us-rates-11791833490768.html",
+      "date": "Tue, 13 Oct 2026",
+      "desc": "GLOBAL-MARKETS:Oil rallies, sending dollar higher on expectations of higher US rates",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 13 Oct 2026",
+      "title": "Demand for Crude Oil May Have Peaked Last Year, FGE Says",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-cues-to-watch-13-oct-2026-11791799942402.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Indian stocks fell on Monday as investors booked profits and volatile oil prices weighed on sentiment ahead of key inflation data. The Nifty 50 dropped 0.70% and the Sensex 0.76%, while mid- and small",
+      "link": "https://www.livemint.com/market/demand-for-crude-oil-may-have-peaked-last-year-fge-says-11791832513230.html",
+      "date": "Tue, 13 Oct 2026",
+      "desc": "Demand for crude oil may have peaked in 2025, partly as higher need for fuels is increasingly met by biofuels, according to FGE NexantECA.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Q2 results 2026: Can corporate earnings halt Sensex, Nifty sell-off? Experts decode",
+      "title": "HD Fire Protect raises  \u20b9213 crore from anchor investors ahead of  \u20b9712-crore IPO",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/q2-results-2026-can-corporate-earnings-halt-sensex-nifty-sell-off-experts-decode-11791796933685.html",
+      "link": "https://www.livemint.com/market/hd-fire-protect-raises-213-crore-from-anchor-investors-ahead-of-712-crore-ipo-11791828326020.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Q2 results 2026: Indian equity markets came under intense selling pressure on Monday, with the Sensex and Nifty dropping more than 1,200 points from their intraday highs.",
+      "desc": "Domestic mutual funds account for 71.88% of anchor allocation; public issue opens on October 13",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "1:10 stock split follows strong Q2 results; newly listed stock up 6% | Rises 32% over IPO price in 3 months; what next?",
+      "title": "Up 102% in 7 months: Small-cap stock to be in focus on Tuesday after  \u20b935 crore order win",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/110-stock-split-follows-strong-q2-results-newly-listed-stock-up-6-rises-32-over-ipo-price-in-3-months-what-next-11791793065745.html",
+      "link": "https://www.livemint.com/market/stock-market-news/up-102-in-7-months-small-cap-stock-to-be-in-focus-on-tuesday-after-rs-35-crore-order-win-11791825707637.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Stock split: The newly listed share traded ex-split on 25 August 2026 for the sub-division of stock in a 1:10 ratio",
+      "desc": "Airfloa Rail Technology secured a  \u20b934.85 crore order from Integral Coach Factory to design interiors for a Vande Bharat Sleeper trainset and develop a mock-up.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Retail stocks to buy before Q2 results: Metro Brands, Campus Activewear, Vishal Mega Mart shares \u2014 Elara recommends",
+      "title": "Global shipping stocks hit records: Torm, Hafnia rally as Hormuz disruptions lift freight rates",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/retail-stocks-to-buy-before-q2-results-metro-brands-campus-activewear-vishal-mega-mart-shares-elara-recommends-11791793729318.html",
+      "link": "https://www.livemint.com/market/stock-market-news/global-shipping-stocks-hit-records-torm-hafnia-rally-as-hormuz-disruptions-lift-freight-rates-11791823083918.html",
       "date": "Mon, 12 Oct 2026",
-      "desc": "Elara Securities expects India\u2019s retail sector to post 11.8% revenue growth in Q2FY27, led by value retail, footwear and innerwear. Apparel may weaken as festive purchases shift to the next quarter. T",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Poonawalla Fincorp share price target: Q2 result rally fades as brokerages split - MOFSL sees 27% upside, Emkay chips in",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/poonawalla-fincorp-share-price-target-q2-result-rally-fades-as-brokerages-split-mofsl-sees-27-upside-emkay-11791793144051.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Poonawalla Fincorp shares pared early gains after rising nearly 8% following its Q2 results. Motilal Oswal maintained a Buy rating with a  \u20b9570 target, citing growth and improving margins, while Emkay",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "China Coal Prices at Three-Year High With Little Relief in Sight",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/china-coal-prices-at-three-year-high-with-little-relief-in-sight-11791796351894.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "China\u2019s thermal coal prices climbed to a three-year high as sluggish domestic production growth and disruptions in top exporter Indonesia coincide with an energy rally driven by the US-Iran war.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Avenue Supermarts\u2019 Q2 earnings-revenue mismatch is a problem",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/avenue-supermarts-q2-results-dmart-margins-11791787017024.html",
-      "date": "Mon, 12 Oct 2026",
-      "desc": "Revenue growth improved in Q2, but rising costs and softer store productivity squeezed margins. Quick-commerce competition and slower earnings growth leave few near-term triggers for the stock.",
+      "desc": "Shipping stocks hit record highs as Middle East tensions disrupted key routes, lifted tanker freight rates and increased oil transportation costs. Tanker companies and shipping funds rallied while att",
       "tags": [],
       "is_portfolio": false
     }
