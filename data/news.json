@@ -1,6 +1,28 @@
 {
-  "updated_ist": "14 Oct 2026 14:03 IST",
+  "updated_ist": "14 Oct 2026 19:34 IST",
   "news": [
+    {
+      "title": "Diwali offer for RIL shareholders! Reliance Jio sets aside Rs 2,500 crore shares in IPO reservation",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/diwali-offer-for-ril-shareholders-reliance-jio-sets-aside-rs-2500-crore-shares-in-ipo-reservation/articleshow/134944234.cms",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Jio Platforms has filed its red herring prospectus (RHP) for an IPO of up to 27 crore equity shares, setting the stage for what could be India\u2019s largest-ever public issue. Anchor investor bidding will",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Reliance Jio files RHP, announces IPO dates for India's biggest listing",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/reliance-jio-files-rhp-announces-ipo-dates-for-record-issue/articleshow/134943768.cms",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Jio IPO: Reliance Jio has filed its red herring prospectus for an October 21-23 IPO, set to be India\u2019s biggest public issue. The offering comprises 27 crore fresh shares, with reservations for Relianc",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,96 +35,56 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS share price rebounds 14% from September low: Can the rally extend further?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tcs-share-price-rebounds-14-from-september-low-can-the-rally-extend-further-11791959658391.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "TCS shares rose 3% after the company reported higher Q2 profit and revenue, with annualised AI revenue reaching $3.1 billion. Brokerages were broadly positive but differed on growth and margin prospec",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "TCS shares rally 11% in a week: IT major poised for bigger recovery as \u2018Reverse AI Trade\u2019 gains momentum? Decoded",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tcs-shares-rally-11-in-a-week-it-major-poised-for-bigger-recovery-as-reverse-ai-trade-gains-momentum-decoded-11791959961129.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "TCS gained around 11% in a week, supported by stronger-than-expected results, institutional buying and growing AI revenue. Analysts see potential for further gains if the stock breaks above  \u20b92,500, w",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "D-Street's proxy AI trade shines in a bleak year for stocks",
+      "title": "US stocks: US market opens lower after hot CPI data fuels rate-hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-streets-proxy-ai-trade-shines-in-a-bleak-year-for-stocks/articleshow/134936689.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-hot-cpi-data-fuels-rate-hike-bets/articleshow/134944281.cms",
       "date": "Wed, 14 Oct 2026",
-      "desc": "India's Nifty 50 index faces considerable challenges this year, with a significant drop since January. In contrast, stocks linked to artificial intelligence have thrived, attracting investor interest ",
+      "desc": "Wall Street's major indices took a hit as an inflation report outpaced forecasts, sparking heightened speculation about rate increases. Investors are closely reviewing earnings from key banks, highlig",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PMS Tracker: HEM Securities\u2019 SME stars, others rally up to 7.5% in September despite Nifty\u2019s 6% crash",
+      "title": "Gold drops over 1% as hot US inflation data boosts Fed hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pms-tracker-hem-securities-sme-stars-others-rally-up-to-7-5-in-september-despite-niftys-6-crash/articleshow/134936130.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-drops-over-1-as-hot-us-inflation-data-boosts-fed-hike-bets/articleshow/134944020.cms",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Despite Nifty and Sensex tumbling over 6% in September, small-cap and SME-focused PMS strategies delivered robust positive returns. Hem Securities' India Rising SME Stars scheme led gains at 7.23%, ac",
+      "desc": "US consumer prices increased in September, contributing to expectations of an interest rate hike by the Federal Reserve. Following this inflation data, gold prices fell over 1% for the third consecuti",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Lagarde says France must tackle debt woes through fiscal consolidation",
+      "title": "Bajaj Consumer Care Q2 Results: Profit jumps 66% YoY to Rs 70 crore, revenue rises 25%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-lagarde-says-france-must-tackle-debt-woes-through-fiscal-consolidation/articleshow/134935514.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-consumer-care-q2-results-profit-jumps-66-yoy-to-rs-70-crore-revenue-rises-25/articleshow/134943855.cms",
       "date": "Wed, 14 Oct 2026",
-      "desc": "ECB President Christine Lagarde stated on Wednesday that France must tackle its ballooning debt and deficit through domestic fiscal consolidation rather than relying on central bank bond intervention.",
+      "desc": "Bajaj Consumer Care reported a 66% year-on-year rise in Q2FY27 net profit to Rs 70.2 crore, while operating income grew 25.4% to Rs 332.8 crore. EBITDA surged 71% to Rs 83.3 crore. Domestic business r",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live:  US stocks open lower as hot inflation data revives rate-hike bets",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operati",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Groww Q2 Results: Cons net profit surges 54% YoY to Rs 726 crore; revenue jumps 47%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/groww-q2-results-cons-net-profit-surges-54-yoy-to-rs-726-crore-revenue-jumps-47/articleshow/134935652.cms",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "Groww Q2 Results: The company\u2019s revenue from operations came in at Rs 1,501 crore, marking a 47% increase from Rs 1,019 crore posted in the corresponding quarter of the previous financial year. ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "AI: A Boon or a threat for future? Atul Suri | Ravi Dharamshi | Alpha Wealth Summit 2.0",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-a-boon-or-a-threat-for-future-atul-suri-ravi-dharamshi-alpha-wealth-summit-2-0/videoshow/134935345.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-inflation-data-bank-earnings-blackrock-bank-of-america-alphabet-micron-inflation-dataai-chip-stock-price-news-14th-october-2026/liveblog/134942729.cms",
       "date": "Wed, 14 Oct 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Canara Bank Q2 Results: Standalone net profit rises 8% YoY to Rs 5,175 crore, NII jumps 20%",
+      "title": "India bonds sink deeper on RBI commentary, inflation concerns",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-bank-q2-results-standalone-net-profit-rises-8-yoy-to-rs-5175-crore-nii-jumps-20/articleshow/134935180.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-deeper-on-rbi-commentary-inflation-concerns/articleshow/134942525.cms",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Canara Bank has announced a standalone net profit of approximately Rs 5,175 crore for the second quarter of FY27, reflecting a growth of over 8% from the previous year. The bank also experienced a sub",
+      "desc": "Indian government bonds are currently facing notable losses, pushing the 10-year yield to its highest since March 2023. This downturn comes in the wake of hawkish remarks from Reserve Bank of India Go",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Johnson &amp; Johnson stock rout: What's driving the sharp decline?",
+      "title": "Dynamatic Technologies among 7 stocks hitting 52-week highs; rally up to 32% in a month",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/johnson-amp-johnson-stock-rout-whats-driving-the-sharp-decline/slideshow/134935157.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dynamatic-technologies-among-7-stocks-hitting-52-week-highs-rally-up-to-32-in-a-month/slideshow/134942503.cms",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Johnson &amp; Johnson shares fell as much as 6.8% despite an improved full-year earnings outlook. A sharp decline in reported quarterly profit, weaker-than-expected MedTech performance and litigation-",
+      "desc": " Seven BSE 1000 stocks touched fresh 52-week highs despite the Sensex closing lower on Wednesday. West Coast Paper Mills led the list with a 32% monthly gain, followed by Dynamatic Technologies, Cyien",
       "tags": [],
       "is_portfolio": false
     },
@@ -134,6 +116,60 @@
       "is_portfolio": false
     },
     {
+      "title": "Jio Platforms announces IPO subscription window from October 21 to 23",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/jio-platforms-ipo-to-open-for-subscription-on-october-21-23-filing-126101401189_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "The anchor investor bidding date is October 19, while the public issue will remain open for three days, from October 21 to October 23, 2026",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sebi proposes market cap-based SME listing norms, lower application size",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-proposes-market-cap-based-sme-listing-norms-lower-application-size-126101400870_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Sebi proposes halving the minimum SME IPO application value to Rs 1 lakh, raising the operating profit threshold and easing offer-for-sale restrictions for institutional investors",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Flexibility for AIFs is not relaxation but more responsibility: Sebi WTM",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sebi-aif-regulation-flexibility-sandip-pradhan-accredited-investors-126101400812_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Sebi whole-time member Sandip Pradhan said regulation of private markets will increasingly need to be proportionate, data-driven and risk-based as the sector expands",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "NPS Bharat FoF: Why PFRDA is opening pension capital to private debt",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/nps-bharat-fof-why-pfrda-is-opening-pension-capital-to-private-debt-126101400779_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "The pension regulator is widening investment options and simplifying digital enrolment to expand retirement coverage.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BHEL gains 5%, hits new high post Q2 results; stock up 100% in one year",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bhel-gains-5-hits-new-high-post-q2-results-stock-up-100-in-one-year-126101400694_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Thus far in the calendar year 2026, BHEL stock outperformed the market by soaring 61% compared to a 14.6% decline in the BSE Sensex.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sun Pharma down 2%, stock hits over 5-month low",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/sun-pharma-share-price-down-2-stock-hits-over-5-month-low-126101400575_1.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Thus far in the calendar year 2026, Sun Pharma outperformed the market and remained flat, as compared to a 14.7% decline in the BSE Sensex.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "IDBI Bank share price zooms 13% to five-week high on heavy volumes",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/news/idbi-bank-share-price-zooms-13-to-five-week-high-on-heavy-volumes-126101400576_1.html",
@@ -152,110 +188,74 @@
       "is_portfolio": false
     },
     {
-      "title": "West Asia war keeps $110 in sight for oil despite supply recovery: Analyst",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/oil-prices-west-asia-war-keeps-110-in-sight-for-oil-despite-supply-recovery-analyst-126101400499_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "Oil price outlook: Escalating tanker strikes, Houthi pressure on Gulf infrastructure and Iranian tactical framing around the midterm calendar keep the floor firm.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Wipro Q2 results preview: Revenue growth likely over 8%, margins in focus",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/wipro-q2-results-preview-revenue-growth-likely-over-8-margins-in-focus-126101400475_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "Overall, analysts expect Wipro to post nearly 8 per cent year-on-year (YoY) rise in revenue during the quarter under review, along with single-digit growth in earnings before interest and taxes.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Textile stocks Gokaldas, Indo Count, PDS, Filatex soar up to 6%; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/textile-stocks-gokaldas-indo-count-pds-filatex-soar-up-to-6-here-s-why-126101400419_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "Indian textile players continue to see a broadly improving demand environment, with export markets showing healthy order momentum and retailers increasingly shifting sourcing towards India.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "RailTel share price jumps 2% on winning repeat order from SBI",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/railtel-share-price-jumps-2-on-winning-repeat-order-from-sbi-126101400426_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "RailTel Corporation of India secured a repeat order worth \u20b9197.18 crore for telecom service for SBI branches across India for the next five years.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "PNC Infratech jumps 7% after Delhi HC temporarily stays 3-year bidding ban",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/pnc-infratech-share-price-jumps-7-after-delhi-hc-temporarily-stays-3-year-bidding-ban-126101400411_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "Delhi High Court temporarily stayed a three-year bidding ban imposed by NHAI on PNC Infratech, driving the stock higher by 7 per cent.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SS Retail share price zooms 20% after Q1 PAT rockets 61%; adds 33 stores",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ss-retail-share-price-zooms-20-after-q1-pat-rockets-61-adds-33-stores-126101400402_1.html",
-      "date": "Wed, 14 Oct 2026",
-      "desc": "SS Retail had made a remarkable market debut on the bourses on September 23, yielding a listing gain of over 80 per cent to the investors against the issue price of \u20b9424.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "This small-cap stock surged 75% since IPO price but ICICI Securities sets target below CMP; what should shareholders do?",
+      "title": "Jio Platforms files RHP for IPO: Issue to open on October 21; fresh issue of up to 27 crore equity shares",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/this-small-cap-stock-surged-75-since-ipo-price-but-icici-securities-sets-target-below-cmp-what-should-shareholders-do-11791964427387.html",
+      "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-files-rhp-for-ipo-issue-to-open-on-october-21-fresh-issue-of-up-to-27-crore-equity-shares-11791983551493.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Sudeep Pharma shares have climbed nearly 75% above their IPO price, but ICICI Securities says expectations for its emerging battery materials business are already reflected in the valuation. The broke",
+      "desc": "Jio Platforms filed its Red Herring Prospectus on October 14, 2026, for an IPO scheduled to open October 21 and close October 23. The proposed issue includes reservations of up to  \u20b9500 crore for elig",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nifty 50 prediction: Monarch Capital CEO sees benchmark hitting record high in 4-5 months - sees it hitting this level",
+      "title": "Crude oil prices above $100 a barrel: Why HPCL, IOCL and BPCL could face earnings pressure, experts decode",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-monarch-capital-ceo-sees-benchmark-hitting-record-high-in-4-5-months-sees-it-hitting-this-level-11791962806928.html",
+      "link": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-above-100-a-barrel-why-hpcl-iocl-and-bpcl-could-face-earnings-pressure-experts-decode-11791981298623.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Monarch Networth Capital CEO Gaurav Bhandari expects the Nifty 50 to reach 26,000\u201326,500 within four to five months if US bond yields and the dollar weaken, global liquidity shifts toward equities, an",
+      "desc": "Crude prices above $100 a barrel could squeeze Indian state-run oil marketers\u2019 margins if petrol and diesel prices remain unchanged. HPCL faces the greatest earnings pressure, followed by IOC and BPCL",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Small-cap stock under  \u20b950 retraced after rising up to 7% | Update on SpaceX International,  \u20b9147 cr AI order in focus",
+      "title": "LTCG, STT taxation: A tweak or removal? What\u2019s feasible? Ace investors Shankar Sharma, Rohit Srivastava say this",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-retraced-after-rising-up-to-7-update-on-spacex-international-rs-147-cr-ai-order-in-focus-11791962310458.html",
+      "link": "https://www.livemint.com/market/stock-market-news/ltcg-stt-taxation-a-tweak-or-removal-what-s-feasible-ace-investors-shankar-sharma-rohit-srivastava-say-this-11791976945637.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Small-cap stock under  \u20b950: The stock is hitting the headlines after its US subsidiary for started delivery last week for the  \u20b9147 crore AI infrastructure order",
+      "desc": "Experts and investors have been advocating for the removal of LTCG ever since it was reintroduced in 2018. However, at the current juncture, the government appears unwilling to make any changes to it.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "The pros and cons of investing in Bonfiglioli Transmissions IPO",
+      "title": "Top 2 stocks to buy for short-term: Sagility, Rain Industries by Nagaraj Shetti - Check stop loss, targets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/bonfiglioli-transmissions-ipo-price-band-valuation-11791955731566.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-for-short-term-sagility-rain-industries-by-nagaraj-shetti-check-stop-loss-targets-11791977953502.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Armed with a 25% market share, debt-free balance sheet, and strong OEM lock-ins, Bonfiglioli hits the primary market at  \u20b9558-586 per share. Analysts say the IPO is fairly priced, but not cheap.",
+      "desc": "The Nifty 50, Sensex retreated on Wednesday, giving back some of Tuesday\u2019s gains amid higher oil prices and continued foreign outflows. Market analysts said Nifty faces resistance at 22,700\u201322,800, wi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tata Elxsi stock rebounds as growth improves in Q2. Can it continue?",
+      "title": "Defence stocks to buy: HAL, Bharat Dynamics, MIDHANI are DAM Capital's top picks with up to 39% upside - check targets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/tata-elxsi-q2-results-stock-recovery-ai-growth-outlook-11791957021978.html",
+      "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-hal-bharat-dynamics-midhani-are-dam-capitals-top-picks-with-up-to-39-upside-check-targets-11791964835365.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "Tata Elxsi's investments, including in AI, and onshoring expenses amid US immigration challenges need closer tracking",
+      "desc": "DAM Capital expects defence growth to broaden beyond orders, driven by technology, local manufacturing, exports and partnerships. It names HAL, MIDHANI and BDL as preferred public-sector picks, citing",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "LTCG, STT: Is it opportune time for FM Sitharaman to relook at taxation to contain FIIs selling in Indian stock market?",
+      "title": "IPO returns decoded: Premier Energies, Tata Tech among winners; what do experts say about listing gains vs issue price?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ltcg-stt-is-it-opportune-time-for-fm-sitharaman-to-relook-at-taxation-to-contain-fiis-selling-in-indian-stock-market-11791954273862.html",
+      "link": "https://www.livemint.com/market/ipo/ipo-returns-decoded-premier-energies-tata-tech-among-winners-what-do-experts-say-about-listing-gains-vs-issue-price-11791975660571.html",
       "date": "Wed, 14 Oct 2026",
-      "desc": "LTCG, STT: The Government must seriously look into anchoring hot money flows into equity segment by extending the holding period to say 2-3 years and abolishing the long term capital gains tax for equ",
+      "desc": "Recent IPOs show a wide gap between listing prices and returns from IPO prices. While all 10 stocks have corrected since listing, seven remain above their IPO prices. Experts say listing gains reflect",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "After a 56% jump in 6 months, Anand Rathi sees 30% further upside in this realty stock - Rationale, target price",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/after-a-56-jump-in-6-months-anand-rathi-sees-30-further-upside-in-this-realty-stock-rationale-target-price-11791971253540.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Over the last six months, the realty stock has jumped 56% compared to a 5% decline in the equity benchmark Sensex. Year-to-date, the stock is up 30%, while the Sensex has lost nearly 15%.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Pearl Global: This multibagger textile stock gets back-to-back target price upgrades\u2014should investors buy now?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/pearl-global-this-multibagger-textile-stock-gets-back-to-back-target-price-upgrades-should-investors-buy-now-11791973387008.html",
+      "date": "Wed, 14 Oct 2026",
+      "desc": "Brokerages have turned bullish on Pearl Global Industries, citing its diversified manufacturing network, spare capacity and potential operating leverage. JM Financial initiated coverage with a Buy rat",
       "tags": [],
       "is_portfolio": false
     }
