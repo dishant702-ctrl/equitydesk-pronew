@@ -1,6 +1,17 @@
 {
-  "updated_ist": "16 Oct 2026 13:31 IST",
+  "updated_ist": "16 Oct 2026 18:47 IST",
   "news": [
+    {
+      "title": "Market wrap: Tech Mahindra, TCS, InterGlobe, BSE top gainers and losers on Nifty and Sensex on Friday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tech-mahindra-tcs-interglobe-bse-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/134992216.cms",
+      "date": "Fri, 16 Oct 2026",
+      "desc": "Indian equities extended gains as strong IT earnings lifted sentiment, with the Nifty rising 149 points to 23,146 and Sensex gaining 413 points. Tech Mahindra led advances, while broader markets slipp",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,107 +24,87 @@
       "is_portfolio": true
     },
     {
-      "title": "Reliance Jio IPO latest GMP today: Check share price percentage wise gains stock is expected to make on listing",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-latest-gmp-today-check-share-price-percentage-wise-gains-stock-is-expected-to-make-on-listing-11792135316984.html",
+      "title": "Ambani taps Reliance's 420,000 employees to boost Jio IPO participation",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/companies/news/ambani-taps-reliance-s-420-000-employees-to-boost-jio-ipo-participation-126101600630_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Reliance Jio Platforms\u2019 IPO is scheduled to open October 21 and close October 23, 2026, with a price band of  \u20b91,065\u20131,119 per share. Check its latest IPO GMP",
+      "desc": "The conglomerate has reached out to staff across its group companies and encouraged them to open trading accounts, as Mukesh Ambani seeks to build interest in the proposed $3.2 billion listing",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "TCS vs HCL Tech vs Tech Mahindra vs Wipro: Which IT stock won Q2 results 2026? AI revenue, deal wins compared",
+      "title": "Worst over for IT stocks? Experts analyse Q2 results of TCS, HCL, Tech Mahindra and others, suggest top picks",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tcs-vs-hcl-tech-vs-tech-mahindra-vs-wipro-which-it-stock-won-q2-results-2026-ai-revenue-deal-wins-compared-11792130967795.html",
+      "link": "https://www.livemint.com/market/stock-market-news/worst-over-for-it-stocks-experts-analyse-q2-results-of-tcs-hcl-tech-mahindra-and-others-suggest-top-picks-11792149864702.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "India\u2019s leading IT firms posted mixed Q2FY27 results as AI shaped growth and dealmaking. TCS, HCL Tech and Tech Mahindra reported profit gains, with HCL raising its outlook and Tech Mahindra recording",
+      "desc": "Indian IT stocks have rallied nearly 13% in four sessions after better-than-expected results. Analysts see stabilisation but say sustained recovery depends on stronger revenue growth, deal conversion,",
       "tags": [
         "TCS"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Reliance Jio IPO: Should investors chase listing gains or focus on long-term value? Experts weigh in",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-should-investors-chase-listing-gains-or-focus-on-long-term-value-experts-weigh-in-11792064886682.html",
-      "date": "Fri, 16 Oct 2026",
-      "desc": "Jio Platforms IPO is set to open for public subscription on Wednesday, 21 October. Mukesh Ambani-led oil-to-telecom-to-retail conglomerate Reliance Industries (RIL) currently owns a 66.43% stake in Ji",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "BoE's Bailey says energy price pass-through remains limited, rate risks persist",
+      "title": "Kotak Mahindra Bank among 5 stocks that hit 52-week highs &amp; rallied up to 15% in a month",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boes-bailey-says-energy-price-pass-through-remains-limited-rate-risks-persist/articleshow/134986792.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-15-in-a-month/slideshow/134995212.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Bank of England Governor Andrew Bailey said rising energy prices have had limited broader inflationary effects so far, but warned that second-round pressures remain uncertain. With inflation at 3.1%, ",
+      "desc": "Five BSE 500 stocks\u2014Shyam Metalics, PVR Inox, Kotak Mahindra Bank, Indian Hotels and Laurus Labs\u2014hit fresh 52-week highs as the Sensex gained 413 points. All five stocks posted monthly gains of around",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "From worst to best: How IT stocks staged a Rs 2.6 lakh crore revival this week",
+      "title": "Aggressive RBI measures hand India bonds a ninth weekly loss",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-worst-to-best-how-it-stocks-staged-a-rs-2-6-lakh-crore-revival-this-week/articleshow/134986472.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/aggressive-rbi-measures-hand-india-bonds-a-ninth-weekly-loss/articleshow/134995086.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Indian IT stocks staged a sharp comeback this week, adding Rs 2.6 lakh crore in market value as the sector gained 12% to become the best-performing index. Better-than-expected Q2 earnings, positive ma",
+      "desc": "Indian government bonds have experienced ongoing losses for nine consecutive weeks due to RBI's monetary tightening measures. The benchmark 6.94% 2036 bond yield has climbed over 62 basis points durin",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: Japanese investors extend foreign bond selling streak to four weeks",
+      "title": "LTM Q2 Results: PAT remains flat at Rs 1,380 crore; revenue rises 14% YoY; co declares Rs 25 per share dividend",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-investors-extend-foreign-bond-selling-streak-to-four-weeks/articleshow/134985765.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ltm-q2-results-pat-remains-flat-at-rs-1380-crore-revenue-rises-14-yoy-co-declares-rs-25-per-share-dividend/articleshow/134994968.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Japanese investors sold foreign bonds for a fourth consecutive week, pushing year-to-date net outflows to 5.34 trillion yen, the highest since 2022. Rising domestic bond yields are encouraging capital",
+      "desc": "LTM reported a marginal 0.1% decline in Q2 FY27 profit to Rs 1,379.9 crore, while revenue rose 13.6% to Rs 11,807.6 crore. Enterprise AI and Business AI revenue grew 47%, and the company declared an i",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Indian Bank reports a Rs 1,388 crore gain from sale of NSE shares",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures mixed as tech wobbles again, Tesla gains",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-reports-a-rs-1388-crore-gain-from-sale-of-nse-shares/articleshow/134985719.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-yield-earnings-tesla-nvidia-nebius-coreweave-varonis-systems-ai-chip-stock-price-news-16th-october-2026/liveblog/134994983.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": " Indian Bank gained Rs 1,388 crore from the NSE listing, boosting second-quarter non-interest income by 50% to Rs 3,953 crore. The one-time gain offset pressure from rising bond yields, despite Rs 123",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jio IPO GMP at 20%: Grey market signals Rs 220 premium as brokerages say subscribe",
+      "title": "DEE Development Engineers signs framework pact with domestic EPC firm for nuclear power sector",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-gmp-at-20-grey-market-signals-rs-220-premium-as-brokerages-say-subscribe/articleshow/134985658.cms",
+      "link": "https://economictimes.indiatimes.com/markets/companies/dee-development-engineers-signs-framework-pact-with-domestic-epc-firm-for-nuclear-power-sector/articleshow/134993986.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Jio Platforms IPO GMP today: Jio Platforms\u2019 Rs 30,200 crore IPO has a grey market premium of Rs 220 ahead of its October 21 opening. Emkay Global and SBI Securities highlight its telecom leadership, e",
+      "desc": "DEE Development Engineers Limited announced a framework agreement with a domestic engineering contractor for the nuclear power sector. This collaboration aims to strengthen its presence in various nuc",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee relief comes with disruptions in financial markets",
+      "title": "Bajaj Housing Finance Q2 Results: PAT rises 18% YoY to Rs 757 crore, AUM grows 25%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-relief-comes-with-disruptions-in-financial-markets/articleshow/134985296.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-housing-finance-q2-results-pat-rises-18-yoy-to-rs-757-crore-aum-grows-25/articleshow/134993051.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": "The Reserve Bank of India took decisive steps to stabilize the rupee, significantly affecting financial markets. New constraints led to skyrocketing hedging costs and dwindled liquidity in the forex s",
+      "desc": "Bajaj Housing Finance reported an 18% year-on-year rise in Q2 FY27 profit to Rs 757 crore, while net interest income increased 10%. Assets under management grew 25% to Rs 1.58 lakh crore, with asset q",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HFCL\u2019s AI, data centre exposure drives Nuvama\u2019s Buy call; target implies 56% upside",
+      "title": "Urban Company Q2 Results: Loss widens to Rs 182 crore; revenue jumps 41% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcls-ai-data-centre-exposure-drives-nuvamas-buy-call-target-implies-56-upside/articleshow/134985229.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/urban-company-q2-results-loss-widens-to-rs-182-crore-revenue-rises-41/articleshow/134992492.cms",
       "date": "Fri, 16 Oct 2026",
-      "desc": " Nuvama has initiated coverage on HFCL with a \u2018Buy\u2019 rating and a target price of Rs 380, implying a 56% upside from its reference price of Rs 244. The brokerage expects the company\u2019s shift towards tel",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "US Market: Fed's Goolsbee says latest US inflation data is discouraging",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-feds-goolsbee-says-latest-us-inflation-data-is-discouraging/articleshow/134985186.cms",
-      "date": "Fri, 16 Oct 2026",
-      "desc": "Federal Reserve Bank of Chicago President Austan Goolsbee called the latest US consumer and producer inflation data discouraging, raising concerns about persistent price pressures. While temporary fac",
+      "desc": "Urban Company reported a net loss of Rs 182 crore in Q2FY27 as investments in its quick services business, InstaHelp, weighed on profitability. Revenue rose 41% year-on-year to Rs 537 crore, while ord",
       "tags": [],
       "is_portfolio": false
     },
@@ -145,119 +136,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Axis Bank Q2 preview: NIM may fall on FCNR(B) flows; PAT could rise 37-43%",
+      "title": "Indian Hotels, Oriental Hotels rally up to 6%; what's driving hotel stocks?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/axis-bank-q2-results-preview-nim-may-fall-on-fcnr-b-flows-pat-could-rise-37-43-126101600498_1.html",
+      "link": "https://www.business-standard.com/markets/news/indian-hotels-oriental-hotels-rally-up-to-6-what-s-driving-hotel-stocks-126101600629_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Axis Bank Q2 results preview: The net interest margin may come under pressure in Q2FY27 due to elevated FCNR(B) deposit mobilisation, with analysts projecting a sequential decline of 7-12 bps.",
+      "desc": "Hotels were impacted in Q1 by the US-Iran conflict; however, analysts at Axis Securities expect a strong Q2, supported by improving metro demand and the BRICS Summit.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Zensar, HCL Technologies rebounded from 100-month EMA support, says analyst",
+      "title": "TIPS Music zooms 10% to hit 52-wk high after Q2 nos, \u20b96.50/share dividend",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/zensar-hcl-technologies-rebounded-from-100-month-ema-support-says-analyst-126101600472_1.html",
+      "link": "https://www.business-standard.com/markets/news/tips-music-zooms-10-to-hit-52-wk-high-after-q2-nos-6-50-share-dividend-126101600665_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Virat Jagad, technical research analyst at Bonanza, flags that HCL Technologies and Zensar Technologies witnessed buying interest at their respective 100-month exponential moving averages on the chart",
+      "desc": "For the July-September quarter, TIPS Music reported a 23 per cent Y-o-Y increase in the profit after tax (PAT) at \u20b965.5 crore.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ICICI Bank Q2 Preview: Profit may rise 8-14% YoY, NIM likely to contract",
+      "title": "DMart share price hits over 3-year low; down 28% from April high",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/icici-bank-q2-preview-profit-may-rise-8-14-yoy-nim-likely-to-contract-126101600468_1.html",
+      "link": "https://www.business-standard.com/markets/news/dmart-share-price-hits-over-3-year-low-down-28-from-april-high-126101600546_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "The bank is slated to post its September quarter earnings this Saturday (October 17) along with several other leading private banking names.",
+      "desc": "The stock price of DMart dipped 1.5% to \u20b93,322.90 on Friday, quoting at its lowest level since March 2023. The stock slipped 9% in the past seven trading days.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HDFC Bank Q2 preview: Single-digit PAT growth likely; margin pressure seen",
+      "title": "Solara Active Pharma share price zooms 16% on Q2 turnaround; H1 net up 103x",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/hdfc-bank-q2-preview-single-digit-pat-growth-likely-margin-pressure-seen-126101600449_1.html",
+      "link": "https://www.business-standard.com/markets/news/solara-active-pharma-share-price-zooms-16-on-q2-turnaround-h1-net-up-103x-126101600592_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "HDFC Bank Q2 results preview: While deposit growth is expected to be strong, supported by strong FCNR(B) inflows, pressure on margins is seen.",
+      "desc": "Solara Active Pharma Sciences reported a consolidated net profit of \u20b928.59 crore in Q2FY27 and \u20b944.70 crore in H1FY27. It posted a loss of \u20b99.29 crore in Q2FY26 and profit of \u20b90.42 crore in H1FY26.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Derivatives volumes may recover after settlement rule changes: Analysts",
+      "title": "Sebi's CAS rule change bigger positive for brokers vs exchanges: Jefferies",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/derivatives-volumes-may-recover-after-settlement-rule-changes-analysts-126101600428_1.html",
+      "link": "https://www.business-standard.com/markets/news/sebi-s-cas-rule-change-bigger-positive-for-brokers-vs-exchanges-jefferies-126101600560_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Sebi will restore the volume-weighted average price method for expiry-day derivatives settlement from December 7, following trader concerns over sharp price swings",
+      "desc": "Jefferies said the decision to use the volume-weighted average price (VWAP) to calculate settlement prices of derivatives contracts on expiry days is a bigger positive for brokers than for exchanges.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Senco, PC Jeweller zoom up to 17%; why are gold-related stocks dazzling?",
+      "title": "Beyond the sell-off: What an MSCI downgrade threat could mean for Indonesia",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/senco-pc-jeweller-shares-surge-up-to-17-why-are-gold-stocks-rallying-on-friday-126101600417_1.html",
+      "link": "https://www.business-standard.com/markets/news/beyond-the-sell-off-what-an-msci-downgrade-threat-could-mean-for-indonesia-126101600530_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "In Q2FY27, demand remained healthy despite the elevated gold price (up 28% YoY) supported by festive demand, premiumisation and continued market share gains by organised players, analysts said.",
+      "desc": "Indonesian stocks suffered a massive 11 per cent decline on Friday after MSCI threatened its \"emerging market status\", which could prompt massive foreign selloff from the Southeast Asian economy.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Sell gold on rallies as rate hike concerns weigh: Mirae Asset Sharekhan",
+      "title": "Yes Bank AT-1 bond reinstatement may hit CET1 ratio by 250 basis points",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gold-sell-on-rallies-as-rate-hike-concerns-weigh-on-metal-says-analyst-126101600411_1.html",
+      "link": "https://www.business-standard.com/companies/news/yes-bank-at1-bond-reinstatement-may-hit-cet1-ratio-by-250-bps-126101600516_1.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Praveen Singh of Mirae Asset Sharekhan has said that spot gold is facing tremendous selling pressure on rate hike concerns as inflation continues to run hot. It is advisable to sell into rallies.",
+      "desc": "The bank said it is reviewing the Supreme Court order that upheld the Bombay High Court's decision to quash the write-off of AT-1 bonds during its reconstruction phase",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Silver outlook bearish; may fall to $48 if $54.50 support breaks: Analyst",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/silver-outlook-bearish-may-fall-to-48-if-54-50-support-breaks-analyst-126101600371_1.html",
-      "date": "Fri, 16 Oct 2026",
-      "desc": "Praveen Singh of Mirae Asset Sharekhan said that silver has fallen quite sharply in the last few weeks. The white metal looks weaker than gold, as ETF flows are not inspiring.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Polycab India\u2019s Q2 is robust even as competition heats up",
+      "title": "Tesla shares jump 4% in pre-market trade after unveiling redesigned flying Roadster with SpaceX tech",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/polycab-q2-result-polycab-share-price-polycab-vs-ultratech-ultravolt-wires-11792135242997.html",
+      "link": "https://www.livemint.com/market/stock-market-news/tesla-shares-jump-4-in-pre-market-trade-after-unveiling-redesigned-roadster-with-spacex-11792152389374.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Polycab's brand and scale provide competitive advantages, but pricing behaviour, capacity additions, and the pace of market share gains should be monitored closely",
+      "desc": "Tesla shares rose 4% after the company unveiled a redesigned Roadster featuring SpaceX-developed thrusters. A livestreamed demonstration showed the driverless car perform a mid-air barrel roll.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Wipro poised to lag peers in FY27. Can timely deal conversions turn the tables?",
+      "title": "Pulse of the Street: Best week since April puts recovery to the earnings test",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/wipro-poised-to-lag-peers-in-fy27-can-timely-deal-conversions-turn-the-tables-11792128844265.html",
+      "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-best-week-since-april-puts-recovery-to-the-earnings-test-11792149779690.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Wipro\u2019s weak deal bookings and subdued Q3 guidance cloud its FY27 growth outlook. Timely deal conversion could aid a recovery, but persistent underperformance and AI investments remain concerns.",
+      "desc": "&amp;nbsp;IT stocks and a firmer rupee powered the rebound, but smaller stocks lagged. Earnings trajectory, broader buying and any relief from expensive oil will determine whether the gains hold.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Tips Music shares up 6% today after strong Q2 2026 results, dividend announcement; 27% up in 6 months - key highlights",
+      "title": "Dividend champions of auto ancillaries: Majestic Auto, PTL, or Banco Products - Who drives home the highest yield?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tips-music-shares-up-6-today-after-strong-q2-2026-results-dividend-announcement-27-up-in-6-months-key-highlights-11792132139224.html",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-champions-of-auto-ancillaries-majestic-auto-ptl-or-banco-products-who-drives-home-the-highest-yield-11792149270167.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Tips Music shares opened at  \u20b9700 per share on NSE today, as compared to previous close of  \u20b9684.40 on Thursday and touched an intraday high of  \u20b9731 on 16 October.",
+      "desc": "Majestic Auto led the listed auto ancillary companies with a 16.21% annual dividend yield, followed by PTL Enterprises at 6.5% and Banco Products at 3.79%. The article notes Majestic Auto\u2019s high yield",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Mint Explainer| How Sebi\u2019s changes to bonds could help NBFCs",
+      "title": "Battered Indian IT stocks rally as AI fears ease and global tech sells off",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-nbfc-changes-isin-corporate-bond-market-india-11792124357016.html",
+      "link": "https://www.livemint.com/market/stock-market-news/battered-indian-it-stocks-rally-as-ai-fears-ease-and-global-tech-sells-off-11792135221836.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "Sebi's changes should give NBFCs greater flexibility to stagger repayments and align their borrowing schedules with the monthly cash flows from their loan portfolios",
+      "desc": "AI stocks have come under pressure in recent days amid concerns that slowing revenue growth, rising infrastructure costs and tighter financing conditions could undermine lofty valuations.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nilesh Shah of Kotak says easing tax burden may help attract foreign flows, but won't be enough",
+      "title": "Nifty, Sensex investors alert! US bond yields remain above 5% - 5 ways this could impact your investments, portfolio",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tax-stt-ltcg-foreign-investment-nilesh-shah-kotak-11792126801638.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-sensex-investors-alert-us-bond-yields-remain-above-5-5-ways-this-could-impact-your-investments-portfolio-11792147018152.html",
       "date": "Fri, 16 Oct 2026",
-      "desc": "According to Shah, global investors are reallocating their portfolios rather than exiting India.",
+      "desc": "US Treasury yields eased to 5.086% after reaching 5.33%, but analysts warned the decline may be temporary amid persistent inflation concerns. Prolonged high yields could pressure Indian stocks, bonds,",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty IT posts best weekly gain in 18 years as Q2 earnings revive investor interest; which stocks led the rally?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-it-posts-best-weekly-gain-in-18-years-as-q2-earnings-revive-investor-interest-which-stocks-led-the-rally-11792148652063.html",
+      "date": "Fri, 16 Oct 2026",
+      "desc": "Indian IT stocks surged after stronger-than-expected September-quarter results and a shift in investor sentiment back toward software companies. The Nifty IT index gained 11.72%, its best weekly perfo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Already up 86% in 6 months, ICICI Direct still sees another 39% upside in this small-cap stock - Check target, rationale",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/already-up-86-in-6-months-icici-direct-still-sees-another-39-upside-in-this-small-cap-stock-check-target-rationale-11792142941201.html",
+      "date": "Fri, 16 Oct 2026",
+      "desc": "ICICI Direct initiated coverage on GEE Ltd with a Buy rating and a  \u20b9170 target price, implying 37% upside from  \u20b9124. It expects growth through higher capacity utilisation, expanded production and sp",
       "tags": [],
       "is_portfolio": false
     }
