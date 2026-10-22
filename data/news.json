@@ -1,5 +1,5 @@
 {
-  "updated_ist": "22 Oct 2026 13:57 IST",
+  "updated_ist": "22 Oct 2026 19:32 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -13,85 +13,96 @@
       "is_portfolio": true
     },
     {
-      "title": "Reliance Jio IPO GMP today: Day 2 subscription nears 3.76x! QIB, NII or retail - Which segment is driving biggest demand",
+      "title": "IT stocks rebound sharply in October: TCS gains 22%, Wipro and Tech Mahindra gain 20% \u2014 3 key reasons behind the jump",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-gmp-today-day-2-subscription-nears-3-76x-qib-nii-or-retail-which-segment-is-driving-biggest-demand-11792652142369.html",
+      "link": "https://www.livemint.com/market/stock-market-news/it-stocks-rebound-sharply-in-october-tcs-gains-22-wipro-and-tech-mahindra-gain-20-3-key-reasons-behind-the-jump-11792671461699.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Reliance Jio\u2019s IPO drew strong demand on its second subscription day, led by qualified institutional buyers. It was subscribed 9.61 times by QIBs, 3.03 times by non-institutional investors and fully s",
+      "desc": "Indian IT stocks rebounded sharply in October, with the Nifty IT index rising 16% as stronger-than-expected quarterly results, attractive valuations, and easing concerns about AI disruption revived in",
+      "tags": [
+        "TCS"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Reliance Industries shares: Monarch sees 20% upside in 3\u20134 months - Reveals buy range, targets for Mukesh Ambani stock",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-monarch-sees-20-upside-in-3-4-months-reveals-buy-range-targets-for-mukesh-ambani-stock-11792662864758.html",
+      "date": "Thu, 22 Oct 2026",
+      "desc": "Monarch Networth Capital named Reliance Industries its stock pick of the week, citing a potential triple-bottom pattern near  \u20b91,150\u20131,180. It recommends accumulating at  \u20b91,180\u20131,220, with a target o",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Stock crash alert! eMudhra shares plunge 37% in just two sessions. What\u2019s unfolding?",
+      "title": "US stocks today: US stocks open lower as AI jitters return, oil rises",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-crash-alert-emudhra-shares-plunge-37-in-just-two-sessions-whats-unfolding/articleshow/135112232.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-jitters-return-oil-rises/articleshow/135120582.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "eMudhra shares plunged 37% in two sessions after a critical security incident involving compromised private keys linked to eight intermediate Certificate Authority certificates. MeitY said its Indian ",
+      "desc": "US stocks opened lower on Thursday as renewed concerns over the outlook for artificial intelligence weighed on growth stocks. Tesla and Meta earnings failed to ease AI-related jitters, while rising oi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Meta Q3 Earnings: AI spending, revenue beat &amp; new stock class",
+      "title": "Record galore! Jio IPO claims crown for highest QIB demand among India\u2019s 5 largest issues, edges past NSE",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-q3-earnings-ai-spending-revenue-beat-amp-new-stock-class/slideshow/135112550.cms",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Meta Platforms beat third-quarter revenue estimates as advertising growth lifted sales 26% to $64.6 billion. However, rising capital expenditure on artificial intelligence, negative free cash flow and",
+      "desc": "Jio Platforms\u2019 Rs 30,213-crore IPO attracted 12.87 times QIB subscription, surpassing NSE\u2019s institutional demand. Overall subscription reached 5.36 times by Day 2, with a strong grey market premium an",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Never a dull moment! Why Jefferies raised Eternal\u2019s target price after Q2 earnings",
+      "title": "US stocks 2026: Moderna, SanDisk lead top 10 gainers delivering up to 734% returns",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/never-a-dull-moment-why-jefferies-raised-eternals-target-price-after-q2-earnings/articleshow/135112113.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-2026-moderna-sandisk-lead-top-10-gainers-delivering-up-to-734-returns/articleshow/135119576.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Jefferies raised its target price on Eternal to Rs 430 from Rs 415, implying around 38% upside from its previous close of Rs 312.35. The brokerage cited Blinkit\u2019s faster store expansion and improving ",
+      "desc": "Ten US stocks with market caps above $5 billion have seen share prices more than triple in 2026, delivering returns up to 734%. Healthcare and tech sectors dominate, led by biotechnology firm Moderna ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NCDEX launches NDEX and FINNDEX indices to foray into equity and derivatives markets",
+      "title": "SoFi targets idle crypto cash with interest-bearing tokenized deposit",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ncdex-launches-ndex-and-finndex-indices-to-foray-into-equity-and-derivatives-markets/articleshow/135112040.cms",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/sofi-targets-idle-crypto-cash-with-interest-bearing-tokenized-deposit/articleshow/135119511.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": " NCDEX has launched NDEX and FINNDEX, two rule-based indices covering large and liquid Indian equities and financial sector stocks. The benchmarks use a multi-factor methodology incorporating market c",
+      "desc": "SoFi Technologies has launched an innovative tokenized deposit product that offers an attractive 4.2% annual interest rate. Funds deposited are insured by the Federal Deposit Insurance Corporation for",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ashish Kacholia portfolio: Ace investor adds 3 new stocks, trims stake in 13 companies in Q2",
+      "title": "Colgate-Palmolive India Q2 Results: Profit rises 4.3% to Rs 341.6 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-portfolio-ace-investor-adds-3-new-stocks-trims-stake-in-13-companies-in-q2/articleshow/135111945.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q2-results-profit-rises-4-3-to-rs-341-6-crore/articleshow/135119461.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Ace investor Ashish Kacholia reshuffled his Rs 3,000 crore portfolio in Q2FY27, adding three stocks, increasing stakes in two companies and trimming holdings in 13 others. The changes include new bets",
+      "desc": "Colgate-Palmolive India Ltd has reported a 4.3% increase in net profit for the September quarter. The company achieved a net profit of Rs 341.57 crore compared to Rs 327.51 crore last year. Sales incr",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global Market: China's yuan hits more than four-year high against dollar",
+      "title": "Sebi allows margin relief against early pay-in of securities for subsequent trades",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-more-than-four-year-high-against-dollar/articleshow/135111723.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-margin-relief-against-early-pay-in-of-securities-for-subsequent-trades/articleshow/135119438.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "In a remarkable turn of events, China's yuan has surged against the US dollar, hitting levels unseen in over four years. This strength is linked to a declining dollar and prevailing central bank strat",
+      "desc": "The Securities and Exchange Board of India (Sebi) has announced a new directive that eases margin requirements for clients with a net sell obligation. This policy is particularly applicable when early",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Green Energy shares fall 4% after Q2 results. What are Jefferies, JM Financial saying?",
+      "title": "Meta falls as investors balance Muse growth with rising AI costs",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-shares-fall-4-after-q2-results-what-are-jefferies-jm-financial-saying/articleshow/135110271.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs/articleshow/135119388.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Adani Green Energy reported a 15% year-on-year rise in Q2FY27 net profit to Rs 673 crore, while revenue grew 39% to Rs 4,520 crore. Shares fell 4% after the results. Jefferies maintained its Buy ratin",
+      "desc": "Shares of Meta Platforms fell about 3% in premarket trading on Thursday, as investors weighed the benefits of the company's fast-growing AI agent business against the mounting costs of funding its amb",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Lam Research Stock: Why did LRCX shares fall despite record profits?",
+      "title": "Union Pacific's third-quarter profit rises on pricing strength",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lam-research-stock-why-did-lrcx-shares-fall-despite-record-profits/slideshow/135110117.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/union-pacifics-third-quarter-profit-rises-on-pricing-strength/articleshow/135119313.cms",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Lam Research posted record revenue of $8.22 billion, driven by AI infrastructure and memory chip demand. Supply constraints, declining China revenue contribution and cautious outlook weighed on invest",
+      "desc": "Union Pacific showcased impressive third-quarter adjusted profit, primarily fueled by increased fuel surcharge revenue and solid core pricing strategies. The boost in operating revenue reflects their ",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,137 +134,128 @@
       "is_portfolio": false
     },
     {
-      "title": "Gold, silver extend losses as crude oil prices rise amid West Asia tenions",
+      "title": "Sebi allows margin relief on subsequent trades against early pay-in",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/gold-silver-extend-losses-as-crude-oil-prices-rise-amid-west-asia-tenions-126102200543_1.html",
+      "link": "https://www.business-standard.com/markets/news/sebi-allows-margin-relief-on-subsequent-trades-against-early-pay-in-126102201148_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "In the global market, gold futures on Comex were trading near $4,110 per ounce, while silver was trading near $56.50 per ounce",
+      "desc": "Sebi has allowed margin relief on subsequent cash-market trades against accepted early pay-in of securities, easing margin requirements for clients with net sell obligations.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Balkrishna Industries jumps 4% on inking deal with Italy-based Pirelli",
+      "title": "SIP vs Lumpsum: What should investors do in the current sideways market?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/balkrishna-industries-jumps-4-on-inking-deal-with-italy-based-pirelli-126102200528_1.html",
+      "link": "https://www.business-standard.com/markets/news/sip-vs-lumpsum-what-should-investors-do-in-the-current-sideways-market-126102201037_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Balkrishna Industries stock traded at its highest point in October after the company inked an agreement with Pirelli to produce 800,000 branded premium car tyres in India.",
+      "desc": "A lump sum has usually beaten staggered investing, but distributors say a sideways market favours spreading it out. A Systematic Transfer Plan (STP) is the middle path",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Swiggy slips 26% in 1 month, hits record low; stock down 46% from IPO price",
+      "title": "Sun Pharma accepts bids worth \u20b97,816 crore for two five-year bonds",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/swiggy-slips-26-in-1-month-hits-record-low-stock-down-46-from-ipo-price-126102200468_1.html",
+      "link": "https://www.business-standard.com/markets/news/sun-pharma-raises-78-16-billion-through-two-five-year-bond-issues-126102201054_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Foreign portfolio investors reduced their holdings in Swiggy to 8.55% in the September 2026 quarter, down from 13.96% at the end of the June 2026 quarter, the shareholding pattern shows.",
+      "desc": "Sun Pharma has accepted bids worth \u20b97,816 crore for two bond tranches maturing in five years and one day, offering annual coupons of 8.05% and 8.20%, merchant bankers said.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Adani Green shares extend fall to 5th day, down 4% as Q2 PAT dips 24% QoQ",
+      "title": "Nippon Life India AMC gets Sebi nod to settle Yes Bank AT-1 bond case",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/adani-green-shares-extend-fall-to-5th-day-down-4-as-q2-pat-dips-24-qoq-126102200476_1.html",
+      "link": "https://www.business-standard.com/markets/news/nippon-life-india-amc-gets-sebi-nod-to-settle-yes-bank-at-1-bond-case-126102201003_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Today is the fifth day of decline for Adani Green Energy shares, during which they have lost 8 per cent.",
+      "desc": "Nippon Life India AMC received in-principle regulatory approval to settle the Yes Bank AT-1 bond case after paying \u20b996.76 crore, while its September-quarter net profit fell nearly 6%.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Colgate shares fall 2% ahead of Q2 show; eyes on 1st earnings under new CEO",
+      "title": "eMudhra share price hits second straight 20% lower circuit; at 52-week low",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/colgate-shares-fall-2-ahead-of-q2-show-eyes-on-1st-earnings-under-new-ceo-126102200471_1.html",
+      "link": "https://www.business-standard.com/markets/news/emudhra-share-price-hits-second-straight-20-lower-circuit-at-52-week-low-126102200784_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "The results will mark the first quarter under new MD and CEO Manish Anandani.",
+      "desc": "The Ministry of Electronics and Information Technology (MeitY) has formed a special team to investigate the leak of private keys associated with web security certificates issued by eMudhra.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jio Platforms IPO: Retail quota full, subscribed 3.47 times on day two",
+      "title": "HDFC Bank stock dips 2% on huge volume; trades lower for third straight day",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/ipo/retail-investors-fully-subscribe-ambani-s-jio-ipo-on-second-day-126102200394_1.html",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-stock-dips-2-on-huge-volume-trades-lower-for-third-straight-day-126102200723_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "The $3.2 billion IPO drew bids for 3.47 times the shares on offer on its second day, led by qualified institutional buyers whose quota was subscribed 9.42 times, exchange data showed",
+      "desc": "According to reports, HDFC Bank initiated an internal review into the alleged sharing of confidential information with outsiders by two senior executives.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NCDEX launches NDEX, FINNDEX in push to become multi-segment exchange",
+      "title": "JSW Steel Q2 results preview: Adj. PAT could grow 60-110% YoY, say analysts",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ncdex-ndex-finndex-equity-derivatives-market-launch-126102200427_1.html",
+      "link": "https://www.business-standard.com/markets/news/jsw-steel-q2-results-preview-adj-pat-could-grow-60-110-yoy-say-analysts-126102200722_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "NDEX tracks 20 large and liquid stocks while FINNDEX covers 15 financial companies, as the exchange expands beyond agricultural commodities into equities",
+      "desc": "Elara Capital said that steel demand remained resilient, supported by channel restocking ahead of expected price hikes.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "SRF extends slide to 5th day, falls 5% to hit 52-wk low on Q2 margin miss",
+      "title": "Infosys Q2 results preview: Analysts see PAT rising 10%; guidance in focus",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/srf-extends-slide-to-5th-day-falls-5-to-hit-52-wk-low-on-q2-margin-miss-126102200396_1.html",
+      "link": "https://www.business-standard.com/markets/news/infosys-q2-results-preview-analysts-see-pat-rising-10-guidance-in-focus-126102200709_1.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Today's selling in SRF was seen despite the company reporting a 31 per cent Y-o-Y increase in consolidated net profit to \u20b9509.12 crore for the quarter ended September.",
+      "desc": "Infosys Q2 results preview: Brokerages said that the Street will watch for a possible revision in FY27 revenue growth guidance.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "From 27% to 2%: Marcellus learns to rebalance, diversify and buy dips",
+      "title": "163% return in 3 years! This AMC declares  \u20b99.50 dividend despite 6% profit dip- Do you own? Check record date",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/saurabh-mukherjea-marcellus-investment-strategy-stock-market-returns-11792642763552.html",
+      "link": "https://www.livemint.com/market/stock-market-news/163-return-in-3-years-this-amc-declares-rs-9-50-dividend-despite-6-profit-dip-do-you-own-check-record-date-11792672553645.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Saurabh Mukherjea expects the Nifty to deliver high-single-digit annual returns if valuations normalise, while quality stocks could generate 15-20% returns over the coming years.",
+      "desc": "Nippon Life India Asset Management shares fell 3.14% to  \u20b9970 after the company reported a 6% year-on-year decline in Q2 FY27 profit to  \u20b9324.4 crore, partly due to a one-time Sebi settlement charge. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Suzlon Energy shares dip on third day in a row but experts see strong rebound before Q2 results 2026 | Target, stop-loss",
+      "title": "Small-cap stock shows resilience against stock market crash; experts hint at strong Q2 results 2026 | Should you buy?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-shares-dip-on-third-day-in-a-row-but-experts-see-strong-rebound-before-q2-results-2026-target-stoploss-11792654011859.html",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-shows-resilience-against-stock-market-crash-experts-hint-at-strong-q2-results-2026-should-you-buy-11792668429342.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Suzlon Energy Q2 results 2026 date: The board of directors of the ccompany has declared meeting on 29 October 2026 for the announcement of the Q2 earnings",
+      "desc": "Small-cap stock finished 1.60% higher at  \u20b9135, showing strong resilience against the selling pressure in the Indian stock market",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Inside Tesla\u2013SpaceX merger plan: Elon Musk may gain massive $110 bn from a $3.5 trn deal but what will shareholders get?",
+      "title": "Top 2 stocks to buy tomorrow: Federal Bank, Indian Hotel by market expert; check stop-loss, target price for Fri, 23 Oct",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/inside-tesla-spacex-merger-plan-elon-musk-may-gain-massive-110-bn-from-a-3-5-trn-deal-but-what-will-shareholders-get-11792651804564.html",
+      "link": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-tomorrow-federal-bank-indian-hotel-by-market-expert-check-stop-loss-target-price-for-fri-23-oct-11792669540014.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "A potential Tesla\u2013SpaceX merger could add more than $110 billion to Elon Musk\u2019s fortune by accelerating the vesting of Tesla shares.&amp;nbsp;",
+      "desc": "Indian equities fell for a third straight session on 21 October as Middle East tensions pushed oil to $112 a barrel and stoked inflation concerns. The Nifty lost 0.54% and Sensex 0.62%. Analyst Chanda",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PVR Inox shares at 52-week high, already up 45% in 6 months - Is there more steam left in cinema stock? Experts say this",
+      "title": "Sebi eases margin rules for trades post EPI",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/pvr-inox-shares-at-52-week-high-already-up-45-in-6-months-is-there-more-steam-left-in-cinema-stock-experts-say-this-11792653395861.html",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-eases-margin-requirements-on-trades-backed-by-early-pay-in-of-shares-11792667584844.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Year-to-date, PVR Inox share price has gained 41%, while over the last one year, it has given a return of 24%, hitting a 52-week high today and a 52-week low of  \u20b9900.05 on 2 March.",
+      "desc": "Clearing corporations must not collect additional margins from trading or clearing members on clients\u2019 subsequent positions, up to the value of EPI they have accepted.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "UltraTech Cement shares down 11% in a year: InCred Equities says recovery ahead | Check target, upside, rationale",
+      "title": "Tesla shares fall 4% in pre-market after capex forecast cut: Is Elon Musk\u2019s AI and robotics ambition facing a setback?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ultratech-cement-shares-down-11-in-a-year-incred-equities-says-recovery-ahead-check-target-upside-rationale-11792649432607.html",
+      "link": "https://www.livemint.com/market/stock-market-news/tesla-shares-fall-4-in-pre-market-after-capex-forecast-cut-is-elon-musk-s-ai-and-robotics-ambition-facing-a-setback-11792668635446.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "Brokerage firm InCred Equities continues to remain bullish on UltraTech Cement share price despite the stock has given negative returns in the short-term",
+      "desc": "Tesla shares fell 4% in pre-market trading after the company cut its annual capex forecast to about $20 billion from more than $25 billion.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Fujiyama Power Systems share price falls 15% in a month: Is 45% upside still on the table? Check DAM Capital target",
+      "title": "Vedanta Q2 results 2026 date : When will Anil Agarwal-led group announce Q2? Schedule, dividend history, preview, return",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/fujiyama-power-systems-share-price-falls-15-in-a-month-is-45-upside-still-on-the-table-check-dam-capital-target-11792651886721.html",
+      "link": "https://www.livemint.com/market/stock-market-news/vedanta-q2-results-date-and-time-check-anil-agarwal-led-metal-giant-s-earnings-schedule-dividend-history-q2-preview-11792666096700.html",
       "date": "Thu, 22 Oct 2026",
-      "desc": "DAM Capital initiated coverage on Fujiyama Power Systems with a Buy rating and  \u20b9540 target, implying 45% upside. It cited the company\u2019s distribution network, integrated solar products and government ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Hero Motors shares hit 5% lower circuit; stock still up 42% from IPO price | Check key support level",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/hero-motors-shares-hit-5-lower-circuit-stock-still-up-42-from-ipo-price-check-key-support-level-11792651819533.html",
-      "date": "Thu, 22 Oct 2026",
-      "desc": "Hero Motors shares fell 5% to a lower circuit on Thursday but remained about 42% above their  \u20b984 IPO price. The stock is nearing a key  \u20b9112 support level, with a break below it potentially triggerin",
+      "desc": "Vedanta will announce its Q2 FY2026-27 results on October 28, following a board meeting. Its earnings call is scheduled for 4:30\u20135 pm. &amp;nbsp;Check all details",
       "tags": [],
       "is_portfolio": false
     }
