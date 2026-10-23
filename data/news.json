@@ -1,5 +1,5 @@
 {
-  "updated_ist": "23 Oct 2026 13:53 IST",
+  "updated_ist": "23 Oct 2026 19:14 IST",
   "news": [
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
@@ -13,107 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "TCS share price surges 28% in October, hits over 7-month high; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/tcs-share-price-surges-28-in-october-hits-over-7-month-high-here-s-why-126102300497_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "TCS stock price rallied 5% to \u20b92,624.75 in Friday's intraday deals, bouncing back 33% from its 52-week low of \u20b91,976 hit on July 1, 2026.",
-      "tags": [
-        "TCS"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Reliance Jio IPO Global Record: Another feather in cap! History created - 1st IPO worldwide to cross 1 cr applications",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-global-record-another-feather-in-cap-history-created-1st-ipo-worldwide-to-cross-1-cr-applications-11792741256369.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Jio Platforms\u2019 IPO became the first globally to attract more than 1 crore applications, with demand exceeding  \u20b94 lakh crore. The issue was subscribed seven times by Friday afternoon, led by strong in",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Reliance Jio IPO: What today's GMP signals; last few hours to apply; latest grey market premium and subscription status",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/reliance-jio-ipo-what-todays-gmp-signals-last-few-hours-to-apply-latest-grey-market-premium-and-subscription-status-11792740992082.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Reliance Jio Platforms\u2019  \u20b930,213 crore IPO was subscribed 7.64 times by Friday afternoon, led by strong demand from institutional investors.&amp;nbsp;",
-      "tags": [
-        "RELIANCE"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Jio Platforms IPO creates history: First issue globally to cross 1 crore applications",
+      "title": "Dr Reddy\u2019s Q2 Results: Net profit falls 36% YoY to Rs 913 crore, revenue declines marginally",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-creates-history-first-issue-globally-to-cross-1-crore-applications/articleshow/135139371.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dr-reddys-q2-results-net-profit-falls-36-yoy-to-rs-913-crore-revenue-declines-marginally/articleshow/135147475.cms",
       "date": "Fri, 23 Oct 2026",
-      "desc": "Jio Platforms has received over 1 crore applications, setting a global record for investor participation ahead of its October 23 closing. The Rs 30,213-crore issue was subscribed 7.49 times by 12:36 p",
+      "desc": "Dr Reddy\u2019s Laboratories reported a 36% year-on-year profit decline to Rs 913.4 crore in Q2 FY27, while revenue slipped 1.5%. North America weakness pressured performance, offset partly by growth in In",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nasdaq CEO flags IPO slowdown amid market volatility",
+      "title": "Only 15% of midcap stocks above 50-DMA: Is buying the dip getting riskier? JM Financial spots signs of leadership shift",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-ceo-flags-ipo-slowdown-amid-market-volatility/articleshow/135139313.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/only-15-of-midcap-stocks-above-50-dma-is-buying-the-dip-getting-riskier-jm-financial-spots-signs-of-leadership-shift/articleshow/135146815.cms",
       "date": "Fri, 23 Oct 2026",
-      "desc": "The IPO market is grappling with hurdles stemming from macroeconomic instability and fluctuating market conditions that are influencing corporate strategies. Numerous firms have either delayed or aban",
+      "desc": "JM Financial warns midcap and smallcap leadership may weaken as market breadth deteriorates sharply. Largecaps show early recovery signals, but investors should remain cautious. Nifty holding 22,000 c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "This Tata Group stock plunged 10% a day after rallying 19% post Q2 results. Do you own?",
+      "title": "US Stock Market Live Updates: US stocks future edge lower after AI selloff, telecom slide",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/this-tata-group-stock-plunged-10-a-day-after-rallying-19-post-q2-results-do-you-own/articleshow/135138992.cms",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Tata Teleservices (Maharashtra) shares plunged on Friday, giving up some gains after rallying 19% in the previous session following its Q2 results. The stock fell to Rs 34.24 on the NSE. The company r",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Broader markets crash! Small, midcap indices tumble up to 4%. Why analysts are sounding the alarm",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/broader-markets-crash-small-midcap-indices-tumble-up-to-4-why-analysts-are-sounding-the-alarm/articleshow/135138924.cms",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Smallcap and midcap stocks plunged up to 4% on Friday, extending a sharp weekly selloff as analysts warned that valuations remain difficult to justify. The Nifty Smallcap 250 index has fallen around 8",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Cyient shares rally 9% after Q2 revenue rises 25%; board declares Rs 12/sh interim dividend",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cyient-shares-rally-9-after-q2-revenue-rises-25-board-declares-rs-12/sh-interim-dividend/articleshow/135137782.cms",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Cyient shares surged on Friday after the company reported a 25% year-on-year rise in consolidated revenue to Rs 2,235 crore in Q2 FY27. Net profit declined 8% to Rs 132 crore. The board declared an in",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Nippon Silver ETF, other silver ETFs slide up to 4% as silver prices tumble. Here\u2019s why",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nippon-silver-etf-other-silver-etfs-slide-up-to-4-as-silver-prices-tumble-heres-why/articleshow/135137769.cms",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Silver ETFs tumble up to 4% as India permits 6,500 metric tonnes of silver imports over six months, raising expectations of easing domestic supply tightness and premiums. Higher interest rates, bond y",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Q2 Results Live Updates: Infosys, Tata Motors, Adani Power in focus ahead of earnings today",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-infosys-tata-motors-quarter-2-fy27-earnings-result-dividend-share-price-updates-23-october-2026/liveblog/135137994.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-selloff-wall-street-futures-telecom-stocks-spacex-meta-coreweave-earnings-treasury-bond-yield-news-23rd-october-2026/liveblog/135145607.cms",
       "date": "Fri, 23 Oct 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Safe-haven demand pushes Japan\u2019s 10-year yield to two-month low",
+      "title": "India's 10-year bond falls for 10th week in record slump",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/safe-haven-demand-pushes-japans-10-year-yield-to-two-month-low/articleshow/135137115.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-falls-for-10th-week-in-record-slump/articleshow/135145225.cms",
       "date": "Fri, 23 Oct 2026",
-      "desc": "Japanese government bonds saw a rally on Friday, leading to the benchmark 10-year yield hitting a two-month low. This surge occurred in response to a global selloff in tech stocks, prompting investors",
+      "desc": "Indian government bonds have experienced their worst decline in thirty years, falling consecutively for ten weeks. Rising crude oil prices and a hawkish central bank stance have impacted the market ne",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Infosys ADRs crash 6% after Q2 results as revenue guidance cut spooks investors",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-adrs-crash-6-after-q2-results-as-revenue-guidance-cut-spooks-investors/articleshow/135145145.cms",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Infosys ADRs fell 6.3% after the company lowered FY27 revenue growth guidance to 1-2%, despite September-quarter revenue beating estimates. Profit missed expectations, while large deal wins and AI rev",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Market wrap: Eternal, Apollo Hospital, Shriram Finance, Adani Enterprises among top gainers and losers on Nifty and Sensex on Friday",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-eternal-apollo-hospital-shriram-finance-adani-enterprises-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/135144888.cms",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Indian equity markets fell for a fourth consecutive session, with the Nifty 50 closing at 22,600 and Sensex at 73,123.83. Small-cap, mid-cap and metal stocks slumped as bearish technical signals heigh",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Jio IPO becomes first public issue globally to cross 1 crore applications; record puts spotlight on depth of India\u2019s retail investor base",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-becomes-first-public-issue-globally-to-cross-1-crore-applications-record-puts-spotlight-on-depth-of-indias-retail-investor-base/articleshow/135144742.cms",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Jio Platforms has achieved a remarkable milestone, garnering over one crore applications for its upcoming initial public offering. This surge signifies a burgeoning interest from India's retail invest",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "AI stocks: Midterm elections could threaten AI trade as data center backlash grows",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-midterm-elections-could-threaten-ai-trade-as-data-center-backlash-grows/articleshow/135144162.cms",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Public opposition to US data centers and the November midterm elections could reshape AI infrastructure investment. Increased regulatory scrutiny, rising electricity costs and construction delays may ",
       "tags": [],
       "is_portfolio": false
     },
@@ -145,6 +112,60 @@
       "is_portfolio": false
     },
     {
+      "title": "BlueStone Jewellery stock plunges 13% as firm swings back to losses in Q2",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "BlueStone Jewellery shares remain 47 per cent higher on a year-to-date (YTD) basis and 27 per cent higher in six months. However, they are flat over the last year, having lost nearly 2 per cent.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Westlife Foodworld soars 20%; rebounds 24% from days' low post Q2 results",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/westlife-foodworld-soars-20-rebounds-24-from-days-low-post-q2-results-126102300727_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Q2 growth was broad-based across channels and regions, supported by the continued strength of the Company's value offerings, menu innovation and omnichannel convenience strategy.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shree Cement rebounds, gains over 5% from day's low post Q2 results",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/shree-cement-rebounds-gains-over-5-from-day-s-low-post-q2-results-126102300733_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Shree Cement on Friday reported a 15.2% YoY drop in Q2 consolidated net profit at \u20b9263 crore, while its revenue from operations grew by 23.9% YoY to \u20b95,897 crore.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty Midcap 100, Smallcap 100 slide 4%, down 10-13% from 52-week high",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/nifty-midcap-100-smallcap-100-slide-4-down-over-10-from-52-week-high-126102300683_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "The Smallcap index plunged 7.4 per cent over the past week and is down over 10 per cent from its 52-week high of 20,187.80.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Two-fold jump in Q2 PAT, \u20b925 dividend lift CPCL stock 5% in weak market",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/two-fold-jump-in-q2-pat-25-dividend-lift-cpcl-stock-5-in-weak-market-126102300624_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Chennai Petroleum reported a PAT of \u20b92,271 crore in Q2FY27, as against a PAT of \u20b9732 crore during the same quarter last year. This translates into a gain of 210 per cent on a Y-o-Y basis.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Steel Strips zooms 19%, hits record high on heavy volume post Q2 results",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/steel-strips-zooms-19-hits-record-high-on-heavy-volume-post-q2-results-126102300596_1.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "A combined 16.63 million shares representing 10.6 per cent of SSWL's total equity, changed hands on the NSE and BSE in Friday's intraday deals.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
       "title": "MSCI India rejig: JM Financial sees 3 inclusions, 2 exits & $1.4 bn inflows",
       "source": "Business Standard",
       "link": "https://www.business-standard.com/markets/news/msci-india-rejig-jm-financial-sees-3-inclusions-2-exits-1-4-bn-inflows-126102300586_1.html",
@@ -163,101 +184,74 @@
       "is_portfolio": false
     },
     {
-      "title": "Silver selloff seems overdone, says Mirae Asset Sharekhan; here's why",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/silver-selloff-seems-overdone-says-mirae-asset-sharekhan-here-s-why-126102300435_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "The crude oil/silver ratio has fallen through the crucial support around 58, which means silver remains vulnerable to rise in oil prices.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Crude oil up 85% in 2026 poses threat to global economy; Brent may hit $120",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120-126102300498_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Brent climbed back above $113 a barrel after a deadly drone strike on Saudi Aramco's Shaybah field, highlights Mohammed Imran of Mirae Asset Sharekhan.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Gold outlook bleak; avoid aggressive selling without stop loss: Analyst",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gold-outlook-bleak-avoid-aggressive-selling-without-stop-loss-analyst-126102300470_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Gold price outlook: Near-term resistance is at $4140/$4227; support is at $4000/$3930.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "BSE Capital Goods index tanks nearly 4%; Hitachi Energy, ABB India slip 6%",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-tanks-nearly-4-hitachi-energy-abb-india-slip-6-126102300374_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "In the past month, the BSE capital goods index slipped 12% as against a 2.8% decline in the BSE Sensex.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Small-caps likely to do well over the next year: 360 ONE's Mayur Patel",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/interviews/small-caps-likely-to-do-well-over-the-next-year-360-one-s-mayur-patel-126102300267_1.html",
-      "date": "Fri, 23 Oct 2026",
-      "desc": "Earnings of small-cap companies in the current financial year (FY27) may grow at a 30 per cent rate compared to the mid-teens for large caps, said Mayur Patel of 360 ONE Asset.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Silver rate today at 11-month low; slips below  \u20b92 lakh in India \u2014 where will it go? Should you buy for good returns?",
+      "title": "Infosys ADRs plunge 7.5% in pre-market after company trims annual revenue growth forecast",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/silver-rate-today-at-11-month-low-slips-below-rs-2-lakh-in-india-where-will-it-go-should-you-buy-for-good-returns-11792739270797.html",
+      "link": "https://www.livemint.com/market/infosys-adrs-plunge-7-5-in-pre-market-after-company-trims-annual-revenue-growth-forecast-11792758831738.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "Silver rate today: Silver futures contract for December 2026 expiry on the MCX has crashed over  \u20b94,500 on Friday",
+      "desc": "Shares of Infosys fell in US pre-market trading after it reduced its revenue growth forecast, raising concerns about weak demand for major technology projects and AI-driven competition.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "IPO listings, share price today: Tonbo Imaging vs Zetwerk vs Bonfiglioli vs Sahajanand - Who won debut race on NSE, BSE?",
+      "title": "NBFC stock crashes 25% in month, but ICICI Securities sees a potential 50% rally - Do you own it? Check target price",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ipo-listings-share-price-today-tonbo-imaging-vs-zetwerk-vs-bonfiglioli-vs-sahajanand-who-won-debut-race-on-nse-bse-11792733810920.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nbfc-stock-crashes-25-in-month-but-icici-securities-sees-a-potential-50-rally-do-you-own-it-check-target-price-11792757924909.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "IPO listings, share price today: Tonbo Imaging India emerged as the clear winner, with its shares listing at a premium of 66% over the IPO issue price.",
+      "desc": "Aye Finance shares fell about 25.56% in a month, but ICICI Securities sees 50% upside and retains a Buy rating. It cut its target price to  \u20b9200 from  \u20b9285, citing near-term volatility, while highligh",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Havells India stock drops to a new 52-week low after Q2 results. What\u2019s worrying investors?",
+      "title": "UBS acquires 4.8% stake in 360 ONE WAM: What the warrant conversion means for India's wealth market - Decoded",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/havells-india-share-price-q2fy27-results-lloyd-consumer-cables-and-wires-ebitda-margin-11792739039916.html",
+      "link": "https://www.livemint.com/market/stock-market-news/ubs-acquires-4-8-stake-in-360-one-wam-what-the-warrant-conversion-means-for-indias-wealth-market-decoded-11792757365857.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "Havells India shares fell about 6% on Friday to a new 52-week low as investors weighed margin pressures from rising competition in cables and wires, continued losses at Lloyd and higher input costs, d",
+      "desc": "UBS has acquired a 4.8% stake in Indian wealth manager 360 ONE WAM by converting warrants into 20.5 million equity shares. The investment follows a partnership that includes UBS selling its Indian ons",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "International Gemological Institute shares rally 16% in 2 days: Stock just 3.5% below 52-week high \u2014 What lies ahead?",
+      "title": "Yes Bank AT1 bonds: Supreme Court overturns write-off, but will investors get coupon payments? What's the entire matter",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/international-gemological-institute-shares-rally-16-in-2-days-stock-just-3-5-below-52-week-high-what-lies-ahead-11792738614673.html",
+      "link": "https://www.livemint.com/market/stock-market-news/yes-bank-at1-bonds-supreme-court-overturns-write-off-but-will-investors-get-coupon-payments-11792752412594.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "IGI shares rose 6% on Friday after gaining 10% in the previous session, lifting their two-day advance to 16.5%. The rally followed strong September-quarter results: profit increased 43% year-on-year t",
+      "desc": "Yes Bank is unlikely to pay coupons due this year on its AT-1 bonds, despite the Supreme Court overturning their 2020 write-off. The bank is reportedly preparing to seek a review, while bondholders se",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jio Platforms IPO lures investors as bids surge on final day",
+      "title": "FMCG stocks to buy: Anand Rathi names Marico, GCPL, Asian Paints, Mrs Bector Food - check ratings and target prices",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-lures-investors-as-bids-surge-on-final-day-11792737737745.html",
+      "link": "https://www.livemint.com/market/stock-market-news/fmcg-stocks-to-buy-now-anand-rathi-names-marico-gcpl-asian-paints-mrs-bector-food-check-ratings-and-target-prices-11792751055004.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "Investors subscribed more than 7.75 times the shares available in the Jio Platform IPO, which pegs the total demand in excess of $18 billion.",
+      "desc": "Anand Rathi Research expects earnings growth across its FMCG coverage to improve over FY26\u201328, forecasting 10% revenue CAGR and 15% earnings CAGR. Its preferred picks are Marico, Godrej Consumer Produ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "LTM dividend 2026 record date today | Check dividend payout details, history, yield and share performance",
+      "title": "Small-cap stock under  \u20b950 with 1:5 stock split, 1:1 bonus share history: Rights issue announced for  \u20b9160 crore value",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ltm-dividend-2026-record-date-today-check-dividend-payout-details-history-yield-and-share-performance-11792734155795.html",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-with-1-5-stock-split-1-1-bonus-share-history-rights-issue-announced-for-rs-160-crore-value-11792753365094.html",
       "date": "Fri, 23 Oct 2026",
-      "desc": "LTM interim dividend 2026 record date today: LTM share price fell over 2% to  \u20b94,190.10 per share on NSE amid dividend record date today, 23 October.",
+      "desc": "Small-cap stock under  \u20b950 traded ex-date to finalise the list of eligible shareholders for 1:5 stock split on 25 July 2025",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Infosys Q2 results, dividend 2026 amount announced:  \u20b926 per share payout, profit jumps 6.23% YoY - Check record date",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-q2-results-dividend-2026-amount-announced-rs-25-per-share-payout-profit-jumps-6-23-yoy-check-record-date-11792754002819.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Infosys reported a 6.23% year-on-year rise in Q2FY27 net profit to  \u20b97,823 crore, while revenue increased to  \u20b949,244 crore. The company approved an interim dividend of  \u20b926 per share.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Himadri Speciality Chemical share price: Why did this multibagger stock suffer its biggest weekly fall since 2008?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/himadri-speciality-chemical-share-price-why-did-this-multibagger-stock-suffer-its-biggest-weekly-fall-since-2008-11792750458242.html",
+      "date": "Fri, 23 Oct 2026",
+      "desc": "Himadri Speciality Chemicals fell 6% on October 23, extending its losing streak to six sessions and recording a 27.4% weekly decline. Q2 revenue rose 44.12% year on year, but faster material-cost grow",
       "tags": [],
       "is_portfolio": false
     }
