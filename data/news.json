@@ -1,12 +1,23 @@
 {
-  "updated_ist": "27 Oct 2026 20:44 IST",
+  "updated_ist": "28 Oct 2026 14:59 IST",
   "news": [
     {
-      "title": "RIL to announce Q2 results on October 30, board to also consider fundraising",
+      "title": "From Dhirubhai Ambani\u2019s Rs 10 crore IPO to Akash Ambani\u2019s Rs 12.5 lakh crore Jio debut: Reliance\u2019s biggest wealth story",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-to-announce-q2-results-on-october-30-board-to-also-consider-fundraising/articleshow/135237289.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Reliance Industries will announce its September-quarter results on October 30, alongside considering fundraising through non-convertible debentures. Investors will track performance across O2C, teleco",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-dhirubhai-ambanis-rs-10-crore-ipo-to-akash-ambanis-rs-12-5-lakh-crore-jio-debut-reliances-biggest-wealth-story/articleshow/135258986.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Jio Platforms\u2019 Rs 12.5 lakh crore debut marks a new milestone in the Ambani family\u2019s wealth creation journey, tracing Reliance\u2019s evolution from its Rs 10 crore IPO in 1977 to a digital technology gian",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Jio effect! Reliance beats Tata to become India's most valued conglomerate",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-effect-reliance-beats-tata-to-become-indias-most-valued-conglomerate/articleshow/135257354.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Jio Platforms\u2019 listing has propelled the Reliance Group to become India\u2019s most valuable conglomerate, with a combined market capitalisation of over Rs 28 lakh crore, surpassing the Tata Group. Jio deb",
       "tags": [
         "RELIANCE"
       ],
@@ -24,76 +35,89 @@
       "is_portfolio": true
     },
     {
-      "title": "Jio IPO GMP hints at 22% listing-day pop for a market cap second only to Reliance Industries",
+      "title": "HDFC Bank, ITC, HDFC Life, Nestle, Britannia, TaMo PV hit 52-week lows",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-itc-hdfc-life-nestle-britannia-tamo-pv-hit-52-week-lows-126102800631_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Colgate Palmolive, M&M Financial Services, Mazagaon Dock, Max Financial, SBI Card, Voltas and Waaree Energies from BSE 200 index also registered 52-week lows on Wednesday.",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Reliance Jio Platforms share price: After robust listing, how much more can Mukesh Ambani-led stock rally? Check targets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/ipo/jio-platforms-ipo-share-price-gmp-market-cap-11793102563152.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "If the GMP pattern holds until listing, Jio Platforms would become India's second-largest company by market cap, pushing rival Bharti Airtel into third place.",
+      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-platforms-share-price-after-robust-listing-how-much-more-can-mukesh-ambani-led-stock-rally-check-targets-11793171128870.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Reliance Jio Platforms shares have risen 23% from their IPO price, making the company India\u2019s second-most valuable listed firm. Nomura, Elara and Motilal Oswal issued Buy ratings, citing market leader",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "US Fed opens two-day meeting with markets expecting rate hold",
+      "title": "Jio Platforms share price: What  \u20b9100 movement in new Reliance Group stock means for RIL shares | Experts explain",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-share-price-what-rs-100-movement-in-new-reliance-group-stock-means-for-ril-shares-experts-explain-11793168654042.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Experts believe Jio Platforms share price listing at a bumper premium will have an impact on the Reliance Industries shares in the medium to long term",
+      "tags": [
+        "RELIANCE"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Hyundai Motor India Q2 Results: Standalone profit falls 24% to Rs 1,189 crore, but revenue gains 18% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/us-fed-opens-two-day-meeting-with-markets-expecting-rate-hold/articleshow/135238252.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Policymakers at the US Federal Reserve opened a two-day meeting Tuesday to set interest rates, with markets expecting them to hold steady days ahead of crucial midterm elections. On Tuesday, markets p",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hyundai-motor-india-q2-results-standalone-profit-falls-24-to-rs-1189-crore-but-revenue-gains-18-yoy/articleshow/135259321.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Hyundai Motors India has reported a standalone net profit of Rs 1,189 crore for Q2 FY27, reflecting a notable decrease of 24% compared to Rs 1,570 crore during the same period last year. However, thei",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Global bond issuance set to grow at slowest pace in five years in 2027, S&amp;P Global Ratings says",
+      "title": "Vedanta Q2 Results: Profit zooms 78% YoY to Rs 6,202 crore; revenue surges 57%",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/global-bond-issuance-set-to-grow-at-slowest-pace-in-five-years-in-2027-sp-global-ratings-says/articleshow/135237268.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "In 2027, global bond issuance is expected to rise by a mere 2.7%, marking a stark decline compared to this year's growth. According to S&amp;P Global Ratings, factors like increasing interest rates an",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-q2-results-profit-zooms-78-yoy-to-rs-6202-crore-revenue-surges-57/articleshow/135258623.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Vedanta Q2 Results: Vedanta Ltd reported a 78% year-on-year rise in consolidated net profit to Rs 6,202 crore in the September quarter, while revenue increased 57% to Rs 26,356 crore. EBITDA more than",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "JetBlue shares surge 12% as airline seeks to calm financial concerns",
+      "title": "Ambani blue-chip bet gets bigger: Investors mark 82% of traded Jio shares for holding beyond listing",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jetblue-shares-surge-12-as-airline-seeks-to-calm-financial-concerns/articleshow/135237199.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "JetBlue Airways shares surged over 12% after addressing financial concerns despite reporting a larger quarterly loss. The loss was influenced by soaring fuel prices resulting from the ongoing war in I",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ambani-blue-chip-bet-gets-bigger-investors-mark-82-of-traded-shares-for-holding-beyond-listing/articleshow/135258717.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Jio Platforms saw nearly 82% of its traded volume marked for delivery on debut, with 10.66 crore shares carried into settlement out of 13.02 crore shares traded. The stock listed at a 21.36% premium t",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "US stocks today: S&amp;P 500, Nasdaq advance as oil eases ahead of Fed decision",
+      "title": "Adani Enterprises Q2 Results: Revenue spikes 75% YoY to Rs 37,216 crore,  profit at Rs 1,492 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-pulls-back-ahead-of-fed-decision/articleshow/135236366.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "US stocks are experiencing an uptick with the S&amp;P 500 and Nasdaq gaining due to easing oil prices. The Federal Reserve is expected to maintain rates steady in its upcoming decision after last mont",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-enterprises-q2-results-revenue-spikes-75-yoy-to-rs-37216-crore-profit-at-rs-1492-crore/articleshow/135257734.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Adani Enterprises has reported a 55% drop in consolidated net profit for the second quarter of FY27, with figures reaching Rs 1,492 crore compared to Rs 3,304 crore from the previous year. Conversely,",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "PVR Inox among stocks that hit 52-week highs and rallied up to 20% in a month",
+      "title": "Hyundai Motor Q2 Results Live Updates: Standalone profit at Rs 1189 cr vs Rs 1570 cr, down 24% YoY",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-stocks-that-hit-52-week-highs-and-rallied-up-to-20-in-a-month/slideshow/135236374.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Six BSE 500 stocks hit fresh 52-week highs despite the Sensex closing nearly flat. International Gemological Institute led monthly gains at 19%, followed by PVR Inox, Acutaas Chemicals, Indian Hotels,",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/q2-results-today-live-updates-hyundai-vedanta-adani-enterprises-quarter-2-fy27-earnings-result-dividend-share-price-updates/liveblog/135257115.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "JSW Infrastructure Q2 Results: Net profit falls 11% to Rs 328 crore",
+      "title": "Global Market: UBS Q3 profit rises 8% to $2.69 billion, accelerates buyback plan",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-infrastructure-q2-results-net-profit-falls-11-to-rs-328-crore/articleshow/135236084.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "JSW Infrastructure reported an 11 percent drop in consolidated net profit for the September quarter, with earnings falling to Rs 328.23 crore from Rs 368.81 crore the previous year. The company achiev",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi extends deadline for debenture trustees to comply with norms till April 2027",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-deadline-for-debenture-trustees-to-comply-with-norms-till-april-2027/articleshow/135235986.cms",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Sebi has extended the deadline for debenture trustees to comply with regulatory requirements by six months. The new deadline for compliance is now set for April 27, 2027. This extension was granted af",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ubs-q3-profit-rises-8-to-2-69-billion-accelerates-buyback-plan/articleshow/135256901.cms",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "ETMutualFunds identifies Axis, SBI, Kotak and Nippon India small-cap funds using parameters such as rolling returns, consistency, downside risk, outperformance and asset size. These schemes offer stro",
       "tags": [],
       "is_portfolio": false
     },
@@ -125,137 +149,119 @@
       "is_portfolio": false
     },
     {
-      "title": "Gen Z's SIP competitor is lifestyle: Sakchi Jain on growing credit culture",
+      "title": "Dabba to demat: Rachana Ranade on women's road to financial independence",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gen-z-s-sip-competitor-is-lifestyle-sakchi-jain-on-growing-credit-culture-126102701404_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "CA and content creator Sakchi Jain talks about Gen Z's growing challenges of balancing lifestyle spending with investing",
+      "link": "https://www.business-standard.com/markets/news/dabba-to-demat-rachana-ranade-on-women-s-road-to-financial-independence-126102800896_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Highlighting how women have long saved money in 'dabbas', Rachana Ranade noted \"the only thing is to convert those savings from that dabba to a demat.\"",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Derivatives trading may need more guardrails, says Sebi's KVR Murty",
+      "title": "Roll out red carpet for dollar, make capital gains tax zero: Shankar Sharma",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-may-consider-more-guardrails-for-derivatives-trading-says-murty-126102701292_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Business Standard BFSI Summit: Sebi's KVR Murty says the regulator is considering whether more guardrails are needed for derivatives trading, particularly amid heightened activity on expiry days",
+      "link": "https://www.business-standard.com/markets/news/roll-out-red-carpet-for-dollar-make-capital-gains-tax-zero-shankar-sharma-126102800797_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Shankar Sharma has called for lower taxes on fixed-income investments to incentivise them over equity investments.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Herd mentality, FOMO among biggest risks for GenZ investors: Experts",
+      "title": "Investor education must explain why beating benchmarks is tough: Experts",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/herd-mentality-fomo-among-biggest-risks-for-genz-investors-experts-126102701126_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "The current market drawdown has challenged investors' faith in long-term equity investing, especially those who have entered the markets in the last two years.",
+      "link": "https://www.business-standard.com/specials/bs-events/investor-education-must-explain-why-beating-benchmarks-is-tough-experts-126102800751_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Speaking at the Business Standard BFSI Insight Summit 2026, panellists said investor education must explain why beating market benchmarks consistently is difficult, beyond costs and tracking error",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Crypto industry leaders flag tax hurdles, seek regulatory clarity in India",
+      "title": "Valuation of AI stocks, volatility pose risks for investors: Fund managers",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/specials/bs-events/crypto-industry-leaders-flag-tax-hurdles-seek-regulatory-clarity-in-india-126102701067_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "At the Business Standard BFSI Insight Summit 2026, crypto industry leaders flagged the burden of crypto taxation, called for regulatory clarity and highlighted growing investor interest",
+      "link": "https://www.business-standard.com/specials/bs-events/valuation-of-ai-stocks-volatility-pose-risks-for-investors-fund-managers-126102800738_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Fund managers at the Business Standard BFSI Insight Summit flagged AI stock valuation risks and urged investors to focus on disciplined asset allocation, long-term fundamentals amid market volatility",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Laurus Labs rallies 4% for 2nd straight day; stock hits new high",
+      "title": "Investors need suitable products, not complexity, say mutual fund CEOs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/laurus-labs-rallies-4-for-2nd-straight-day-stock-hits-new-high-126102700817_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "FPIs increased stake in Laurus to 30.8% in the September 2026 quarter from 28% at the end of June 2026 quarter, shareholding data shows.",
+      "link": "https://www.business-standard.com/specials/bs-events/investors-need-suitable-products-not-complexity-say-mutual-fund-ceos-126102800576_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Business Standard BFSI Summit: Mutual fund CEOs say smallcap valuations remain a concern, while hybrid funds and specialised investment funds could offer investors more flexibility",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India to give above-average market returns in next 2 years: Devina Mehra",
+      "title": "Tata Capital shares jump 5% post Q2 show; analysts say margin revival key",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/india-to-give-above-average-market-returns-in-next-2-years-devina-mehra-126102700818_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Devina Mehra, founder and CMD of First Global, suggested investors diversify their portfolio with global exposure as India accounts for less than 3 per cent of global market capitalisation.",
+      "link": "https://www.business-standard.com/markets/news/tata-capital-share-price-jump-5-post-q2-show-analysts-say-margin-revival-key-126102800574_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "MOFSL said that the outlook remains favourable for Tata Capital as current valuations adequately reflect the company's near-term growth and earnings potential.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Acutaas Chemicals rallies 13%; hits record high on strong Q2 results",
+      "title": "HUL trades on a volatile note post Q2 results; stock near 6-year low",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/acutaas-chemicals-rallies-13-hits-record-high-on-strong-q2-results-126102700730_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Thus far in the calendar year 2026, Acutaas Chemicals' market price has zoomed 116% compared to a 9.4% decline in the Nifty 500 index.",
+      "link": "https://www.business-standard.com/markets/news/hul-trades-on-a-volatile-note-post-q2-results-stock-near-6-year-low-126102800585_1.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Hindustan Unilever share price swung in a range of 5% after the company reported 4% growth in Q2 consolidated net profit.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gold, Silver ETFs sink up to 53% from 52-week highs; Silver at 11-month low",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/gold-etfs-silver-etfs-under-pressure-sink-up-to-53-from-52-week-highs-silver-hits-11-month-low-126102700687_1.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "According to NSE data, Silver ETFs have crashed up to 53% from their respective 52-week highs hit in January 2026, while Gold ETFs have declined up to 26% in the same period.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "How Israel elections 2026 results will impact Tel Aviv Stock Exchange (TASE) - The Bursa impact decoded",
+      "title": "US Fed meeting October 2026 today: Expectations, date and time, when &amp; where to watch Kevin Warsh's speech",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/how-israel-elections-2026-results-will-impact-tel-aviv-stock-exchange-tase-the-bursa-impact-decoded-11793108578963.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Israeli stocks have risen sharply since the Hamas attacks, supported in part by the technology sector and defence spending. But political uncertainty is back in focus as voters choose between Netanyah",
+      "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-october-2026-today-expectations-date-and-time-when-where-to-watch-kevin-warshs-speech-11793175022190.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "US Fed meeting October 2026 today: The rate-setting Federal Open Market Committee (FOMC), which convenes eight times a year, is scheduled to announce its interest rate decision on Wednesday, 29 Octobe",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Jio IPO listing gains calculator: How much profit can you expect from one Small NII and Big NII lot after allotment?",
+      "title": "Sona BLW shares surge 85% in 2026, hit record high for second straight session: What\u2019s driving the rally? Buy or hold?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/jio-ipo-listing-gains-calculator-how-much-profit-can-you-expect-from-one-small-nii-and-big-nii-lot-after-allotment-11793105193943.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Jio Platforms IPO investors are anticipating listing gains, with the prevailing grey market premium suggesting potential returns of about 23% for NII applicants.&amp;nbsp;",
+      "link": "https://www.livemint.com/market/stock-market-news/sona-blw-shares-surge-85-in-2026-hit-record-high-for-second-straight-session-what-s-driving-the-rally-buy-or-hold-11793175696706.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Sona BLW Precision Forgings shares reached a record  \u20b9882 after strong Q2 FY27 results, with profit up 29% and revenue up 34.9% year-on-year. BEV revenue rose 129%, while brokerages raised price targe",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Ola Electric shares surge 16%, biggest 1-day gain since April; why is the stock rallying despite brokerage downgrades?",
+      "title": "Can L&amp;T\u2019s product segment boost profitability as semiconductor and industrial electronics gain scale?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/ola-electric-shares-surge-16-biggest-1-day-gain-since-april-why-is-the-stock-rallying-despite-brokerage-downgrades-11793103468902.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Ola Electric shares jumped 16.3% on October 27, their biggest single-day gain since April, as trading volumes surged and auto-sector sentiment improved. The rebound followed a steep October decline an",
+      "link": "https://www.livemint.com/market/mark-to-market/lt-products-profitability-semiconductor-industrial-electronics-scale-11793171059377.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "A positive surprise in Q2 was that L&amp;amp;T's net working capital fell to 1.7% of revenue from 10.2% in Q2FY26 and 4.9% in Q1FY27. Lower NWC boosts return on capital employed and helps reduce net f",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Top stocks to buy in F&amp;O segment: CDSL, Zydus Lifesciences, Sun Pharma by Jay Thakkar for near-term | Check targets",
+      "title": "Multibagger defence stock Raymond retraces after jumping 7% amid weak trends on D-Street | Check target, upside",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-in-f-o-segment-cdsl-zydus-lifesciences-sun-pharma-by-jay-thakkar-for-near-term-check-targets-11793100938012.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "The Sensex and Nifty 50 ended Tuesday slightly lower amid elevated oil prices and geopolitical uncertainty. ICICI Securities analyst Jay Thakkar said markets may stay range-bound ahead of key events, ",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-raymond-retraces-after-jumping-7-amid-weak-trends-on-d-street-check-target-upside-11793168220033.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "Raymond share price opened at  \u20b91,019 apiece on the NSE on Wednesday, against the previous close of  \u20b91,081.20 on Tuesday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "European Stocks Erase Losses as Iran Comments Feed Peace Hopes",
+      "title": "EAAA India Alternatives IPO GMP flat on Day 3, issue booked 1.01x so far | Should you apply to Edelweiss Financial arm?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/european-stocks-erase-losses-as-iran-comments-feed-peace-hopes-11793102726539.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "European stocks erased earlier losses as hopes of renewed negotiations between the US and Iran to end their war offset disappointing earnings from benchmark heavyweight HSBC Holdings Plc.",
+      "link": "https://www.livemint.com/market/ipo/eaaa-india-alternatives-ipo-gmp-flat-on-day-3-issue-booked-1-01x-so-far-should-you-apply-to-edelweiss-financial-arm-11793168053962.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "EAAA India Alternatives IPO, priced at  \u20b91,585\u20131,665 per share, was subscribed 1.01 times by day three, led by QIB demand. Its grey-market premium has weakened to  \u20b910. The  \u20b91,200-crore issue is an o",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Defence stocks to buy: Systematix initiates coverage for Astra Microwave, Data Patterns, sees up to 66% upside",
+      "title": "US Fed Meeting LIVE: Expectations, time, where to watch Kevin Warsh's speech? How rate decision may impact gold, markets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/defence-stocks-to-buy-systematix-initiates-coverage-for-astra-microwave-data-patterns-sees-up-to-66-upside-11793096961267.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Systematix has set a target price of  \u20b92,600 for Astra Microwave against its closing price of  \u20b91569.75, indicating an upside potential of almost 66%. Meanwhile, Data Patterns has a target of  \u20b95,100 ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Acts of God Meet Acts of AI in Private Equity\u2019s New Debt Play",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/acts-of-god-meet-acts-of-ai-in-private-equity-s-new-debt-play-11793101262942.html",
-      "date": "Tue, 27 Oct 2026",
-      "desc": "Force majeure has long protected companies from acts of God. Now some borrowers want protection from acts of AI.",
+      "link": "https://www.livemint.com/market/stock-market-news/us-fed-meeting-live-expectations-time-where-to-watch-kevin-warshs-speech-how-rate-decision-may-impact-gold-markets-11793157523493.html",
+      "date": "Wed, 28 Oct 2026",
+      "desc": "US Fed Meeting LIVE: The Federal Open Market Committee (FOMC) unanimously approved a 25-basis-point increase at its previous meeting, bringing the target interest rate range to 3.75%-4.00%.",
       "tags": [],
       "is_portfolio": false
     }
