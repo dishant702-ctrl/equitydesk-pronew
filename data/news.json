@@ -1,225 +1,259 @@
 {
-  "updated_ist": "02 Nov 2026 16:18 IST",
+  "updated_ist": "03 Nov 2026 16:09 IST",
   "news": [
     {
-      "title": "Global Market: French bond yields hold steady despite Fitch downgrade warning",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-yields-hold-steady-despite-fitch-downgrade-warning/articleshow/135454878.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "French bond yields remained steady despite Fitch downgrading the country's outlook to negative, as investors weighed fiscal concerns and political uncertainty against easing energy prices and developm",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Sebi proposes LTCG tax relief for FPIs: What it means for Indian markets",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-long-term-capital-gains-tax-indian-markets-impact-foreign-investment-126110200664_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Sebi has proposed scrapping LTCG tax on foreign investors' equity gains and offering tax relief to domestic mutual fund investors who switch between schemes",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
-    {
-      "title": "Top power stocks: Jaiprakash Power vs Suzlon vs Vedanta Power vs Reliance Power vs Inox Wind | Experts' views, target",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/top-power-stocks-jaiprakash-power-vs-suzlon-vs-vedanta-power-vs-reliance-power-vs-inox-wind-experts-views-target-11793602441883.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Experts believe risk-oriented investors can bet on Inox Wind and Suzlon Energy shares, whereas investors with low risk appetite should look at Vedanta Power shares",
+      "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/taking-stock-market-fails-to-holdto-day39s-gains-ends-marginally-higher_17531871.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Grasim Industries, Bharti Airtel, Nestle India, Maruti Suzuki and HCL Technologies were the biggest Nifty gainers, while losers included Sun Pharma, BPCL, Reliance Industries, MM and Hindalco Industr",
       "tags": [
         "RELIANCE"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Mold-TekPackagingsharessurge17% as Q2FY27profitjumps35% YoY to Rs21crore",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mold-tekpackagingsharessurge17-as-q2fy27profitjumps35-yoy-to-rs21crore/articleshow/135454971.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Mold-Tek Packaging shares surged nearly 17% after the company reported a 35.5% YoY rise in Q2 FY27 net profit and 30.5% revenue growth. Strong pharma and FMCG packaging volumes supported performance, ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Oyo parent PRISM clocks PAT of Rs 353 crore in Q1, up 17% YoY, revenue jumps 35%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oyo-parent-prism-clocks-pat-of-rs-353-crore-in-q1-up-17-yoy-revenue-jumps-35/articleshow/135454425.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Oyo parent PRISM reported a 35% YoY rise in Q1FY27 revenue to Rs 2,814 crore, while net profit grew 17% to Rs 353 crore. Gross Booking Value increased 30% to Rs 9,600 crore and EBITDA rose 24% to Rs 7",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Japanese government bond yields were mixed on Monday, with the 10-year benchmark holding steady at 2.77%, while the 20-year and 30-year yields rose. Investors assessed global interest rate trends ahea",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Indian IPO market clocks record Rs 84,400 crore in H1 FY27, fundraising jumps 30%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "India's mainboard IPO market raised a record Rs 84,400 crore in H1 FY27, up 30% year-on-year, as September saw unprecedented fundraising. Strong investor participation, confidential filings and a robu",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "FIIs increase stake: 11 Nifty stocks rally up to 50% in FY27 so far",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Foreign institutional investors raised their stakes in 19 Nifty 50 companies in the September 2026 quarter. Of these, 11 stocks have gained 10% to 50% in FY27 so far, reflecting strong price momentum ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "MobiKwik shares zoom 10% as fintech firm posts record Rs 12 crore profit in Q2",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-zoom-10-as-fintech-firm-posts-record-rs-12-crore-profit-in-q2/articleshow/135452378.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "MobiKwik returned to profitability in Q2 FY27, reporting a record consolidated net profit of Rs 11.8 crore against a loss of Rs 28.6 crore a year earlier. Profit rose over 55% sequentially from Rs 7.6",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Goldman Sachs expects Bank of England to raise rates again in February",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-expects-bank-of-england-to-raise-rates-again-in-february/articleshow/135451968.cms",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Goldman Sachs has revised its outlook on the Bank of England's interest rates, now predicting a possible quarter-point rise in November's monetary policy meeting. This would be the first increase sinc",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Ratnaveer Precision surges 8% on healthy Q2; zooms 200% from March low",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ratnaveer-precision-surges-8-on-healthy-q2-zooms-200-from-march-low-126110200724_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Thus far in the calendar year 2026, Ratnaveer Precision stock outperformed the market by soaring 154%, compared to a 11.7% decline in the BSE Sensex.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "SBI Q2 preview: NII to rise 11-13%; margin to hold on lower FCNR(B) flows",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sbi-q2-results-preview-nii-to-rise-11-13-margin-to-hold-on-lower-fcnr-b-flows-126110200730_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Overall, analysts see a 11-13 per cent year-on-year (YoY) growth in SBI's Q2 NII, while analysts diverge on the profit trajectory.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Crude, not rupee, holds key to FII flows; JM Fin flags $105 threshold",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/crude-not-rupee-holds-key-to-fii-flows-jm-fin-flags-105-threshold-126110200671_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "According to its analysis, past FII flows help predict the next month's USD/INR movement, but past movements in the currency do not predict FII flows.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Can cutting LTCG, STCG revive FPI flows? JM Financial, Bernstein answer",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/can-cutting-ltcg-stcg-revive-fpi-flows-jm-financial-bernstein-answer-126110200610_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "A reduction in LTCG tax would be desirable for a capital-starved economy but would not, by itself, trigger sustained foreign institutional investor (FII) inflows, said Venugopal Garre of Bernstein.",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Equity LTCG tax evolution in India: A timeline of policy shifts since 2003",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/equity-ltcg-tax-evolution-in-india-a-timeline-of-policy-shifts-since-2003-126110200598_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "From a temporary exemption in 2003 to a tax-free regime in 2004, its eventual return in 2018, and now fresh calls for reform, India's equity LTCG policy has undergone several significant changes",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi backs LTCG tax relief for FPIs: What is the tax and how does it work?",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-backs-ltcg-tax-relief-for-fpis-what-is-the-tax-and-how-does-it-work-126110200608_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Sebi has backed a proposal to remove long-term capital gains tax for foreign investors. But what is LTCG tax, which investments does it apply to, and how is it calculated? Here's all you need to know",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Sebi backs LTCG tax relief: What Shankar Sharma, Samir Arora said earlier",
-      "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/sebi-backs-ltcg-tax-relief-what-shankar-sharma-samir-arora-said-earlier-126110200591_1.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Market investors have long called LTCG tax a 'major policy mistake' and urged the government to scrap the levy to attract foreign capital into India",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "TSMC's massive $6.5 trillion valuation opportunity: Is the Taiwan chipmaker stock to buy for the next 4 years? Decoded",
+      "title": "How ITC shares are performing after Q2 results? Should you buy, sell or hold? Brokerages give targets, key levels",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/tsmcs-massive-6-5-trillion-valuation-opportunity-is-the-taiwan-chipmaker-stock-to-buy-for-the-next-4-years-decoded-11793613989390.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "The chipmaker posted record profit, forecast strong fourth-quarter revenue and expects to raise investment. One analysis estimates the stock could nearly triple by 2030 under assumptions of continued ",
+      "link": "https://www.livemint.com/market/stock-market-news/how-itc-shares-are-performing-after-q2-results-should-you-buy-sell-or-hold-brokerages-give-targets-key-levels-11793688619420.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "ITC shares rose over 1% after the company reported an 18.45% year-on-year fall in Q2 FY27 consolidated profit to  \u20b94,229 crore, despite revenue rising 43.85%. Expenses surged 69.6%. FMCG, agriculture ",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
+    {
+      "title": "Rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves/articleshow/135492726.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "On Tuesday, the Indian rupee gained slightly against the dollar, closing at 94.74 per dollar. This change occurred as investors awaited the results of the US midterm elections and developments in the ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "NSE shares: Morgan Stanley, JP Morgan Overweight on exchange stock, see up to 30% upside potential; Check target price",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/morgan-stanley-jp-morgan-overweight-on-nse-shares-see-up-to-30-upside-potential-check-target-price-11793611294381.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Morgan Stanley and JPMorgan initiated coverage of NSE with Overweight ratings, citing rising retail investment, market dominance and growth potential. They set price targets of  \u20b92,315 and  \u20b92,130, wh",
+      "title": "Is the AI boom losing steam? Global economy faces growing risks",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/is-the-ai-boom-losing-steam-global-economy-faces-growing-risks/articleshow/135491964.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Global financial markets face mounting pressure from geopolitical conflicts, rising government debt and trade tensions, raising concerns about the resilience of the global economy. While the AI invest",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Apollo Micro Systems shares: Up 45% in YTD! Defence stock rebounds 3% from today's low; here's why | Target, stop-loss",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/apollo-micro-systems-shares-up-45-in-ytd-defence-stock-rebounds-3-from-todays-low-heres-why-target-stoploss-11793608200801.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Apollo Microsystem shares opened at  \u20b9402 per share today, as compared to previous close of  \u20b9398.75 on Friday last week.",
+      "title": "Bonus issue alert! Choice International to reward shareholders with 1:1 bonus shares. Check details",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-alert-choice-international-to-reward-shareholders-with-11-bonus-shares-check-details/articleshow/135491901.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Choice International has approved a 1:1 bonus issue, its first such corporate action in two years. Under the proposal, shareholders will receive one bonus share for every share held on the record date",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Motherson Sumi Wiring India share price rallies 13% on strong Q2 results | Check target, upside",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/motherson-sumi-wiring-india-share-price-rallies-13-on-strong-q2-results-check-target-upside-11793604234861.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Motherson Sumi Wiring shares opened at  \u20b938 per share today, as compared to previous close of  \u20b935.14 on Friday last week and touched an intraday high of  \u20b939.82 on 2 November.",
+      "title": "MFs cut stakes in 8 smallcap stocks after two quarters of buying; shares tumble up to 30% in 3 months",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-cut-stakes-in-8-smallcap-stocks-after-two-quarters-of-buying-shares-tumble-up-to-30-in-3-months/slideshow/135491144.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Mutual funds reduced their holdings in 79 BSE small-cap stocks during the September 2026 quarter, reversing two quarters of accumulation. Several affected stocks fell sharply, with major laggards decl",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Engineers India shares jump 15% after Q2, order book hits record high; stock up 35% in 2026 | Is more upside ahead?",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/engineers-india-shares-jump-15-after-q2-order-book-hits-record-high-stock-up-35-in-2026-is-more-upside-ahead-11793603116944.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "Engineers India shares rose 15% after the state-owned company reported a 56% year-on-year increase in second-quarter net profit to  \u20b9180 crore. Its order book reached a record  \u20b920,421 crore, while ma",
+      "title": "German bond yields rise as oil climbs ahead of US Midterm elections",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/german-bond-yields-rise-as-oil-climbs-ahead-of-us-midterm-elections/articleshow/135490769.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "German government bond yields rose as rebounding oil prices and caution ahead of the US midterm elections weighed on sentiment. The 10-year Bund yield climbed further from a two-month low, while inves",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Muthoot\u2019s solid gold loan AUM loses sheen amid asset quality stress, stiff competition",
-      "source": "Mint",
-      "link": "https://www.livemint.com/market/mark-to-market/muthoot-finance-share-price-gold-loan-asset-quality-concerns-11793602247502.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "The management doesn't view the spike in the movement into stage-II and stage-III buckets as an indication of underlying borrower stress.",
+      "title": "BLS E-Services Q2 Results: Net profit rises 12% YoY pc to Rs 20.5 cr",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bls-e-services-q2-results-net-profit-rises-12-yoy-pc-to-rs-20-5-cr/articleshow/135490084.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "BLS E-Services reported a 12.4 percent year-on-year increase in profit after tax for Q2 FY27. The total income for the quarter reached Rs 428.1 crore, up 55.1 percent year-on-year. Additionally, the c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "ITI shares: 111% returns in 5 years! Telco stock price hits 20% upper circuit | Time to book profits or hold?",
+      "title": "SBI Q2 Results: Standalone profit rises 14% YoY to Rs 23,038 crore, NII jumps 15%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-standalone-profit-rises-14-yoy-to-rs-23038-crore-nii-jumps-15/articleshow/135489000.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "SBI Q2 Results: Net interest income in the reporting period increased 15% YoY to Rs 49,143 crore. ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bayer raises 2026 profit outlook on strong pharmaceuticals performance",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bayer-raises-2026-profit-outlook-on-strong-pharmaceuticals-performance/articleshow/135488937.cms",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Bayer raised its 2026 profit outlook after its pharmaceuticals division delivered stronger-than-expected third-quarter sales. The German group also lowered its debt forecast, signalling improving grow",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty gain for third day in a row; easing volatility to support bull trend",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-gain-for-third-daya-row-easing-volatility-to-support-bull-trend_17531821.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Analysts expect the market to maintain the bullish undertone as elections and corporate earnings season continue",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Mid-day Mood | Cooling volatility sparks market rally, India VIX sees steepest fall in 4 years",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/mid-day-mood-|-cooling-volatility-sparks-market-rally-india-vix-sees-steepest-fall4-years_17531481.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " Broader markets outperformed benchmarks, with the BSE Midcap and BSE Smallcap rising up to 0.9 percent",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sensex, Nifty extend gains to 3rd day, Q4 results to guide stock-specific action",
+      "source": "Moneycontrol",
+      "link": "https://www.moneycontrol.com/news/local-markets/sensex-nifty-extend-gains-to-3rd-day-q4-results-to-guide-stock-specific-action_17530901.html",
+      "date": "Tue, 23 Apr 2024",
+      "desc": " India VIX, which measures near-term volatility saw a sharp fall of 18 percent to trade around 10.42",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Nifty Private Bank index gains 2%; HDFC Bank, ICICI Bank, Axis Bank shine",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/nifty-private-bank-index-gains-2-hdfc-bank-icici-bank-axis-bank-shine-126110300965_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "In the past five trading days, HDFC Bank and ICICI Bank rallied 7% each against 5% rise in the Nifty 50.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Fusion Finance share price zooms nearly 16% on Q2 turnaround",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/fusion-finance-share-price-zooms-nearly-16-on-q2-turnaround-126110300948_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Fusion Finance reported a net profit of \u20b986.48 crore in Q2FY27 against a net loss of \u20b922.14 crore in Q2FY26.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Textile, garment stocks in demand; Kitex, Trident, Gokaldas rally up to 18%",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/textile-garment-stocks-in-demand-kitex-trident-gokaldas-rally-up-to-18-126110300776_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Share prices of Kitex Garments zoomed 18% and Trident surged 13% on the back of heavy volume in Tuesday's trading session.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "M K Sons Fine Jewels IPO: Shares may list at marginal premium of 6%",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/ipo/m-k-sons-fine-jewels-ipo-shares-may-list-at-marginal-premium-of-6-126110300788_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "The IPO's latest GMP stood at \u20b99 per share on November 3, taking the estimated listing price to \u20b9171 against the issue price of \u20b9162. This implies a potential gain of \u20b99 per share, or 5.56 per cent.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "GRSE jumps 9% on \u20b953,866-crore deal; logs best one-day gain in 6 months",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/grse-jumps-9-on-53-866-crore-deal-logs-best-one-day-gain-in-6-months-126110300678_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "The Defence Ministry sealed \u20b953,866 crore contracts worth with GRSE and Goa Shipyard Limited (GSL) to procure eight next-generation warships for the Indian Navy to bolster its combat prowess.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Gold, silver prices fall on expectations of tighter monetary policy",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/commodities/gold-silver-prices-fall-on-expectations-of-tighter-monetary-policy-126110300603_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Gold and silver futures declined on MCX and Comex as rising US bond yields and a stronger dollar weighed on prices",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India's gold demand likely to fall to six-year low in 2026 on price rise",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/commodities/india-s-gold-demand-likely-to-fall-to-six-year-low-in-2026-on-price-rise-126110300512_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "The country, the \u200cworld's biggest gold consumer after China, is grappling with rising living costs in the wake of the Iran war, while a weak monsoon could curtail rural demand for jewellery",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Bosch jumps 5%, hits new high on bonus, stock split plan; up 76% since Apr",
+      "source": "Business Standard",
+      "link": "https://www.business-standard.com/markets/news/bosch-share-price-jumps-5-hits-new-high-on-bonus-stock-split-plan-up-76-since-april-126110300574_1.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Analysts expect Bosch's Q2 revenue to grow 50% YoY, driven by consolidation of the RBIC acquisition, healthy growth outperformance in the automotive segment, and recovery in the non-mobility segment.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap stock under  \u20b950 jumps 5% after announcement of Q2 Results 2026, dividend | Up 65% in 6 months; do you own?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/iti-shares-111-returns-in-5-years-telco-stock-price-hits-20-upper-circuit-time-to-book-profits-or-hold-11793599149687.html",
-      "date": "Mon, 02 Nov 2026",
-      "desc": "ITI shares opened at  \u20b9216.25 apiece on NSE today, as compared to the previous close of  \u20b9215.95 on Friday last week and touched an intraday high of  \u20b9259.14 on 2 November.",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-5-after-announcement-of-q2-results-2026-dividend-up-65-in-6-months-do-you-own-11793700056652.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Small-cap stock under  \u20b950 today opened higher at  \u20b937.40 per share and finished at  \u20b938 apiece, around 5% upside against the previous close of  \u20b936.27 per share",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Silver prices crash  \u20b98,500/kg, gold drops  \u20b92,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Silver futures fell to the lowest level since late November 2025, erasing Monday\u2019s gains as reports of a US strike on Iran sent oil prices higher and revived inflation concerns. Gold also declined, wh",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Sebi, investment bankers discuss giving IPO-bound companies more room to revise issue sizes",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/ipo/sebi-ipo-issuers-issue-sizes-aibi-20-threshold-11793690528862.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Flexible DRHP rules could ease the compliance burden and help companies navigate volatile markets.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "BHEL share price target: Already up 50% in 1 year, should you still buy the Maharatna PSU stock? Expert views",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/bhel-share-price-target-already-up-50-in-1-year-should-you-still-buy-the-maharatna-psu-stock-expert-views-11793692830871.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "BHEL shares have surged over the past year but recently weakened. Strong Q2 results, a large order book and planned  \u20b9500 crore manufacturing investment underpin optimism. Geojit sees further upside, ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Tempsens Instruments shares surge 17%; stock rallies whopping 89% from IPO price in just over 2 months | Key triggers",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/tempsens-instruments-shares-surge-17-stock-rallies-whopping-89-from-ipo-price-in-just-over-2-months-key-triggers-11793693494023.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Tempsens Instruments shares surged 17% on Tuesday, extending gains to about 89% above their  \u20b9300 IPO price. First-half FY27 revenue rose 33.7% year-on-year, but higher employee costs and expansion in",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Small-cap stock jumps 8% after Q2 Results 2026 | Will the rally continue? Target, stop-loss",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-mold-tek-packaging-jumps-8-after-q2-results-2026-will-the-rally-continue-target-stoploss-11793692179343.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Mold-Tek Packaging opened at  \u20b9299.90 per share on NSE today, as compared to previous close of  \u20b9292.50 on Monday and touched an intraday high of  \u20b9320 on 3 November.",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Lodha Developers' return of launch momentum excites investors",
+      "source": "Mint",
+      "link": "https://www.livemint.com/market/mark-to-market/lodha-developers-share-price-q2-results-fy27-sales-launches-11793690713747.html",
+      "date": "Tue, 03 Nov 2026",
+      "desc": "Lodha is lining up launches worth  \u20b919,070 crore in H2FY27, a sharp step-up from H1, as Bengaluru and NCR expand its growth drivers. Execution and demand will be key.",
       "tags": [],
       "is_portfolio": false
     }
