@@ -1,17 +1,6 @@
 {
-  "updated_ist": "06 Nov 2026 16:08 IST",
+  "updated_ist": "06 Nov 2026 23:11 IST",
   "news": [
-    {
-      "title": "India\u2019s new wealth rituals: What are millennials and Gen Z buying on Dhanteras?",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-new-wealth-rituals-what-are-millennials-and-gen-z-buying-on-dhanteras/articleshow/135596463.cms",
-      "date": "Fri, 06 Nov 2026",
-      "desc": "Dhanteras investing is evolving from physical gold purchases toward diversified digital portfolios. Younger investors are embracing gold ETFs, mutual funds, Bitcoin and tokenised assets while retainin",
-      "tags": [
-        "ITC"
-      ],
-      "is_portfolio": true
-    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -24,65 +13,74 @@
       "is_portfolio": true
     },
     {
-      "title": "Diwali 2026: Is Samvat 2083 the start of Dalal Street\u2019s next big rally?",
+      "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/diwali-2026-is-samvat-2083-the-start-of-dalal-streets-next-big-rally/videoshow/135603351.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
+      "date": "Fri, 06 Nov 2026",
+      "desc": "US stocks rebound as chipmakers recover from Thursday's steep AI-led selloff, lifting the Nasdaq 1.73%. Nvidia, AMD, Intel and Micron lead the recovery, while stronger-than-expected October jobs data ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Stock Market Live Updates: US stocks rebound as chip stocks recover, Nasdaq gains over 1%",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
       "date": "Fri, 06 Nov 2026",
       "desc": " ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
+      "title": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": " Anthropic's proposed $100 billion IPO faces uncertainty as investors question its $1.5 trillion valuation amid a global AI sell-off, rising infrastructure costs and concerns over profitability. ",
+      "desc": "This week, Indian government bonds saw a remarkable performance, outpacing other Asian markets as benchmark yields dropped significantly. Following the Democratic win in the US midterms, crude prices ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore",
+      "title": "British Airways parent profit drops on higher fuel costs",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": "BMW Industries Ltd has reported an impressive 42.7 percent increase in net profit for the quarter ending on September 30. The firm's total income surged by 33 percent compared to the same quarter last",
+      "desc": "IAG, the owner of British Airways and Iberia, said Friday that its net profit dropped more than 12 percent in the third quarter on soaring fuel costs and flight disruptions caused by the Middle East c",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "HCC Q2 profit slumps 53% to Rs 22 crore",
+      "title": "Trump Media's investors lost $2.2 billion while Trump holds $460 million stake",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-medias-investors-lost-2-2-billion-while-trump-holds-460-million-stake/articleshow/135605723.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Hindustan Construction Company reported a decline in consolidated net profit for the September quarter of FY27. Income and expenses also saw a reduction in comparison to the previous year's figures. T",
+      "desc": "Ske Jarzenske and other Trump Media investors are facing severe losses as the company's stock value has plummeted. Many investors had high hopes for the social media platform, believing in its potenti",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee falls 9 paise to 94.50 against US dollar in early trade",
+      "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-9-paise-to-94-50-against-us-dollar-in-early-trade/articleshow/135597848.cms",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": "In early trading on Friday, the rupee slipped by 9 paise to reach 94.50 against the US dollar, driven by a robust dollar and surging crude oil prices. After a brief bounce-back, it peaked at 94.36. Th",
+      "desc": "Copper prices have faced yet another decline, marking four consecutive sessions of decrease, primarily due to a dip in technology shares and rising concerns over artificial intelligence investments. T",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "India bonds emerge as top Asian performers as oil, Treasury yields decline",
+      "title": "Siemens Q2 Results: Profit grows 5% to Rs 504 crore",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-emerge-as-top-asian-performers-as-oil-treasury-yields-decline/articleshow/135597789.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q2-results-profit-grows-5-to-rs-504-crore/articleshow/135605589.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": "This week, Indian government bonds saw a positive trend following a Democratic win in the U.S. midterm elections. The reduction in oil prices and Treasury yields eased rupee pressure, boosting investo",
+      "desc": "Siemens Limited announced a consolidated net profit of Rs 504 crore for the quarter ending September 30, 2026. This represents a 4.78% increase compared to the previous year's profit of Rs 481 crore. ",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Beyond gold: What $340 billion in crypto flows says about India's investment preferences this Dhanteras",
+      "title": "Indian rupee strengthens past 94/$ as oil slides, foreign inflows return",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/beyond-gold-what-340-billion-in-crypto-flows-says-about-indias-investment-preferences-this-dhanteras/articleshow/135596165.cms",
+      "link": "https://economictimes.indiatimes.com/markets/forex/indian-rupee-strengthens-past-94/-as-oil-slides-foreign-inflows-return/articleshow/135604040.cms",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Gold remains central to Indian household savings, but high prices are pushing investors toward ETFs and digital gold instead of physical holdings. Crypto is emerging as a separate portfolio option rat",
+      "desc": "The Indian rupee strengthened past 94 per dollar after regaining appeal among emerging-market currencies recently. Significant foreign inflows into Indian equities and a sharp fall in oil prices are k",
       "tags": [],
       "is_portfolio": false
     },
@@ -114,146 +112,146 @@
       "is_portfolio": false
     },
     {
-      "title": "Pharma stocks rally: Aurobindo, Divi's, Glenmark, Symbiotec hit new highs",
+      "title": "This Samvat, can large companies learn to think like entrepreneurs?",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/pharma-stocks-rally-aurobindo-divi-s-glenmark-symbiotec-sai-life-hit-new-highs-126110601011_1.html",
+      "link": "https://www.business-standard.com/companies/news/this-samvat-can-large-companies-learn-to-think-like-entrepreneurs-126110601936_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Pharma stocks on a roll: Symbiotec Pharmalab, Windlas Biotech, Sai Life Sciences, Alembic Pharmaceuticals and Fermation Biotech were up in the range of 9-20% on Friday.",
+      "desc": "As the new Samvat begins, large companies must embrace entrepreneurial thinking, foster innovation and build the agility to respond to uncertainty rather than rely solely on budgets and forecasts",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bosch slips 4% from day's high; announces 1:5 stock split, 3:1 bonus issue",
+      "title": "Sebi warns Dabur India over delay in disclosing USFDA warning letter",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bosch-slips-4-from-day-s-high-announces-1-5-stock-split-3-1-bonus-issue-126110601033_1.html",
+      "link": "https://www.business-standard.com/markets/news/sebi-warns-dabur-india-over-delay-in-disclosing-usfda-warning-letter-126110601897_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Bosch's Q2FY27 standalone net profit rose 21.7% YoY, while revenue from operations grew by 28.5%. Company announced 1:5 stock split and a liberal 3:1 bonus share issue on Friday.",
+      "desc": "The market regulator has cautioned Dabur India over delayed disclosure of a USFDA warning letter, saying repeated violations could attract enforcement action under Sebi rules.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "TTK Prestige share price climbs 14% after Q2 profit rise 65% to \u20b9104 crore",
+      "title": "Record FII selling of \u20b94.55 trillion meets record DII buying in Samvat 2082",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/ttk-prestige-share-price-climbs-14-after-q2-profit-rise-65-to-104-crore-126110601020_1.html",
+      "link": "https://www.business-standard.com/markets/news/record-fii-selling-of-4-55-trillion-meets-record-dii-buying-in-samvat-2082-126110601834_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "For the second quarter (Q2FY27), TTK Prestige has reported 65.2 per cent Y-o-Y increase in net profit to \u20b9104.4 crore.",
+      "desc": "FIIs sold a record \u20b94.55 trillion worth of Indian equities in Samvat 2082, while DIIs bought \u20b98.55 trillion, cushioning the market against global turmoil and foreign selling",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Q2 results, order win drive Symbiotec Pharma 20% higher to new high",
+      "title": "Pressure on rupee continues in Samvat 2082; 10-year bond yields harden",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/q2-results-order-win-drive-symbiotec-pharma-share-price-up-20-higher-to-new-high-126110600995_1.html",
+      "link": "https://www.business-standard.com/markets/news/pressure-on-rupee-continues-in-samvat-2082-10-year-bond-yields-harden-126110601774_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Symbiotec Pharmalab's stock got listed on September 1 this year and has rallied 54 per cent from the IPO price of \u20b9988 apiece.",
+      "desc": "The rupee depreciated 6.37 per cent against the dollar in Samvat 2082 amid FPI outflows and global uncertainty, while the benchmark 10-year bond yield rose 69 basis points",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "'Anti-AI' trade puts Indian stocks ahead of Asian peers amid global selloff",
+      "title": "Angel One overtakes Zerodha to become 2nd-largest broker by active clients",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/anti-ai-trade-puts-indian-stocks-ahead-of-asian-peers-amid-global-selloff-126110600874_1.html",
+      "link": "https://www.business-standard.com/companies/news/angel-one-overtakes-zerodha-to-become-2nd-largest-broker-by-active-clients-126110601754_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Indian equities are headed for their biggest weekly gain in over five years, as a global selloff in AI stocks, falling crude oil prices and improving earnings prospects boost the market's appeal",
+      "desc": "Angel One's active NSE client base rose to 6.99 million in October, surpassing Zerodha's 6.76 million, while Groww retained the top position with 13.75 million clients",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "BSE Capital Goods index slips 4%; Thermax, Apar, Astral tank up to 20%",
+      "title": "Bombay HC plea seeks RBI direction for Tata Sons' stock market listing",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bse-capital-goods-index-slips-4-thermax-apar-astral-tank-up-to-20-126110600832_1.html",
+      "link": "https://www.business-standard.com/companies/news/bombay-hc-plea-seeks-rbi-direction-for-tata-sons-stock-market-listing-126110601724_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "At 12:24 PM on Friday, the BSE Capital Goods index was the top loser among sectoral indices down 3.3 per cent, while the BSE Sensex gained 0.84 per cent.",
+      "desc": "Petitioners argue that Tata Sons must comply with RBI listing norms and have also sought Noel Tata's removal from key positions, citing public interest and governance concerns",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dhanteras gold, silver investments grow nearly 4X since 2005: Kotak Neo",
+      "title": "Sagar Defence, Encube Ethicals among 4 firms to secure Sebi's nod for IPOs",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/dhanteras-gold-silver-investments-grow-nearly-4x-since-2005-kotak-neo-126110600794_1.html",
+      "link": "https://www.business-standard.com/markets/ipo/sagar-defence-encube-ethicals-among-4-firms-to-secure-sebi-s-nod-for-ipos-126110601677_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Over these 21 years, gold and silver have been through several market cycles, but a small and consistent annual purchase would still have accumulated meaningful value.",
+      "desc": "Sagar Defence Engineering, Encube Ethicals, Arjun Jewellers and IFL Finance have received Sebi's approval to launch IPOs, with proposed issues including fresh shares and offers for sale.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Rupee hits over 6-month high of 94.06 as US dollar softens post midterms",
+      "title": "Ecom, qcom companies see consumer spending surge ahead of Diwali",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/rupee-hits-over-6-month-high-of-94-06-as-us-dollar-softens-post-midterms-126110600788_1.html",
+      "link": "https://www.business-standard.com/markets/news/ecom-qcom-companies-gear-up-for-diwali-rush-with-expanded-offerings-126110601644_1.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "The domestic currency opened at 94.50 against the dollar, depreciating 9 paise from its previous close of 94.41 but later recovered to touch 94.06, as per Bloomberg data.",
+      "desc": "E-commerce order volumes rose 21% YoY during the festive period, with quick commerce leading at 75% growth as platforms expanded offerings across gifting, fashion and decor",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Why did Yes Bank shares rally 6%, extend winning streak to 3rd day and snap a 7-week losing run \u2014 what led to rebound?",
+      "title": "Gold, silver turn volatile after strong US jobs data, but remain on track to snap multi-week losing streaks",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/why-did-yes-bank-shares-rally-6-extend-winning-streak-to-3rd-day-and-snap-a-7-week-losing-run-what-led-to-rebound-11793959853879.html",
+      "link": "https://www.livemint.com/market/stock-market-news/gold-silver-turn-volatile-after-strong-us-jobs-data-but-remain-on-track-to-snap-multi-week-losing-streaks-11793985166600.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Yes Bank shares rose 6% on Friday, extending gains to three sessions and lifting weekly returns to 14% amid unusually high trading volumes. The rally followed a sharp October decline triggered by the ",
+      "desc": "Gold and silver prices fell on Friday as stronger-than-expected US jobs data lifted expectations of a Federal Reserve rate hike in December. Gold was down  \u20b91,700 to  \u20b91,42,930 per 10 grams, while sil",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Penny stock under  \u20b910 hits 5% upper circuit on Dhanteras 2026 date; finds no seller for third straight session",
+      "title": "Dhanteras special: Gold beats stocks or Nifty takes the lead? Gold vs Nifty 50 returns in Samvat 2082 compared",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-hits-5-upper-circuit-on-dhanteras-2026-date-finds-no-seller-for-third-straight-session-11793957644761.html",
+      "link": "https://www.livemint.com/market/stock-market-news/dhanteras-diwali-gold-beats-stocks-or-nifty-takes-the-lead-gold-vs-nifty-50-returns-in-samvat-2082-compared-11793983947279.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Penny stock under  \u20b910 opened upside today at  \u20b910.16 per share on the BSE and locked in upper circuit within few seconds of the Opening Bell on Dhanteras 2026",
+      "desc": "Indian equities endured volatility in Samvat 2082 amid geopolitical tensions, oil-price swings and inflation concerns. A late rally lifted the Nifty 50 more than 10% in seven sessions, but the index i",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "13% single-day gain! This Tata Group stock skyrockets on Dhanteras - Do you own? Check annual return, technical targets",
+      "title": "Nvidia shares rebound over 7% after biggest single-day crash in nearly 2 years; what led to the sentiment reversal?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/13-single-day-gain-this-tata-group-stock-skyrockets-on-dhanteras-do-you-own-check-annual-return-technical-targets-11793958763606.html",
+      "link": "https://www.livemint.com/market/stock-market-news/nvidia-shares-rebound-over-7-after-biggest-single-day-crash-in-nearly-2-years-what-led-to-the-sentiment-reversal-11793980720704.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Tata Teleservices (Maharashtra) shares rose nearly 13% on Friday amid positive market sentiment and trading volumes more than 2.79 times higher. The stock traded at  \u20b939.89, while analysts identified ",
+      "desc": "Nvidia shares rebounded 7.3% Friday after plunging 9.3% in the previous session, as investors weighed political risks to data centre expansion. The stock remains 25% below its peak amid concerns about",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund \u2014 60% returns within 3 years of launch! Should you buy?",
+      "title": "Hunting for next defence stock winners? Raymond, PTC, Axiscades, Rossell - Experts decode opportunity, share targets",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/gold-etf-dhanteras-2026-tata-gold-exchange-traded-fund-60-returns-within-3-years-of-launch-should-you-buy-11793952833169.html",
+      "link": "https://www.livemint.com/market/stock-market-news/hunting-for-next-defence-stock-winners-raymond-ptc-axiscades-rossell-experts-decode-opportunity-share-targets-11793971143436.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Gold ETF Dhanteras 2026: Tata Gold Exchange Traded Fund has delivered a 17.50% return in one year to a lump-sum investor",
+      "desc": "Private-sector firms are expanding India\u2019s indigenous aerospace and defence capabilities. Raymond, PTC Industries, Rossell Techsys and Axiscades have varied growth prospects, but analysts flag executi",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Diwali 2026 Muhurat Trading Investment Ideas: Kotak Neo's 7 stocks to buy for Samvat 2083- HAL, Titan, Eternal, and more",
+      "title": "Muhurat Trading 2026: Equirus Prive's 16 Diwali picks include HDFC Bank, M&amp;M, ESFB Voltas; upside seen up to 54%",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-investment-ideas-kotak-neos-7-stocks-to-buy-for-samvat-2083-hal-titan-eternal-and-more-11793953552663.html",
+      "link": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-equirus-prives-16-diwali-picks-include-hdfc-bank-m-m-esfb-voltas-upside-seen-up-to-54-11793974438126.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Kotak Neo\u2019s Diwali report names seven stocks for Samvat 2083, citing improving earnings prospects and more reasonable valuations after a market correction. The picks span chemicals, banking, consumer ",
+      "desc": "Equirus Prive has unveiled Diwali Picks 2026, a portfolio of 16 stocks across financial services, automobiles, manufacturing, infrastructure, energy and consumption.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Dhanteras 2026 gold, silver rates today: How much do precious metals cost today? Check MCX price, outlook",
+      "title": "Pulse of the Street: Dalal Street shines before Diwali. Can the rally last?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/dhanteras-2026-gold-silver-rates-today-how-much-do-precious-metals-cost-today-check-mcx-price-outlook-11793955217848.html",
+      "link": "https://www.livemint.com/market/pulse-of-the-street-dalal-street-shines-before-diwali-can-the-rally-last-11793965614339.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Gold and silver futures fell on Dhanteras, with December gold down 1.18% to  \u20b91,42,401 per 10 grams and silver down 1.24% to  \u20b91,84,815 per kilogram on Friday.&amp;nbsp;",
+      "desc": "Indian stocks outperformed major global peers as cheaper oil and foreign buying lifted sentiment. Sustained inflows and earnings upgrades will determine whether the gains last.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Titan shines 3% on Dhanteras 2026 after 2x profit; Noel Tata's exit news from board adds to spotlight - Outlook, target",
+      "title": "Diwali stock picks: 4 large cap stocks to buy for Samvat 2083 - PL Capital bullish on BEL, Britannia to ICICI | Target",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/titan-shines-3-on-dhanteras-2026-after-2x-profit-noel-tatas-exit-news-from-board-adds-to-spotlight-outlook-target-11793949103558.html",
+      "link": "https://www.livemint.com/market/stock-market-news/diwali-stock-picks-4-large-cap-stocks-to-buy-for-samvat-2083-pl-capital-bullish-on-bel-britannia-to-icici-target-11793974105149.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "Titan shares rose over 3% after the company reported a more than twofold increase in Q2 FY27 net profit to  \u20b92,393 crore, supported by demand for studded jewellery. Revenue grew 23.54% to  \u20b920,337 cro",
+      "desc": "PL Capital named Bharat Electronics, Britannia Industries, ICICI Bank and Shriram Finance among its top large-cap picks for Samvat 2083.&amp;nbsp;",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Diwali Muhurat Trading 2026, Samvat 2083: Date, timings, history, settlement rules, more - Top 10 things for investors",
+      "title": "Upcoming IPO: Coal India\u2019s Mahanadi Coalfields gets Sebi nod for public issue; top things to know about PSU public offer",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/diwali-muhurat-trading-2026-samvat-2083-date-timings-history-settlement-rules-more-top-10-things-for-investors-11793949250215.html",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-s-mahanadi-coalfields-gets-sebi-nod-for-public-issue-top-things-to-know-about-psu-public-offer-11793970259119.html",
       "date": "Fri, 06 Nov 2026",
-      "desc": "India\u2019s exchanges will hold Diwali Muhurat Trading on Sunday, November 8, marking the start of Samvat 2083. The main equity session runs from 2:20 pm to 3:30 pm, with separate windows for pre-open ord",
+      "desc": "Mahanadi Coalfields filed its draft red herring prospectus (DRHP) with the Sebi in September. The proposed IPO will be entirely an offer for sale (OFS) by promoter",
       "tags": [],
       "is_portfolio": false
     }
