@@ -1,6 +1,17 @@
 {
-  "updated_ist": "24 Nov 2026 18:58 IST",
+  "updated_ist": "25 Nov 2026 17:55 IST",
   "news": [
+    {
+      "title": "Why are investors betting on Abercrombie's growth story?",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-are-investors-betting-on-abercrombies-growth-story/slideshow/136151161.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Abercrombie &amp; Fitch shares surged 22% after record third-quarter sales and earnings beat estimates. The retailer also raised its full-year outlook, boosting optimism ahead of the holiday season.  ",
+      "tags": [
+        "ITC"
+      ],
+      "is_portfolio": true
+    },
     {
       "title": "Taking Stock: Market fails to hold on to day#39;s gains, ends marginally higher",
       "source": "Moneycontrol",
@@ -13,85 +24,76 @@
       "is_portfolio": true
     },
     {
-      "title": "830% jump in five years! RMC Switchgears receives  \u20b9522 crore LoI, 3 times its market cap; will shares rebound?",
+      "title": "This small-cap multibagger stock hits 20% upper circuit after prolonged losing run; what's driving the sudden recovery?",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/830-jump-in-five-years-rmc-switchgears-receives-rs-522-crore-loi-3-times-its-market-cap-will-shares-rebound-11795524825577.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "RMC Switchgears received a Letter of Intent for an estimated  \u20b9522 crore turnkey distribution-infrastructure project in Maharashtra\u2014nearly three times its  \u20b9173 crore market capitalisation.",
+      "link": "https://www.livemint.com/market/stock-market-news/this-small-cap-multibagger-stock-hits-20-upper-circuit-after-prolonged-losing-run-whats-driving-the-sudden-recovery-11795603484331.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "RMC Switchgears shares rose 20% to  \u20b9196 after the company received a Letter of Intent for a Maharashtra distribution-infrastructure project valued at about  \u20b9522 crore.",
       "tags": [
         "ITC"
       ],
       "is_portfolio": true
     },
     {
-      "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
+      "title": "Fed policymakers at odds over causes of high inflation",
       "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
-      "date": "Tue, 24 Nov 2026",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "US inflation is expected to increase again in October, with potential implications for Federal Reserve interest rate decisions. Economists predict the Personal Consumption Expenditures Price Index to ",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Shapoor Mistry lobbied Modi twice for Tata Sons IPO as battle over listing intensifies",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/shapoor-mistry-lobbied-modi-twice-for-tata-sons-ipo-as-battle-over-listing-intensifies/articleshow/136160206.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Shapoor Mistry, the head of the Shapoorji Pallonji Group, has reached out to Prime Minister Modi regarding the listing troubles faced by Tata Sons. He claims that Tata Trusts are obstructing the publi",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "PhonePe resumes IPO process; targets February-March listing at $12-15 billion valuation",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/phonepe-resumes-ipo-process-targets-listing-in-feb-mar-at-usd-12-15-bn-valuation/articleshow/136160163.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "PhonePe has resumed its initial public offering plans after deferring them due to market uncertainties. The company aims for a stock market listing valued between USD 12-15 billion in early 2024. It e",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Rupee scales 8-month high after holiday as foreign flows to Indian equities persist",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist/articleshow/136158513.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The Indian rupee has shown significant strength against the US dollar, propelled by robust foreign portfolio investments. Surging to an eight-month high on Thursday, it closed at 92.23 per dollar. Ana",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "India bonds inch higher as oil steadies ahead of RBI verdict",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-inch-higher-as-oil-steadies-ahead-of-rbi-verdict/articleshow/136149265.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Indian government bonds have experienced a modest rise, driven by declining oil prices and consistent US Treasury yields. With the Reserve Bank of India's policy decision approaching, traders are trea",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "HPE shares crash 17%, stock suffers its worst-ever single-day fall. Here's why",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hpe-shares-crash-17-stock-suffers-its-worst-ever-single-day-fall-heres-why/slideshow/136148964.cms",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Hewlett Packard Enterprise shares plunged 17.1%, their steepest single-day fall since 2015, despite record quarterly revenue and stronger FY2027 guidance. Concerns over shrinking margins, rising compo",
+      "tags": [],
+      "is_portfolio": false
+    },
+    {
+      "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki Bonus Updates",
+      "source": "Economic Times",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-updates-25-nov-2026/liveblog/136148282.cms",
+      "date": "Wed, 25 Nov 2026",
       "desc": " ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "The demand for long-term government securities has seen a marginal decline recently. Insurance companies and pension funds are increasingly focusing on equities instead of sovereign debt. This change ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "A 50 bps jumbo rate hike can lead to financial stability concerns, hurt growth: Report",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/a-50-bps-jumbo-rate-hike-can-lead-to-financial-stability-concerns-hurt-growth-report/articleshow/136130764.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "SBI economists have lowered their rate hike expectations for the upcoming RBI policy review. They now anticipate a 0.25 per cent increase rather than the previously expected 0.50 per cent. This adjust",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "AI boom looms over Warsh's Fed as inflation worries grow",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Chairman Kevin Warsh of the Federal Reserve underscores the transformative impact of artificial intelligence on the economic landscape. While he conveys measured optimism about AI's benefits, he also ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Dario Amodei, CEO of Anthropic, sold shares worth USD 280.41 million after the company's IPO. He reported holding 202.8 million shares and additional shares through trusts. Anthropic's initial public ",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "RBI DG asks primary dealers to bid responsibly in G-Sec underwriting auctions",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-dg-asks-primary-dealers-to-bid-responsibly-in-g-sec-underwriting-auctions/articleshow/136125661.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "RBI Deputy Governor Rohit Jain has urged primary dealers to bid responsibly in government securities auctions. Jain noted instances of volatile pricing that misalign with orderly market conditions, im",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "IIFCL IPO: Govt plans to sell part of its stake, company to issue fresh shares",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/iifcl-ipo-govt-plans-to-sell-part-of-its-stake-company-to-issue-fresh-shares/articleshow/136124476.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "The government aims to partially divest its shareholding in India Infrastructure Finance Company Ltd through an initial public offering. The IPO is expected to occur by the end of the current fiscal y",
-      "tags": [],
-      "is_portfolio": false
-    },
-    {
-      "title": "Investors mint Rs 34.61 lakh cr in November as markets rally nearly 11%",
-      "source": "Economic Times",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "In a remarkable surge this month, Indian equity markets have observed a substantial upswing, with the BSE Sensex climbing nearly 11 percent. This rally was largely propelled by foreign institutional i",
       "tags": [],
       "is_portfolio": false
     },
@@ -123,137 +125,137 @@
       "is_portfolio": false
     },
     {
-      "title": "Investors become richer by \u20b934.61 trillion as Sensex surges in November",
+      "title": "Sebi to ease KYC norms, centralise client details at registration agencies",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/investors-become-richer-by-34-61-trillion-as-sensex-surges-in-november-126112400402_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Equity markets have rallied sharply this month, with the BSE Sensex climbing nearly 11 per cent, making equity investors richer by Rs 34.61 lakh crore amid strong foreign fund inflows, lower crude oil",
+      "link": "https://www.business-standard.com/markets/news/sebi-to-ease-kyc-norms-centralise-client-details-at-registration-agencies-126112500950_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The revised norms, effective December 24, will simplify client onboarding by eliminating repeated submission of supplementary KYC details and enabling portability of records",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Oil prices extend losses, hover near three-month lows on supply concerns",
+      "title": "Individual investor count hits two-year high, but trading share declines",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/commodities/oil-prices-extend-losses-hover-near-three-month-lows-on-supply-concerns-126112400254_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Brent fell 0.7 per cent to $88.71 a barrel, while WTI slipped 0.8 per cent to $79.57, as traders weighed rising supply against persistent shipping risks in the Strait of Hormuz",
+      "link": "https://www.business-standard.com/markets/news/individual-investor-count-hits-two-year-high-but-trading-share-declines-126112500745_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The number of individual investors trading in the cash segment rose to nearly 14.3 million in October, while their share in cash market turnover fell to a seven-month low",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "TAKE shares rally 24% in three weeks as company returns to profitability",
+      "title": "PhonePe prepares to restart IPO process amid improving market conditions",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/take-shares-rally-24-in-three-weeks-as-company-returns-to-profitability-126112300872_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Shares of TAKE Ltd have surged nearly 24 per cent in three weeks, hitting the 5 per cent upper circuit for the second consecutive trading session, as investors responded to the company's return to pro",
+      "link": "https://www.business-standard.com/markets/ipo/phonepe-prepares-to-restart-ipo-process-amid-improving-market-conditions-126112500725_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The Walmart-owned fintech firm is expected to seek a listing valuation of \u20b91.2 trillion to \u20b91.5 trillion, with the timing of the IPO dependent on prevailing market conditions",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
+      "title": "Nifty FMCG index soars 3%; Dabur, Godrej Consumer, HUL rally up to 8%",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Nvidia's rally lifted the Nasdaq 100 by 6.5% and the S&P 500 by 4.7%, while shorter-dated Treasury yields and the dollar climbed on bets of a more hawkish Fed",
+      "link": "https://www.business-standard.com/markets/news/nifty-fmcg-index-soars-3-dabur-godrej-consumer-hul-rally-up-to-8-126112500621_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The Nifty FMCG index was the top gainer among sectoral indices up 3.18%, compared to a 1.66% rise in the Nifty 50 on Wednesday.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti",
+      "title": "NSE jumps 5% to new high on ICICI Sec's 'buy' call; target signals 20% rise",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-closed-for-trading-on-gurpurab-2026-126112300598_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Stock market holiday today: The markets are closed for trading on account of Guru Nanak Jayanti, also called Prakash Gurpurab, the birth anniversary of the first Sikh Guru.",
+      "link": "https://www.business-standard.com/markets/news/nse-jumps-5-to-new-high-on-icici-sec-s-buy-call-target-signals-20-rise-126112500598_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "ICICI Securities said that India's capital market is a multi-decade growth story, and NSE could be one of its biggest beneficiaries. The brokerage has set the NSE share price target at \u20b92,650.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Asian shares rally as Huang returns to Nvidia, sparking Wall Street rebound",
+      "title": "PL Capital ups Nifty target to 28,561 on earnings growth, valuation comfort",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/asian-shares-rally-as-huang-returns-to-nvidia-sparking-wall-street-rebound-126112400069_1.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Asian markets rebounded sharply after Nvidia shares surged 31.5% on Wall Street, restoring nearly $1 trillion in market value and lifting technology stocks amid easing fears over the AI trade",
+      "link": "https://www.business-standard.com/markets/news/pl-capital-ups-nifty-target-to-28-561-on-earnings-growth-valuation-comfort-126112500531_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Amnish Aggarwal, Co-Head - Institutional Equities, PL Capital, said that while near-term volatility cannot be ruled out, we remain cautiously optimistic over the next 12-15 months.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bank-based brokers lead India's margin trading facility market, shows data",
+      "title": "Haldyn Glass share price zooms 10% on acquiring Heinz Glas's stake in JV",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/for-tariff-classification-section-and-chapter-titles-have-no-legal-force-126112301426_1.html",
-      "date": "Mon, 23 Nov 2026",
-      "desc": "The growing traction in MTF comes as investors increasingly use leverage to build cash equity positions, with brokers funding a part of the purchase value in return for interest income",
+      "link": "https://www.business-standard.com/markets/news/haldyn-glass-share-price-zooms-10-on-acquiring-heinz-glas-s-stake-in-jv-126112500483_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Haldyn Glass in an exchange filing on Wednesday said it completed the acquisition of Heinz Glas's entire 43.2 per cent stake in its joint venture Haldyn Heinz Fine Glass.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Bernstein upgrades Nvidia stock to outperform as Jensen Huang returns",
+      "title": "Gold's retreat deepens as US Fed fears push prices back towards $3,500",
       "source": "Business Standard",
-      "link": "https://www.business-standard.com/markets/news/bernstein-upgrades-nvidia-stock-to-outperform-as-jensen-huang-returns-126112301402_1.html",
-      "date": "Mon, 23 Nov 2026",
-      "desc": "News of Huang's removal had wiped more than $1 trillion off Nvidia this month, with the shares plunging as much as 14 per cent in a single session.",
+      "link": "https://www.business-standard.com/markets/news/gold-s-retreat-deepens-as-us-fed-fears-push-prices-back-towards-3-500-126112500458_1.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "For gold, the challenge is not simply the next rate hike but the prospect of a prolonged higher-for-longer policy regime.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Explained: Why Gold prices gained and extended a rebound from a 14-month low - 3 reasons",
+      "title": "Global convulsions, courtesy AI stocks, creates a $385 billion winner \u2014 India",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/explained-why-gold-prices-gained-and-extended-a-rebound-from-a-14-month-low-3-reasons-11795514651749.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Gold recovered after last week\u2019s sharp selloff, trading near $3,630 an ounce on Tuesday. Augmont\u2019s Renisha Chainani sees potential gains toward $3,700\u2013$3,750 if $3,500 support holds. US inflation data",
+      "link": "https://www.livemint.com/market/stock-market-news/india-stock-market-sensex-nifty-today-ai-stocks-11795607301635.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "The MSCI India index has added nearly $385 billion in value so far in November, as a market long shunned for its lack of AI plays emerges as a bright spot for global investors.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Should you buy IDBI shares? Is it a good banking stock to bet on amid Fairfax stake sale deal \u2014 what market experts say",
+      "title": "Gold price prediction: Despite 27% decline from January peak, UBS still retains  \u20b91.50 lakh/10 gram target for 2027",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/should-you-buy-idbi-shares-is-it-a-good-banking-stock-to-bet-on-amid-fairfax-stake-sale-deal-what-market-experts-say-11795518804386.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "IDBI share price today is  \u20b978.48 per share, slightly below the approved acquisition price of  \u20b981 per share to Canada's Fairfax Financial Holdings",
+      "link": "https://www.livemint.com/market/commodities/gold-price-prediction-despite-27-decline-from-january-peak-ubs-still-retains-rs-1-50-lakh-10-gram-target-for-2027-11795601553956.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "UBS has maintained its Attractive rating and forecast that gold will reach $5,000 per ounce by December 2027, despite a sharp recent decline. The bank cites central-bank buying, rising sovereign debt,",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Nvidia's 37% rally wipes out gains for bearish investors; leveraged short ETFs plunge up to 92%",
+      "title": "Multibagger defence stock dips 12% from record high \u2014 is this a stock to buy? Experts decode with 36% upside target",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/nvidias-37-rally-wipes-out-gains-for-bearish-investors-leveraged-short-etfs-plunge-up-to-92-11795515861134.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "GraniteShares' 2x Short Nvidia ETF crashes 63% as chipmaker's sharp rebound triggers massive losses for traders betting against the stock",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-defence-stock-dips-12-from-record-high-is-this-a-stock-to-buy-experts-decode-with-36-upside-target-11795601425876.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Multibagger stock to buy: The defence stock finished at  \u20b9418.30 per share on the NSE, around  \u20b970 or 12% away from the record high of  \u20b9478",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "How will the AI boom impact gold prices? 4 key factors investors should watch, explains World Gold Council strategist",
+      "title": "NSE shares hit record high after ICICI Securities initiates coverage with Buy; check target price and key triggers",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/how-will-the-ai-boom-impact-gold-prices-4-key-factors-investors-should-watch-explains-world-gold-council-strategist-11795519705028.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "AI\u2019s direct use of gold in chips and data centres is small, but its broader effects could significantly influence prices. Energy demand and geopolitical uncertainty may support gold, while productivit",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-shares-hit-record-high-after-icici-securities-initiates-coverage-with-buy-check-target-price-and-key-triggers-11795600817257.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "NSE shares rose 5% to a record  \u20b92,324 after ICICI Securities initiated coverage with a Buy rating and a  \u20b92,650 target. The brokerage cited market leadership, rising retail participation and new grow",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Poonawalla Fincorp share price: After 25% jump in 1 month, JM Financial sees 21% further upside, raises target",
+      "title": "RVNL vs IRFC vs RailTel vs IRCON: Which railway PSU stock to buy amid stock market ups and downs? Target from experts",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/poonawalla-fincorp-share-price-after-25-jump-in-1-month-jm-financial-sees-21-further-upside-raises-target-11795515723611.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "JM Financial reiterated its Buy rating on Poonawalla Fincorp and raised its 12-month price target to  \u20b9625 from  \u20b9550, citing growth in secured lending, improving margins and lower expected credit cos",
+      "link": "https://www.livemint.com/market/stock-market-news/rvnl-vs-irfc-vs-railtel-vs-ircon-which-railway-psu-stock-to-buy-amid-stock-market-ups-and-downs-target-from-experts-11795596081403.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "RVNL vs IRFC vs RailTel vs IRCON: IRFC and IRCON International shares trade at the lowest valuations, while RVNL shares carry the highest premium, say experts",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "31.5% surge in Nvidia share adds $34 billion to Jensen Huang's wealth in a day; what's his net worth now?",
+      "title": "Why 360 One could see steeper upgrades in estimates if markets stay buoyant",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/stock-market-news/315-surge-in-nvidia-share-adds-34-billion-to-jensen-huangs-wealth-in-a-day-whats-his-net-worth-now-11795516605100.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Nvidia\u2019s board reinstated co-founder Jensen Huang as CEO, president and board member, triggering a 31.5% share-price surge and adding $33.7 billion to his fortune. The rally lifted other AI-related st",
+      "link": "https://www.livemint.com/market/mark-to-market/why-360-one-could-see-steeper-upgrades-in-estimates-if-markets-stay-buoyant-11795597956942.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "There could be earnings upside for India\u2019s largest wealth manager, 360 One WAM, from multiple avenues, especially from wealth management.",
       "tags": [],
       "is_portfolio": false
     },
     {
-      "title": "Silver price crash: Rates today in India down  \u20b91 lakh in 3 months! Recovery or more fall ahead for MCX silver futures?",
+      "title": "Multibagger Alert! Up 102% in 1 year, more rally seen in this small-cap power stock - here's why | Check target, upside",
       "source": "Mint",
-      "link": "https://www.livemint.com/market/commodities/silver-price-crash-rates-today-in-india-down-rs-1-lakh-in-3-months-recovery-or-more-fall-ahead-for-mcx-silver-futures-11795511561513.html",
-      "date": "Tue, 24 Nov 2026",
-      "desc": "Silver price today in India: The MCX silver rate finished at  \u20b91,54,205, up  \u20b96,392 against its previous close of  \u20b91,47,813/kg",
+      "link": "https://www.livemint.com/market/stock-market-news/multibagger-alert-up-102-in-1-year-more-rally-seen-in-this-small-cap-power-stock-heres-why-check-target-upside-11795594809008.html",
+      "date": "Wed, 25 Nov 2026",
+      "desc": "Dolat Capital initiated coverage on Quality Power Electrical Equipments with a Buy rating and a  \u20b92,000 target price, implying about 36% upside. It cites India\u2019s transmission investment cycle, the com",
       "tags": [],
       "is_portfolio": false
     }
